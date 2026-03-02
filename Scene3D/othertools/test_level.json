@@ -1,0 +1,77 @@
+{
+  "logic_gamestart": {
+    "GUID": 123456,
+    "ParentGUID": -1,
+    "GameModeMask": 1,
+    "Name": "GameStart_FX",
+    "WorldTransform": [1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1],
+    "CreateOnLoad": true,
+    "IsNetworkable": false,
+    "IsAlwaysInScope": false,
+    "EnableEvents": true,
+    "Outputs": [],
+    "InitialChildObjects": [789012]
+  },
+  "spawn_point": {
+    "GUID": 789012,
+    "ParentGUID": 123456,
+    "GameModeMask": 1,
+    "Name": "SPG_Spawn_Start_tm1",
+    "WorldTransform": [1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1, 0, 100, 0, 200, 1],
+    "CreateOnLoad": true,
+    "IsNetworkable": true,
+    "IsAlwaysInScope": false,
+    "EnableEvents": false,
+    "Outputs": [],
+    "InitialChildObjects": [],
+    "Team": 1,
+    "SpawnPath": "all_play_ork_archer"
+  },
+  "Creature": {
+    "GUID": 345678,
+    "ParentGUID": -1,
+    "GameModeMask": 1,
+    "Name": "CH_NML_ORC_Archer",
+    "WorldTransform": [1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1, 0, 50, 0, 150, 1],
+    "CreateOnLoad": true,
+    "IsNetworkable": true,
+    "IsAlwaysInScope": true,
+    "EnableEvents": true,
+    "Outputs": [],
+    "InitialChildObjects": [901234],
+    "Team": 2,
+    "CharacterName": "orc_archer",
+    "WeaponName": "bow_basic"
+  },
+  "inventory_weapon": {
+    "GUID": 901234,
+    "ParentGUID": 345678,
+    "GameModeMask": 1,
+    "Name": "Bow_Basic",
+    "WorldTransform": [1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1],
+    "CreateOnLoad": true,
+    "IsNetworkable": false,
+    "IsAlwaysInScope": false,
+    "EnableEvents": false,
+    "Outputs": [],
+    "InitialChildObjects": [],
+    "WeaponType": "bow",
+    "Damage": 25
+  },
+  "CapturePoint": {
+    "GUID": 567890,
+    "ParentGUID": -1,
+    "GameModeMask": 1,
+    "Name": "CP_BlackGate_01",
+    "WorldTransform": [1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1],
+    "CreateOnLoad": true,
+    "IsNetworkable": true,
+    "IsAlwaysInScope": true,
+    "EnableEvents": true,
+    "Outputs": [],
+    "InitialChildObjects": [],
+    "CaptureRadius": 10.0,
+    "ControllingTeam": 0
+  }
+}
+
