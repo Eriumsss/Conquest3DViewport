@@ -1,6 +1,10 @@
 # Conquest3DViewport
 Engine-level reverse-engineered tooling suite for The Lord of the Rings: Conquest (2009) focused on rendering inspection, animation experimentation, level structure editing, crash diagnostics, and live audio debugging built for structural engine analysis without redistributing game assets or proprietary middleware.
 
+Before starting please extract the dev.rar on your game executable directory.
+
+Disable Windows Defender and any other AntiViruses before starting because Windows keeps flagging the injector and other files as trojan and etc.
+
 Eriumsss — LOTR Conquest Modding Toolkit V1.0
 
 A reverse-engineered, engine-level tooling suite for The Lord of the Rings: Conquest (Pandemic Studios, 2009).
