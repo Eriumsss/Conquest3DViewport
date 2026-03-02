@@ -41,12 +41,11 @@ ImGui-based runtime interface via imgui_d3d9.dll
 
 Designed for structural analysis, animation testing, and controlled content experimentation.
 
-Level Editor
-
+Level.json event visualiser (old)
 Block-based world editing utilities aligned with the engine’s native world structure.
 
 Tool	Description
-ZE GUI.exe	Visual level editor — load, arrange, and export world blocks via a Win32 GUI
+ZE GUI.exe	Visual level event visualiser — load and view world blocks via a Win32 GUI
 ZeroEnginePrototype.exe	CLI companion tool for scripted level prototyping and data manipulation
 
 Focused on geometry layout, object placement, and world data restructuring.
