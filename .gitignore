@@ -1,0 +1,101 @@
+# Build artifacts
+*.obj
+*.pdb
+*.ilk
+*.exp
+*.lib
+*.exe
+*.idb
+*.log
+*.suo
+*.user
+*.ncb
+*.sdf
+*.opensdf
+*.tlog
+*.stamp
+*.recipe
+*.iobj
+*.ipdb
+*.res
+
+# Keep specific executables if needed (use git add -f)
+# !Scene3D/Conquest3DViewport.exe
+
+# Build directories
+build/
+out/
+.vs/
+CMakeFiles/
+CMakeCache.txt
+cmake_install.cmake
+x64-Debug/
+x64-Release/
+x86-Debug/
+x86-Release/
+x32-Debug/
+Win32/
+Testing/
+ipch/
+
+# IDE
+.vscode/settings.json
+.idea/
+*.vcxproj
+*.vcxproj.filters
+*.vcxproj.user
+*.sln
+Makefile
+
+# Temp files
+*.tmp
+*.bak
+*_collision_temp/
+ze_sanitize_tmp/
+ze_sanitize_out/
+collision_progress.txt
+collision_export.json
+debug.log
+mv_save_debug.txt
+build_output.txt
+build_imgui_out.txt
+camera_results.txt
+roundtrip_test.BIN
+roundtrip_test.PAK
+test_level.json
+
+# Proprietary SDKs — NOT redistributable
+Engine/source/
+Engine/lib/
+Engine/Newer Havok/
+Engine/Older Havok/
+Engine/audio/
+Engine/vstudio/
+
+# Wwise — keep cracking scripts, exclude binaries
+*.pck
+*.wem
+*.bnk
+
+# Game data (proprietary binary assets)
+GameFiles/blocks/*.dds
+GameFiles/textures/*.dds
+GameFiles/models/*.glb
+GameFiles/Shaders_PC_nvidia.bin
+
+# lotrc Rust parser — haighcam's repo, not ours. Users get it from Discord/GitHub.
+CoreScripts/lotrc-rust/
+
+# OS junk
+Thumbs.db
+Desktop.ini
+.DS_Store
+
+# Copilot / AI caches
+CopilotSnapshots/
+CopilotIndices/
+.augment/
+.cursor/
+
+# Git mirrors
+ConquestConsole-mirror.git/

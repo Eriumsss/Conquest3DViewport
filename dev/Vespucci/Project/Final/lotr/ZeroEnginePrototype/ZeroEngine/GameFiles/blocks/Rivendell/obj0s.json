@@ -1,0 +1,10814 @@
+[
+  {
+    "unk_0": 101,
+    "key": "FX_Smoke_Seq_06"
+  },
+  {
+    "unk_0": 101,
+    "key": "FX_Smoke_Seq_06"
+  },
+  {
+    "unk_0": 0,
+    "key": "FX_RVD_BL_Belltower_01"
+  },
+  {
+    "unk_0": 101,
+    "key": "FX_Smoke_Seq_06"
+  },
+  {
+    "unk_0": 0,
+    "key": "FX_RVD_BL_Belltower_01b"
+  },
+  {
+    "unk_0": 101,
+    "key": "FX_Smoke_Seq_06"
+  },
+  {
+    "unk_0": 101,
+    "key": "FX_SmokeAtlas_04"
+  },
+  {
+    "unk_0": 101,
+    "key": "FX_lightningStrike_22"
+  },
+  {
+    "unk_0": 101,
+    "key": "FX_SmokeAtlas_01"
+  },
+  {
+    "unk_0": 102,
+    "key": "FX_SmokeAtlas_01_N"
+  },
+  {
+    "unk_0": 101,
+    "key": "FX_SmokeAtlas_02"
+  },
+  {
+    "unk_0": 102,
+    "key": "FX_SmokeAtlas_01_N"
+  },
+  {
+    "unk_0": 101,
+    "key": "fx_at_smokelooop"
+  },
+  {
+    "unk_0": 101,
+    "key": "FX_SparkSinlge_03"
+  },
+  {
+    "unk_0": 101,
+    "key": "FX_SparkHitCore_01"
+  },
+  {
+    "unk_0": 101,
+    "key": "FX_SparkHitPang_01"
+  },
+  {
+    "unk_0": 101,
+    "key": "FX_SmokeAtlas_02"
+  },
+  {
+    "unk_0": 102,
+    "key": "FX_SmokeAtlas_01_N"
+  },
+  {
+    "unk_0": 101,
+    "key": "FX_lightrays_dblEnded"
+  },
+  {
+    "unk_0": 102,
+    "key": "FX_Fire_HeatPattern_03_N"
+  },
+  {
+    "unk_0": 101,
+    "key": "FX_HitFlash"
+  },
+  {
+    "unk_0": 101,
+    "key": "FX_FlameLicks_desat"
+  },
+  {
+    "unk_0": 101,
+    "key": "FX_SmokeAtlas_03"
+  },
+  {
+    "unk_0": 101,
+    "key": "fx_at_smokelooop"
+  },
+  {
+    "unk_0": 101,
+    "key": "FX_Debris_03"
+  },
+  {
+    "unk_0": 101,
+    "key": "FX_SparkSinlge_03"
+  },
+  {
+    "unk_0": 101,
+    "key": "FX_CapturePoint_Blessed_03"
+  },
+  {
+    "unk_0": 101,
+    "key": "FX_HitFlash"
+  },
+  {
+    "unk_0": 101,
+    "key": "FX_SmokeAtlas_02"
+  },
+  {
+    "unk_0": 101,
+    "key": "FX_Blast_08"
+  },
+  {
+    "unk_0": 101,
+    "key": "FX_warcry_blast"
+  },
+  {
+    "unk_0": 102,
+    "key": "FX_Fire_HeatPattern_03_N"
+  },
+  {
+    "unk_0": 0,
+    "key": "FX_ShockTorus_01"
+  },
+  {
+    "unk_0": 101,
+    "key": "FX_Blast_08"
+  },
+  {
+    "unk_0": 101,
+    "key": "FX_Dust_02"
+  },
+  {
+    "unk_0": 101,
+    "key": "FX_FlameLicks"
+  },
+  {
+    "unk_0": 102,
+    "key": "FX_Fire_HeatPattern_03_N"
+  },
+  {
+    "unk_0": 101,
+    "key": "FX_Dust_02"
+  },
+  {
+    "unk_0": 101,
+    "key": "FX_SmokeAtlas_04"
+  },
+  {
+    "unk_0": 101,
+    "key": "fx_env_twig"
+  },
+  {
+    "unk_0": 0,
+    "key": "FX_MageBubble_Gandalf"
+  },
+  {
+    "unk_0": 101,
+    "key": "FX_whisps_01"
+  },
+  {
+    "unk_0": 101,
+    "key": "FX_Debris_03"
+  },
+  {
+    "unk_0": 101,
+    "key": "FX_SparkSinlge_03"
+  },
+  {
+    "unk_0": 101,
+    "key": "FX_CapturePoint_Blessed_03"
+  },
+  {
+    "unk_0": 101,
+    "key": "FX_HitFlash"
+  },
+  {
+    "unk_0": 101,
+    "key": "FX_SmokeAtlas_02"
+  },
+  {
+    "unk_0": 101,
+    "key": "FX_Blast_08"
+  },
+  {
+    "unk_0": 101,
+    "key": "FX_SparkSinlge_03"
+  },
+  {
+    "unk_0": 101,
+    "key": "FX_SmokeAtlas_04"
+  },
+  {
+    "unk_0": 101,
+    "key": "FX_SmokeAtlas_04"
+  },
+  {
+    "unk_0": 102,
+    "key": "FX_Fire_HeatPattern_02_N"
+  },
+  {
+    "unk_0": 0,
+    "key": "FX_ShockTorus_03"
+  },
+  {
+    "unk_0": 101,
+    "key": "FX_Blast_08"
+  },
+  {
+    "unk_0": 101,
+    "key": "FX_SmokeAtlas_02"
+  },
+  {
+    "unk_0": 102,
+    "key": "FX_SmokeAtlas_01_N"
+  },
+  {
+    "unk_0": 101,
+    "key": "Fx_FlameLoop_04"
+  },
+  {
+    "unk_0": 101,
+    "key": "FX_Dust_02"
+  },
+  {
+    "unk_0": 101,
+    "key": "FX_FlameLicks"
+  },
+  {
+    "unk_0": 101,
+    "key": "FX_SparkSinlge_03"
+  },
+  {
+    "unk_0": 101,
+    "key": "FX_AT_Spark_02"
+  },
+  {
+    "unk_0": 101,
+    "key": "FX_SparkHitCore_01"
+  },
+  {
+    "unk_0": 101,
+    "key": "FX_SparkHitPang_01"
+  },
+  {
+    "unk_0": 101,
+    "key": "FX_Blast_08"
+  },
+  {
+    "unk_0": 101,
+    "key": "FX_Smoke_Seq_01"
+  },
+  {
+    "unk_0": 101,
+    "key": "FX_SparkSinlge_02"
+  },
+  {
+    "unk_0": 101,
+    "key": "FX_rock_01_D"
+  },
+  {
+    "unk_0": 102,
+    "key": "FX_rock_01_N"
+  },
+  {
+    "unk_0": 101,
+    "key": "Fx_FlameLoop_04_desat"
+  },
+  {
+    "unk_0": 101,
+    "key": "Fx_FlameLoop_04_desat"
+  },
+  {
+    "unk_0": 101,
+    "key": "Fx_FlameLoop_04_desat"
+  },
+  {
+    "unk_0": 101,
+    "key": "Fx_FlameLoop_04_desat"
+  },
+  {
+    "unk_0": 101,
+    "key": "Fx_FlameLoop_04_desat"
+  },
+  {
+    "unk_0": 101,
+    "key": "FX_SparkHitCore_01"
+  },
+  {
+    "unk_0": 101,
+    "key": "FX_SparkHitCore_01"
+  },
+  {
+    "unk_0": 101,
+    "key": "FX_SparkHitPang_01"
+  },
+  {
+    "unk_0": 101,
+    "key": "FX_SparkHitPang_01"
+  },
+  {
+    "unk_0": 101,
+    "key": "FX_Debris_03"
+  },
+  {
+    "unk_0": 101,
+    "key": "FX_SmokeAtlas_04"
+  },
+  {
+    "unk_0": 102,
+    "key": "FX_SmokeAtlas_04_N"
+  },
+  {
+    "unk_0": 101,
+    "key": "FX_water_atlas_01"
+  },
+  {
+    "unk_0": 101,
+    "key": "FX_SparkSinlge_02"
+  },
+  {
+    "unk_0": 101,
+    "key": "FX_rock_01_D"
+  },
+  {
+    "unk_0": 102,
+    "key": "FX_rock_01_N"
+  },
+  {
+    "unk_0": 101,
+    "key": "Fx_FlameLoop_04"
+  },
+  {
+    "unk_0": 101,
+    "key": "Fx_FlameLoop_18"
+  },
+  {
+    "unk_0": 101,
+    "key": "Fx_FlameLoop_04"
+  },
+  {
+    "unk_0": 101,
+    "key": "Fx_FlameLoop_04"
+  },
+  {
+    "unk_0": 101,
+    "key": "Fx_FlameLoop_18"
+  },
+  {
+    "unk_0": 101,
+    "key": "FX_Smoke_Seq_06"
+  },
+  {
+    "unk_0": 102,
+    "key": "FX_SmokeAtlas_04_N"
+  },
+  {
+    "unk_0": 101,
+    "key": "FX_SmokeAtlas_02"
+  },
+  {
+    "unk_0": 102,
+    "key": "FX_SmokeAtlas_01_N"
+  },
+  {
+    "unk_0": 101,
+    "key": "FX_FlameLicks"
+  },
+  {
+    "unk_0": 101,
+    "key": "Fx_FlameLoop_04"
+  },
+  {
+    "unk_0": 101,
+    "key": "FX_SparkSinlge_03"
+  },
+  {
+    "unk_0": 101,
+    "key": "FX_AT_Spark_02"
+  },
+  {
+    "unk_0": 101,
+    "key": "FX_SparkHitCore_01"
+  },
+  {
+    "unk_0": 101,
+    "key": "FX_SparkHitPang_01"
+  },
+  {
+    "unk_0": 101,
+    "key": "FX_Blast_08"
+  },
+  {
+    "unk_0": 101,
+    "key": "fx_at_smokelooop"
+  },
+  {
+    "unk_0": 101,
+    "key": "FX_Dust_02"
+  },
+  {
+    "unk_0": 101,
+    "key": "FX_Explosion_Seq_04"
+  },
+  {
+    "unk_0": 102,
+    "key": "FX_DustBlast_08_N"
+  },
+  {
+    "unk_0": 101,
+    "key": "FX_smokeAge_02_d"
+  },
+  {
+    "unk_0": 102,
+    "key": "FX_smokeAge_02_n"
+  },
+  {
+    "unk_0": 101,
+    "key": "FX_SparkSinlge_03"
+  },
+  {
+    "unk_0": 101,
+    "key": "FX_SparkHitCore_01"
+  },
+  {
+    "unk_0": 101,
+    "key": "FX_SparkHitPang_01"
+  },
+  {
+    "unk_0": 101,
+    "key": "FX_FlameLicks"
+  },
+  {
+    "unk_0": 101,
+    "key": "fx_water_splash"
+  },
+  {
+    "unk_0": 101,
+    "key": "fx_water_splash"
+  },
+  {
+    "unk_0": 101,
+    "key": "FX_SmokeAtlas_02"
+  },
+  {
+    "unk_0": 101,
+    "key": "FX_SparkSinlge_03"
+  },
+  {
+    "unk_0": 101,
+    "key": "FX_AT_Spark_02"
+  },
+  {
+    "unk_0": 101,
+    "key": "FX_SparkSinlge_01"
+  },
+  {
+    "unk_0": 102,
+    "key": "FX_Fire_HeatPattern_02_N"
+  },
+  {
+    "unk_0": 101,
+    "key": "FX_SparkHitCore_01"
+  },
+  {
+    "unk_0": 101,
+    "key": "FX_SparkHitPang_01"
+  },
+  {
+    "unk_0": 101,
+    "key": "FX_Blast_08"
+  },
+  {
+    "unk_0": 0,
+    "key": "FX_ShockTorus_01"
+  },
+  {
+    "unk_0": 101,
+    "key": "FX_Blast_08"
+  },
+  {
+    "unk_0": 101,
+    "key": "Fx_FlameLoop_04"
+  },
+  {
+    "unk_0": 101,
+    "key": "fx_at_smokelooop"
+  },
+  {
+    "unk_0": 101,
+    "key": "FX_Debris_03"
+  },
+  {
+    "unk_0": 101,
+    "key": "FX_SmokeAtlas_04"
+  },
+  {
+    "unk_0": 102,
+    "key": "FX_SmokeAtlas_04_N"
+  },
+  {
+    "unk_0": 101,
+    "key": "FX_SmokeAtlas_04"
+  },
+  {
+    "unk_0": 102,
+    "key": "FX_SmokeAtlas_04_N"
+  },
+  {
+    "unk_0": 0,
+    "key": "FX_MageBubble_Evil"
+  },
+  {
+    "unk_0": 101,
+    "key": "FX_whisps_01"
+  },
+  {
+    "unk_0": 101,
+    "key": "FX_SmokeAtlas_04"
+  },
+  {
+    "unk_0": 101,
+    "key": "fx_mage_bubble_02"
+  },
+  {
+    "unk_0": 101,
+    "key": "FX_CapturePoint_Blessed"
+  },
+  {
+    "unk_0": 101,
+    "key": "fx_mage_bubble_02"
+  },
+  {
+    "unk_0": 101,
+    "key": "fx_mage_bubble_02"
+  },
+  {
+    "unk_0": 102,
+    "key": "FX_CloakHaze_01_N"
+  },
+  {
+    "unk_0": 101,
+    "key": "fx_at_exp_seq02"
+  },
+  {
+    "unk_0": 101,
+    "key": "fx_at_exp_seq02"
+  },
+  {
+    "unk_0": 101,
+    "key": "fx_at_smokelooop"
+  },
+  {
+    "unk_0": 101,
+    "key": "fx_at_smokelooop"
+  },
+  {
+    "unk_0": 101,
+    "key": "FX_Debris_03"
+  },
+  {
+    "unk_0": 101,
+    "key": "FX_SparkSinlge_03"
+  },
+  {
+    "unk_0": 101,
+    "key": "FX_HitFlash"
+  },
+  {
+    "unk_0": 101,
+    "key": "FX_SmokeAtlas_04"
+  },
+  {
+    "unk_0": 101,
+    "key": "FX_SmokeAtlas_02"
+  },
+  {
+    "unk_0": 101,
+    "key": "FX_Blast_08"
+  },
+  {
+    "unk_0": 101,
+    "key": "FX_warcry_blast"
+  },
+  {
+    "unk_0": 102,
+    "key": "FX_Fire_HeatPattern_03_N"
+  },
+  {
+    "unk_0": 101,
+    "key": "FX_HitFlash"
+  },
+  {
+    "unk_0": 101,
+    "key": "FX_SmokeAtlas_04"
+  },
+  {
+    "unk_0": 101,
+    "key": "FX_SparkSinlge_03"
+  },
+  {
+    "unk_0": 0,
+    "key": "FX_ShockTorus_01"
+  },
+  {
+    "unk_0": 101,
+    "key": "FX_Blast_08"
+  },
+  {
+    "unk_0": 101,
+    "key": "FX_Debris_03"
+  },
+  {
+    "unk_0": 101,
+    "key": "FX_HitFlash"
+  },
+  {
+    "unk_0": 101,
+    "key": "FX_Blast_08"
+  },
+  {
+    "unk_0": 101,
+    "key": "FX_SparkSinlge_03"
+  },
+  {
+    "unk_0": 101,
+    "key": "FX_SmokeAtlas_04"
+  },
+  {
+    "unk_0": 101,
+    "key": "FX_Blast_08"
+  },
+  {
+    "unk_0": 102,
+    "key": "FX_Fire_HeatPattern_02_N"
+  },
+  {
+    "unk_0": 101,
+    "key": "FX_rock_01_D"
+  },
+  {
+    "unk_0": 102,
+    "key": "FX_rock_01_N"
+  },
+  {
+    "unk_0": 101,
+    "key": "Fx_FlameLoop_04"
+  },
+  {
+    "unk_0": 101,
+    "key": "FX_FlameLicks"
+  },
+  {
+    "unk_0": 101,
+    "key": "FX_HitFlash"
+  },
+  {
+    "unk_0": 101,
+    "key": "FX_Dust_02"
+  },
+  {
+    "unk_0": 101,
+    "key": "FX_Blast_08"
+  },
+  {
+    "unk_0": 101,
+    "key": "FX_Env_Leaves"
+  },
+  {
+    "unk_0": 101,
+    "key": "FX_SparkSinlge_03"
+  },
+  {
+    "unk_0": 101,
+    "key": "FX_SparkSinlge_03"
+  },
+  {
+    "unk_0": 101,
+    "key": "FX_SmokeAtlas_01"
+  },
+  {
+    "unk_0": 102,
+    "key": "FX_SmokeAtlas_01_N"
+  },
+  {
+    "unk_0": 101,
+    "key": "FX_SparkSinlge_01"
+  },
+  {
+    "unk_0": 102,
+    "key": "FX_Fire_HeatPattern_03_N"
+  },
+  {
+    "unk_0": 101,
+    "key": "Fx_FlameLoop_04"
+  },
+  {
+    "unk_0": 101,
+    "key": "FX_Debris_03"
+  },
+  {
+    "unk_0": 101,
+    "key": "FX_SparkSinlge_03"
+  },
+  {
+    "unk_0": 101,
+    "key": "FX_SparkHitCore_01"
+  },
+  {
+    "unk_0": 101,
+    "key": "FX_SparkHitPang_01"
+  },
+  {
+    "unk_0": 101,
+    "key": "FX_Blast_08"
+  },
+  {
+    "unk_0": 101,
+    "key": "FX_SparkSinlge_03"
+  },
+  {
+    "unk_0": 101,
+    "key": "FX_AT_Spark_02"
+  },
+  {
+    "unk_0": 101,
+    "key": "FX_SparkHitCore_01"
+  },
+  {
+    "unk_0": 101,
+    "key": "FX_SparkHitPang_01"
+  },
+  {
+    "unk_0": 101,
+    "key": "FX_Blast_08"
+  },
+  {
+    "unk_0": 101,
+    "key": "FX_SmokeAtlas_02"
+  },
+  {
+    "unk_0": 101,
+    "key": "FX_SparkSinlge_03"
+  },
+  {
+    "unk_0": 101,
+    "key": "FX_HitFlash"
+  },
+  {
+    "unk_0": 101,
+    "key": "FX_Blast_08"
+  },
+  {
+    "unk_0": 101,
+    "key": "fx_water_splash"
+  },
+  {
+    "unk_0": 101,
+    "key": "fx_water_splash"
+  },
+  {
+    "unk_0": 101,
+    "key": "FX_water_atlas_01"
+  },
+  {
+    "unk_0": 101,
+    "key": "FX_warcry_blast"
+  },
+  {
+    "unk_0": 102,
+    "key": "FX_Fire_HeatPattern_03_N"
+  },
+  {
+    "unk_0": 101,
+    "key": "FX_SparkSinlge_03"
+  },
+  {
+    "unk_0": 101,
+    "key": "FX_SparkSinlge_03"
+  },
+  {
+    "unk_0": 101,
+    "key": "FX_Dust_02"
+  },
+  {
+    "unk_0": 101,
+    "key": "FX_SmokeAtlas_04"
+  },
+  {
+    "unk_0": 101,
+    "key": "FX_SparkSinlge_03"
+  },
+  {
+    "unk_0": 101,
+    "key": "FX_Dust_01"
+  },
+  {
+    "unk_0": 101,
+    "key": "FX_flame_09"
+  },
+  {
+    "unk_0": 101,
+    "key": "FX_SparkSinlge_01_alpha"
+  },
+  {
+    "unk_0": 101,
+    "key": "fx_ignition_ember_01"
+  },
+  {
+    "unk_0": 101,
+    "key": "FX_SparkHitCore_01"
+  },
+  {
+    "unk_0": 101,
+    "key": "FX_SparkSinlge_03"
+  },
+  {
+    "unk_0": 101,
+    "key": "FX_AT_Spark_02"
+  },
+  {
+    "unk_0": 101,
+    "key": "FX_SparkHitCore_01"
+  },
+  {
+    "unk_0": 101,
+    "key": "FX_SparkHitPang_01"
+  },
+  {
+    "unk_0": 101,
+    "key": "FX_Blast_08"
+  },
+  {
+    "unk_0": 101,
+    "key": "FX_SmokeAtlas_03"
+  },
+  {
+    "unk_0": 101,
+    "key": "FX_Debris_03"
+  },
+  {
+    "unk_0": 101,
+    "key": "FX_SparkSinlge_03"
+  },
+  {
+    "unk_0": 101,
+    "key": "FX_HitFlash"
+  },
+  {
+    "unk_0": 101,
+    "key": "FX_SmokeAtlas_04"
+  },
+  {
+    "unk_0": 101,
+    "key": "FX_SmokeAtlas_02"
+  },
+  {
+    "unk_0": 101,
+    "key": "FX_Blast_08"
+  },
+  {
+    "unk_0": 101,
+    "key": "FX_warcry_blast"
+  },
+  {
+    "unk_0": 102,
+    "key": "FX_Fire_HeatPattern_03_N"
+  },
+  {
+    "unk_0": 0,
+    "key": "FX_ShockTorus_02"
+  },
+  {
+    "unk_0": 101,
+    "key": "FX_Blast_08"
+  },
+  {
+    "unk_0": 0,
+    "key": "FX_MageBubble_01"
+  },
+  {
+    "unk_0": 101,
+    "key": "FX_Blast_08"
+  },
+  {
+    "unk_0": 101,
+    "key": "FX_Debris_03"
+  },
+  {
+    "unk_0": 101,
+    "key": "FX_HitFlash"
+  },
+  {
+    "unk_0": 101,
+    "key": "FX_Blast_08"
+  },
+  {
+    "unk_0": 101,
+    "key": "FX_SparkSinlge_03"
+  },
+  {
+    "unk_0": 101,
+    "key": "Fx_FlameLoop_04_desat"
+  },
+  {
+    "unk_0": 101,
+    "key": "FX_SmokeAtlas_04"
+  },
+  {
+    "unk_0": 101,
+    "key": "FX_Blast_08"
+  },
+  {
+    "unk_0": 102,
+    "key": "FX_Fire_HeatPattern_02_N"
+  },
+  {
+    "unk_0": 101,
+    "key": "FX_FlameLicks"
+  },
+  {
+    "unk_0": 101,
+    "key": "FX_water_atlas_01"
+  },
+  {
+    "unk_0": 101,
+    "key": "FX_Smoke_Seq_01"
+  },
+  {
+    "unk_0": 101,
+    "key": "FX_Env_Leaves"
+  },
+  {
+    "unk_0": 101,
+    "key": "FX_Env_Dandelion"
+  },
+  {
+    "unk_0": 101,
+    "key": "FX_Debris_03"
+  },
+  {
+    "unk_0": 101,
+    "key": "FX_SparkSinlge_03"
+  },
+  {
+    "unk_0": 101,
+    "key": "FX_HitFlash"
+  },
+  {
+    "unk_0": 101,
+    "key": "FX_SmokeAtlas_04"
+  },
+  {
+    "unk_0": 101,
+    "key": "FX_Blast_08"
+  },
+  {
+    "unk_0": 101,
+    "key": "Fx_FlameLoop_04"
+  },
+  {
+    "unk_0": 101,
+    "key": "FX_warcry_blast"
+  },
+  {
+    "unk_0": 102,
+    "key": "FX_Fire_HeatPattern_03_N"
+  },
+  {
+    "unk_0": 101,
+    "key": "FX_SparkSinlge_01"
+  },
+  {
+    "unk_0": 102,
+    "key": "FX_Fire_HeatPattern_03_N"
+  },
+  {
+    "unk_0": 101,
+    "key": "Fx_FlameLoop_04"
+  },
+  {
+    "unk_0": 101,
+    "key": "FX_Debris_03"
+  },
+  {
+    "unk_0": 101,
+    "key": "FX_SparkSinlge_03"
+  },
+  {
+    "unk_0": 101,
+    "key": "FX_SparkHitCore_01"
+  },
+  {
+    "unk_0": 101,
+    "key": "FX_SparkHitPang_01"
+  },
+  {
+    "unk_0": 101,
+    "key": "FX_Blast_08"
+  },
+  {
+    "unk_0": 101,
+    "key": "fx_at_smokelooop"
+  },
+  {
+    "unk_0": 101,
+    "key": "FX_SmokeAtlas_04"
+  },
+  {
+    "unk_0": 101,
+    "key": "FX_Debris_03"
+  },
+  {
+    "unk_0": 101,
+    "key": "FX_SparkSinlge_03"
+  },
+  {
+    "unk_0": 101,
+    "key": "FX_HitFlash"
+  },
+  {
+    "unk_0": 101,
+    "key": "FX_Blast_08"
+  },
+  {
+    "unk_0": 0,
+    "key": "FX_ShockTorus_01"
+  },
+  {
+    "unk_0": 101,
+    "key": "FX_Blast_08"
+  },
+  {
+    "unk_0": 101,
+    "key": "FX_SmokeAtlas_02"
+  },
+  {
+    "unk_0": 102,
+    "key": "FX_SmokeAtlas_01_N"
+  },
+  {
+    "unk_0": 101,
+    "key": "Fx_FlameLoop_18"
+  },
+  {
+    "unk_0": 101,
+    "key": "Fx_FlameLoop_04"
+  },
+  {
+    "unk_0": 101,
+    "key": "Fx_FlameLoop_04"
+  },
+  {
+    "unk_0": 101,
+    "key": "Fx_FlameLoop_18"
+  },
+  {
+    "unk_0": 101,
+    "key": "FX_water_rapids"
+  },
+  {
+    "unk_0": 101,
+    "key": "fx_water_splash"
+  },
+  {
+    "unk_0": 101,
+    "key": "FX_water_atlas_01"
+  },
+  {
+    "unk_0": 101,
+    "key": "FX_Smoke_Seq_01"
+  },
+  {
+    "unk_0": 101,
+    "key": "FX_SparkSinlge_01_alpha"
+  },
+  {
+    "unk_0": 101,
+    "key": "FX_FlameLicks"
+  },
+  {
+    "unk_0": 101,
+    "key": "FX_SparkHitCore_01"
+  },
+  {
+    "unk_0": 101,
+    "key": "FX_SparkHitPang_01"
+  },
+  {
+    "unk_0": 101,
+    "key": "Fx_FlameLoop_04"
+  },
+  {
+    "unk_0": 101,
+    "key": "Fx_FlameLoop_04"
+  },
+  {
+    "unk_0": 101,
+    "key": "FX_AT_Spark_02"
+  },
+  {
+    "unk_0": 101,
+    "key": "FX_Debris_03"
+  },
+  {
+    "unk_0": 101,
+    "key": "FX_SparkSinlge_03"
+  },
+  {
+    "unk_0": 101,
+    "key": "FX_CapturePoint_Blessed_03"
+  },
+  {
+    "unk_0": 101,
+    "key": "FX_HitFlash"
+  },
+  {
+    "unk_0": 101,
+    "key": "FX_SmokeAtlas_02"
+  },
+  {
+    "unk_0": 101,
+    "key": "FX_Blast_08"
+  },
+  {
+    "unk_0": 101,
+    "key": "FX_Smoke_Seq_01"
+  },
+  {
+    "unk_0": 101,
+    "key": "FX_whisps_01"
+  },
+  {
+    "unk_0": 101,
+    "key": "FX_SmokeAtlas_04"
+  },
+  {
+    "unk_0": 101,
+    "key": "FX_lightningStrike_22"
+  },
+  {
+    "unk_0": 101,
+    "key": "FX_SmokeAtlas_01"
+  },
+  {
+    "unk_0": 102,
+    "key": "FX_SmokeAtlas_01_N"
+  },
+  {
+    "unk_0": 101,
+    "key": "FX_HitFlash"
+  },
+  {
+    "unk_0": 101,
+    "key": "FX_HitFlash"
+  },
+  {
+    "unk_0": 101,
+    "key": "FX_HitFlash"
+  },
+  {
+    "unk_0": 101,
+    "key": "FX_FlameLicks_desat"
+  },
+  {
+    "unk_0": 101,
+    "key": "FX_FlameLicks"
+  },
+  {
+    "unk_0": 101,
+    "key": "FX_HitFlash"
+  },
+  {
+    "unk_0": 101,
+    "key": "FX_SmokeAtlas_04"
+  },
+  {
+    "unk_0": 101,
+    "key": "FX_lightningStrike_29"
+  },
+  {
+    "unk_0": 101,
+    "key": "FX_SmokeAtlas_01"
+  },
+  {
+    "unk_0": 102,
+    "key": "FX_SmokeAtlas_01_N"
+  },
+  {
+    "unk_0": 101,
+    "key": "FX_HitFlash"
+  },
+  {
+    "unk_0": 101,
+    "key": "FX_SmokeAtlas_04"
+  },
+  {
+    "unk_0": 101,
+    "key": "FX_Debris_03"
+  },
+  {
+    "unk_0": 101,
+    "key": "FX_SparkSinlge_03"
+  },
+  {
+    "unk_0": 101,
+    "key": "FX_HitFlash"
+  },
+  {
+    "unk_0": 101,
+    "key": "FX_Blast_08"
+  },
+  {
+    "unk_0": 0,
+    "key": "FX_ShockTorus_01"
+  },
+  {
+    "unk_0": 101,
+    "key": "FX_Blast_08"
+  },
+  {
+    "unk_0": 0,
+    "key": "FX_MageBubble_Good"
+  },
+  {
+    "unk_0": 101,
+    "key": "FX_whisps_01"
+  },
+  {
+    "unk_0": 101,
+    "key": "FX_SmokeAtlas_02"
+  },
+  {
+    "unk_0": 102,
+    "key": "FX_SmokeAtlas_01_N"
+  },
+  {
+    "unk_0": 101,
+    "key": "Fx_FlameLoop_04"
+  },
+  {
+    "unk_0": 101,
+    "key": "Fx_FlameLoop_18"
+  },
+  {
+    "unk_0": 101,
+    "key": "Fx_FlameLoop_04"
+  },
+  {
+    "unk_0": 101,
+    "key": "Fx_FlameLoop_04"
+  },
+  {
+    "unk_0": 101,
+    "key": "Fx_FlameLoop_18"
+  },
+  {
+    "unk_0": 101,
+    "key": "FX_SmokeAtlas_04"
+  },
+  {
+    "unk_0": 101,
+    "key": "FX_Debris_03"
+  },
+  {
+    "unk_0": 101,
+    "key": "FX_SparkSinlge_03"
+  },
+  {
+    "unk_0": 101,
+    "key": "FX_HitFlash"
+  },
+  {
+    "unk_0": 101,
+    "key": "FX_Blast_08"
+  },
+  {
+    "unk_0": 0,
+    "key": "FX_ShockTorus_01"
+  },
+  {
+    "unk_0": 101,
+    "key": "FX_Blast_08"
+  },
+  {
+    "unk_0": 101,
+    "key": "fx_at_smokelooop"
+  },
+  {
+    "unk_0": 101,
+    "key": "FX_SparkSinlge_03"
+  },
+  {
+    "unk_0": 101,
+    "key": "FX_AT_Spark_02"
+  },
+  {
+    "unk_0": 101,
+    "key": "FX_SparkHitCore_01"
+  },
+  {
+    "unk_0": 101,
+    "key": "FX_SparkHitPang_01"
+  },
+  {
+    "unk_0": 101,
+    "key": "FX_Blast_08"
+  },
+  {
+    "unk_0": 101,
+    "key": "Fx_FlameLoop_04"
+  },
+  {
+    "unk_0": 101,
+    "key": "FX_AT_Spark_02"
+  },
+  {
+    "unk_0": 101,
+    "key": "FX_Debris_03"
+  },
+  {
+    "unk_0": 101,
+    "key": "FX_SparkSinlge_03"
+  },
+  {
+    "unk_0": 101,
+    "key": "FX_HitFlash"
+  },
+  {
+    "unk_0": 101,
+    "key": "FX_SmokeAtlas_04"
+  },
+  {
+    "unk_0": 101,
+    "key": "FX_SmokeAtlas_02"
+  },
+  {
+    "unk_0": 101,
+    "key": "FX_warcry_blast"
+  },
+  {
+    "unk_0": 102,
+    "key": "FX_Fire_HeatPattern_03_N"
+  },
+  {
+    "unk_0": 101,
+    "key": "FX_Blast_08"
+  },
+  {
+    "unk_0": 101,
+    "key": "Fx_FlameLoop_04"
+  },
+  {
+    "unk_0": 101,
+    "key": "FX_SmokeAtlas_02"
+  },
+  {
+    "unk_0": 102,
+    "key": "FX_SmokeAtlas_01_N"
+  },
+  {
+    "unk_0": 101,
+    "key": "FX_SparkSinlge_03"
+  },
+  {
+    "unk_0": 101,
+    "key": "FX_AT_Spark_02"
+  },
+  {
+    "unk_0": 101,
+    "key": "FX_Blast_08"
+  },
+  {
+    "unk_0": 101,
+    "key": "FX_HitFlash"
+  },
+  {
+    "unk_0": 101,
+    "key": "FX_SmokeAtlas_02"
+  },
+  {
+    "unk_0": 102,
+    "key": "FX_SmokeAtlas_01_N"
+  },
+  {
+    "unk_0": 101,
+    "key": "FX_SmokeAtlas_02"
+  },
+  {
+    "unk_0": 102,
+    "key": "FX_SmokeAtlas_01_N"
+  },
+  {
+    "unk_0": 101,
+    "key": "FX_Explosion_Seq_05"
+  },
+  {
+    "unk_0": 102,
+    "key": "FX_DustBlast_08_N"
+  },
+  {
+    "unk_0": 101,
+    "key": "FX_rock_01_D"
+  },
+  {
+    "unk_0": 102,
+    "key": "FX_rock_01_N"
+  },
+  {
+    "unk_0": 101,
+    "key": "FX_SparkSinlge_02"
+  },
+  {
+    "unk_0": 101,
+    "key": "FX_Ember"
+  },
+  {
+    "unk_0": 101,
+    "key": "FX_SparkSinlge_01"
+  },
+  {
+    "unk_0": 102,
+    "key": "FX_Fire_HeatPattern_03_N"
+  },
+  {
+    "unk_0": 101,
+    "key": "Fx_FlameLoop_04_desat"
+  },
+  {
+    "unk_0": 101,
+    "key": "FX_Debris_03"
+  },
+  {
+    "unk_0": 101,
+    "key": "FX_SparkSinlge_03"
+  },
+  {
+    "unk_0": 101,
+    "key": "FX_SparkHitCore_01"
+  },
+  {
+    "unk_0": 101,
+    "key": "FX_SparkHitPang_01"
+  },
+  {
+    "unk_0": 101,
+    "key": "FX_Blast_08"
+  },
+  {
+    "unk_0": 101,
+    "key": "FX_SmokeAtlas_04"
+  },
+  {
+    "unk_0": 101,
+    "key": "FX_Debris_03"
+  },
+  {
+    "unk_0": 101,
+    "key": "FX_SparkSinlge_03"
+  },
+  {
+    "unk_0": 101,
+    "key": "FX_HitFlash"
+  },
+  {
+    "unk_0": 101,
+    "key": "FX_SmokeAtlas_02"
+  },
+  {
+    "unk_0": 101,
+    "key": "FX_Blast_08"
+  },
+  {
+    "unk_0": 101,
+    "key": "FX_Debris_03"
+  },
+  {
+    "unk_0": 101,
+    "key": "FX_SparkSinlge_03"
+  },
+  {
+    "unk_0": 0,
+    "key": "FX_ShockTorus_01"
+  },
+  {
+    "unk_0": 101,
+    "key": "FX_Blast_08"
+  },
+  {
+    "unk_0": 101,
+    "key": "FX_HitFlash"
+  },
+  {
+    "unk_0": 101,
+    "key": "FX_Blast_08"
+  },
+  {
+    "unk_0": 101,
+    "key": "FX_SmokeAtlas_04"
+  },
+  {
+    "unk_0": 101,
+    "key": "FX_Blast_08"
+  },
+  {
+    "unk_0": 102,
+    "key": "FX_Fire_HeatPattern_02_N"
+  },
+  {
+    "unk_0": 101,
+    "key": "FX_FlameLicks"
+  },
+  {
+    "unk_0": 101,
+    "key": "Fx_FlameLoop_04"
+  },
+  {
+    "unk_0": 101,
+    "key": "FX_rock_01_D"
+  },
+  {
+    "unk_0": 102,
+    "key": "FX_rock_01_N"
+  },
+  {
+    "unk_0": 101,
+    "key": "Fx_FlameLoop_04"
+  },
+  {
+    "unk_0": 101,
+    "key": "FX_lightrays_dblEnded"
+  },
+  {
+    "unk_0": 101,
+    "key": "FX_water_atlas_01"
+  },
+  {
+    "unk_0": 101,
+    "key": "FX_FlameLicks"
+  },
+  {
+    "unk_0": 101,
+    "key": "FX_SparkSinlge_03"
+  },
+  {
+    "unk_0": 101,
+    "key": "FX_AT_Spark_02"
+  },
+  {
+    "unk_0": 101,
+    "key": "FX_SmokeAtlas_04"
+  },
+  {
+    "unk_0": 102,
+    "key": "FX_SmokeAtlas_01_N"
+  },
+  {
+    "unk_0": 101,
+    "key": "Fx_FlameLoop_04"
+  },
+  {
+    "unk_0": 101,
+    "key": "FX_SmokeAtlas_04"
+  },
+  {
+    "unk_0": 101,
+    "key": "FX_SparkSinlge_03"
+  },
+  {
+    "unk_0": 101,
+    "key": "FX_AT_Spark_02"
+  },
+  {
+    "unk_0": 101,
+    "key": "FX_SparkHitCore_01"
+  },
+  {
+    "unk_0": 101,
+    "key": "FX_SparkHitPang_01"
+  },
+  {
+    "unk_0": 101,
+    "key": "FX_Blast_08"
+  },
+  {
+    "unk_0": 101,
+    "key": "FX_SmokeAtlas_02"
+  },
+  {
+    "unk_0": 101,
+    "key": "FX_SmokeAtlas_02"
+  },
+  {
+    "unk_0": 101,
+    "key": "fx_mage_bubble_02"
+  },
+  {
+    "unk_0": 101,
+    "key": "FX_CapturePoint_Blessed"
+  },
+  {
+    "unk_0": 101,
+    "key": "fx_mage_bubble_02"
+  },
+  {
+    "unk_0": 101,
+    "key": "fx_mage_bubble_02"
+  },
+  {
+    "unk_0": 102,
+    "key": "FX_CloakHaze_01_N"
+  },
+  {
+    "unk_0": 101,
+    "key": "FX_AT_Spark_02"
+  },
+  {
+    "unk_0": 102,
+    "key": "FX_Fire_HeatPattern_03_N"
+  },
+  {
+    "unk_0": 101,
+    "key": "FX_whisps_01"
+  },
+  {
+    "unk_0": 101,
+    "key": "FX_AT_Spark_02"
+  },
+  {
+    "unk_0": 101,
+    "key": "FX_water_rapids"
+  },
+  {
+    "unk_0": 101,
+    "key": "fx_water_splash"
+  },
+  {
+    "unk_0": 101,
+    "key": "fx_at_smokelooop"
+  },
+  {
+    "unk_0": 101,
+    "key": "FX_Debris_03"
+  },
+  {
+    "unk_0": 101,
+    "key": "FX_Debris_03"
+  },
+  {
+    "unk_0": 101,
+    "key": "fx_water_splash"
+  },
+  {
+    "unk_0": 101,
+    "key": "Fx_FlameLoop_04"
+  },
+  {
+    "unk_0": 101,
+    "key": "Fx_FlameLoop_04"
+  },
+  {
+    "unk_0": 101,
+    "key": "Fx_FlameLoop_04"
+  },
+  {
+    "unk_0": 101,
+    "key": "Fx_FlameLoop_04"
+  },
+  {
+    "unk_0": 101,
+    "key": "Fx_FlameLoop_04"
+  },
+  {
+    "unk_0": 101,
+    "key": "FX_SparkHitCore_01"
+  },
+  {
+    "unk_0": 101,
+    "key": "FX_SparkHitCore_01"
+  },
+  {
+    "unk_0": 101,
+    "key": "FX_SparkHitPang_01"
+  },
+  {
+    "unk_0": 101,
+    "key": "FX_SparkHitPang_01"
+  },
+  {
+    "unk_0": 101,
+    "key": "FX_Env_Leaves"
+  },
+  {
+    "unk_0": 101,
+    "key": "fx_env_twig"
+  },
+  {
+    "unk_0": 101,
+    "key": "Fx_FlameLoop_04_desat"
+  },
+  {
+    "unk_0": 101,
+    "key": "FX_Debris_03"
+  },
+  {
+    "unk_0": 101,
+    "key": "FX_SmokeAtlas_04"
+  },
+  {
+    "unk_0": 101,
+    "key": "FX_lightningStrike_29"
+  },
+  {
+    "unk_0": 101,
+    "key": "FX_SmokeAtlas_01"
+  },
+  {
+    "unk_0": 102,
+    "key": "FX_SmokeAtlas_01_N"
+  },
+  {
+    "unk_0": 101,
+    "key": "FX_HitFlash"
+  },
+  {
+    "unk_0": 101,
+    "key": "Fx_FlameLoop_04"
+  },
+  {
+    "unk_0": 101,
+    "key": "fx_at_smokelooop"
+  },
+  {
+    "unk_0": 101,
+    "key": "fx_at_smokelooop"
+  },
+  {
+    "unk_0": 101,
+    "key": "fx_at_smokelooop"
+  },
+  {
+    "unk_0": 101,
+    "key": "FX_Spark_02"
+  },
+  {
+    "unk_0": 101,
+    "key": "FX_SparkSinlge_03"
+  },
+  {
+    "unk_0": 101,
+    "key": "FX_SparkHitCore_01"
+  },
+  {
+    "unk_0": 101,
+    "key": "FX_SparkHitPang_01"
+  },
+  {
+    "unk_0": 101,
+    "key": "FX_Debris_03"
+  },
+  {
+    "unk_0": 101,
+    "key": "FX_Debris_03"
+  },
+  {
+    "unk_0": 101,
+    "key": "FX_FlameLicks"
+  },
+  {
+    "unk_0": 101,
+    "key": "FX_water_atlas_01"
+  },
+  {
+    "unk_0": 101,
+    "key": "Fx_FlameLoop_04_desat"
+  },
+  {
+    "unk_0": 0,
+    "key": "FX_UndeadSoldier_05"
+  },
+  {
+    "unk_0": 101,
+    "key": "FX_SmokeAtlas_04"
+  },
+  {
+    "unk_0": 0,
+    "key": "FX_UndeadSoldier_03"
+  },
+  {
+    "unk_0": 101,
+    "key": "FX_SmokeAtlas_04"
+  },
+  {
+    "unk_0": 0,
+    "key": "FX_UndeadSoldier_04"
+  },
+  {
+    "unk_0": 101,
+    "key": "FX_SmokeAtlas_04"
+  },
+  {
+    "unk_0": 0,
+    "key": "FX_UndeadSoldier_05"
+  },
+  {
+    "unk_0": 101,
+    "key": "FX_SmokeAtlas_04"
+  },
+  {
+    "unk_0": 0,
+    "key": "FX_UndeadSoldier_06"
+  },
+  {
+    "unk_0": 101,
+    "key": "FX_SmokeAtlas_04"
+  },
+  {
+    "unk_0": 0,
+    "key": "FX_UndeadSoldier_05"
+  },
+  {
+    "unk_0": 101,
+    "key": "FX_SmokeAtlas_04"
+  },
+  {
+    "unk_0": 0,
+    "key": "FX_UndeadSoldier_06"
+  },
+  {
+    "unk_0": 101,
+    "key": "FX_SmokeAtlas_04"
+  },
+  {
+    "unk_0": 101,
+    "key": "FX_HitFlash"
+  },
+  {
+    "unk_0": 101,
+    "key": "FX_Dust_02"
+  },
+  {
+    "unk_0": 101,
+    "key": "FX_Blast_08"
+  },
+  {
+    "unk_0": 101,
+    "key": "Fx_FlameLoop_04"
+  },
+  {
+    "unk_0": 101,
+    "key": "FX_Dust_02"
+  },
+  {
+    "unk_0": 0,
+    "key": "FX_ShockTorus_02"
+  },
+  {
+    "unk_0": 101,
+    "key": "FX_Blast_08"
+  },
+  {
+    "unk_0": 101,
+    "key": "FX_SmokeAtlas_02"
+  },
+  {
+    "unk_0": 101,
+    "key": "FX_SmokeAtlas_02"
+  },
+  {
+    "unk_0": 101,
+    "key": "FX_Debris_03"
+  },
+  {
+    "unk_0": 101,
+    "key": "FX_HitFlash"
+  },
+  {
+    "unk_0": 101,
+    "key": "FX_Blast_08"
+  },
+  {
+    "unk_0": 101,
+    "key": "FX_SparkSinlge_03"
+  },
+  {
+    "unk_0": 101,
+    "key": "FX_Blast_08"
+  },
+  {
+    "unk_0": 102,
+    "key": "FX_Fire_HeatPattern_02_N"
+  },
+  {
+    "unk_0": 101,
+    "key": "fx_at_smokelooop"
+  },
+  {
+    "unk_0": 101,
+    "key": "FX_SmokeAtlas_02"
+  },
+  {
+    "unk_0": 102,
+    "key": "FX_SmokeAtlas_01_N"
+  },
+  {
+    "unk_0": 101,
+    "key": "FX_Spark_01"
+  },
+  {
+    "unk_0": 101,
+    "key": "FX_SmokeAtlas_02"
+  },
+  {
+    "unk_0": 102,
+    "key": "FX_SmokeAtlas_01_N"
+  },
+  {
+    "unk_0": 101,
+    "key": "FX_Explosion_Seq_04"
+  },
+  {
+    "unk_0": 102,
+    "key": "FX_DustBlast_08_N"
+  },
+  {
+    "unk_0": 101,
+    "key": "FX_smokeAge_02_d"
+  },
+  {
+    "unk_0": 102,
+    "key": "FX_smokeAge_02_n"
+  },
+  {
+    "unk_0": 101,
+    "key": "FX_SparkSinlge_03"
+  },
+  {
+    "unk_0": 101,
+    "key": "FX_Dust_02"
+  },
+  {
+    "unk_0": 101,
+    "key": "FX_FlameLicks"
+  },
+  {
+    "unk_0": 101,
+    "key": "Fx_FlameLoop_04_desat"
+  },
+  {
+    "unk_0": 101,
+    "key": "FX_SmokeAtlas_02"
+  },
+  {
+    "unk_0": 102,
+    "key": "FX_SmokeAtlas_01_N"
+  },
+  {
+    "unk_0": 101,
+    "key": "FX_SparkSinlge_03"
+  },
+  {
+    "unk_0": 101,
+    "key": "FX_AT_Spark_02"
+  },
+  {
+    "unk_0": 101,
+    "key": "FX_SparkHitCore_01"
+  },
+  {
+    "unk_0": 101,
+    "key": "FX_SparkHitPang_01"
+  },
+  {
+    "unk_0": 101,
+    "key": "FX_Blast_08"
+  },
+  {
+    "unk_0": 101,
+    "key": "FX_SmokeAtlas_04"
+  },
+  {
+    "unk_0": 101,
+    "key": "FX_lightningStrike_22"
+  },
+  {
+    "unk_0": 101,
+    "key": "FX_SmokeAtlas_01"
+  },
+  {
+    "unk_0": 102,
+    "key": "FX_SmokeAtlas_01_N"
+  },
+  {
+    "unk_0": 101,
+    "key": "FX_HitFlash"
+  },
+  {
+    "unk_0": 101,
+    "key": "FX_SmokeAtlas_04"
+  },
+  {
+    "unk_0": 102,
+    "key": "FX_SmokeAtlas_01_N"
+  },
+  {
+    "unk_0": 101,
+    "key": "FX_Debris_03"
+  },
+  {
+    "unk_0": 101,
+    "key": "FX_HitFlash"
+  },
+  {
+    "unk_0": 101,
+    "key": "FX_Dust_02"
+  },
+  {
+    "unk_0": 101,
+    "key": "FX_Blast_08"
+  },
+  {
+    "unk_0": 101,
+    "key": "FX_SparkSinlge_03"
+  },
+  {
+    "unk_0": 0,
+    "key": "FX_MageBubble_Saruman"
+  },
+  {
+    "unk_0": 101,
+    "key": "FX_whisps_01"
+  },
+  {
+    "unk_0": 101,
+    "key": "Fx_FlameLoop_18"
+  },
+  {
+    "unk_0": 101,
+    "key": "Fx_FlameLoop_04"
+  },
+  {
+    "unk_0": 101,
+    "key": "Fx_FlameLoop_04"
+  },
+  {
+    "unk_0": 101,
+    "key": "Fx_FlameLoop_18"
+  },
+  {
+    "unk_0": 101,
+    "key": "FX_SmokeAtlas_02"
+  },
+  {
+    "unk_0": 102,
+    "key": "FX_SmokeAtlas_01_N"
+  },
+  {
+    "unk_0": 101,
+    "key": "FX_SparkSinlge_03"
+  },
+  {
+    "unk_0": 101,
+    "key": "FX_AT_Spark_02"
+  },
+  {
+    "unk_0": 101,
+    "key": "FX_SparkHitCore_01"
+  },
+  {
+    "unk_0": 101,
+    "key": "FX_SparkHitPang_01"
+  },
+  {
+    "unk_0": 101,
+    "key": "FX_Blast_08"
+  },
+  {
+    "unk_0": 101,
+    "key": "fx_at_smokelooop"
+  },
+  {
+    "unk_0": 101,
+    "key": "FX_SmokeAtlas_02"
+  },
+  {
+    "unk_0": 102,
+    "key": "FX_SmokeAtlas_01_N"
+  },
+  {
+    "unk_0": 101,
+    "key": "fx_mage_bubble_02"
+  },
+  {
+    "unk_0": 101,
+    "key": "FX_CapturePoint_Blessed"
+  },
+  {
+    "unk_0": 101,
+    "key": "fx_mage_bubble_02"
+  },
+  {
+    "unk_0": 101,
+    "key": "fx_mage_bubble_02"
+  },
+  {
+    "unk_0": 102,
+    "key": "FX_CloakHaze_01_N"
+  },
+  {
+    "unk_0": 101,
+    "key": "FX_SmokeAtlas_02"
+  },
+  {
+    "unk_0": 102,
+    "key": "FX_SmokeAtlas_01_N"
+  },
+  {
+    "unk_0": 101,
+    "key": "FX_Dust_02"
+  },
+  {
+    "unk_0": 0,
+    "key": "FX_ShockTorus_02"
+  },
+  {
+    "unk_0": 101,
+    "key": "FX_Blast_08"
+  },
+  {
+    "unk_0": 0,
+    "key": "FX_MageBubble_01"
+  },
+  {
+    "unk_0": 101,
+    "key": "FX_Blast_08"
+  },
+  {
+    "unk_0": 101,
+    "key": "FX_SmokeAtlas_02"
+  },
+  {
+    "unk_0": 101,
+    "key": "FX_SmokeAtlas_02"
+  },
+  {
+    "unk_0": 101,
+    "key": "FX_Debris_03"
+  },
+  {
+    "unk_0": 101,
+    "key": "FX_HitFlash"
+  },
+  {
+    "unk_0": 101,
+    "key": "FX_Blast_08"
+  },
+  {
+    "unk_0": 101,
+    "key": "FX_SparkSinlge_03"
+  },
+  {
+    "unk_0": 101,
+    "key": "FX_Blast_08"
+  },
+  {
+    "unk_0": 102,
+    "key": "FX_Fire_HeatPattern_02_N"
+  },
+  {
+    "unk_0": 101,
+    "key": "FX_AT_Spark_02"
+  },
+  {
+    "unk_0": 101,
+    "key": "Fx_FlameLoop_18"
+  },
+  {
+    "unk_0": 101,
+    "key": "Fx_FlameLoop_04"
+  },
+  {
+    "unk_0": 101,
+    "key": "Fx_FlameLoop_04"
+  },
+  {
+    "unk_0": 101,
+    "key": "Fx_FlameLoop_18"
+  },
+  {
+    "unk_0": 101,
+    "key": "FX_water_atlas_01"
+  },
+  {
+    "unk_0": 101,
+    "key": "FX_SparkSinlge_02"
+  },
+  {
+    "unk_0": 101,
+    "key": "FX_rock_01_D"
+  },
+  {
+    "unk_0": 102,
+    "key": "FX_rock_01_N"
+  },
+  {
+    "unk_0": 101,
+    "key": "FX_Smoke_Seq_01"
+  },
+  {
+    "unk_0": 101,
+    "key": "FX_SparkSinlge_02"
+  },
+  {
+    "unk_0": 101,
+    "key": "FX_rock_01_D"
+  },
+  {
+    "unk_0": 102,
+    "key": "FX_rock_01_N"
+  },
+  {
+    "unk_0": 101,
+    "key": "Fx_FlameLoop_01"
+  },
+  {
+    "unk_0": 102,
+    "key": "FX_CloakHaze_N"
+  },
+  {
+    "unk_0": 101,
+    "key": "FX_Spark_01"
+  },
+  {
+    "unk_0": 101,
+    "key": "fx_ignition_ember_01"
+  },
+  {
+    "unk_0": 101,
+    "key": "fx_water_splash"
+  },
+  {
+    "unk_0": 101,
+    "key": "fx_water_splash"
+  },
+  {
+    "unk_0": 101,
+    "key": "fx_water_splash"
+  },
+  {
+    "unk_0": 101,
+    "key": "fx_water_splash"
+  },
+  {
+    "unk_0": 101,
+    "key": "FX_water_atlas_01"
+  },
+  {
+    "unk_0": 0,
+    "key": "FX_ElrondBubble"
+  },
+  {
+    "unk_0": 101,
+    "key": "FX_whisps_01"
+  },
+  {
+    "unk_0": 101,
+    "key": "FX_warcry_blast"
+  },
+  {
+    "unk_0": 102,
+    "key": "FX_Fire_HeatPattern_03_N"
+  },
+  {
+    "unk_0": 102,
+    "key": "FX_Fire_HeatPattern_03_N"
+  },
+  {
+    "unk_0": 101,
+    "key": "FX_SmokeAtlas_01"
+  },
+  {
+    "unk_0": 102,
+    "key": "FX_SmokeAtlas_01_N"
+  },
+  {
+    "unk_0": 101,
+    "key": "FX_SmokeAtlas_01"
+  },
+  {
+    "unk_0": 102,
+    "key": "FX_SmokeAtlas_01_N"
+  },
+  {
+    "unk_0": 101,
+    "key": "FX_lightrays_dblEnded"
+  },
+  {
+    "unk_0": 101,
+    "key": "Fx_FlameLoop_18"
+  },
+  {
+    "unk_0": 101,
+    "key": "Fx_FlameLoop_04"
+  },
+  {
+    "unk_0": 101,
+    "key": "Fx_FlameLoop_04"
+  },
+  {
+    "unk_0": 101,
+    "key": "Fx_FlameLoop_18"
+  },
+  {
+    "unk_0": 101,
+    "key": "FX_SmokeAtlas_04"
+  },
+  {
+    "unk_0": 101,
+    "key": "FX_lightningStrike_22"
+  },
+  {
+    "unk_0": 101,
+    "key": "FX_SmokeAtlas_01"
+  },
+  {
+    "unk_0": 102,
+    "key": "FX_SmokeAtlas_01_N"
+  },
+  {
+    "unk_0": 101,
+    "key": "FX_SmokeAtlas_04"
+  },
+  {
+    "unk_0": 101,
+    "key": "FX_lightningStrike_22"
+  },
+  {
+    "unk_0": 101,
+    "key": "FX_SmokeAtlas_01"
+  },
+  {
+    "unk_0": 102,
+    "key": "FX_SmokeAtlas_01_N"
+  },
+  {
+    "unk_0": 101,
+    "key": "FX_Debris_03"
+  },
+  {
+    "unk_0": 102,
+    "key": "FX_Fire_HeatPattern_03_N"
+  },
+  {
+    "unk_0": 101,
+    "key": "FX_HitFlash"
+  },
+  {
+    "unk_0": 101,
+    "key": "FX_FlameLicks_desat"
+  },
+  {
+    "unk_0": 101,
+    "key": "FX_SmokeAtlas_03"
+  },
+  {
+    "unk_0": 101,
+    "key": "FX_SmokeAtlas_04"
+  },
+  {
+    "unk_0": 101,
+    "key": "FX_Debris_03"
+  },
+  {
+    "unk_0": 101,
+    "key": "FX_HitFlash"
+  },
+  {
+    "unk_0": 101,
+    "key": "FX_SmokeAtlas_04"
+  },
+  {
+    "unk_0": 101,
+    "key": "FX_SmokeAtlas_02"
+  },
+  {
+    "unk_0": 101,
+    "key": "FX_Blast_08"
+  },
+  {
+    "unk_0": 101,
+    "key": "FX_warcry_blast"
+  },
+  {
+    "unk_0": 102,
+    "key": "FX_Fire_HeatPattern_03_N"
+  },
+  {
+    "unk_0": 101,
+    "key": "FX_SparkSinlge_01"
+  },
+  {
+    "unk_0": 102,
+    "key": "FX_Fire_HeatPattern_03_N"
+  },
+  {
+    "unk_0": 101,
+    "key": "Fx_FlameLoop_04"
+  },
+  {
+    "unk_0": 101,
+    "key": "FX_Debris_03"
+  },
+  {
+    "unk_0": 101,
+    "key": "FX_SparkSinlge_03"
+  },
+  {
+    "unk_0": 101,
+    "key": "FX_SparkHitCore_01"
+  },
+  {
+    "unk_0": 101,
+    "key": "FX_SparkHitPang_01"
+  },
+  {
+    "unk_0": 101,
+    "key": "FX_Blast_08"
+  },
+  {
+    "unk_0": 101,
+    "key": "FX_Debris_03"
+  },
+  {
+    "unk_0": 101,
+    "key": "FX_SmokeAtlas_01"
+  },
+  {
+    "unk_0": 102,
+    "key": "FX_SmokeAtlas_01_N"
+  },
+  {
+    "unk_0": 101,
+    "key": "FX_Dust_01"
+  },
+  {
+    "unk_0": 101,
+    "key": "FX_Glow_Spark"
+  },
+  {
+    "unk_0": 101,
+    "key": "FX_SparkSinlge_03"
+  },
+  {
+    "unk_0": 101,
+    "key": "FX_SparkHitCore_01"
+  },
+  {
+    "unk_0": 101,
+    "key": "FX_SparkHitPang_01"
+  },
+  {
+    "unk_0": 101,
+    "key": "Fx_FlameLoop_18"
+  },
+  {
+    "unk_0": 101,
+    "key": "Fx_FlameLoop_04"
+  },
+  {
+    "unk_0": 101,
+    "key": "Fx_FlameLoop_04"
+  },
+  {
+    "unk_0": 101,
+    "key": "Fx_FlameLoop_18"
+  },
+  {
+    "unk_0": 101,
+    "key": "Fx_FlameLoop_04"
+  },
+  {
+    "unk_0": 101,
+    "key": "Fx_FlameLoop_04"
+  },
+  {
+    "unk_0": 101,
+    "key": "FX_water_atlas_01"
+  },
+  {
+    "unk_0": 101,
+    "key": "FX_SparkSinlge_02"
+  },
+  {
+    "unk_0": 101,
+    "key": "FX_rock_01_D"
+  },
+  {
+    "unk_0": 102,
+    "key": "FX_rock_01_N"
+  },
+  {
+    "unk_0": 101,
+    "key": "Fx_FlameLoop_18"
+  },
+  {
+    "unk_0": 101,
+    "key": "Fx_FlameLoop_04"
+  },
+  {
+    "unk_0": 101,
+    "key": "Fx_FlameLoop_04"
+  },
+  {
+    "unk_0": 101,
+    "key": "Fx_FlameLoop_18"
+  },
+  {
+    "unk_0": 101,
+    "key": "FX_Smoke_Seq_06"
+  },
+  {
+    "unk_0": 0,
+    "key": "FX_RVD_BL_Belltower_01"
+  },
+  {
+    "unk_0": 101,
+    "key": "FX_Smoke_Seq_06"
+  },
+  {
+    "unk_0": 0,
+    "key": "FX_RVD_BL_Belltower_01b"
+  },
+  {
+    "unk_0": 101,
+    "key": "FX_Smoke_Seq_06"
+  },
+  {
+    "unk_0": 101,
+    "key": "FX_warcry_blast"
+  },
+  {
+    "unk_0": 102,
+    "key": "FX_Fire_HeatPattern_03_N"
+  },
+  {
+    "unk_0": 101,
+    "key": "FX_SmokeAtlas_02"
+  },
+  {
+    "unk_0": 101,
+    "key": "FX_AT_Spark_02"
+  },
+  {
+    "unk_0": 101,
+    "key": "Fx_FlameLoop_04"
+  },
+  {
+    "unk_0": 101,
+    "key": "fx_at_smokelooop"
+  },
+  {
+    "unk_0": 101,
+    "key": "FX_Smoke_Seq_01"
+  },
+  {
+    "unk_0": 101,
+    "key": "FX_SparkSinlge_02"
+  },
+  {
+    "unk_0": 101,
+    "key": "FX_rock_01_D"
+  },
+  {
+    "unk_0": 102,
+    "key": "FX_rock_01_N"
+  },
+  {
+    "unk_0": 102,
+    "key": "FX_Fire_HeatPattern_03_N"
+  },
+  {
+    "unk_0": 101,
+    "key": "FX_FlameLicks_desat"
+  },
+  {
+    "unk_0": 101,
+    "key": "FX_SmokeAtlas_03"
+  },
+  {
+    "unk_0": 101,
+    "key": "FX_SparkSinlge_03"
+  },
+  {
+    "unk_0": 101,
+    "key": "FX_SparkSinlge_03"
+  },
+  {
+    "unk_0": 101,
+    "key": "FX_AT_Spark_02"
+  },
+  {
+    "unk_0": 101,
+    "key": "FX_SparkHitCore_01"
+  },
+  {
+    "unk_0": 101,
+    "key": "FX_SparkHitPang_01"
+  },
+  {
+    "unk_0": 101,
+    "key": "FX_Blast_08"
+  },
+  {
+    "unk_0": 101,
+    "key": "FX_SmokeAtlas_02"
+  },
+  {
+    "unk_0": 102,
+    "key": "FX_SmokeAtlas_01_N"
+  },
+  {
+    "unk_0": 101,
+    "key": "FX_SmokeAtlas_02"
+  },
+  {
+    "unk_0": 102,
+    "key": "FX_SmokeAtlas_01_N"
+  },
+  {
+    "unk_0": 101,
+    "key": "FX_Debris_03"
+  },
+  {
+    "unk_0": 101,
+    "key": "Fx_FlameLoop_04"
+  },
+  {
+    "unk_0": 101,
+    "key": "FX_SmokeAtlas_04"
+  },
+  {
+    "unk_0": 101,
+    "key": "FX_Env_Leaves"
+  },
+  {
+    "unk_0": 101,
+    "key": "FX_SparkSinlge_03"
+  },
+  {
+    "unk_0": 101,
+    "key": "FX_AT_Spark_02"
+  },
+  {
+    "unk_0": 101,
+    "key": "FX_SparkHitCore_01"
+  },
+  {
+    "unk_0": 101,
+    "key": "FX_SparkHitPang_01"
+  },
+  {
+    "unk_0": 101,
+    "key": "FX_Blast_08"
+  },
+  {
+    "unk_0": 101,
+    "key": "fx_at_smokelooop"
+  },
+  {
+    "unk_0": 101,
+    "key": "FX_warcry_blast"
+  },
+  {
+    "unk_0": 102,
+    "key": "FX_Fire_HeatPattern_03_N"
+  },
+  {
+    "unk_0": 101,
+    "key": "FX_whisps_01"
+  },
+  {
+    "unk_0": 101,
+    "key": "FX_SparkSinlge_03"
+  },
+  {
+    "unk_0": 101,
+    "key": "Fx_FlameLoop_18"
+  },
+  {
+    "unk_0": 101,
+    "key": "Fx_FlameLoop_04"
+  },
+  {
+    "unk_0": 101,
+    "key": "Fx_FlameLoop_04"
+  },
+  {
+    "unk_0": 101,
+    "key": "Fx_FlameLoop_18"
+  },
+  {
+    "unk_0": 101,
+    "key": "fx_water_splash"
+  },
+  {
+    "unk_0": 101,
+    "key": "fx_water_splash"
+  },
+  {
+    "unk_0": 101,
+    "key": "FX_Smoke_Seq_01"
+  },
+  {
+    "unk_0": 102,
+    "key": "FX_Smoke_Seq_02_N"
+  },
+  {
+    "unk_0": 0,
+    "key": "FX_ShockTorus_02"
+  },
+  {
+    "unk_0": 101,
+    "key": "FX_Blast_08"
+  },
+  {
+    "unk_0": 0,
+    "key": "FX_MageBubble_01"
+  },
+  {
+    "unk_0": 101,
+    "key": "FX_Blast_08"
+  },
+  {
+    "unk_0": 101,
+    "key": "FX_Smoke_Seq_01"
+  },
+  {
+    "unk_0": 102,
+    "key": "FX_Smoke_Seq_02_N"
+  },
+  {
+    "unk_0": 102,
+    "key": "FX_Fire_HeatPattern_03_N"
+  },
+  {
+    "unk_0": 101,
+    "key": "FX_SparkSinlge_01"
+  },
+  {
+    "unk_0": 102,
+    "key": "FX_Fire_HeatPattern_03_N"
+  },
+  {
+    "unk_0": 101,
+    "key": "FX_SparkSinlge_03"
+  },
+  {
+    "unk_0": 101,
+    "key": "fx_at_exp_seq02"
+  },
+  {
+    "unk_0": 101,
+    "key": "fx_at_exp_seq02"
+  },
+  {
+    "unk_0": 101,
+    "key": "fx_at_smokelooop"
+  },
+  {
+    "unk_0": 101,
+    "key": "FX_rock_01_D"
+  },
+  {
+    "unk_0": 102,
+    "key": "FX_rock_01_N"
+  },
+  {
+    "unk_0": 101,
+    "key": "FX_SparkSinlge_02"
+  },
+  {
+    "unk_0": 101,
+    "key": "fx_at_smokelooop"
+  },
+  {
+    "unk_0": 101,
+    "key": "FX_HitFlash"
+  },
+  {
+    "unk_0": 101,
+    "key": "FX_Dust_02"
+  },
+  {
+    "unk_0": 101,
+    "key": "FX_Blast_08"
+  },
+  {
+    "unk_0": 101,
+    "key": "Fx_FlameLoop_18"
+  },
+  {
+    "unk_0": 101,
+    "key": "Fx_FlameLoop_04"
+  },
+  {
+    "unk_0": 101,
+    "key": "Fx_FlameLoop_04"
+  },
+  {
+    "unk_0": 101,
+    "key": "Fx_FlameLoop_18"
+  },
+  {
+    "unk_0": 101,
+    "key": "FX_Smoke_Seq_01"
+  },
+  {
+    "unk_0": 101,
+    "key": "FX_Env_Leaves"
+  },
+  {
+    "unk_0": 101,
+    "key": "FX_Env_Dandelion"
+  },
+  {
+    "unk_0": 101,
+    "key": "FX_Smoke_Seq_01"
+  },
+  {
+    "unk_0": 101,
+    "key": "FX_SparkSinlge_01_alpha"
+  },
+  {
+    "unk_0": 101,
+    "key": "FX_FlameLicks_desat"
+  },
+  {
+    "unk_0": 101,
+    "key": "FX_SmokeAtlas_04"
+  },
+  {
+    "unk_0": 101,
+    "key": "FX_Debris_03"
+  },
+  {
+    "unk_0": 101,
+    "key": "FX_SparkSinlge_03"
+  },
+  {
+    "unk_0": 101,
+    "key": "FX_HitFlash"
+  },
+  {
+    "unk_0": 101,
+    "key": "Fx_FlameLoop_04"
+  },
+  {
+    "unk_0": 101,
+    "key": "FX_Blast_08"
+  },
+  {
+    "unk_0": 0,
+    "key": "FX_ShockTorus_02"
+  },
+  {
+    "unk_0": 101,
+    "key": "FX_Blast_08"
+  },
+  {
+    "unk_0": 101,
+    "key": "fx_at_smokelooop"
+  },
+  {
+    "unk_0": 101,
+    "key": "FX_water_atlas_01"
+  },
+  {
+    "unk_0": 101,
+    "key": "FX_SparkSinlge_02"
+  },
+  {
+    "unk_0": 101,
+    "key": "FX_rock_01_D"
+  },
+  {
+    "unk_0": 102,
+    "key": "FX_rock_01_N"
+  },
+  {
+    "unk_0": 101,
+    "key": "FX_Debris_03"
+  },
+  {
+    "unk_0": 101,
+    "key": "FX_SmokeAtlas_01"
+  },
+  {
+    "unk_0": 102,
+    "key": "FX_SmokeAtlas_01_N"
+  },
+  {
+    "unk_0": 101,
+    "key": "FX_AT_Spark_02"
+  },
+  {
+    "unk_0": 101,
+    "key": "FX_SparkSinlge_03"
+  },
+  {
+    "unk_0": 101,
+    "key": "FX_AT_Spark_02"
+  },
+  {
+    "unk_0": 101,
+    "key": "FX_SparkHitCore_01"
+  },
+  {
+    "unk_0": 101,
+    "key": "FX_SparkHitPang_01"
+  },
+  {
+    "unk_0": 101,
+    "key": "FX_Blast_08"
+  },
+  {
+    "unk_0": 101,
+    "key": "FX_water_atlas_01"
+  },
+  {
+    "unk_0": 101,
+    "key": "FX_SparkSinlge_03"
+  },
+  {
+    "unk_0": 101,
+    "key": "FX_SparkHitCore_01"
+  },
+  {
+    "unk_0": 101,
+    "key": "FX_SparkHitPang_01"
+  },
+  {
+    "unk_0": 101,
+    "key": "FX_Smoke_Seq_01"
+  },
+  {
+    "unk_0": 101,
+    "key": "FX_FlameLicks_desat"
+  },
+  {
+    "unk_0": 101,
+    "key": "FX_Glow_Spark"
+  },
+  {
+    "unk_0": 101,
+    "key": "FX_SmokeAtlas_01"
+  },
+  {
+    "unk_0": 102,
+    "key": "FX_SmokeAtlas_01_N"
+  },
+  {
+    "unk_0": 101,
+    "key": "FX_Dust_02"
+  },
+  {
+    "unk_0": 101,
+    "key": "FX_Debris_03"
+  },
+  {
+    "unk_0": 101,
+    "key": "FX_SmokeAtlas_02"
+  },
+  {
+    "unk_0": 102,
+    "key": "FX_SmokeAtlas_01_N"
+  },
+  {
+    "unk_0": 101,
+    "key": "FX_Blast_08"
+  },
+  {
+    "unk_0": 102,
+    "key": "FX_Fire_HeatPattern_02_N"
+  },
+  {
+    "unk_0": 101,
+    "key": "FX_lightrays_dblEnded"
+  },
+  {
+    "unk_0": 101,
+    "key": "FX_SmokeAtlas_04"
+  },
+  {
+    "unk_0": 101,
+    "key": "FX_FlameLicks_desat"
+  },
+  {
+    "unk_0": 101,
+    "key": "fx_at_smokelooop"
+  },
+  {
+    "unk_0": 101,
+    "key": "FX_SmokeAtlas_02"
+  },
+  {
+    "unk_0": 102,
+    "key": "FX_SmokeAtlas_01_N"
+  },
+  {
+    "unk_0": 101,
+    "key": "FX_SmokeAtlas_01"
+  },
+  {
+    "unk_0": 102,
+    "key": "FX_SmokeAtlas_01_N"
+  },
+  {
+    "unk_0": 101,
+    "key": "FX_water_atlas_01"
+  },
+  {
+    "unk_0": 101,
+    "key": "FX_Smoke_Seq_01"
+  },
+  {
+    "unk_0": 101,
+    "key": "FX_SparkSinlge_02"
+  },
+  {
+    "unk_0": 101,
+    "key": "FX_rock_01_D"
+  },
+  {
+    "unk_0": 102,
+    "key": "FX_rock_01_N"
+  },
+  {
+    "unk_0": 101,
+    "key": "fx_mage_bubble_02"
+  },
+  {
+    "unk_0": 101,
+    "key": "FX_CapturePoint_Blessed"
+  },
+  {
+    "unk_0": 101,
+    "key": "fx_mage_bubble_02"
+  },
+  {
+    "unk_0": 101,
+    "key": "fx_mage_bubble_02"
+  },
+  {
+    "unk_0": 102,
+    "key": "FX_CloakHaze_01_N"
+  },
+  {
+    "unk_0": 101,
+    "key": "FX_FlameLicks"
+  },
+  {
+    "unk_0": 101,
+    "key": "FX_SmokeAtlas_04"
+  },
+  {
+    "unk_0": 101,
+    "key": "FX_lightningStrike_22"
+  },
+  {
+    "unk_0": 101,
+    "key": "FX_SmokeAtlas_01"
+  },
+  {
+    "unk_0": 102,
+    "key": "FX_SmokeAtlas_01_N"
+  },
+  {
+    "unk_0": 101,
+    "key": "FX_HitFlash"
+  },
+  {
+    "unk_0": 101,
+    "key": "fx_water_splash"
+  },
+  {
+    "unk_0": 101,
+    "key": "FX_water_atlas_01"
+  },
+  {
+    "unk_0": 101,
+    "key": "Fx_FlameLoop_18"
+  },
+  {
+    "unk_0": 101,
+    "key": "Fx_FlameLoop_04"
+  },
+  {
+    "unk_0": 101,
+    "key": "Fx_FlameLoop_04"
+  },
+  {
+    "unk_0": 101,
+    "key": "Fx_FlameLoop_18"
+  },
+  {
+    "unk_0": 101,
+    "key": "fx_at_smokelooop"
+  },
+  {
+    "unk_0": 101,
+    "key": "FX_SmokeAtlas_02"
+  },
+  {
+    "unk_0": 102,
+    "key": "FX_SmokeAtlas_01_N"
+  },
+  {
+    "unk_0": 101,
+    "key": "FX_SparkSinlge_01"
+  },
+  {
+    "unk_0": 101,
+    "key": "FX_AT_Spark_02"
+  },
+  {
+    "unk_0": 101,
+    "key": "FX_SparkHitCore_01"
+  },
+  {
+    "unk_0": 101,
+    "key": "FX_SparkHitPang_01"
+  },
+  {
+    "unk_0": 101,
+    "key": "FX_Blast_08"
+  },
+  {
+    "unk_0": 101,
+    "key": "FX_SparkSinlge_03"
+  },
+  {
+    "unk_0": 101,
+    "key": "FX_SparkSinlge_03"
+  },
+  {
+    "unk_0": 101,
+    "key": "FX_SparkSinlge_03"
+  },
+  {
+    "unk_0": 101,
+    "key": "Fx_FlameLoop_18"
+  },
+  {
+    "unk_0": 101,
+    "key": "Fx_FlameLoop_04"
+  },
+  {
+    "unk_0": 101,
+    "key": "Fx_FlameLoop_04"
+  },
+  {
+    "unk_0": 101,
+    "key": "Fx_FlameLoop_18"
+  },
+  {
+    "unk_0": 101,
+    "key": "FX_Debris_03"
+  },
+  {
+    "unk_0": 101,
+    "key": "fx_water_splash"
+  },
+  {
+    "unk_0": 101,
+    "key": "fx_at_smokelooop"
+  },
+  {
+    "unk_0": 101,
+    "key": "fx_at_flameloop03"
+  },
+  {
+    "unk_0": 101,
+    "key": "fx_at_flameloop03"
+  },
+  {
+    "unk_0": 101,
+    "key": "fx_at_fireFR"
+  },
+  {
+    "unk_0": 101,
+    "key": "Fx_FlameLoop_04"
+  },
+  {
+    "unk_0": 101,
+    "key": "FX_SparkSinlge_03"
+  },
+  {
+    "unk_0": 101,
+    "key": "FX_AT_Spark_02"
+  },
+  {
+    "unk_0": 101,
+    "key": "FX_SparkHitCore_01"
+  },
+  {
+    "unk_0": 101,
+    "key": "FX_SparkHitPang_01"
+  },
+  {
+    "unk_0": 101,
+    "key": "FX_Blast_08"
+  },
+  {
+    "unk_0": 101,
+    "key": "Fx_FlameLoop_04"
+  },
+  {
+    "unk_0": 101,
+    "key": "FX_Dust_02"
+  },
+  {
+    "unk_0": 101,
+    "key": "FX_FlameLicks"
+  },
+  {
+    "unk_0": 102,
+    "key": "FX_Fire_HeatPattern_03_N"
+  },
+  {
+    "unk_0": 101,
+    "key": "FX_SmokeAtlas_04"
+  },
+  {
+    "unk_0": 101,
+    "key": "FX_Debris_03"
+  },
+  {
+    "unk_0": 101,
+    "key": "FX_SparkSinlge_03"
+  },
+  {
+    "unk_0": 101,
+    "key": "FX_HitFlash"
+  },
+  {
+    "unk_0": 101,
+    "key": "Fx_FlameLoop_04_desat"
+  },
+  {
+    "unk_0": 101,
+    "key": "FX_Blast_08"
+  },
+  {
+    "unk_0": 0,
+    "key": "FX_ShockTorus_02"
+  },
+  {
+    "unk_0": 101,
+    "key": "FX_Blast_08"
+  },
+  {
+    "unk_0": 101,
+    "key": "FX_SmokeAtlas_02"
+  },
+  {
+    "unk_0": 102,
+    "key": "FX_SmokeAtlas_01_N"
+  },
+  {
+    "unk_0": 101,
+    "key": "FX_FlameLicks"
+  },
+  {
+    "unk_0": 101,
+    "key": "Fx_FlameLoop_04"
+  },
+  {
+    "unk_0": 101,
+    "key": "FX_AT_Spark_02"
+  },
+  {
+    "unk_0": 101,
+    "key": "FX_SparkSinlge_01"
+  },
+  {
+    "unk_0": 102,
+    "key": "FX_Fire_HeatPattern_03_N"
+  },
+  {
+    "unk_0": 101,
+    "key": "Fx_FlameLoop_04"
+  },
+  {
+    "unk_0": 101,
+    "key": "FX_Debris_03"
+  },
+  {
+    "unk_0": 101,
+    "key": "FX_SparkHitCore_01"
+  },
+  {
+    "unk_0": 101,
+    "key": "FX_SparkHitPang_01"
+  },
+  {
+    "unk_0": 101,
+    "key": "FX_Blast_08"
+  },
+  {
+    "unk_0": 101,
+    "key": "FX_SmokeAtlas_02"
+  },
+  {
+    "unk_0": 101,
+    "key": "Fx_FlameLoop_18"
+  },
+  {
+    "unk_0": 101,
+    "key": "Fx_FlameLoop_04"
+  },
+  {
+    "unk_0": 101,
+    "key": "Fx_FlameLoop_04"
+  },
+  {
+    "unk_0": 101,
+    "key": "Fx_FlameLoop_18"
+  },
+  {
+    "unk_0": 101,
+    "key": "FX_HitFlash"
+  },
+  {
+    "unk_0": 101,
+    "key": "FX_SmokeAtlas_04"
+  },
+  {
+    "unk_0": 101,
+    "key": "FX_SparkSinlge_03"
+  },
+  {
+    "unk_0": 101,
+    "key": "fx_at_smokelooop"
+  },
+  {
+    "unk_0": 101,
+    "key": "fx_at_smokelooop"
+  },
+  {
+    "unk_0": 101,
+    "key": "fx_at_smokelooop"
+  },
+  {
+    "unk_0": 101,
+    "key": "fx_at_flameloop03"
+  },
+  {
+    "unk_0": 101,
+    "key": "fx_at_flameloop03"
+  },
+  {
+    "unk_0": 101,
+    "key": "fx_at_fireFR"
+  },
+  {
+    "unk_0": 101,
+    "key": "FX_water_atlas_01"
+  },
+  {
+    "unk_0": 101,
+    "key": "FX_water_atlas_01"
+  },
+  {
+    "unk_0": 101,
+    "key": "FX_water_atlas_01"
+  },
+  {
+    "unk_0": 101,
+    "key": "FX_Debris_03"
+  },
+  {
+    "unk_0": 101,
+    "key": "FX_SparkSinlge_03"
+  },
+  {
+    "unk_0": 101,
+    "key": "FX_CapturePoint_Blessed_03"
+  },
+  {
+    "unk_0": 101,
+    "key": "FX_HitFlash"
+  },
+  {
+    "unk_0": 101,
+    "key": "FX_SmokeAtlas_04"
+  },
+  {
+    "unk_0": 101,
+    "key": "FX_Blast_08"
+  },
+  {
+    "unk_0": 101,
+    "key": "FX_warcry_blast"
+  },
+  {
+    "unk_0": 102,
+    "key": "FX_Fire_HeatPattern_03_N"
+  },
+  {
+    "unk_0": 0,
+    "key": "FX_ShockTorus_01"
+  },
+  {
+    "unk_0": 101,
+    "key": "FX_Blast_08"
+  },
+  {
+    "unk_0": 101,
+    "key": "FX_Debris_03"
+  },
+  {
+    "unk_0": 101,
+    "key": "FX_SparkSinlge_03"
+  },
+  {
+    "unk_0": 101,
+    "key": "FX_HitFlash"
+  },
+  {
+    "unk_0": 101,
+    "key": "FX_SmokeAtlas_04"
+  },
+  {
+    "unk_0": 101,
+    "key": "FX_SmokeAtlas_02"
+  },
+  {
+    "unk_0": 101,
+    "key": "FX_Blast_08"
+  },
+  {
+    "unk_0": 101,
+    "key": "FX_warcry_blast"
+  },
+  {
+    "unk_0": 102,
+    "key": "FX_Fire_HeatPattern_03_N"
+  },
+  {
+    "unk_0": 101,
+    "key": "FX_Dust_02"
+  },
+  {
+    "unk_0": 101,
+    "key": "FX_FlameLicks"
+  },
+  {
+    "unk_0": 102,
+    "key": "FX_Fire_HeatPattern_03_N"
+  },
+  {
+    "unk_0": 101,
+    "key": "fx_at_smokelooop"
+  },
+  {
+    "unk_0": 101,
+    "key": "FX_Debris_03"
+  },
+  {
+    "unk_0": 101,
+    "key": "FX_SparkSinlge_03"
+  },
+  {
+    "unk_0": 101,
+    "key": "FX_HitFlash"
+  },
+  {
+    "unk_0": 101,
+    "key": "FX_SmokeAtlas_04"
+  },
+  {
+    "unk_0": 101,
+    "key": "FX_SmokeAtlas_02"
+  },
+  {
+    "unk_0": 101,
+    "key": "FX_SmokeAtlas_02"
+  },
+  {
+    "unk_0": 102,
+    "key": "FX_SmokeAtlas_01_N"
+  },
+  {
+    "unk_0": 101,
+    "key": "FX_HitFlash"
+  },
+  {
+    "unk_0": 101,
+    "key": "FX_HitFlash"
+  },
+  {
+    "unk_0": 101,
+    "key": "FX_Dust_02"
+  },
+  {
+    "unk_0": 101,
+    "key": "FX_Blast_08"
+  },
+  {
+    "unk_0": 101,
+    "key": "FX_SparkSinlge_03"
+  },
+  {
+    "unk_0": 101,
+    "key": "FX_lightrays_dblEnded"
+  },
+  {
+    "unk_0": 101,
+    "key": "FX_FlameLicks_desat"
+  },
+  {
+    "unk_0": 101,
+    "key": "FX_SparkSinlge_03"
+  },
+  {
+    "unk_0": 101,
+    "key": "FX_SparkHitCore_01"
+  },
+  {
+    "unk_0": 101,
+    "key": "FX_SparkHitPang_01"
+  },
+  {
+    "unk_0": 101,
+    "key": "Fx_FlameLoop_04_desat"
+  },
+  {
+    "unk_0": 101,
+    "key": "FX_Debris_03"
+  },
+  {
+    "unk_0": 101,
+    "key": "FX_SmokeAtlas_02"
+  },
+  {
+    "unk_0": 102,
+    "key": "FX_SmokeAtlas_01_N"
+  },
+  {
+    "unk_0": 101,
+    "key": "FX_FlameLicks"
+  },
+  {
+    "unk_0": 101,
+    "key": "FX_Smoke_Seq_01"
+  },
+  {
+    "unk_0": 101,
+    "key": "FX_SparkSinlge_02"
+  },
+  {
+    "unk_0": 101,
+    "key": "FX_rock_01_D"
+  },
+  {
+    "unk_0": 102,
+    "key": "FX_rock_01_N"
+  },
+  {
+    "unk_0": 101,
+    "key": "FX_Smoke_Seq_01"
+  },
+  {
+    "unk_0": 101,
+    "key": "FX_Glow_Spark"
+  },
+  {
+    "unk_0": 101,
+    "key": "FX_SparkSinlge_01_alpha"
+  },
+  {
+    "unk_0": 101,
+    "key": "FX_SparkSinlge_02"
+  },
+  {
+    "unk_0": 101,
+    "key": "FX_Ember"
+  },
+  {
+    "unk_0": 101,
+    "key": "FX_Smoke_Seq_01"
+  },
+  {
+    "unk_0": 101,
+    "key": "FX_SparkSinlge_02"
+  },
+  {
+    "unk_0": 101,
+    "key": "FX_Ember"
+  },
+  {
+    "unk_0": 101,
+    "key": "FX_Smoke_Seq_01"
+  },
+  {
+    "unk_0": 101,
+    "key": "FX_SmokeAtlas_02"
+  },
+  {
+    "unk_0": 102,
+    "key": "FX_SmokeAtlas_01_N"
+  },
+  {
+    "unk_0": 101,
+    "key": "fx_at_smokelooop"
+  },
+  {
+    "unk_0": 101,
+    "key": "FX_HitFlash"
+  },
+  {
+    "unk_0": 101,
+    "key": "FX_HitFlash"
+  },
+  {
+    "unk_0": 101,
+    "key": "FX_SmokeAtlas_04"
+  },
+  {
+    "unk_0": 101,
+    "key": "fx_at_smokelooop"
+  },
+  {
+    "unk_0": 0,
+    "key": "FX_ShockTorus_02"
+  },
+  {
+    "unk_0": 101,
+    "key": "FX_Blast_08"
+  },
+  {
+    "unk_0": 101,
+    "key": "FX_SmokeAtlas_02"
+  },
+  {
+    "unk_0": 101,
+    "key": "FX_SmokeAtlas_02"
+  },
+  {
+    "unk_0": 101,
+    "key": "FX_Debris_03"
+  },
+  {
+    "unk_0": 101,
+    "key": "FX_HitFlash"
+  },
+  {
+    "unk_0": 101,
+    "key": "FX_Blast_08"
+  },
+  {
+    "unk_0": 101,
+    "key": "FX_SparkSinlge_03"
+  },
+  {
+    "unk_0": 101,
+    "key": "FX_Blast_08"
+  },
+  {
+    "unk_0": 102,
+    "key": "FX_Fire_HeatPattern_02_N"
+  },
+  {
+    "unk_0": 101,
+    "key": "Fx_FlameLoop_18"
+  },
+  {
+    "unk_0": 101,
+    "key": "Fx_FlameLoop_04"
+  },
+  {
+    "unk_0": 101,
+    "key": "Fx_FlameLoop_04"
+  },
+  {
+    "unk_0": 101,
+    "key": "Fx_FlameLoop_18"
+  },
+  {
+    "unk_0": 101,
+    "key": "FX_SmokeAtlas_04"
+  },
+  {
+    "unk_0": 101,
+    "key": "FX_lightningStrike_29"
+  },
+  {
+    "unk_0": 101,
+    "key": "FX_SmokeAtlas_01"
+  },
+  {
+    "unk_0": 102,
+    "key": "FX_SmokeAtlas_01_N"
+  },
+  {
+    "unk_0": 101,
+    "key": "FX_smokeAge_02_d"
+  },
+  {
+    "unk_0": 102,
+    "key": "FX_smokeAge_02_n"
+  },
+  {
+    "unk_0": 0,
+    "key": "WP_gdr_Ballista_Debris_01"
+  },
+  {
+    "unk_0": 101,
+    "key": "FX_smokeAge_02_d"
+  },
+  {
+    "unk_0": 0,
+    "key": "WP_gdr_Ballista_Debris_02"
+  },
+  {
+    "unk_0": 101,
+    "key": "FX_smokeAge_02_d"
+  },
+  {
+    "unk_0": 0,
+    "key": "WP_gdr_Ballista_Debris_03"
+  },
+  {
+    "unk_0": 101,
+    "key": "FX_smokeAge_02_d"
+  },
+  {
+    "unk_0": 0,
+    "key": "WP_gdr_Ballista_Debris_04"
+  },
+  {
+    "unk_0": 101,
+    "key": "FX_smokeAge_02_d"
+  },
+  {
+    "unk_0": 0,
+    "key": "WP_gdr_Ballista_Debris_05"
+  },
+  {
+    "unk_0": 101,
+    "key": "FX_smokeAge_02_d"
+  },
+  {
+    "unk_0": 101,
+    "key": "FX_SmokeAtlas_02"
+  },
+  {
+    "unk_0": 102,
+    "key": "FX_SmokeAtlas_01_N"
+  },
+  {
+    "unk_0": 101,
+    "key": "Fx_FlameLoop_18"
+  },
+  {
+    "unk_0": 101,
+    "key": "Fx_FlameLoop_04"
+  },
+  {
+    "unk_0": 101,
+    "key": "Fx_FlameLoop_04"
+  },
+  {
+    "unk_0": 101,
+    "key": "Fx_FlameLoop_18"
+  },
+  {
+    "unk_0": 101,
+    "key": "FX_SparkSinlge_03"
+  },
+  {
+    "unk_0": 101,
+    "key": "FX_AT_Spark_02"
+  },
+  {
+    "unk_0": 101,
+    "key": "FX_SparkHitCore_01"
+  },
+  {
+    "unk_0": 101,
+    "key": "FX_SparkHitPang_01"
+  },
+  {
+    "unk_0": 101,
+    "key": "FX_Blast_08"
+  },
+  {
+    "unk_0": 101,
+    "key": "FX_SmokeAtlas_02"
+  },
+  {
+    "unk_0": 101,
+    "key": "FX_SmokeAtlas_02"
+  },
+  {
+    "unk_0": 102,
+    "key": "FX_SmokeAtlas_01_N"
+  },
+  {
+    "unk_0": 101,
+    "key": "fx_at_smokelooop"
+  },
+  {
+    "unk_0": 101,
+    "key": "FX_HitFlash"
+  },
+  {
+    "unk_0": 101,
+    "key": "FX_HitFlash"
+  },
+  {
+    "unk_0": 101,
+    "key": "FX_FlameLicks_desat"
+  },
+  {
+    "unk_0": 101,
+    "key": "FX_SmokeAtlas_02"
+  },
+  {
+    "unk_0": 102,
+    "key": "FX_SmokeAtlas_01_N"
+  },
+  {
+    "unk_0": 101,
+    "key": "Fx_FlameLoop_18"
+  },
+  {
+    "unk_0": 101,
+    "key": "Fx_FlameLoop_04"
+  },
+  {
+    "unk_0": 101,
+    "key": "Fx_FlameLoop_04"
+  },
+  {
+    "unk_0": 101,
+    "key": "Fx_FlameLoop_18"
+  },
+  {
+    "unk_0": 101,
+    "key": "fx_at_smokelooop"
+  },
+  {
+    "unk_0": 101,
+    "key": "FX_Debris_03"
+  },
+  {
+    "unk_0": 101,
+    "key": "FX_SparkSinlge_03"
+  },
+  {
+    "unk_0": 101,
+    "key": "FX_CapturePoint_Blessed_03"
+  },
+  {
+    "unk_0": 101,
+    "key": "FX_CapturePoint_Blessed_03"
+  },
+  {
+    "unk_0": 0,
+    "key": "FX_ShockTorus_01"
+  },
+  {
+    "unk_0": 101,
+    "key": "FX_Blast_08"
+  },
+  {
+    "unk_0": 101,
+    "key": "FX_HitFlash"
+  },
+  {
+    "unk_0": 101,
+    "key": "FX_SmokeAtlas_04"
+  },
+  {
+    "unk_0": 101,
+    "key": "FX_SmokeAtlas_02"
+  },
+  {
+    "unk_0": 101,
+    "key": "FX_Blast_08"
+  },
+  {
+    "unk_0": 101,
+    "key": "FX_warcry_blast"
+  },
+  {
+    "unk_0": 102,
+    "key": "FX_Fire_HeatPattern_03_N"
+  },
+  {
+    "unk_0": 101,
+    "key": "Fx_FlameLoop_18"
+  },
+  {
+    "unk_0": 101,
+    "key": "Fx_FlameLoop_04"
+  },
+  {
+    "unk_0": 101,
+    "key": "Fx_FlameLoop_04"
+  },
+  {
+    "unk_0": 101,
+    "key": "Fx_FlameLoop_18"
+  },
+  {
+    "unk_0": 101,
+    "key": "FX_Smoke_Seq_01"
+  },
+  {
+    "unk_0": 101,
+    "key": "FX_SparkSinlge_02"
+  },
+  {
+    "unk_0": 101,
+    "key": "FX_rock_01_D"
+  },
+  {
+    "unk_0": 102,
+    "key": "FX_rock_01_N"
+  },
+  {
+    "unk_0": 101,
+    "key": "FX_SmokeBig"
+  },
+  {
+    "unk_0": 101,
+    "key": "FX_Spark_01"
+  },
+  {
+    "unk_0": 101,
+    "key": "fx_ignition_ember_01"
+  },
+  {
+    "unk_0": 101,
+    "key": "Fx_FlameLoop_18"
+  },
+  {
+    "unk_0": 101,
+    "key": "Fx_FlameLoop_04"
+  },
+  {
+    "unk_0": 101,
+    "key": "Fx_FlameLoop_04"
+  },
+  {
+    "unk_0": 101,
+    "key": "Fx_FlameLoop_18"
+  },
+  {
+    "unk_0": 101,
+    "key": "Fx_FlameLoop_18"
+  },
+  {
+    "unk_0": 101,
+    "key": "Fx_FlameLoop_04"
+  },
+  {
+    "unk_0": 101,
+    "key": "Fx_FlameLoop_04"
+  },
+  {
+    "unk_0": 101,
+    "key": "Fx_FlameLoop_18"
+  },
+  {
+    "unk_0": 101,
+    "key": "FX_DustCloud"
+  },
+  {
+    "unk_0": 101,
+    "key": "FX_SmokeAtlas_01"
+  },
+  {
+    "unk_0": 102,
+    "key": "FX_SmokeAtlas_01_N"
+  },
+  {
+    "unk_0": 101,
+    "key": "FX_SparkSinlge_03"
+  },
+  {
+    "unk_0": 101,
+    "key": "FX_SparkHitCore_01"
+  },
+  {
+    "unk_0": 101,
+    "key": "FX_SparkHitPang_01"
+  },
+  {
+    "unk_0": 101,
+    "key": "FX_SparkSinlge_03"
+  },
+  {
+    "unk_0": 101,
+    "key": "FX_AT_Spark_02"
+  },
+  {
+    "unk_0": 101,
+    "key": "FX_SparkHitCore_01"
+  },
+  {
+    "unk_0": 101,
+    "key": "FX_SparkHitPang_01"
+  },
+  {
+    "unk_0": 101,
+    "key": "FX_Blast_08"
+  },
+  {
+    "unk_0": 101,
+    "key": "FX_Debris_03"
+  },
+  {
+    "unk_0": 101,
+    "key": "FX_SparkSinlge_03"
+  },
+  {
+    "unk_0": 0,
+    "key": "FX_ShockTorus_02"
+  },
+  {
+    "unk_0": 101,
+    "key": "FX_Blast_08"
+  },
+  {
+    "unk_0": 0,
+    "key": "FX_MageBubble_01"
+  },
+  {
+    "unk_0": 101,
+    "key": "FX_Blast_08"
+  },
+  {
+    "unk_0": 101,
+    "key": "FX_HitFlash"
+  },
+  {
+    "unk_0": 101,
+    "key": "FX_Blast_08"
+  },
+  {
+    "unk_0": 101,
+    "key": "Fx_FlameLoop_04_desat"
+  },
+  {
+    "unk_0": 101,
+    "key": "FX_SmokeAtlas_04"
+  },
+  {
+    "unk_0": 101,
+    "key": "FX_Blast_08"
+  },
+  {
+    "unk_0": 102,
+    "key": "FX_Fire_HeatPattern_02_N"
+  },
+  {
+    "unk_0": 101,
+    "key": "FX_SmokeAtlas_02"
+  },
+  {
+    "unk_0": 102,
+    "key": "FX_SmokeAtlas_01_N"
+  },
+  {
+    "unk_0": 101,
+    "key": "FX_SparkSinlge_03"
+  },
+  {
+    "unk_0": 101,
+    "key": "FX_Dust_02"
+  },
+  {
+    "unk_0": 101,
+    "key": "FX_Debris_03"
+  },
+  {
+    "unk_0": 101,
+    "key": "FX_SmokeAtlas_04"
+  },
+  {
+    "unk_0": 102,
+    "key": "FX_SmokeAtlas_04_N"
+  },
+  {
+    "unk_0": 101,
+    "key": "fx_at_smokelooop"
+  },
+  {
+    "unk_0": 101,
+    "key": "FX_SmokeAtlas_02"
+  },
+  {
+    "unk_0": 102,
+    "key": "FX_SmokeAtlas_01_N"
+  },
+  {
+    "unk_0": 101,
+    "key": "Fx_FlameLoop_18"
+  },
+  {
+    "unk_0": 101,
+    "key": "Fx_FlameLoop_04"
+  },
+  {
+    "unk_0": 101,
+    "key": "Fx_FlameLoop_04"
+  },
+  {
+    "unk_0": 101,
+    "key": "Fx_FlameLoop_18"
+  },
+  {
+    "unk_0": 101,
+    "key": "FX_FlameLicks_desat"
+  },
+  {
+    "unk_0": 101,
+    "key": "FX_FlameLicks_desat"
+  },
+  {
+    "unk_0": 101,
+    "key": "FX_lightrays_dblEnded"
+  },
+  {
+    "unk_0": 101,
+    "key": "FX_SmokeAtlas_02"
+  },
+  {
+    "unk_0": 101,
+    "key": "FX_SparkSinlge_03"
+  },
+  {
+    "unk_0": 101,
+    "key": "FX_AT_Spark_02"
+  },
+  {
+    "unk_0": 101,
+    "key": "FX_SparkSinlge_01"
+  },
+  {
+    "unk_0": 102,
+    "key": "FX_Fire_HeatPattern_02_N"
+  },
+  {
+    "unk_0": 101,
+    "key": "FX_AT_Spark_02"
+  },
+  {
+    "unk_0": 101,
+    "key": "FX_SparkHitCore_01"
+  },
+  {
+    "unk_0": 101,
+    "key": "FX_SparkHitPang_01"
+  },
+  {
+    "unk_0": 101,
+    "key": "FX_Blast_08"
+  },
+  {
+    "unk_0": 101,
+    "key": "Fx_FlameLoop_04"
+  },
+  {
+    "unk_0": 101,
+    "key": "FX_SparkSinlge_03"
+  },
+  {
+    "unk_0": 101,
+    "key": "FX_AT_Spark_02"
+  },
+  {
+    "unk_0": 101,
+    "key": "FX_SparkHitCore_01"
+  },
+  {
+    "unk_0": 101,
+    "key": "FX_SparkHitPang_01"
+  },
+  {
+    "unk_0": 101,
+    "key": "FX_Blast_08"
+  },
+  {
+    "unk_0": 101,
+    "key": "FX_Dust_02"
+  },
+  {
+    "unk_0": 101,
+    "key": "FX_SmokeAtlas_04"
+  },
+  {
+    "unk_0": 101,
+    "key": "FX_HitFlash"
+  },
+  {
+    "unk_0": 101,
+    "key": "FX_HitFlash"
+  },
+  {
+    "unk_0": 101,
+    "key": "FX_Dust_02"
+  },
+  {
+    "unk_0": 101,
+    "key": "FX_Blast_08"
+  },
+  {
+    "unk_0": 101,
+    "key": "FX_AT_Spark_02"
+  },
+  {
+    "unk_0": 101,
+    "key": "FX_FlameLicks"
+  },
+  {
+    "unk_0": 101,
+    "key": "FX_whisps_01"
+  },
+  {
+    "unk_0": 101,
+    "key": "Fx_FlameLoop_18"
+  },
+  {
+    "unk_0": 101,
+    "key": "Fx_FlameLoop_04"
+  },
+  {
+    "unk_0": 101,
+    "key": "Fx_FlameLoop_04"
+  },
+  {
+    "unk_0": 101,
+    "key": "Fx_FlameLoop_18"
+  },
+  {
+    "unk_0": 101,
+    "key": "FX_SmokeAtlas_04"
+  },
+  {
+    "unk_0": 101,
+    "key": "FX_CapturePoint_Blessed"
+  },
+  {
+    "unk_0": 101,
+    "key": "FX_Explosion_Seq_01"
+  },
+  {
+    "unk_0": 101,
+    "key": "FX_SparkSinlge_01"
+  },
+  {
+    "unk_0": 101,
+    "key": "FX_SmokeAtlas_01"
+  },
+  {
+    "unk_0": 101,
+    "key": "FX_SmokeAtlas_01"
+  },
+  {
+    "unk_0": 102,
+    "key": "FX_CloakHaze_01_N"
+  },
+  {
+    "unk_0": 101,
+    "key": "FX_HitFlash"
+  },
+  {
+    "unk_0": 101,
+    "key": "FX_FlameLicks"
+  },
+  {
+    "unk_0": 2,
+    "key": "RVD_PR_ElrondChair_01_01_D"
+  },
+  {
+    "unk_0": 1,
+    "key": "RVD_PR_ElrondChair_01_01_N"
+  },
+  {
+    "unk_0": 2,
+    "key": "RVD_PR_ElrondChair_01_02_D"
+  },
+  {
+    "unk_0": 1,
+    "key": "RVD_PR_ElrondChair_01_02_N"
+  },
+  {
+    "unk_0": 2,
+    "key": "WP_gdr_lightsword_01_D"
+  },
+  {
+    "unk_0": 1,
+    "key": "WP_gdr_lightsword_01_N"
+  },
+  {
+    "unk_0": 2,
+    "key": "CH_elf_ancn_swd_01_head_D"
+  },
+  {
+    "unk_0": 1,
+    "key": "CH_elf_ancn_swd_01_head_N"
+  },
+  {
+    "unk_0": 2,
+    "key": "CH_elf_ancn_swd_01_head_S"
+  },
+  {
+    "unk_0": 2,
+    "key": "CH_elf_ancn_swd_01_helmet_D"
+  },
+  {
+    "unk_0": 1,
+    "key": "CH_EnvMapMask_02_N"
+  },
+  {
+    "unk_0": 2,
+    "key": "CH_elf_ancn_swd_01_helmet_S"
+  },
+  {
+    "unk_0": 1,
+    "key": "CH_elf_ancn_swd_01_helmet_N"
+  },
+  {
+    "unk_0": 2,
+    "key": "CH_elf_ancn_swd_01_lb_D"
+  },
+  {
+    "unk_0": 2,
+    "key": "CH_elf_ancn_swd_01_lb_G"
+  },
+  {
+    "unk_0": 1,
+    "key": "CH_elf_ancn_swd_01_lb_N"
+  },
+  {
+    "unk_0": 2,
+    "key": "CH_elf_ancn_swd_01_lb_S"
+  },
+  {
+    "unk_0": 2,
+    "key": "CH_elf_ancn_swd_01_ub_D"
+  },
+  {
+    "unk_0": 2,
+    "key": "CH_elf_ancn_swd_01_ub_G"
+  },
+  {
+    "unk_0": 1,
+    "key": "CH_EnvMapMask_02_N"
+  },
+  {
+    "unk_0": 2,
+    "key": "CH_elf_ancn_swd_01_ub_S"
+  },
+  {
+    "unk_0": 1,
+    "key": "CH_elf_ancn_swd_01_ub_N"
+  },
+  {
+    "unk_0": 2,
+    "key": "WP_Saruman_Staff_01_D"
+  },
+  {
+    "unk_0": 1,
+    "key": "WP_Saruman_Staff_01_N"
+  },
+  {
+    "unk_0": 2,
+    "key": "WP_Saruman_Staff_01_S"
+  },
+  {
+    "unk_0": 2,
+    "key": "RVD_BR_Gazebo_01_arches_D"
+  },
+  {
+    "unk_0": 1,
+    "key": "RVD_BR_Gazebo_01_arches_N"
+  },
+  {
+    "unk_0": 2,
+    "key": "RVD_GB_StoneSmooth_01_D"
+  },
+  {
+    "unk_0": 1,
+    "key": "RVD_GB_StoneSmooth_01_N"
+  },
+  {
+    "unk_0": 2,
+    "key": "RVD_GB_StoneStairs_02_D"
+  },
+  {
+    "unk_0": 1,
+    "key": "RVD_GB_StoneStairs_02_N"
+  },
+  {
+    "unk_0": 2,
+    "key": "RVD_GB_StoneGround_02_D"
+  },
+  {
+    "unk_0": 1,
+    "key": "RVD_GB_StoneGround_02_N"
+  },
+  {
+    "unk_0": 2,
+    "key": "RVD_BL_Trim_02_D"
+  },
+  {
+    "unk_0": 1,
+    "key": "RVD_BL_Trim_02_N"
+  },
+  {
+    "unk_0": 2,
+    "key": "RVD_PR_NarsilStatue_01_D"
+  },
+  {
+    "unk_0": 1,
+    "key": "RVD_PR_NarsilStatue_01_N"
+  },
+  {
+    "unk_0": 2,
+    "key": "RVD_Billboard_02_D"
+  },
+  {
+    "unk_0": 2,
+    "key": "PR_gdr_ancn_Banner_01_D"
+  },
+  {
+    "unk_0": 2,
+    "key": "PR_gdr_ancn_Banner_01_S"
+  },
+  {
+    "unk_0": 2,
+    "key": "PR_gdr_ancn_Banner_01_D"
+  },
+  {
+    "unk_0": 2,
+    "key": "PR_gdr_ancn_Banner_01_S"
+  },
+  {
+    "unk_0": 2,
+    "key": "RVD_PR_CouncilChair_02_D"
+  },
+  {
+    "unk_0": 1,
+    "key": "RVD_PR_CouncilChair_02_N"
+  },
+  {
+    "unk_0": 2,
+    "key": "RVD_BR_Gazebo_01_arches_D"
+  },
+  {
+    "unk_0": 1,
+    "key": "RVD_BR_Gazebo_01_arches_N"
+  },
+  {
+    "unk_0": 2,
+    "key": "RVD_GB_GreenWood_01_D"
+  },
+  {
+    "unk_0": 1,
+    "key": "RVD_GB_GreenWood_01_N"
+  },
+  {
+    "unk_0": 2,
+    "key": "wp_gdr_longbow_2_D"
+  },
+  {
+    "unk_0": 2,
+    "key": "WP_urk_quiver_01_D"
+  },
+  {
+    "unk_0": 2,
+    "key": "CH_gdr_guard_all_01_cloth_D"
+  },
+  {
+    "unk_0": 2,
+    "key": "CH_gdr_guard_all_01_cloth_S"
+  },
+  {
+    "unk_0": 2,
+    "key": "CH_gdr_guard_all_01_cloth_D"
+  },
+  {
+    "unk_0": 2,
+    "key": "CH_gdr_guard_all_01_cloth_S"
+  },
+  {
+    "unk_0": 2,
+    "key": "CH_gdr_guard_all_01_cloth_D"
+  },
+  {
+    "unk_0": 2,
+    "key": "CH_gdr_guard_all_01_cloth_D"
+  },
+  {
+    "unk_0": 1,
+    "key": "CH_gdr_guard_all_01_cloth_N"
+  },
+  {
+    "unk_0": 2,
+    "key": "CH_gdr_guard_all_01_cloth_S"
+  },
+  {
+    "unk_0": 2,
+    "key": "CH_gdr_guard_all_01_eyes area_D"
+  },
+  {
+    "unk_0": 1,
+    "key": "CH_gdr_guard_all_01_eyes area_N"
+  },
+  {
+    "unk_0": 2,
+    "key": "CH_gdr_guard_all_01_eyes area_S"
+  },
+  {
+    "unk_0": 2,
+    "key": "CH_gdr_guard_all_01_metal_D"
+  },
+  {
+    "unk_0": 1,
+    "key": "CH_EnvMapMask_01_N"
+  },
+  {
+    "unk_0": 2,
+    "key": "CH_gdr_guard_all_01_metal_S"
+  },
+  {
+    "unk_0": 1,
+    "key": "CH_gdr_guard_all_01_metal_N"
+  },
+  {
+    "unk_0": 2,
+    "key": "CH_gdr_guard_all_01_metal_D"
+  },
+  {
+    "unk_0": 2,
+    "key": "RVD_GB_GreenWood_01_D"
+  },
+  {
+    "unk_0": 1,
+    "key": "RVD_GB_GreenWood_01_N"
+  },
+  {
+    "unk_0": 2,
+    "key": "RVD_GB_BrokenStone_01_D"
+  },
+  {
+    "unk_0": 1,
+    "key": "RVD_GB_BrokenStone_01_N"
+  },
+  {
+    "unk_0": 2,
+    "key": "RVD_GB_StoneGround_02_D"
+  },
+  {
+    "unk_0": 1,
+    "key": "RVD_GB_StoneGround_02_N"
+  },
+  {
+    "unk_0": 2,
+    "key": "RVD_GB_StoneSmooth_01_D"
+  },
+  {
+    "unk_0": 1,
+    "key": "RVD_GB_StoneSmooth_01_N"
+  },
+  {
+    "unk_0": 2,
+    "key": "RVD_GB_StoneStairs_02_D"
+  },
+  {
+    "unk_0": 1,
+    "key": "RVD_GB_StoneStairs_02_N"
+  },
+  {
+    "unk_0": 2,
+    "key": "RVD_BL_Trim_02_D"
+  },
+  {
+    "unk_0": 1,
+    "key": "RVD_BL_Trim_02_N"
+  },
+  {
+    "unk_0": 2,
+    "key": "RVD_BL_pattern_05_D"
+  },
+  {
+    "unk_0": 1,
+    "key": "RVD_BL_pattern_05_N"
+  },
+  {
+    "unk_0": 2,
+    "key": "FX_CloudyNoise_tiled"
+  },
+  {
+    "unk_0": 2,
+    "key": "WP_orc_Lightsword_1-5_D"
+  },
+  {
+    "unk_0": 1,
+    "key": "WP_orc_Lightsword_1-5_N"
+  },
+  {
+    "unk_0": 2,
+    "key": "WP_orc_Lightsword_1-5_S"
+  },
+  {
+    "unk_0": 2,
+    "key": "RVD_BL_pattern_01_D"
+  },
+  {
+    "unk_0": 1,
+    "key": "RVD_BL_pattern_N"
+  },
+  {
+    "unk_0": 2,
+    "key": "RVD_BL_pattern_01_D"
+  },
+  {
+    "unk_0": 2,
+    "key": "RVD_BL_Trim_02_D"
+  },
+  {
+    "unk_0": 1,
+    "key": "RVD_BL_Trim_02_N"
+  },
+  {
+    "unk_0": 2,
+    "key": "RVD_GB_GreenWood_01_D"
+  },
+  {
+    "unk_0": 1,
+    "key": "RVD_GB_GreenWood_01_N"
+  },
+  {
+    "unk_0": 2,
+    "key": "RVD_PR_Lampstand_01_D"
+  },
+  {
+    "unk_0": 1,
+    "key": "RVD_PR_Lampstand_01_N"
+  },
+  {
+    "unk_0": 2,
+    "key": "RVD_PR_Lampstand_01_D"
+  },
+  {
+    "unk_0": 1,
+    "key": "RVD_PR_Lampstand_01_N"
+  },
+  {
+    "unk_0": 2,
+    "key": "RVD_GB_Ivy_01_D"
+  },
+  {
+    "unk_0": 1,
+    "key": "RVD_GB_Ivy_01_N"
+  },
+  {
+    "unk_0": 2,
+    "key": "RVD_GB_Ivy_01_D"
+  },
+  {
+    "unk_0": 2,
+    "key": "RVD_GB_Moss_02_D"
+  },
+  {
+    "unk_0": 1,
+    "key": "RVD_GB_Moss_02_N"
+  },
+  {
+    "unk_0": 2,
+    "key": "CP_Banner_Pedestal_01_D"
+  },
+  {
+    "unk_0": 1,
+    "key": "CP_Banner_Pedestal_01_N"
+  },
+  {
+    "unk_0": 2,
+    "key": "CP_Banner_Pedestal_01_S"
+  },
+  {
+    "unk_0": 2,
+    "key": "PR_SpawnBanner_Stand_01_D"
+  },
+  {
+    "unk_0": 1,
+    "key": "PR_SpawnBanner_Stand_01_N"
+  },
+  {
+    "unk_0": 2,
+    "key": "PR_SpawnBanner_Stand_01_S"
+  },
+  {
+    "unk_0": 2,
+    "key": "RVD_GB_WoodWall_02_D"
+  },
+  {
+    "unk_0": 1,
+    "key": "RVD_GB_WoodWall_02_N"
+  },
+  {
+    "unk_0": 2,
+    "key": "RVD_GB_GreenWood_01_D"
+  },
+  {
+    "unk_0": 1,
+    "key": "RVD_GB_GreenWood_01_N"
+  },
+  {
+    "unk_0": 2,
+    "key": "RVD_GB_Ivy_01_D"
+  },
+  {
+    "unk_0": 1,
+    "key": "RVD_GB_Ivy_01_N"
+  },
+  {
+    "unk_0": 2,
+    "key": "RVD_GB_Ivy_01_D"
+  },
+  {
+    "unk_0": 2,
+    "key": "RVD_GB_Pattern_01_D"
+  },
+  {
+    "unk_0": 1,
+    "key": "RVD_GB_Pattern_01_N"
+  },
+  {
+    "unk_0": 2,
+    "key": "RVD_GB_Pattern_01_D"
+  },
+  {
+    "unk_0": 2,
+    "key": "RVD_BL_pattern_03_D"
+  },
+  {
+    "unk_0": 1,
+    "key": "RVD_BL_pattern_N"
+  },
+  {
+    "unk_0": 2,
+    "key": "RVD_BL_pattern_03_D"
+  },
+  {
+    "unk_0": 2,
+    "key": "RVD_BL_pattern_04_D"
+  },
+  {
+    "unk_0": 1,
+    "key": "RVD_BL_pattern_N"
+  },
+  {
+    "unk_0": 2,
+    "key": "RVD_BL_pattern_04_D"
+  },
+  {
+    "unk_0": 2,
+    "key": "RVD_GB_RoofTile_01_D"
+  },
+  {
+    "unk_0": 2,
+    "key": "RVD_GB_RoofTile_01_G"
+  },
+  {
+    "unk_0": 1,
+    "key": "RVD_GB_RoofTile_01_N"
+  },
+  {
+    "unk_0": 2,
+    "key": "RVD_GB_StoneGround_02_D"
+  },
+  {
+    "unk_0": 2,
+    "key": "RVD_GB_StainsPAGE_01_G"
+  },
+  {
+    "unk_0": 1,
+    "key": "RVD_GB_StoneGround_02_N"
+  },
+  {
+    "unk_0": 2,
+    "key": "RVD_GB_StoneStairs_02_D"
+  },
+  {
+    "unk_0": 1,
+    "key": "RVD_GB_StoneStairs_02_N"
+  },
+  {
+    "unk_0": 2,
+    "key": "RVD_GB_StoneBrick_02_D"
+  },
+  {
+    "unk_0": 2,
+    "key": "RVD_GB_StainsPAGE_01_G"
+  },
+  {
+    "unk_0": 1,
+    "key": "RVD_GB_StoneBrick_02_N"
+  },
+  {
+    "unk_0": 2,
+    "key": "RVD_BL_Trim_02_D"
+  },
+  {
+    "unk_0": 1,
+    "key": "RVD_BL_Trim_02_N"
+  },
+  {
+    "unk_0": 2,
+    "key": "RVD_GB_WhitePaintWood_01_D"
+  },
+  {
+    "unk_0": 1,
+    "key": "RVD_GB_WhitePaintWood_01_N"
+  },
+  {
+    "unk_0": 2,
+    "key": "RVD_GB_WoodTrim_01_D"
+  },
+  {
+    "unk_0": 1,
+    "key": "RVD_GB_WoodTrim_01_N"
+  },
+  {
+    "unk_0": 2,
+    "key": "RVD_GB_WoodWall_01_D"
+  },
+  {
+    "unk_0": 1,
+    "key": "RVD_GB_WoodWall_01_N"
+  },
+  {
+    "unk_0": 2,
+    "key": "WP_gdr_lightsword_01_D"
+  },
+  {
+    "unk_0": 1,
+    "key": "WP_gdr_lightsword_01_N"
+  },
+  {
+    "unk_0": 2,
+    "key": "RVD_BL_pattern_01_D"
+  },
+  {
+    "unk_0": 1,
+    "key": "RVD_BL_pattern_N"
+  },
+  {
+    "unk_0": 2,
+    "key": "RVD_BL_pattern_01_D"
+  },
+  {
+    "unk_0": 2,
+    "key": "RVD_BL_Trim_02_D"
+  },
+  {
+    "unk_0": 1,
+    "key": "RVD_BL_Trim_02_N"
+  },
+  {
+    "unk_0": 2,
+    "key": "RVD_GB_GreenWood_01_D"
+  },
+  {
+    "unk_0": 1,
+    "key": "RVD_GB_GreenWood_01_N"
+  },
+  {
+    "unk_0": 2,
+    "key": "RVD_GB_StoneSmooth_01_D"
+  },
+  {
+    "unk_0": 1,
+    "key": "RVD_GB_StoneSmooth_01_N"
+  },
+  {
+    "unk_0": 2,
+    "key": "RVD_RD_Footpath_D"
+  },
+  {
+    "unk_0": 1,
+    "key": "RVD_RD_Footpath_N"
+  },
+  {
+    "unk_0": 2,
+    "key": "RVD_GB_StoneGround_02_D"
+  },
+  {
+    "unk_0": 1,
+    "key": "RVD_GB_StoneGround_02_N"
+  },
+  {
+    "unk_0": 2,
+    "key": "WP_elf_ax_01_D"
+  },
+  {
+    "unk_0": 1,
+    "key": "WP_elf_ax_01_N"
+  },
+  {
+    "unk_0": 2,
+    "key": "WP_elf_ax_01_S"
+  },
+  {
+    "unk_0": 2,
+    "key": "FX_CloudyNoise_tiled_02"
+  },
+  {
+    "unk_0": 2,
+    "key": "FX_ElectricArcs_tiled"
+  },
+  {
+    "unk_0": 2,
+    "key": "PR_SpawnBanner_Stand_01_D"
+  },
+  {
+    "unk_0": 1,
+    "key": "PR_SpawnBanner_Stand_01_N"
+  },
+  {
+    "unk_0": 2,
+    "key": "PR_SpawnBanner_Stand_01_S"
+  },
+  {
+    "unk_0": 2,
+    "key": "CP_gdr_Banner_01_D"
+  },
+  {
+    "unk_0": 1,
+    "key": "CP_gdr_Banner_01_N"
+  },
+  {
+    "unk_0": 2,
+    "key": "CP_gdr_Banner_01_S"
+  },
+  {
+    "unk_0": 2,
+    "key": "FX_CloudyNoise_tiled"
+  },
+  {
+    "unk_0": 2,
+    "key": "CH_urk_swd_01_belt_D"
+  },
+  {
+    "unk_0": 1,
+    "key": "CH_urk_swd_01_belt_N"
+  },
+  {
+    "unk_0": 2,
+    "key": "CH_urk_swd_01_belt_S"
+  },
+  {
+    "unk_0": 2,
+    "key": "CH_urk_shm_all_01_D"
+  },
+  {
+    "unk_0": 1,
+    "key": "CH_urk_shm_all_01_N"
+  },
+  {
+    "unk_0": 2,
+    "key": "CH_urk_shm_all_01_S"
+  },
+  {
+    "unk_0": 2,
+    "key": "CH_urk_shm_all_01_helmet_D"
+  },
+  {
+    "unk_0": 2,
+    "key": "CH_urk_shm_all_01_helmet_G"
+  },
+  {
+    "unk_0": 1,
+    "key": "CH_urk_shm_all_01_helmet_N"
+  },
+  {
+    "unk_0": 2,
+    "key": "CH_urk_shm_all_01_helmet_S"
+  },
+  {
+    "unk_0": 2,
+    "key": "CH_urk_bow_all_01_Metal_D"
+  },
+  {
+    "unk_0": 1,
+    "key": "CH_urk_bow_all_01_Metal_N"
+  },
+  {
+    "unk_0": 2,
+    "key": "CH_urk_bow_all_01_Metal_S"
+  },
+  {
+    "unk_0": 2,
+    "key": "CH_urk_bow_all_01_Metal_D"
+  },
+  {
+    "unk_0": 2,
+    "key": "RVD_GB_WhitePaintWood_01_N"
+  },
+  {
+    "unk_0": 2,
+    "key": "wp_gdr_longbow_2_D"
+  },
+  {
+    "unk_0": 2,
+    "key": "WP_urk_quiver_01_D"
+  },
+  {
+    "unk_0": 1,
+    "key": "WP_urk_quiver_01_N"
+  },
+  {
+    "unk_0": 2,
+    "key": "FX_CloudyNoise_tiled"
+  },
+  {
+    "unk_0": 2,
+    "key": "RVD_PR_CounselPedestal_01_D"
+  },
+  {
+    "unk_0": 1,
+    "key": "RVD_PR_CounselPedestal_01_N"
+  },
+  {
+    "unk_0": 2,
+    "key": "WP_orc_Lightsword_1-5_D"
+  },
+  {
+    "unk_0": 1,
+    "key": "WP_orc_Lightsword_1-5_N"
+  },
+  {
+    "unk_0": 2,
+    "key": "WP_orc_Lightsword_1-5_S"
+  },
+  {
+    "unk_0": 2,
+    "key": "RVD_GB_GreenWood_01_D"
+  },
+  {
+    "unk_0": 1,
+    "key": "RVD_GB_GreenWood_01_N"
+  },
+  {
+    "unk_0": 2,
+    "key": "WP_orc_staff_01_D"
+  },
+  {
+    "unk_0": 2,
+    "key": "WP_orc_staff_01_D"
+  },
+  {
+    "unk_0": 2,
+    "key": "WP_orc_staff_01_D"
+  },
+  {
+    "unk_0": 2,
+    "key": "WP_orc_staff_01_D"
+  },
+  {
+    "unk_0": 2,
+    "key": "WP_orc_staff_01_D"
+  },
+  {
+    "unk_0": 2,
+    "key": "WP_orc_staff_01_D"
+  },
+  {
+    "unk_0": 2,
+    "key": "CH_Ent_treebeard_Beard_D"
+  },
+  {
+    "unk_0": 1,
+    "key": "CH_Ent_treebeard_Beard_N"
+  },
+  {
+    "unk_0": 2,
+    "key": "CH_Ent_treebeard_Beard_S"
+  },
+  {
+    "unk_0": 2,
+    "key": "CH_Ent_treebeard_Beard_D"
+  },
+  {
+    "unk_0": 2,
+    "key": "CH_Ent_treebeard_all_D"
+  },
+  {
+    "unk_0": 2,
+    "key": "CH_Ent_treebeard_all_G"
+  },
+  {
+    "unk_0": 1,
+    "key": "CH_Ent_treebeard_all_N"
+  },
+  {
+    "unk_0": 2,
+    "key": "CH_Ent_treebeard_all_S"
+  },
+  {
+    "unk_0": 2,
+    "key": "CH_Ent_treebeard_leaves_D"
+  },
+  {
+    "unk_0": 1,
+    "key": "CH_Ent_treebeard_leaves_N"
+  },
+  {
+    "unk_0": 2,
+    "key": "CH_Ent_treebeard_leaves_D"
+  },
+  {
+    "unk_0": 2,
+    "key": "CH_Ent_treebeard_leaves_D"
+  },
+  {
+    "unk_0": 2,
+    "key": "FX_CloudyNoise_tiled"
+  },
+  {
+    "unk_0": 2,
+    "key": "WP_orc_Lightsword_1-5_D"
+  },
+  {
+    "unk_0": 1,
+    "key": "WP_orc_Lightsword_1-5_N"
+  },
+  {
+    "unk_0": 2,
+    "key": "WP_orc_Lightsword_1-5_S"
+  },
+  {
+    "unk_0": 2,
+    "key": "RVD_BL_Gold_01_D"
+  },
+  {
+    "unk_0": 1,
+    "key": "RVD_BL_Gold_01_N"
+  },
+  {
+    "unk_0": 2,
+    "key": "RVD_GB_GreenWood_01_D"
+  },
+  {
+    "unk_0": 1,
+    "key": "RVD_GB_GreenWood_01_N"
+  },
+  {
+    "unk_0": 2,
+    "key": "RVD_GB_WoodWall_01_D"
+  },
+  {
+    "unk_0": 1,
+    "key": "RVD_GB_WoodWall_01_N"
+  },
+  {
+    "unk_0": 2,
+    "key": "RVD_GB_pattern01_D"
+  },
+  {
+    "unk_0": 1,
+    "key": "RVD_GB_pattern01_N"
+  },
+  {
+    "unk_0": 2,
+    "key": "RVD_GB_StoneGround_02_D"
+  },
+  {
+    "unk_0": 2,
+    "key": "RVD_GB_StainsPAGE_01_G"
+  },
+  {
+    "unk_0": 1,
+    "key": "RVD_GB_StoneGround_02_N"
+  },
+  {
+    "unk_0": 2,
+    "key": "RVD_GB_StoneGround_02_D"
+  },
+  {
+    "unk_0": 2,
+    "key": "RVD_GB_StainsPAGE_01_G"
+  },
+  {
+    "unk_0": 1,
+    "key": "RVD_GB_StoneGround_02_N"
+  },
+  {
+    "unk_0": 2,
+    "key": "RVD_GB_StoneBrick_02_D"
+  },
+  {
+    "unk_0": 2,
+    "key": "RVD_GB_StainsPAGE_01_G"
+  },
+  {
+    "unk_0": 1,
+    "key": "RVD_GB_StoneBrick_02_N"
+  },
+  {
+    "unk_0": 2,
+    "key": "RVD_BL_Trim_02_D"
+  },
+  {
+    "unk_0": 1,
+    "key": "RVD_BL_Trim_02_N"
+  },
+  {
+    "unk_0": 2,
+    "key": "RVD_GB_Wood_03_D"
+  },
+  {
+    "unk_0": 1,
+    "key": "RVD_GB_Wood_03_N"
+  },
+  {
+    "unk_0": 2,
+    "key": "RVD_GB_WoodWall_02_D"
+  },
+  {
+    "unk_0": 1,
+    "key": "RVD_GB_WoodWall_02_N"
+  },
+  {
+    "unk_0": 2,
+    "key": "RVD_GB_YellowWall_01_D"
+  },
+  {
+    "unk_0": 1,
+    "key": "RVD_GB_YellowWall_01_N"
+  },
+  {
+    "unk_0": 2,
+    "key": "WP_orc_Lightsword_1-5_D"
+  },
+  {
+    "unk_0": 1,
+    "key": "WP_orc_Lightsword_1-5_N"
+  },
+  {
+    "unk_0": 2,
+    "key": "WP_orc_Lightsword_1-5_S"
+  },
+  {
+    "unk_0": 2,
+    "key": "PLF_GB_DarkClouds_01"
+  },
+  {
+    "unk_0": 2,
+    "key": "RVD_GB_StoneGround_01_D"
+  },
+  {
+    "unk_0": 1,
+    "key": "RVD_GB_StoneGround_01_N"
+  },
+  {
+    "unk_0": 2,
+    "key": "RVD_GB_Stone_03_D"
+  },
+  {
+    "unk_0": 1,
+    "key": "RVD_GB_Stone_03_N"
+  },
+  {
+    "unk_0": 2,
+    "key": "RVD_GB_StoneGround_02_D"
+  },
+  {
+    "unk_0": 1,
+    "key": "RVD_GB_StoneGround_02_N"
+  },
+  {
+    "unk_0": 2,
+    "key": "RVD_GB_StoneStairs_02_D"
+  },
+  {
+    "unk_0": 1,
+    "key": "RVD_GB_StoneStairs_02_N"
+  },
+  {
+    "unk_0": 2,
+    "key": "RVD_GB_StoneSmooth_01_D"
+  },
+  {
+    "unk_0": 1,
+    "key": "RVD_GB_StoneSmooth_01_N"
+  },
+  {
+    "unk_0": 2,
+    "key": "RVD_BL_Trim_02_D"
+  },
+  {
+    "unk_0": 1,
+    "key": "RVD_BL_Trim_02_N"
+  },
+  {
+    "unk_0": 2,
+    "key": "RVD_GB_WavyBrick_01_D"
+  },
+  {
+    "unk_0": 1,
+    "key": "RVD_GB_WavyBrick_01_N"
+  },
+  {
+    "unk_0": 2,
+    "key": "RVD_GB_StoneSmooth_01_D"
+  },
+  {
+    "unk_0": 1,
+    "key": "RVD_GB_StoneSmooth_01_N"
+  },
+  {
+    "unk_0": 2,
+    "key": "RVD_GB_StoneGround_01_D"
+  },
+  {
+    "unk_0": 1,
+    "key": "RVD_GB_StoneGround_01_N"
+  },
+  {
+    "unk_0": 2,
+    "key": "RVD_GB_StoneGround_02_D"
+  },
+  {
+    "unk_0": 1,
+    "key": "RVD_GB_StoneGround_02_N"
+  },
+  {
+    "unk_0": 2,
+    "key": "RVD_GB_StoneStairs_02_D"
+  },
+  {
+    "unk_0": 1,
+    "key": "RVD_GB_StoneStairs_02_N"
+  },
+  {
+    "unk_0": 2,
+    "key": "RVD_GB_StoneSmooth_01_D"
+  },
+  {
+    "unk_0": 1,
+    "key": "RVD_GB_StoneSmooth_01_N"
+  },
+  {
+    "unk_0": 2,
+    "key": "RVD_BL_Trim_02_D"
+  },
+  {
+    "unk_0": 1,
+    "key": "RVD_BL_Trim_02_N"
+  },
+  {
+    "unk_0": 2,
+    "key": "RVD_GB_WavyBrick_01_D"
+  },
+  {
+    "unk_0": 1,
+    "key": "RVD_GB_WavyBrick_01_N"
+  },
+  {
+    "unk_0": 2,
+    "key": "FX_CloudyNoise_tiled_02"
+  },
+  {
+    "unk_0": 2,
+    "key": "FX_ElectricArcs_tiled"
+  },
+  {
+    "unk_0": 2,
+    "key": "WP_orc_Lightsword_1-5_D"
+  },
+  {
+    "unk_0": 1,
+    "key": "WP_orc_Lightsword_1-5_N"
+  },
+  {
+    "unk_0": 2,
+    "key": "WP_orc_Lightsword_1-5_S"
+  },
+  {
+    "unk_0": 2,
+    "key": "WP_urk_sword_01_D"
+  },
+  {
+    "unk_0": 1,
+    "key": "WP_urk_sword_01_N"
+  },
+  {
+    "unk_0": 2,
+    "key": "WP_orc_Lightsword_1-5_D"
+  },
+  {
+    "unk_0": 1,
+    "key": "WP_orc_Lightsword_1-5_N"
+  },
+  {
+    "unk_0": 2,
+    "key": "WP_orc_Lightsword_1-5_S"
+  },
+  {
+    "unk_0": 2,
+    "key": "FX_CloudyNoise_tiled"
+  },
+  {
+    "unk_0": 2,
+    "key": "RVD_BL_Gold_01_D"
+  },
+  {
+    "unk_0": 1,
+    "key": "RVD_BL_Gold_01_N"
+  },
+  {
+    "unk_0": 2,
+    "key": "RVD_GB_GreenWood_01_D"
+  },
+  {
+    "unk_0": 1,
+    "key": "RVD_GB_GreenWood_01_N"
+  },
+  {
+    "unk_0": 2,
+    "key": "RVD_BL_pattern_02_D"
+  },
+  {
+    "unk_0": 1,
+    "key": "RVD_BL_pattern_N"
+  },
+  {
+    "unk_0": 2,
+    "key": "RVD_BL_pattern_02_D"
+  },
+  {
+    "unk_0": 2,
+    "key": "RVD_GB_RoofTile_01_D"
+  },
+  {
+    "unk_0": 2,
+    "key": "RVD_GB_RoofTile_01_G"
+  },
+  {
+    "unk_0": 1,
+    "key": "RVD_GB_RoofTile_01_N"
+  },
+  {
+    "unk_0": 2,
+    "key": "RVD_GB_StoneGround_02_D"
+  },
+  {
+    "unk_0": 2,
+    "key": "RVD_GB_StainsPAGE_01_G"
+  },
+  {
+    "unk_0": 1,
+    "key": "RVD_GB_StoneGround_02_N"
+  },
+  {
+    "unk_0": 2,
+    "key": "RVD_GB_StoneStairs_02_D"
+  },
+  {
+    "unk_0": 1,
+    "key": "RVD_GB_StoneStairs_02_N"
+  },
+  {
+    "unk_0": 2,
+    "key": "RVD_GB_StoneBrick_02_D"
+  },
+  {
+    "unk_0": 2,
+    "key": "RVD_GB_StainsPAGE_01_G"
+  },
+  {
+    "unk_0": 1,
+    "key": "RVD_GB_StoneBrick_02_N"
+  },
+  {
+    "unk_0": 2,
+    "key": "RVD_BL_Trim_02_D"
+  },
+  {
+    "unk_0": 1,
+    "key": "RVD_BL_Trim_02_N"
+  },
+  {
+    "unk_0": 2,
+    "key": "RVD_GB_WhitePaintWood_01_D"
+  },
+  {
+    "unk_0": 1,
+    "key": "RVD_BL_pattern_N"
+  },
+  {
+    "unk_0": 2,
+    "key": "RVD_GB_WoodWall_02_D"
+  },
+  {
+    "unk_0": 1,
+    "key": "RVD_GB_WoodWall_02_N"
+  },
+  {
+    "unk_0": 2,
+    "key": "WP_urk_shield_02_D"
+  },
+  {
+    "unk_0": 1,
+    "key": "WP_urk_shield_02_N"
+  },
+  {
+    "unk_0": 2,
+    "key": "WP_urk_shield_02_S"
+  },
+  {
+    "unk_0": 2,
+    "key": "CH_elf_Legolas_01_cloth_D"
+  },
+  {
+    "unk_0": 1,
+    "key": "CH_elf_Legolas_01_cloth_N"
+  },
+  {
+    "unk_0": 2,
+    "key": "CH_elf_Legolas_01_cloth_S"
+  },
+  {
+    "unk_0": 2,
+    "key": "CH_elf_Legolas_01_gears_D"
+  },
+  {
+    "unk_0": 1,
+    "key": "CH_elf_Legolas_01_gears_N"
+  },
+  {
+    "unk_0": 2,
+    "key": "CH_elf_Legolas_01_gears_S"
+  },
+  {
+    "unk_0": 2,
+    "key": "CH_elf_Legolas_01_head_D"
+  },
+  {
+    "unk_0": 1,
+    "key": "CH_elf_Legolas_01_head_N"
+  },
+  {
+    "unk_0": 2,
+    "key": "CH_elf_Legolas_01_head_S"
+  },
+  {
+    "unk_0": 2,
+    "key": "CH_elf_Legolas_01_hair_D"
+  },
+  {
+    "unk_0": 1,
+    "key": "CH_elf_Legolas_01_hair_N"
+  },
+  {
+    "unk_0": 2,
+    "key": "CH_elf_Legolas_01_hair_S"
+  },
+  {
+    "unk_0": 2,
+    "key": "CH_elf_Legolas_01_hair_D"
+  },
+  {
+    "unk_0": 1,
+    "key": "CH_elf_Legolas_01_hair_N"
+  },
+  {
+    "unk_0": 2,
+    "key": "CH_elf_Legolas_01_hair_S"
+  },
+  {
+    "unk_0": 2,
+    "key": "CH_Sauron_01_D"
+  },
+  {
+    "unk_0": 1,
+    "key": "CH_Sauron_01_N"
+  },
+  {
+    "unk_0": 2,
+    "key": "CH_Sauron_01_S"
+  },
+  {
+    "unk_0": 2,
+    "key": "RVD_GB_Stone_03_D"
+  },
+  {
+    "unk_0": 1,
+    "key": "RVD_GB_Stone_03_N"
+  },
+  {
+    "unk_0": 2,
+    "key": "RVD_GB_Stone_03_D"
+  },
+  {
+    "unk_0": 2,
+    "key": "WP_bow_string_01_D"
+  },
+  {
+    "unk_0": 2,
+    "key": "WP_gdr_BallistaEmplaced_01_Metal_D"
+  },
+  {
+    "unk_0": 1,
+    "key": "WP_gdr_BallistaEmplaced_01_Metal_N"
+  },
+  {
+    "unk_0": 2,
+    "key": "WP_gdr_BallistaEmplaced_01_Metal_S"
+  },
+  {
+    "unk_0": 2,
+    "key": "PR_gdr_BatRam_01a_D"
+  },
+  {
+    "unk_0": 2,
+    "key": "WP_gdr_BallistaEmplaced_01_Wood_G"
+  },
+  {
+    "unk_0": 1,
+    "key": "WP_gdr_BallistaEmplaced_01_Wood_N"
+  },
+  {
+    "unk_0": 1,
+    "key": "WP_gdr_BallistaEmplaced_01_Wood2_N"
+  },
+  {
+    "unk_0": 2,
+    "key": "WP_elf_ancn_bow_01_D"
+  },
+  {
+    "unk_0": 1,
+    "key": "WP_elf_ancn_bow_01_N"
+  },
+  {
+    "unk_0": 2,
+    "key": "WP_elf_ancn_bow_01_S"
+  },
+  {
+    "unk_0": 2,
+    "key": "BKG_TR_Dirt_D"
+  },
+  {
+    "unk_0": 1,
+    "key": "BKG_TR_Dirt_N"
+  },
+  {
+    "unk_0": 2,
+    "key": "RVD_GB_Stone_03_D"
+  },
+  {
+    "unk_0": 1,
+    "key": "RVD_GB_Stone_03_N"
+  },
+  {
+    "unk_0": 2,
+    "key": "wp_gdr_longbow_2_D"
+  },
+  {
+    "unk_0": 2,
+    "key": "wp_gdr_longbow_2_D"
+  },
+  {
+    "unk_0": 2,
+    "key": "wp_gdr_longbow_2_D"
+  },
+  {
+    "unk_0": 2,
+    "key": "WP_urk_quiver_01_D"
+  },
+  {
+    "unk_0": 1,
+    "key": "WP_urk_quiver_01_N"
+  },
+  {
+    "unk_0": 2,
+    "key": "WP_urk_quiver_01_S"
+  },
+  {
+    "unk_0": 2,
+    "key": "RVD_BL_Swan_D"
+  },
+  {
+    "unk_0": 1,
+    "key": "RVD_BL_Swan_N"
+  },
+  {
+    "unk_0": 2,
+    "key": "RVD_GB_GreenWood_01_D"
+  },
+  {
+    "unk_0": 1,
+    "key": "RVD_GB_GreenWood_01_N"
+  },
+  {
+    "unk_0": 2,
+    "key": "RVD_BL_Swan_D"
+  },
+  {
+    "unk_0": 1,
+    "key": "RVD_BL_Swan_N"
+  },
+  {
+    "unk_0": 2,
+    "key": "RVD_GB_BrokenStone_01_D"
+  },
+  {
+    "unk_0": 1,
+    "key": "RVD_GB_BrokenStone_01_N"
+  },
+  {
+    "unk_0": 2,
+    "key": "RVD_GB_StoneGround_02_D"
+  },
+  {
+    "unk_0": 2,
+    "key": "RVD_GB_StainsPAGE_01_G"
+  },
+  {
+    "unk_0": 1,
+    "key": "RVD_GB_StoneGround_02_N"
+  },
+  {
+    "unk_0": 2,
+    "key": "RVD_GB_StoneSmooth_01_D"
+  },
+  {
+    "unk_0": 1,
+    "key": "RVD_GB_StoneSmooth_01_N"
+  },
+  {
+    "unk_0": 2,
+    "key": "RVD_BL_Trim_02_D"
+  },
+  {
+    "unk_0": 1,
+    "key": "RVD_BL_Trim_02_N"
+  },
+  {
+    "unk_0": 2,
+    "key": "RVD_GB_GreenWood_01_D"
+  },
+  {
+    "unk_0": 1,
+    "key": "RVD_GB_GreenWood_01_N"
+  },
+  {
+    "unk_0": 2,
+    "key": "RVD_BL_pattern_05_D"
+  },
+  {
+    "unk_0": 1,
+    "key": "RVD_BL_pattern_05_N"
+  },
+  {
+    "unk_0": 2,
+    "key": "PR_orc_Catapult_01_Rope_D"
+  },
+  {
+    "unk_0": 2,
+    "key": "PR_orc_Catapult_01_Leather_D"
+  },
+  {
+    "unk_0": 1,
+    "key": "PR_orc_Catapult_01_Rope_N"
+  },
+  {
+    "unk_0": 2,
+    "key": "PR_orc_Catapult_01_Rope_D"
+  },
+  {
+    "unk_0": 2,
+    "key": "PR_orc_Catapult_01_Leather_D"
+  },
+  {
+    "unk_0": 1,
+    "key": "PR_orc_Catapult_01_Rope_N"
+  },
+  {
+    "unk_0": 2,
+    "key": "PR_orc_Catapult_01_Rope_D"
+  },
+  {
+    "unk_0": 2,
+    "key": "PR_OilPalisade_01_D"
+  },
+  {
+    "unk_0": 2,
+    "key": "PR_OilPalisade_01_G"
+  },
+  {
+    "unk_0": 1,
+    "key": "PR_OilPalisade_01_N"
+  },
+  {
+    "unk_0": 2,
+    "key": "PR_OilPalisade_01_D"
+  },
+  {
+    "unk_0": 2,
+    "key": "PR_OilPalisade_01_G"
+  },
+  {
+    "unk_0": 1,
+    "key": "PR_OilPalisade_01_N"
+  },
+  {
+    "unk_0": 2,
+    "key": "PR_OilPalisade_01_D"
+  },
+  {
+    "unk_0": 2,
+    "key": "PR_OilPalisade_01_G"
+  },
+  {
+    "unk_0": 1,
+    "key": "PR_OilPalisade_01_N"
+  },
+  {
+    "unk_0": 2,
+    "key": "wp_gdr_longbow_01_D"
+  },
+  {
+    "unk_0": 2,
+    "key": "wp_gdr_longbow_2_D"
+  },
+  {
+    "unk_0": 2,
+    "key": "FX_CloudyNoise_tiled"
+  },
+  {
+    "unk_0": 2,
+    "key": "RVD_BL_MoutainWall_01_D"
+  },
+  {
+    "unk_0": 1,
+    "key": "RVD_BL_MoutainWall_01_N"
+  },
+  {
+    "unk_0": 2,
+    "key": "RVD_BL_MoutainWall_01_S"
+  },
+  {
+    "unk_0": 2,
+    "key": "RVD_GB_StoneSmooth_01_D"
+  },
+  {
+    "unk_0": 1,
+    "key": "RVD_GB_StoneSmooth_01_N"
+  },
+  {
+    "unk_0": 2,
+    "key": "RVD_BL_Trim_02_D"
+  },
+  {
+    "unk_0": 1,
+    "key": "RVD_BL_Trim_02_N"
+  },
+  {
+    "unk_0": 2,
+    "key": "RVD_GB_WoodWall_02_D"
+  },
+  {
+    "unk_0": 1,
+    "key": "RVD_GB_WoodWall_02_N"
+  },
+  {
+    "unk_0": 2,
+    "key": "RVD_GB_Wood_02_D"
+  },
+  {
+    "unk_0": 1,
+    "key": "RVD_GB_Wood_02_N"
+  },
+  {
+    "unk_0": 2,
+    "key": "RVD_GB_StoneGround_02_D"
+  },
+  {
+    "unk_0": 1,
+    "key": "RVD_GB_StoneGround_02_N"
+  },
+  {
+    "unk_0": 2,
+    "key": "RVD_BL_Gold_01_D"
+  },
+  {
+    "unk_0": 1,
+    "key": "RVD_BL_Gold_01_N"
+  },
+  {
+    "unk_0": 2,
+    "key": "RVD_GB_GreenWood_01_D"
+  },
+  {
+    "unk_0": 1,
+    "key": "RVD_GB_GreenWood_01_N"
+  },
+  {
+    "unk_0": 2,
+    "key": "RVD_Wood_Details2_D"
+  },
+  {
+    "unk_0": 1,
+    "key": "RVD_Wood_Details2_N"
+  },
+  {
+    "unk_0": 2,
+    "key": "RVD_BL_pattern_02_D"
+  },
+  {
+    "unk_0": 1,
+    "key": "RVD_BL_pattern_N"
+  },
+  {
+    "unk_0": 2,
+    "key": "RVD_BL_pattern_02_D"
+  },
+  {
+    "unk_0": 2,
+    "key": "RVD_GB_pattern01_D"
+  },
+  {
+    "unk_0": 1,
+    "key": "RVD_GB_pattern01_N"
+  },
+  {
+    "unk_0": 2,
+    "key": "RVD_GB_RoofTile_01_D"
+  },
+  {
+    "unk_0": 2,
+    "key": "RVD_GB_RoofTile_01_G"
+  },
+  {
+    "unk_0": 1,
+    "key": "RVD_GB_RoofTile_01_N"
+  },
+  {
+    "unk_0": 2,
+    "key": "RVD_GB_StoneStairs_02_D"
+  },
+  {
+    "unk_0": 1,
+    "key": "RVD_GB_StoneStairs_02_N"
+  },
+  {
+    "unk_0": 2,
+    "key": "RVD_GB_StoneBrick_02_D"
+  },
+  {
+    "unk_0": 1,
+    "key": "RVD_GB_StoneBrick_02_N"
+  },
+  {
+    "unk_0": 2,
+    "key": "RVD_BL_Trim_02_D"
+  },
+  {
+    "unk_0": 1,
+    "key": "RVD_BL_Trim_02_N"
+  },
+  {
+    "unk_0": 2,
+    "key": "RVD_GB_WoodWall_01_D"
+  },
+  {
+    "unk_0": 1,
+    "key": "RVD_GB_WoodWall_01_N"
+  },
+  {
+    "unk_0": 2,
+    "key": "RVD_GB_WoodTrim_01_D"
+  },
+  {
+    "unk_0": 1,
+    "key": "RVD_GB_WoodTrim_01_N"
+  },
+  {
+    "unk_0": 2,
+    "key": "RVD_GB_YellowWall_01_D"
+  },
+  {
+    "unk_0": 1,
+    "key": "RVD_GB_YellowWall_01_N"
+  },
+  {
+    "unk_0": 2,
+    "key": "RVD_GB_BrokenStone_01_D"
+  },
+  {
+    "unk_0": 1,
+    "key": "RVD_GB_BrokenStone_01_N"
+  },
+  {
+    "unk_0": 2,
+    "key": "RVD_GB_BrokenStone_01_D"
+  },
+  {
+    "unk_0": 2,
+    "key": "RVD_GB_Stone_03_D"
+  },
+  {
+    "unk_0": 1,
+    "key": "RVD_GB_Stone_03_N"
+  },
+  {
+    "unk_0": 2,
+    "key": "RVD_GB_Stone_03_D"
+  },
+  {
+    "unk_0": 2,
+    "key": "RVD_GB_Grass_01_D"
+  },
+  {
+    "unk_0": 1,
+    "key": "RVD_GB_Grass_01_N"
+  },
+  {
+    "unk_0": 2,
+    "key": "RVD_GB_Waterfall_01_D"
+  },
+  {
+    "unk_0": 2,
+    "key": "water_detail_tst"
+  },
+  {
+    "unk_0": 1,
+    "key": "RVD_GB_WaterFall_01_N"
+  },
+  {
+    "unk_0": 2,
+    "key": "water_detail_tst"
+  },
+  {
+    "unk_0": 1,
+    "key": "waterfall_normal_02_test_N"
+  },
+  {
+    "unk_0": 2,
+    "key": "RVD_GB_PatternWall_01_D"
+  },
+  {
+    "unk_0": 1,
+    "key": "RVD_GB_PatternWall_01_N"
+  },
+  {
+    "unk_0": 2,
+    "key": "RVD_GB_PatternWall_01_S"
+  },
+  {
+    "unk_0": 2,
+    "key": "RVD_GB_StoneSmooth_01_D"
+  },
+  {
+    "unk_0": 1,
+    "key": "RVD_GB_StoneSmooth_01_N"
+  },
+  {
+    "unk_0": 2,
+    "key": "RVD_GB_StoneSmooth_01_D"
+  },
+  {
+    "unk_0": 2,
+    "key": "RVD_GB_StoneStairs_02_D"
+  },
+  {
+    "unk_0": 1,
+    "key": "RVD_GB_StoneStairs_02_N"
+  },
+  {
+    "unk_0": 2,
+    "key": "RVD_GB_StoneStairs_02_S"
+  },
+  {
+    "unk_0": 2,
+    "key": "RVD_GB_BrokenStone_01_D"
+  },
+  {
+    "unk_0": 2,
+    "key": "RVD_GB_WestsideTerraceStatue_01_G"
+  },
+  {
+    "unk_0": 1,
+    "key": "RVD_GB_StoneSmooth_01_N"
+  },
+  {
+    "unk_0": 2,
+    "key": "RVD_GB_WestsideTerraceStatue_01_G"
+  },
+  {
+    "unk_0": 1,
+    "key": "RVD_GB_WestsideTerraceStatue_01_N"
+  },
+  {
+    "unk_0": 2,
+    "key": "RVD_GB_StoneBrick_02_D"
+  },
+  {
+    "unk_0": 1,
+    "key": "RVD_GB_StoneBrick_02_N"
+  },
+  {
+    "unk_0": 2,
+    "key": "RVD_GB_StoneBrick_02_D"
+  },
+  {
+    "unk_0": 2,
+    "key": "RVD_GB_StoneGround_02_D"
+  },
+  {
+    "unk_0": 1,
+    "key": "RVD_GB_StoneGround_02_N"
+  },
+  {
+    "unk_0": 2,
+    "key": "RVD_GB_StoneGround_02_S"
+  },
+  {
+    "unk_0": 2,
+    "key": "RVD_BL_Trim_02_D"
+  },
+  {
+    "unk_0": 1,
+    "key": "RVD_BL_Trim_02_N"
+  },
+  {
+    "unk_0": 2,
+    "key": "RVD_BL_Trim_02_D"
+  },
+  {
+    "unk_0": 2,
+    "key": "RVD_GB_WoodWall_01_D"
+  },
+  {
+    "unk_0": 1,
+    "key": "RVD_GB_WoodWall_01_N"
+  },
+  {
+    "unk_0": 2,
+    "key": "RVD_GB_WoodWall_01_D"
+  },
+  {
+    "unk_0": 2,
+    "key": "RVD_GB_GreenWood_01_D"
+  },
+  {
+    "unk_0": 1,
+    "key": "RVD_GB_GreenWood_01_N"
+  },
+  {
+    "unk_0": 2,
+    "key": "RVD_GB_BrokenStone_01_D"
+  },
+  {
+    "unk_0": 1,
+    "key": "RVD_GB_BrokenStone_01_N"
+  },
+  {
+    "unk_0": 2,
+    "key": "RVD_GB_StoneGround_02_D"
+  },
+  {
+    "unk_0": 2,
+    "key": "RVD_GB_StainsPAGE_01_G"
+  },
+  {
+    "unk_0": 1,
+    "key": "RVD_GB_StoneGround_02_N"
+  },
+  {
+    "unk_0": 2,
+    "key": "RVD_GB_RoofTile_01_D"
+  },
+  {
+    "unk_0": 2,
+    "key": "RVD_GB_RoofTile_01_G"
+  },
+  {
+    "unk_0": 1,
+    "key": "RVD_GB_RoofTile_01_N"
+  },
+  {
+    "unk_0": 2,
+    "key": "RVD_GB_StoneSmooth_01_D"
+  },
+  {
+    "unk_0": 1,
+    "key": "RVD_GB_StoneSmooth_01_N"
+  },
+  {
+    "unk_0": 2,
+    "key": "RVD_BL_RiverHouse_01_D"
+  },
+  {
+    "unk_0": 1,
+    "key": "RVD_BL_RiverHouse_01_N"
+  },
+  {
+    "unk_0": 2,
+    "key": "RVD_BL_RiverHouse_01_D"
+  },
+  {
+    "unk_0": 2,
+    "key": "RVD_BL_Trim_02_D"
+  },
+  {
+    "unk_0": 1,
+    "key": "RVD_BL_Trim_02_N"
+  },
+  {
+    "unk_0": 2,
+    "key": "RVD_GB_WoodTrim_01_D"
+  },
+  {
+    "unk_0": 1,
+    "key": "RVD_GB_WoodTrim_01_N"
+  },
+  {
+    "unk_0": 2,
+    "key": "CH_urk_grnt_all_01_Skin_D"
+  },
+  {
+    "unk_0": 1,
+    "key": "CH_urk_grnt_all_01_Skin_N"
+  },
+  {
+    "unk_0": 2,
+    "key": "CH_urk_grnt_all_01_Skin_S"
+  },
+  {
+    "unk_0": 2,
+    "key": "CH_urk_grnt_all_01_Skin_D"
+  },
+  {
+    "unk_0": 2,
+    "key": "CH_urk_grnt_all_01_belt_D"
+  },
+  {
+    "unk_0": 1,
+    "key": "CH_urk_grnt_all_01_belt_N"
+  },
+  {
+    "unk_0": 2,
+    "key": "CH_urk_grnt_all_01_belt_S"
+  },
+  {
+    "unk_0": 2,
+    "key": "CH_urk_grnt_all_01_Everythingelse_D"
+  },
+  {
+    "unk_0": 1,
+    "key": "CH_urk_grnt_all_01_Everythingelse_N"
+  },
+  {
+    "unk_0": 2,
+    "key": "CH_urk_grnt_all_01_Everything else_S"
+  },
+  {
+    "unk_0": 2,
+    "key": "CH_urk_grnt_all_01_Everythingelse_D"
+  },
+  {
+    "unk_0": 2,
+    "key": "CH_urk_grnt_all_01_hair01_D"
+  },
+  {
+    "unk_0": 1,
+    "key": "CH_urk_grnt_all_01_hair01_N"
+  },
+  {
+    "unk_0": 2,
+    "key": "CH_urk_grnt_all_01_hair01_D"
+  },
+  {
+    "unk_0": 2,
+    "key": "CH_urk_grnt_all_01_hair01_D"
+  },
+  {
+    "unk_0": 2,
+    "key": "CH_urk_grnt_all_01_LeatherSkirt_D"
+  },
+  {
+    "unk_0": 1,
+    "key": "CH_urk_grnt_all_01_LeatherSkirt_N"
+  },
+  {
+    "unk_0": 2,
+    "key": "CH_urk_grnt_all_01_LeatherSkirt_S"
+  },
+  {
+    "unk_0": 2,
+    "key": "CH_urk_grnt_all_01_LeatherSkirt_D"
+  },
+  {
+    "unk_0": 2,
+    "key": "CH_urk_grnt_all_01_hair01_D"
+  },
+  {
+    "unk_0": 1,
+    "key": "CH_urk_grnt_all_01_hair01_N"
+  },
+  {
+    "unk_0": 2,
+    "key": "CH_urk_grnt_all_01_hair01_D"
+  },
+  {
+    "unk_0": 2,
+    "key": "RVD_BL_MoutainWall_01_D"
+  },
+  {
+    "unk_0": 1,
+    "key": "RVD_BL_MoutainWall_01_N"
+  },
+  {
+    "unk_0": 2,
+    "key": "RVD_BL_MoutainWall_01_S"
+  },
+  {
+    "unk_0": 2,
+    "key": "WP_orc_Lightsword_1-5_D"
+  },
+  {
+    "unk_0": 1,
+    "key": "WP_orc_Lightsword_1-5_N"
+  },
+  {
+    "unk_0": 2,
+    "key": "WP_orc_Lightsword_1-5_S"
+  },
+  {
+    "unk_0": 2,
+    "key": "WP_gdr_lightsword_01_D"
+  },
+  {
+    "unk_0": 1,
+    "key": "WP_gdr_lightsword_01_N"
+  },
+  {
+    "unk_0": 2,
+    "key": "RVD_GB_Stone_03_D"
+  },
+  {
+    "unk_0": 1,
+    "key": "RVD_GB_Stone_03_N"
+  },
+  {
+    "unk_0": 2,
+    "key": "RVD_BR_Gazebo_01_stone_D"
+  },
+  {
+    "unk_0": 1,
+    "key": "RVD_BR_Gazebo_01_stone_GN_01"
+  },
+  {
+    "unk_0": 2,
+    "key": "RVD_BR_Gazebo_01_stone_S"
+  },
+  {
+    "unk_0": 2,
+    "key": "RVD_GB_WavyBrick_01_D"
+  },
+  {
+    "unk_0": 2,
+    "key": "RVD_GB_StainsPAGE_01_G"
+  },
+  {
+    "unk_0": 1,
+    "key": "RVD_GB_WavyBrick_01_N"
+  },
+  {
+    "unk_0": 2,
+    "key": "RVD_GB_WavyBrick_01_S"
+  },
+  {
+    "unk_0": 2,
+    "key": "RVD_BL_MoutainWall_01_D"
+  },
+  {
+    "unk_0": 1,
+    "key": "RVD_BL_MoutainWall_01_N"
+  },
+  {
+    "unk_0": 2,
+    "key": "RVD_BL_MoutainWall_01_S"
+  },
+  {
+    "unk_0": 2,
+    "key": "RVD_GB_Stone_03_D"
+  },
+  {
+    "unk_0": 1,
+    "key": "RVD_GB_Stone_03_N"
+  },
+  {
+    "unk_0": 2,
+    "key": "BKG_TR_Dirt_D"
+  },
+  {
+    "unk_0": 1,
+    "key": "BKG_TR_Dirt_N"
+  },
+  {
+    "unk_0": 2,
+    "key": "wp_sauron_mace_01_D"
+  },
+  {
+    "unk_0": 1,
+    "key": "wp_sauron_mace_01_N"
+  },
+  {
+    "unk_0": 2,
+    "key": "wp_sauron_mace_01_S"
+  },
+  {
+    "unk_0": 2,
+    "key": "RVD_GB_Stone_03_D"
+  },
+  {
+    "unk_0": 1,
+    "key": "RVD_GB_Stone_03_N"
+  },
+  {
+    "unk_0": 2,
+    "key": "RVD_GB_Stone_03_D"
+  },
+  {
+    "unk_0": 1,
+    "key": "RVD_GB_Stone_03_N"
+  },
+  {
+    "unk_0": 2,
+    "key": "BKG_TR_Dirt_D"
+  },
+  {
+    "unk_0": 1,
+    "key": "BKG_TR_Dirt_N"
+  },
+  {
+    "unk_0": 2,
+    "key": "RVD_GB_BrokenStone_01_D"
+  },
+  {
+    "unk_0": 1,
+    "key": "RVD_GB_BrokenStone_01_N"
+  },
+  {
+    "unk_0": 2,
+    "key": "RVD_GB_BrokenStone_01_D"
+  },
+  {
+    "unk_0": 2,
+    "key": "RVD_GB_Grass_02_D"
+  },
+  {
+    "unk_0": 1,
+    "key": "RVD_GB_Grass_02_N"
+  },
+  {
+    "unk_0": 2,
+    "key": "RVD_GB_StoneGround_02_D"
+  },
+  {
+    "unk_0": 1,
+    "key": "RVD_GB_StoneGround_02_N"
+  },
+  {
+    "unk_0": 2,
+    "key": "RVD_GB_StoneGround_02_S"
+  },
+  {
+    "unk_0": 2,
+    "key": "RVD_GB_Waterfall_01_D"
+  },
+  {
+    "unk_0": 2,
+    "key": "water_detail_tst"
+  },
+  {
+    "unk_0": 1,
+    "key": "RVD_GB_WaterFall_01_N"
+  },
+  {
+    "unk_0": 2,
+    "key": "water_detail_tst"
+  },
+  {
+    "unk_0": 1,
+    "key": "waterfall_normal_02_test_N"
+  },
+  {
+    "unk_0": 2,
+    "key": "RVD_GB_Ivy_01_D"
+  },
+  {
+    "unk_0": 1,
+    "key": "RVD_GB_Ivy_01_N"
+  },
+  {
+    "unk_0": 2,
+    "key": "RVD_GB_Ivy_01_D"
+  },
+  {
+    "unk_0": 2,
+    "key": "RVD_GB_Ivy_01_D"
+  },
+  {
+    "unk_0": 2,
+    "key": "RVD_GB_CounselCourtyardCenter_01_D"
+  },
+  {
+    "unk_0": 1,
+    "key": "RVD_GB_CounselCourtyardCenter_01_N"
+  },
+  {
+    "unk_0": 2,
+    "key": "RVD_GB_CounselCourtyardCenter_01_D"
+  },
+  {
+    "unk_0": 2,
+    "key": "RVD_GB_StoneSmooth_01_D"
+  },
+  {
+    "unk_0": 1,
+    "key": "RVD_GB_StoneSmooth_01_N"
+  },
+  {
+    "unk_0": 2,
+    "key": "RVD_GB_StoneSmooth_01_D"
+  },
+  {
+    "unk_0": 2,
+    "key": "RVD_GB_StoneStairs_02_D"
+  },
+  {
+    "unk_0": 1,
+    "key": "RVD_GB_StoneStairs_02_N"
+  },
+  {
+    "unk_0": 2,
+    "key": "RVD_GB_StoneStairs_02_S"
+  },
+  {
+    "unk_0": 2,
+    "key": "RVD_GB_StoneBrick_02_D"
+  },
+  {
+    "unk_0": 2,
+    "key": "RVD_GB_StainsPAGE_01_G"
+  },
+  {
+    "unk_0": 1,
+    "key": "RVD_GB_StoneBrick_02_N"
+  },
+  {
+    "unk_0": 2,
+    "key": "RVD_GB_StoneBrick_02_D"
+  },
+  {
+    "unk_0": 2,
+    "key": "RVD_BL_Trim_02_D"
+  },
+  {
+    "unk_0": 1,
+    "key": "RVD_BL_Trim_02_N"
+  },
+  {
+    "unk_0": 2,
+    "key": "RVD_BL_Trim_02_D"
+  },
+  {
+    "unk_0": 2,
+    "key": "PR_AcquireObject_TheRing_01_D"
+  },
+  {
+    "unk_0": 2,
+    "key": "PR_AcquireObject_TheRing_01_D"
+  },
+  {
+    "unk_0": 2,
+    "key": "RVD_BL_MoutainWall_01_D"
+  },
+  {
+    "unk_0": 1,
+    "key": "RVD_BL_MoutainWall_01_N"
+  },
+  {
+    "unk_0": 2,
+    "key": "RVD_BL_MoutainWall_01_S"
+  },
+  {
+    "unk_0": 2,
+    "key": "FX_CloudyNoise_tiled"
+  },
+  {
+    "unk_0": 2,
+    "key": "WP_elf_LegolasBow_01_D"
+  },
+  {
+    "unk_0": 1,
+    "key": "WP_elf_LegolasBow_01_N"
+  },
+  {
+    "unk_0": 2,
+    "key": "WP_elf_LegolasBow_01_S"
+  },
+  {
+    "unk_0": 2,
+    "key": "CH_elf_ancn_bow_all_01_Belt_D"
+  },
+  {
+    "unk_0": 1,
+    "key": "CH_elf_ancn_bow_all_01_Belt_N"
+  },
+  {
+    "unk_0": 2,
+    "key": "CH_elf_ancn_bow_all_01_ClothLeather_D"
+  },
+  {
+    "unk_0": 1,
+    "key": "CH_elf_ancn_bow_all_01_ClothLeather_N"
+  },
+  {
+    "unk_0": 2,
+    "key": "CH_elf_ancn_bow_all_01_ClothLeather_S"
+  },
+  {
+    "unk_0": 2,
+    "key": "CH_elf_ancn_bow_all_01_MetalLeather_D"
+  },
+  {
+    "unk_0": 1,
+    "key": "CH_elf_ancn_bow_all_01_MetalLeather_N"
+  },
+  {
+    "unk_0": 2,
+    "key": "CH_elf_ancn_bow_all_01_MetalLeather_S"
+  },
+  {
+    "unk_0": 2,
+    "key": "CH_elf_ancn_bow_all_01_MetalLeather_D"
+  },
+  {
+    "unk_0": 2,
+    "key": "CH_elf_ancn_bow_all_01_SkinMetal_D"
+  },
+  {
+    "unk_0": 1,
+    "key": "CH_EnvMapMask_02_N"
+  },
+  {
+    "unk_0": 2,
+    "key": "CH_elf_ancn_bow_all_01_SkinMetal_S"
+  },
+  {
+    "unk_0": 1,
+    "key": "CH_elf_ancn_bow_all_01_SkinMetal_N"
+  },
+  {
+    "unk_0": 2,
+    "key": "CH_elf_ancn_bow_all_01_SkinMetal_D"
+  },
+  {
+    "unk_0": 2,
+    "key": "RVD_GB_Stone_03_D"
+  },
+  {
+    "unk_0": 1,
+    "key": "RVD_GB_Stone_03_N"
+  },
+  {
+    "unk_0": 2,
+    "key": "RVD_BL_MoutainWall_01_D"
+  },
+  {
+    "unk_0": 1,
+    "key": "RVD_BL_MoutainWall_01_N"
+  },
+  {
+    "unk_0": 2,
+    "key": "RVD_BL_MoutainWall_01_S"
+  },
+  {
+    "unk_0": 2,
+    "key": "RVD_BL_MoutainWall_01_D"
+  },
+  {
+    "unk_0": 1,
+    "key": "RVD_BL_MoutainWall_01_N"
+  },
+  {
+    "unk_0": 2,
+    "key": "RVD_BL_MoutainWall_01_S"
+  },
+  {
+    "unk_0": 2,
+    "key": "PR_urk_TorchBomb_01_D"
+  },
+  {
+    "unk_0": 1,
+    "key": "PR_urk_TorchBomb_01_N"
+  },
+  {
+    "unk_0": 2,
+    "key": "PR_urk_TorchBomb_01_S"
+  },
+  {
+    "unk_0": 2,
+    "key": "CH_elf_Elrond_01_Belt_D"
+  },
+  {
+    "unk_0": 1,
+    "key": "CH_elf_Elrond_01_Belt_N"
+  },
+  {
+    "unk_0": 2,
+    "key": "CH_elf_Elrond_01_Belt_S"
+  },
+  {
+    "unk_0": 2,
+    "key": "CH_elf_Elrond_01_Cape_D"
+  },
+  {
+    "unk_0": 2,
+    "key": "CH_elf_Elrond_01_Cape_D"
+  },
+  {
+    "unk_0": 2,
+    "key": "CH_elf_Elrond_01_ClothLeather_D"
+  },
+  {
+    "unk_0": 1,
+    "key": "CH_elf_Elrond_01_ClothLeather_N"
+  },
+  {
+    "unk_0": 2,
+    "key": "CH_elf_Elrond_01_ClothLeather_S"
+  },
+  {
+    "unk_0": 2,
+    "key": "CH_elf_Elrond_01_Hair_D"
+  },
+  {
+    "unk_0": 1,
+    "key": "CH_elf_Elrond_01_Hair_N"
+  },
+  {
+    "unk_0": 2,
+    "key": "CH_elf_Elrond_01_Hair_S"
+  },
+  {
+    "unk_0": 2,
+    "key": "CH_elf_Elrond_01_Hair_D"
+  },
+  {
+    "unk_0": 2,
+    "key": "CH_elf_Elrond_01_Head_D"
+  },
+  {
+    "unk_0": 1,
+    "key": "CH_elf_Elrond_01_Head_N"
+  },
+  {
+    "unk_0": 2,
+    "key": "CH_elf_Elrond_01_Head_S"
+  },
+  {
+    "unk_0": 2,
+    "key": "CH_elf_Elrond_01_Metal_D"
+  },
+  {
+    "unk_0": 1,
+    "key": "CH_EnvMapMask_01_N"
+  },
+  {
+    "unk_0": 2,
+    "key": "CH_elf_Elrond_01_Metal_S"
+  },
+  {
+    "unk_0": 1,
+    "key": "CH_elf_Elrond_01_Metal_N"
+  },
+  {
+    "unk_0": 2,
+    "key": "CH_elf_Elrond_01_Metal_D"
+  },
+  {
+    "unk_0": 2,
+    "key": "CH_elf_Elrond_01_Hair_D"
+  },
+  {
+    "unk_0": 1,
+    "key": "CH_elf_Elrond_01_Hair_N"
+  },
+  {
+    "unk_0": 2,
+    "key": "CH_elf_Elrond_01_Hair_S"
+  },
+  {
+    "unk_0": 2,
+    "key": "RVD_GB_Stone_03_D"
+  },
+  {
+    "unk_0": 1,
+    "key": "RVD_GB_Stone_03_N"
+  },
+  {
+    "unk_0": 2,
+    "key": "RVD_BL_Gold_01_D"
+  },
+  {
+    "unk_0": 1,
+    "key": "RVD_BL_Gold_01_N"
+  },
+  {
+    "unk_0": 2,
+    "key": "RVD_GB_GreenWood_01_D"
+  },
+  {
+    "unk_0": 1,
+    "key": "RVD_GB_GreenWood_01_N"
+  },
+  {
+    "unk_0": 2,
+    "key": "RVD_GB_Pattern_01_D"
+  },
+  {
+    "unk_0": 2,
+    "key": "RVD_GB_RoofTile_01_D"
+  },
+  {
+    "unk_0": 2,
+    "key": "RVD_GB_RoofTile_01_G"
+  },
+  {
+    "unk_0": 1,
+    "key": "RVD_GB_RoofTile_01_N"
+  },
+  {
+    "unk_0": 2,
+    "key": "RVD_GB_WoodTrim_01_D"
+  },
+  {
+    "unk_0": 1,
+    "key": "RVD_GB_WoodTrim_01_N"
+  },
+  {
+    "unk_0": 2,
+    "key": "RVD_GB_WoodWall_01_D"
+  },
+  {
+    "unk_0": 1,
+    "key": "RVD_GB_WoodWall_01_N"
+  },
+  {
+    "unk_0": 2,
+    "key": "WP_gdr_BallistaEmplaced_01_Metal_D"
+  },
+  {
+    "unk_0": 1,
+    "key": "WP_gdr_BallistaEmplaced_01_Metal_N"
+  },
+  {
+    "unk_0": 2,
+    "key": "WP_gdr_BallistaEmplaced_01_Metal_S"
+  },
+  {
+    "unk_0": 2,
+    "key": "FL_tre_des_SugarMaple_Fall_01_Diffuse_Billboards"
+  },
+  {
+    "unk_0": 2,
+    "key": "FL_tre_des_SugarMaple_Fall_01_Bark"
+  },
+  {
+    "unk_0": 1,
+    "key": "FL_tre_des_SugarMaple_Fall_01_Bark_Normal"
+  },
+  {
+    "unk_0": 2,
+    "key": "FL_tre_des_SugarMaple_Fall_01_Diffuse"
+  },
+  {
+    "unk_0": 2,
+    "key": "FL_tre_des_SugarMaple_Fall_01_Diffuse"
+  },
+  {
+    "unk_0": 2,
+    "key": "RVD_PR_Statue_03_D"
+  },
+  {
+    "unk_0": 1,
+    "key": "RVD_PR_Statue_03_N"
+  },
+  {
+    "unk_0": 2,
+    "key": "FX_CloudyNoise_tiled_02"
+  },
+  {
+    "unk_0": 2,
+    "key": "FX_ElectricArcs_tiled"
+  },
+  {
+    "unk_0": 2,
+    "key": "RVD_BR_Gazebo_01_stone_D"
+  },
+  {
+    "unk_0": 1,
+    "key": "RVD_BR_Gazebo_01_stone_GN_01"
+  },
+  {
+    "unk_0": 2,
+    "key": "RVD_BR_Gazebo_01_stone_S"
+  },
+  {
+    "unk_0": 2,
+    "key": "RVD_GB_WavyBrick_01_D"
+  },
+  {
+    "unk_0": 2,
+    "key": "RVD_GB_StainsPAGE_01_G"
+  },
+  {
+    "unk_0": 1,
+    "key": "RVD_GB_WavyBrick_01_N"
+  },
+  {
+    "unk_0": 2,
+    "key": "RVD_GB_WavyBrick_01_S"
+  },
+  {
+    "unk_0": 2,
+    "key": "RVD_GB_WavyBrick_01_D"
+  },
+  {
+    "unk_0": 2,
+    "key": "RVD_GB_StainsPAGE_01_G"
+  },
+  {
+    "unk_0": 1,
+    "key": "RVD_GB_WavyBrick_01_N"
+  },
+  {
+    "unk_0": 2,
+    "key": "RVD_GB_WavyBrick_01_S"
+  },
+  {
+    "unk_0": 2,
+    "key": "PR_SpawnBanner_Stand_01_D"
+  },
+  {
+    "unk_0": 1,
+    "key": "PR_SpawnBanner_Stand_01_N"
+  },
+  {
+    "unk_0": 2,
+    "key": "PR_SpawnBanner_Stand_01_S"
+  },
+  {
+    "unk_0": 2,
+    "key": "CP_gdr_Banner_01_D"
+  },
+  {
+    "unk_0": 1,
+    "key": "CP_gdr_Banner_01_N"
+  },
+  {
+    "unk_0": 2,
+    "key": "CP_gdr_Banner_01_S"
+  },
+  {
+    "unk_0": 2,
+    "key": "PR_ProjectileFirePot_01_D"
+  },
+  {
+    "unk_0": 1,
+    "key": "PR_ProjectileFirePot_01_N"
+  },
+  {
+    "unk_0": 2,
+    "key": "PR_ProjectileFirePot_01_S"
+  },
+  {
+    "unk_0": 2,
+    "key": "PR_ProjectileFirePot_01_D"
+  },
+  {
+    "unk_0": 2,
+    "key": "RVD_PR_Bench_01_D"
+  },
+  {
+    "unk_0": 1,
+    "key": "RVD_PR_Bench_01_N"
+  },
+  {
+    "unk_0": 2,
+    "key": "PR_AcquireObject_glow_D"
+  },
+  {
+    "unk_0": 2,
+    "key": "PR_AcquireObject_ElrondRing_01_D"
+  },
+  {
+    "unk_0": 1,
+    "key": "PR_AcquireObject_ElrondRing_01_N"
+  },
+  {
+    "unk_0": 2,
+    "key": "PR_AcquireObject_ElrondRing_01_D"
+  },
+  {
+    "unk_0": 2,
+    "key": "RVD_GB_Ivy_01_D"
+  },
+  {
+    "unk_0": 1,
+    "key": "RVD_GB_Ivy_01_N"
+  },
+  {
+    "unk_0": 2,
+    "key": "RVD_GB_Ivy_01_D"
+  },
+  {
+    "unk_0": 2,
+    "key": "RVD_BL_pattern_04_D"
+  },
+  {
+    "unk_0": 1,
+    "key": "RVD_BL_pattern_N"
+  },
+  {
+    "unk_0": 2,
+    "key": "RVD_BL_pattern_04_D"
+  },
+  {
+    "unk_0": 2,
+    "key": "RVD_GB_RoofTile_01_D"
+  },
+  {
+    "unk_0": 2,
+    "key": "RVD_GB_RoofTile_01_G"
+  },
+  {
+    "unk_0": 1,
+    "key": "RVD_GB_RoofTile_01_N"
+  },
+  {
+    "unk_0": 2,
+    "key": "RVD_GB_StoneBrick_02_D"
+  },
+  {
+    "unk_0": 1,
+    "key": "RVD_GB_StoneBrick_02_N"
+  },
+  {
+    "unk_0": 2,
+    "key": "RVD_GB_StoneSmooth_01_D"
+  },
+  {
+    "unk_0": 1,
+    "key": "RVD_GB_StoneSmooth_01_N"
+  },
+  {
+    "unk_0": 2,
+    "key": "RVD_BL_Trim_02_D"
+  },
+  {
+    "unk_0": 1,
+    "key": "RVD_BL_Trim_02_N"
+  },
+  {
+    "unk_0": 2,
+    "key": "RVD_GB_WoodTrim_01_D"
+  },
+  {
+    "unk_0": 1,
+    "key": "RVD_GB_WoodTrim_01_N"
+  },
+  {
+    "unk_0": 2,
+    "key": "RVD_GB_WoodWall_01_D"
+  },
+  {
+    "unk_0": 1,
+    "key": "RVD_GB_WoodWall_01_N"
+  },
+  {
+    "unk_0": 2,
+    "key": "RVD_GB_WoodWall_02_D"
+  },
+  {
+    "unk_0": 1,
+    "key": "RVD_GB_WoodWall_02_N"
+  },
+  {
+    "unk_0": 2,
+    "key": "RVD_GB_YellowWall_01_D"
+  },
+  {
+    "unk_0": 1,
+    "key": "RVD_GB_YellowWall_01_N"
+  },
+  {
+    "unk_0": 2,
+    "key": "WP_urk_quiver_01_D"
+  },
+  {
+    "unk_0": 1,
+    "key": "WP_urk_quiver_01_N"
+  },
+  {
+    "unk_0": 2,
+    "key": "WP_urk_quiver_01_S"
+  },
+  {
+    "unk_0": 2,
+    "key": "WP_urk_ax_01_D"
+  },
+  {
+    "unk_0": 1,
+    "key": "WP_urk_ax_01_N"
+  },
+  {
+    "unk_0": 2,
+    "key": "WP_urk_ax_01_S"
+  },
+  {
+    "unk_0": 2,
+    "key": "WP_bow_string_01_D"
+  },
+  {
+    "unk_0": 2,
+    "key": "FL_tre_con_DouglasFir_01_Diffuse_Billboards"
+  },
+  {
+    "unk_0": 2,
+    "key": "FL_tre_con_DouglasFir_01_Bark"
+  },
+  {
+    "unk_0": 1,
+    "key": "FL_tre_con_DouglasFir_01_Bark_Normal"
+  },
+  {
+    "unk_0": 2,
+    "key": "FL_tre_con_DouglasFir_01_Diffuse"
+  },
+  {
+    "unk_0": 2,
+    "key": "FL_tre_con_DouglasFir_01_Diffuse"
+  },
+  {
+    "unk_0": 2,
+    "key": "RVD_GB_StoneBrick_02_D"
+  },
+  {
+    "unk_0": 2,
+    "key": "RVD_GB_StainsPAGE_01_G"
+  },
+  {
+    "unk_0": 1,
+    "key": "RVD_GB_StoneBrick_02_N"
+  },
+  {
+    "unk_0": 2,
+    "key": "RVD_GB_StoneBrick_02_D"
+  },
+  {
+    "unk_0": 2,
+    "key": "RVD_GB_StainsPAGE_01_G"
+  },
+  {
+    "unk_0": 1,
+    "key": "RVD_GB_StoneBrick_02_N"
+  },
+  {
+    "unk_0": 2,
+    "key": "RVD_GB_GreenWood_01_D"
+  },
+  {
+    "unk_0": 1,
+    "key": "RVD_GB_GreenWood_01_N"
+  },
+  {
+    "unk_0": 2,
+    "key": "RVD_GB_Pattern_01_D"
+  },
+  {
+    "unk_0": 1,
+    "key": "RVD_GB_Pattern_01_N"
+  },
+  {
+    "unk_0": 2,
+    "key": "RVD_GB_Pattern_01_D"
+  },
+  {
+    "unk_0": 2,
+    "key": "RVD_GB_RoofTile_01_D"
+  },
+  {
+    "unk_0": 2,
+    "key": "RVD_GB_RoofTile_01_G"
+  },
+  {
+    "unk_0": 1,
+    "key": "RVD_GB_RoofTile_01_N"
+  },
+  {
+    "unk_0": 2,
+    "key": "RVD_GB_StoneGround_02_D"
+  },
+  {
+    "unk_0": 2,
+    "key": "RVD_GB_StainsPAGE_01_G"
+  },
+  {
+    "unk_0": 1,
+    "key": "RVD_GB_StoneGround_02_N"
+  },
+  {
+    "unk_0": 2,
+    "key": "RVD_BL_Trim_02_D"
+  },
+  {
+    "unk_0": 1,
+    "key": "RVD_BL_Trim_02_N"
+  },
+  {
+    "unk_0": 2,
+    "key": "RVD_GB_WhitePaintWood_01_D"
+  },
+  {
+    "unk_0": 1,
+    "key": "RVD_GB_WhitePaintWood_01_N"
+  },
+  {
+    "unk_0": 2,
+    "key": "RVD_GB_WoodWall_01_D"
+  },
+  {
+    "unk_0": 1,
+    "key": "RVD_GB_WoodWall_01_N"
+  },
+  {
+    "unk_0": 2,
+    "key": "RVD_GB_WoodTrim_01_D"
+  },
+  {
+    "unk_0": 1,
+    "key": "RVD_GB_WoodTrim_01_N"
+  },
+  {
+    "unk_0": 2,
+    "key": "RVD_BL_Swan_D"
+  },
+  {
+    "unk_0": 1,
+    "key": "RVD_BL_Swan_N"
+  },
+  {
+    "unk_0": 2,
+    "key": "RVD_GB_BrokenStone_01_D"
+  },
+  {
+    "unk_0": 1,
+    "key": "RVD_GB_BrokenStone_01_N"
+  },
+  {
+    "unk_0": 2,
+    "key": "RVD_GB_StoneGround_02_D"
+  },
+  {
+    "unk_0": 1,
+    "key": "RVD_GB_StoneGround_02_N"
+  },
+  {
+    "unk_0": 2,
+    "key": "RVD_GB_StoneSmooth_01_D"
+  },
+  {
+    "unk_0": 1,
+    "key": "RVD_GB_StoneSmooth_01_N"
+  },
+  {
+    "unk_0": 2,
+    "key": "RVD_BL_Trim_02_D"
+  },
+  {
+    "unk_0": 1,
+    "key": "RVD_BL_Trim_02_N"
+  },
+  {
+    "unk_0": 2,
+    "key": "RVD_GB_GreenWood_01_D"
+  },
+  {
+    "unk_0": 1,
+    "key": "RVD_GB_GreenWood_01_N"
+  },
+  {
+    "unk_0": 2,
+    "key": "RVD_BL_pattern_05_D"
+  },
+  {
+    "unk_0": 1,
+    "key": "RVD_BL_pattern_05_N"
+  },
+  {
+    "unk_0": 2,
+    "key": "CH_elf_ancn_swd_01_lb_D"
+  },
+  {
+    "unk_0": 2,
+    "key": "CH_elf_ancn_swd_01_lb_G"
+  },
+  {
+    "unk_0": 1,
+    "key": "CH_elf_ancn_swd_01_lb_N"
+  },
+  {
+    "unk_0": 2,
+    "key": "CH_elf_ancn_swd_01_lb_S"
+  },
+  {
+    "unk_0": 2,
+    "key": "CH_elf_ancn_grnt_all_01_Hair_D"
+  },
+  {
+    "unk_0": 1,
+    "key": "CH_elf_ancn_grnt_all_01_Hair_N"
+  },
+  {
+    "unk_0": 2,
+    "key": "CH_elf_ancn_grnt_all_01_Hair_D"
+  },
+  {
+    "unk_0": 2,
+    "key": "CH_elf_ancn_grnt_all_01_Hair_D"
+  },
+  {
+    "unk_0": 2,
+    "key": "CH_elf_ancn_grnt_all_01_Head_D"
+  },
+  {
+    "unk_0": 1,
+    "key": "CH_elf_ancn_grnt_all_01_Head_N"
+  },
+  {
+    "unk_0": 2,
+    "key": "CH_elf_ancn_grnt_all_01_Head_S"
+  },
+  {
+    "unk_0": 2,
+    "key": "CH_elf_ancn_grnt_all_01_Leather_D"
+  },
+  {
+    "unk_0": 2,
+    "key": "CH_elf_ancn_grnt_all_01_Leather_G"
+  },
+  {
+    "unk_0": 1,
+    "key": "CH_elf_ancn_grnt_all_01_Leather_N"
+  },
+  {
+    "unk_0": 2,
+    "key": "CH_elf_ancn_grnt_all_01_Leather_D"
+  },
+  {
+    "unk_0": 2,
+    "key": "CH_elf_ancn_grnt_all_01_Metal clothes_D"
+  },
+  {
+    "unk_0": 2,
+    "key": "CH_elf_ancn_grnt_all_01_Metal clothes_G"
+  },
+  {
+    "unk_0": 1,
+    "key": "CH_elf_ancn_grnt_all_01_Metal clothes_N"
+  },
+  {
+    "unk_0": 2,
+    "key": "CH_elf_ancn_grnt_all_01_Metal clothes_S"
+  },
+  {
+    "unk_0": 2,
+    "key": "CH_elf_ancn_grnt_all_01_Hair_D"
+  },
+  {
+    "unk_0": 1,
+    "key": "CH_elf_ancn_grnt_all_01_Hair_N"
+  },
+  {
+    "unk_0": 2,
+    "key": "CH_elf_ancn_grnt_all_01_Hair_D"
+  },
+  {
+    "unk_0": 2,
+    "key": "RVD_PR_Statue_07_01_D"
+  },
+  {
+    "unk_0": 1,
+    "key": "RVD_PR_Statue_07_01_N"
+  },
+  {
+    "unk_0": 2,
+    "key": "RVD_PR_Statue_07_02_D"
+  },
+  {
+    "unk_0": 1,
+    "key": "RVD_PR_Statue_07_02_N"
+  },
+  {
+    "unk_0": 2,
+    "key": "RVD_PR_Statue_04_D"
+  },
+  {
+    "unk_0": 1,
+    "key": "RVD_PR_Statue_04_N"
+  },
+  {
+    "unk_0": 2,
+    "key": "FX_CloudyNoise_tiled"
+  },
+  {
+    "unk_0": 2,
+    "key": "CH_orc_grnt_all_01_All_Armors_D"
+  },
+  {
+    "unk_0": 1,
+    "key": "CH_orc_grnt_all_01_All_Armors_N"
+  },
+  {
+    "unk_0": 2,
+    "key": "CH_orc_grnt_all_01_All_Armors_S"
+  },
+  {
+    "unk_0": 2,
+    "key": "CH_orc_grnt_all_01_All_Armors_D"
+  },
+  {
+    "unk_0": 2,
+    "key": "CH_orc_grnt_all_01_Cloth_D"
+  },
+  {
+    "unk_0": 1,
+    "key": "CH_orc_grnt_all_01_Cloth_N"
+  },
+  {
+    "unk_0": 2,
+    "key": "CH_orc_grnt_all_01_Head_01_D"
+  },
+  {
+    "unk_0": 1,
+    "key": "CH_orc_grnt_all_01_Head_01_N"
+  },
+  {
+    "unk_0": 2,
+    "key": "CH_orc_grnt_all_01_Head_01_S"
+  },
+  {
+    "unk_0": 2,
+    "key": "CH_orc_grnt_all_01_Head_02_D"
+  },
+  {
+    "unk_0": 1,
+    "key": "CH_orc_grnt_all_01_Head_02_N"
+  },
+  {
+    "unk_0": 2,
+    "key": "CH_orc_grnt_all_01_Head_02_S"
+  },
+  {
+    "unk_0": 2,
+    "key": "FL_shr_AutumnFern_01_Diffuse_Billboards"
+  },
+  {
+    "unk_0": 2,
+    "key": "FL_shr_AutumnFern_01_Diffuse"
+  },
+  {
+    "unk_0": 2,
+    "key": "WP_gdr_spear_01_D"
+  },
+  {
+    "unk_0": 1,
+    "key": "WP_gdr_spear_01_N"
+  },
+  {
+    "unk_0": 2,
+    "key": "WP_gdr_spear_01_D"
+  },
+  {
+    "unk_0": 2,
+    "key": "PR_gdr_Barricade_01_D"
+  },
+  {
+    "unk_0": 1,
+    "key": "PR_gdr_Barricade_01_N"
+  },
+  {
+    "unk_0": 2,
+    "key": "PR_gdr_Barricade_01_S"
+  },
+  {
+    "unk_0": 2,
+    "key": "FX_CloudyNoise_tiled"
+  },
+  {
+    "unk_0": 2,
+    "key": "RVD_GB_Stone_03_D"
+  },
+  {
+    "unk_0": 1,
+    "key": "RVD_GB_Stone_03_N"
+  },
+  {
+    "unk_0": 2,
+    "key": "WP_bow_string_01_D"
+  },
+  {
+    "unk_0": 2,
+    "key": "WP_TrailHand_01_D"
+  },
+  {
+    "unk_0": 2,
+    "key": "FX_CloudyNoise_tiled_02"
+  },
+  {
+    "unk_0": 2,
+    "key": "FX_ElectricArcs_tiled"
+  },
+  {
+    "unk_0": 2,
+    "key": "CH_urk_swd_01_belt_D"
+  },
+  {
+    "unk_0": 1,
+    "key": "CH_urk_swd_01_belt_N"
+  },
+  {
+    "unk_0": 2,
+    "key": "CH_urk_swd_01_belt_S"
+  },
+  {
+    "unk_0": 2,
+    "key": "CH_urk_swd_01_Chainmail_D"
+  },
+  {
+    "unk_0": 1,
+    "key": "CH_urk_swd_01_Chainmail_N"
+  },
+  {
+    "unk_0": 2,
+    "key": "CH_urk_swd_01_Chainmail_S"
+  },
+  {
+    "unk_0": 2,
+    "key": "CH_urk_swd_01_Chainmail_D"
+  },
+  {
+    "unk_0": 2,
+    "key": "CH_urk_swd_01_hair_D"
+  },
+  {
+    "unk_0": 1,
+    "key": "CH_urk_swd_01_hair_N"
+  },
+  {
+    "unk_0": 2,
+    "key": "CH_urk_swd_01_hair_D"
+  },
+  {
+    "unk_0": 2,
+    "key": "CH_urk_swd_01_hair_D"
+  },
+  {
+    "unk_0": 2,
+    "key": "CH_urk_swd_01_Leather_D"
+  },
+  {
+    "unk_0": 1,
+    "key": "CH_urk_swd_01_Leather_N"
+  },
+  {
+    "unk_0": 2,
+    "key": "CH_urk_swd_01_Leather_S"
+  },
+  {
+    "unk_0": 2,
+    "key": "CH_urk_swd_01_metal_D"
+  },
+  {
+    "unk_0": 2,
+    "key": "CH_urk_swd_01_metal_G"
+  },
+  {
+    "unk_0": 1,
+    "key": "CH_EnvMapMask_02_N"
+  },
+  {
+    "unk_0": 2,
+    "key": "CH_urk_swd_01_metal_S"
+  },
+  {
+    "unk_0": 1,
+    "key": "CH_urk_swd_01_metal_N"
+  },
+  {
+    "unk_0": 2,
+    "key": "CH_urk_swd_01_skin_D"
+  },
+  {
+    "unk_0": 1,
+    "key": "CH_urk_swd_01_skin_N"
+  },
+  {
+    "unk_0": 2,
+    "key": "CH_urk_swd_01_skin_S"
+  },
+  {
+    "unk_0": 2,
+    "key": "RVD_PR_Bookcase_01_01_D"
+  },
+  {
+    "unk_0": 1,
+    "key": "RVD_PR_Bookcase_01_01_N"
+  },
+  {
+    "unk_0": 2,
+    "key": "RVD_PR_Bookcase_01_01_D"
+  },
+  {
+    "unk_0": 1,
+    "key": "RVD_PR_Bookcase_01_01_N"
+  },
+  {
+    "unk_0": 2,
+    "key": "RVD_PR_Bookcase_01_02_D"
+  },
+  {
+    "unk_0": 1,
+    "key": "RVD_PR_Bookcase_01_02_N"
+  },
+  {
+    "unk_0": 2,
+    "key": "RVD_PR_Bookcase_01_02_D"
+  },
+  {
+    "unk_0": 1,
+    "key": "RVD_PR_Bookcase_01_02_N"
+  },
+  {
+    "unk_0": 2,
+    "key": "RVD_PR_Bookcase_01_03_D"
+  },
+  {
+    "unk_0": 1,
+    "key": "RVD_PR_Bookcase_01_03_N"
+  },
+  {
+    "unk_0": 2,
+    "key": "RVD_PR_Bookcase_01_03_D"
+  },
+  {
+    "unk_0": 1,
+    "key": "RVD_PR_Bookcase_01_03_N"
+  },
+  {
+    "unk_0": 2,
+    "key": "FL_shr_AzaleaPatch_Autumn_01_Diffuse_Billboards"
+  },
+  {
+    "unk_0": 2,
+    "key": "FL_shr_AzaleaPatch_Autumn_01_Diffuse"
+  },
+  {
+    "unk_0": 2,
+    "key": "RVD_Wood_Details2_D"
+  },
+  {
+    "unk_0": 1,
+    "key": "RVD_Wood_Details2_N"
+  },
+  {
+    "unk_0": 2,
+    "key": "RVD_GB_Wood_03_D"
+  },
+  {
+    "unk_0": 1,
+    "key": "RVD_GB_Wood_03_N"
+  },
+  {
+    "unk_0": 2,
+    "key": "RVD_PR_Bookcase_01_02_D"
+  },
+  {
+    "unk_0": 1,
+    "key": "RVD_PR_Bookcase_01_02_N"
+  },
+  {
+    "unk_0": 2,
+    "key": "RVD_PR_Bookcase_01_03_D"
+  },
+  {
+    "unk_0": 1,
+    "key": "RVD_PR_Bookcase_01_03_N"
+  },
+  {
+    "unk_0": 2,
+    "key": "RVD_GB_StoneBrick_02_D"
+  },
+  {
+    "unk_0": 1,
+    "key": "RVD_GB_StoneBrick_02_N"
+  },
+  {
+    "unk_0": 2,
+    "key": "CH_orc_shm_01_D"
+  },
+  {
+    "unk_0": 1,
+    "key": "CH_orc_shm_01_N"
+  },
+  {
+    "unk_0": 2,
+    "key": "CH_orc_shm_01_S"
+  },
+  {
+    "unk_0": 2,
+    "key": "CH_orc_shm_01_Body_D"
+  },
+  {
+    "unk_0": 1,
+    "key": "CH_EnvMapMask_02_N"
+  },
+  {
+    "unk_0": 2,
+    "key": "CH_orc_shm_01_Body_S"
+  },
+  {
+    "unk_0": 1,
+    "key": "CH_orc_shm_01_Body_N"
+  },
+  {
+    "unk_0": 2,
+    "key": "CH_orc_shm_01_Body_D"
+  },
+  {
+    "unk_0": 2,
+    "key": "RVD_GB_Stone_03_D"
+  },
+  {
+    "unk_0": 1,
+    "key": "RVD_GB_Stone_03_N"
+  },
+  {
+    "unk_0": 2,
+    "key": "RVD_BL_MoutainWall_01_D"
+  },
+  {
+    "unk_0": 1,
+    "key": "RVD_BL_MoutainWall_01_N"
+  },
+  {
+    "unk_0": 2,
+    "key": "RVD_BL_MoutainWall_01_D"
+  },
+  {
+    "unk_0": 1,
+    "key": "RVD_BL_MoutainWall_01_N"
+  },
+  {
+    "unk_0": 2,
+    "key": "RVD_GB_BrokenStone_01_D"
+  },
+  {
+    "unk_0": 1,
+    "key": "RVD_GB_BrokenStone_01_N"
+  },
+  {
+    "unk_0": 2,
+    "key": "RVD_GB_CounselCourtyardCenter_01_D"
+  },
+  {
+    "unk_0": 2,
+    "key": "RVD_GB_StainsPAGE_01_G"
+  },
+  {
+    "unk_0": 1,
+    "key": "RVD_GB_CounselCourtyardCenter_01_N"
+  },
+  {
+    "unk_0": 2,
+    "key": "RVD_GB_StoneStairs_02_D"
+  },
+  {
+    "unk_0": 2,
+    "key": "RVD_GB_StainsPAGE_01_G"
+  },
+  {
+    "unk_0": 1,
+    "key": "RVD_GB_StoneStairs_02_N"
+  },
+  {
+    "unk_0": 2,
+    "key": "RVD_GB_StoneGround_02_D"
+  },
+  {
+    "unk_0": 2,
+    "key": "RVD_GB_StainsPAGE_01_G"
+  },
+  {
+    "unk_0": 1,
+    "key": "RVD_GB_StoneGround_02_N"
+  },
+  {
+    "unk_0": 2,
+    "key": "RVD_GB_StoneSmooth_01_D"
+  },
+  {
+    "unk_0": 1,
+    "key": "RVD_GB_StoneSmooth_01_N"
+  },
+  {
+    "unk_0": 2,
+    "key": "RVD_BL_Trim_02_D"
+  },
+  {
+    "unk_0": 2,
+    "key": "RVD_GB_StainsPAGE_01_G"
+  },
+  {
+    "unk_0": 1,
+    "key": "RVD_BL_Trim_02_N"
+  },
+  {
+    "unk_0": 2,
+    "key": "RVD_GB_WavyBrick_01_D"
+  },
+  {
+    "unk_0": 2,
+    "key": "RVD_GB_StainsPAGE_01_G"
+  },
+  {
+    "unk_0": 1,
+    "key": "RVD_GB_WavyBrick_01_N"
+  },
+  {
+    "unk_0": 2,
+    "key": "RVD_GB_WoodWall_01_D"
+  },
+  {
+    "unk_0": 1,
+    "key": "RVD_GB_WoodWall_01_N"
+  },
+  {
+    "unk_0": 2,
+    "key": "PR_orc_BatRam_01a_D"
+  },
+  {
+    "unk_0": 2,
+    "key": "WP_gdr_BallistaEmplaced_01_Wood_G"
+  },
+  {
+    "unk_0": 1,
+    "key": "WP_gdr_BallistaEmplaced_01_Wood_N"
+  },
+  {
+    "unk_0": 1,
+    "key": "WP_gdr_BallistaEmplaced_01_Wood2_N"
+  },
+  {
+    "unk_0": 2,
+    "key": "RVD_PR_Bed_01_01_D"
+  },
+  {
+    "unk_0": 1,
+    "key": "RVD_PR_Bed_01_01_N"
+  },
+  {
+    "unk_0": 2,
+    "key": "RVD_PR_Bed_01_02_D"
+  },
+  {
+    "unk_0": 1,
+    "key": "RVD_PR_Bed_01_02_N"
+  },
+  {
+    "unk_0": 2,
+    "key": "RVD_PR_Bookcase_01_01_D"
+  },
+  {
+    "unk_0": 1,
+    "key": "RVD_PR_Bookcase_01_01_N"
+  },
+  {
+    "unk_0": 2,
+    "key": "RVD_GB_Wood_03_D"
+  },
+  {
+    "unk_0": 1,
+    "key": "RVD_GB_Wood_03_N"
+  },
+  {
+    "unk_0": 2,
+    "key": "RVD_PR_Bookcase_01_02_D"
+  },
+  {
+    "unk_0": 1,
+    "key": "RVD_PR_Bookcase_01_02_N"
+  },
+  {
+    "unk_0": 2,
+    "key": "RVD_GB_StoneBrick_02_D"
+  },
+  {
+    "unk_0": 1,
+    "key": "RVD_GB_StoneBrick_02_N"
+  },
+  {
+    "unk_0": 2,
+    "key": "RVD_GB_Stone_03_D"
+  },
+  {
+    "unk_0": 1,
+    "key": "RVD_GB_Stone_03_N"
+  },
+  {
+    "unk_0": 2,
+    "key": "WP_gdr_BallistaEmplaced_01_Metal_D"
+  },
+  {
+    "unk_0": 1,
+    "key": "WP_gdr_BallistaEmplaced_01_Metal_N"
+  },
+  {
+    "unk_0": 2,
+    "key": "WP_gdr_BallistaEmplaced_01_Metal_S"
+  },
+  {
+    "unk_0": 2,
+    "key": "WP_elf_ancn_sword_01_D"
+  },
+  {
+    "unk_0": 1,
+    "key": "WP_elf_ancn_sword_01_N"
+  },
+  {
+    "unk_0": 2,
+    "key": "WP_elf_ancn_sword_01_S"
+  },
+  {
+    "unk_0": 2,
+    "key": "PR_orc_BatRam_01a_D"
+  },
+  {
+    "unk_0": 2,
+    "key": "WP_gdr_BallistaEmplaced_01_Wood_G"
+  },
+  {
+    "unk_0": 1,
+    "key": "WP_gdr_BallistaEmplaced_01_Wood_N"
+  },
+  {
+    "unk_0": 1,
+    "key": "WP_gdr_BallistaEmplaced_01_Wood2_N"
+  },
+  {
+    "unk_0": 2,
+    "key": "PR_AcquireObject_TheRing_01_N"
+  },
+  {
+    "unk_0": 2,
+    "key": "PR_AcquireObject_TheRing_01_D"
+  },
+  {
+    "unk_0": 2,
+    "key": "PR_AcquireObject_TheRing_01_D"
+  },
+  {
+    "unk_0": 1,
+    "key": "PR_AcquireObject_TheRing_01_N"
+  },
+  {
+    "unk_0": 2,
+    "key": "PR_AcquireObject_TheRing_01_D"
+  },
+  {
+    "unk_0": 2,
+    "key": "PR_AcquireObject_TheRing_01_D"
+  },
+  {
+    "unk_0": 2,
+    "key": "RVD_GB_Stone_03_D"
+  },
+  {
+    "unk_0": 1,
+    "key": "RVD_GB_Stone_03_N"
+  },
+  {
+    "unk_0": 2,
+    "key": "RVD_GB_BrokenStone_01_D"
+  },
+  {
+    "unk_0": 1,
+    "key": "RVD_GB_BrokenStone_01_N"
+  },
+  {
+    "unk_0": 2,
+    "key": "RVD_GB_StoneGround_01_D"
+  },
+  {
+    "unk_0": 1,
+    "key": "RVD_GB_StoneGround_01_N"
+  },
+  {
+    "unk_0": 2,
+    "key": "RVD_BL_pattern_04_D"
+  },
+  {
+    "unk_0": 1,
+    "key": "RVD_BL_pattern_N"
+  },
+  {
+    "unk_0": 2,
+    "key": "RVD_BL_pattern_04_D"
+  },
+  {
+    "unk_0": 2,
+    "key": "RVD_BL_Gold_01_D"
+  },
+  {
+    "unk_0": 1,
+    "key": "RVD_BL_Gold_01_N"
+  },
+  {
+    "unk_0": 2,
+    "key": "RVD_BL_Trim_02_D"
+  },
+  {
+    "unk_0": 1,
+    "key": "RVD_BL_Trim_02_N"
+  },
+  {
+    "unk_0": 2,
+    "key": "RVD_GB_RoofTile_01_D"
+  },
+  {
+    "unk_0": 1,
+    "key": "RVD_GB_RoofTile_01_N"
+  },
+  {
+    "unk_0": 2,
+    "key": "RVD_GB_StoneSmooth_01_D"
+  },
+  {
+    "unk_0": 1,
+    "key": "RVD_GB_StoneSmooth_01_N"
+  },
+  {
+    "unk_0": 2,
+    "key": "RVD_GB_StoneGround_02_D"
+  },
+  {
+    "unk_0": 1,
+    "key": "RVD_GB_StoneGround_02_N"
+  },
+  {
+    "unk_0": 2,
+    "key": "RVD_GB_WavyBrick_01_D"
+  },
+  {
+    "unk_0": 1,
+    "key": "RVD_GB_WavyBrick_01_N"
+  },
+  {
+    "unk_0": 2,
+    "key": "RVD_GB_Wood_02_D"
+  },
+  {
+    "unk_0": 1,
+    "key": "RVD_GB_Wood_02_N"
+  },
+  {
+    "unk_0": 2,
+    "key": "RVD_GB_WoodBalcony_D"
+  },
+  {
+    "unk_0": 1,
+    "key": "RVD_GB_WoodBalcony_N"
+  },
+  {
+    "unk_0": 2,
+    "key": "RVD_GB_WoodBalcony_D"
+  },
+  {
+    "unk_0": 2,
+    "key": "RVD_GB_WoodWall_01_D"
+  },
+  {
+    "unk_0": 1,
+    "key": "RVD_GB_WoodWall_01_N"
+  },
+  {
+    "unk_0": 2,
+    "key": "RVD_GB_StoneStairs_02_D"
+  },
+  {
+    "unk_0": 1,
+    "key": "RVD_GB_StoneStairs_02_N"
+  },
+  {
+    "unk_0": 2,
+    "key": "RVD_GB_WoodTrim_01_D"
+  },
+  {
+    "unk_0": 1,
+    "key": "RVD_GB_WoodTrim_01_N"
+  },
+  {
+    "unk_0": 2,
+    "key": "RVD_GB_WhitePaintWood_01_N"
+  },
+  {
+    "unk_0": 2,
+    "key": "WP_gdr_BallistaEmplaced_01_Metal_D"
+  },
+  {
+    "unk_0": 1,
+    "key": "WP_gdr_BallistaEmplaced_01_Metal_N"
+  },
+  {
+    "unk_0": 2,
+    "key": "WP_gdr_BallistaEmplaced_01_Metal_S"
+  },
+  {
+    "unk_0": 2,
+    "key": "PR_orc_BatRam_01a_D"
+  },
+  {
+    "unk_0": 2,
+    "key": "WP_gdr_BallistaEmplaced_01_Wood_G"
+  },
+  {
+    "unk_0": 1,
+    "key": "WP_gdr_BallistaEmplaced_01_Wood_N"
+  },
+  {
+    "unk_0": 1,
+    "key": "WP_gdr_BallistaEmplaced_01_Wood2_N"
+  },
+  {
+    "unk_0": 2,
+    "key": "WP_gdr_BallistaEmplaced_01_Metal_D"
+  },
+  {
+    "unk_0": 1,
+    "key": "WP_gdr_BallistaEmplaced_01_Metal_N"
+  },
+  {
+    "unk_0": 2,
+    "key": "WP_gdr_BallistaEmplaced_01_Metal_S"
+  },
+  {
+    "unk_0": 2,
+    "key": "PR_orc_BatRam_01a_D"
+  },
+  {
+    "unk_0": 2,
+    "key": "WP_gdr_BallistaEmplaced_01_Wood_G"
+  },
+  {
+    "unk_0": 1,
+    "key": "WP_gdr_BallistaEmplaced_01_Wood_N"
+  },
+  {
+    "unk_0": 1,
+    "key": "WP_gdr_BallistaEmplaced_01_Wood2_N"
+  },
+  {
+    "unk_0": 2,
+    "key": "RVD_GB_Stone_03_D"
+  },
+  {
+    "unk_0": 1,
+    "key": "RVD_GB_Stone_03_N"
+  },
+  {
+    "unk_0": 2,
+    "key": "CH_orc_bow_01_body_D"
+  },
+  {
+    "unk_0": 1,
+    "key": "CH_orc_bow_01_body_N"
+  },
+  {
+    "unk_0": 2,
+    "key": "CH_orc_bow_01_body_S"
+  },
+  {
+    "unk_0": 2,
+    "key": "CH_orc_bow_01_body_D"
+  },
+  {
+    "unk_0": 2,
+    "key": "CH_orc_bow_01_hair_D"
+  },
+  {
+    "unk_0": 1,
+    "key": "CH_orc_bow_01_hair_N"
+  },
+  {
+    "unk_0": 2,
+    "key": "CH_orc_bow_01_hair_S"
+  },
+  {
+    "unk_0": 2,
+    "key": "CH_orc_bow_01_hair_D"
+  },
+  {
+    "unk_0": 2,
+    "key": "CH_orc_bow_01_head_D"
+  },
+  {
+    "unk_0": 1,
+    "key": "CH_orc_bow_01_head_N"
+  },
+  {
+    "unk_0": 2,
+    "key": "CH_orc_bow_01_head_S"
+  },
+  {
+    "unk_0": 2,
+    "key": "CH_orc_bow_01_head_D"
+  },
+  {
+    "unk_0": 2,
+    "key": "CH_orc_headWear_01_D"
+  },
+  {
+    "unk_0": 1,
+    "key": "CH_orc_headWear_01_N"
+  },
+  {
+    "unk_0": 2,
+    "key": "CH_orc_headWear_01_S"
+  },
+  {
+    "unk_0": 2,
+    "key": "CH_orc_headWear_01_D"
+  },
+  {
+    "unk_0": 2,
+    "key": "FX_CloudyNoise_tiled"
+  },
+  {
+    "unk_0": 2,
+    "key": "PR_urk_TorchBomb_01_D"
+  },
+  {
+    "unk_0": 1,
+    "key": "PR_urk_TorchBomb_01_N"
+  },
+  {
+    "unk_0": 2,
+    "key": "PR_urk_TorchBomb_01_S"
+  },
+  {
+    "unk_0": 2,
+    "key": "RVD_GB_PatternWall_01_D"
+  },
+  {
+    "unk_0": 2,
+    "key": "RVD_GB_StainsPAGE_01_G"
+  },
+  {
+    "unk_0": 1,
+    "key": "RVD_GB_PatternWall_01_N"
+  },
+  {
+    "unk_0": 2,
+    "key": "RVD_GB_StoneGround_02_D"
+  },
+  {
+    "unk_0": 2,
+    "key": "RVD_GB_StainsPAGE_01_G"
+  },
+  {
+    "unk_0": 1,
+    "key": "RVD_GB_StoneGround_02_N"
+  },
+  {
+    "unk_0": 2,
+    "key": "RVD_GB_StoneStairs_02_D"
+  },
+  {
+    "unk_0": 2,
+    "key": "RVD_GB_StainsPAGE_01_G"
+  },
+  {
+    "unk_0": 1,
+    "key": "RVD_GB_StoneStairs_02_N"
+  },
+  {
+    "unk_0": 2,
+    "key": "RVD_BL_Trim_02_D"
+  },
+  {
+    "unk_0": 2,
+    "key": "RVD_GB_StainsPAGE_01_G"
+  },
+  {
+    "unk_0": 1,
+    "key": "RVD_BL_Trim_02_N"
+  },
+  {
+    "unk_0": 2,
+    "key": "CH_trl_attack_D"
+  },
+  {
+    "unk_0": 1,
+    "key": "CH_EnvMapMask_01_N"
+  },
+  {
+    "unk_0": 2,
+    "key": "CH_trl_attack_S"
+  },
+  {
+    "unk_0": 1,
+    "key": "CH_trl_attack_N"
+  },
+  {
+    "unk_0": 2,
+    "key": "CH_trl_all_Body_D"
+  },
+  {
+    "unk_0": 2,
+    "key": "CH_trl_all_Body_G"
+  },
+  {
+    "unk_0": 1,
+    "key": "CH_trl_all_Body_N"
+  },
+  {
+    "unk_0": 2,
+    "key": "CH_trl_all_Body_S"
+  },
+  {
+    "unk_0": 2,
+    "key": "CH_trl_catapulthood_D"
+  },
+  {
+    "unk_0": 1,
+    "key": "CH_trl_catapulthood_N"
+  },
+  {
+    "unk_0": 2,
+    "key": "CH_trl_catapulthood_D"
+  },
+  {
+    "unk_0": 2,
+    "key": "CH_trl_all_belt_D"
+  },
+  {
+    "unk_0": 1,
+    "key": "CH_trl_all_belt_N"
+  },
+  {
+    "unk_0": 2,
+    "key": "CH_trl_all_belt_S"
+  },
+  {
+    "unk_0": 2,
+    "key": "CH_trl_mountain_D"
+  },
+  {
+    "unk_0": 1,
+    "key": "CH_EnvMapMask_01_N"
+  },
+  {
+    "unk_0": 2,
+    "key": "CH_trl_mountain_S"
+  },
+  {
+    "unk_0": 1,
+    "key": "CH_trl_mountain_N"
+  },
+  {
+    "unk_0": 2,
+    "key": "CH_trl_mountain_D"
+  },
+  {
+    "unk_0": 2,
+    "key": "CH_trl_siegehelmet_D"
+  },
+  {
+    "unk_0": 1,
+    "key": "CH_EnvMapMask_01_N"
+  },
+  {
+    "unk_0": 2,
+    "key": "CH_trl_siegehelmet_S"
+  },
+  {
+    "unk_0": 1,
+    "key": "CH_trl_siegehelmet_N"
+  },
+  {
+    "unk_0": 2,
+    "key": "CH_trl_siegehelmet_D"
+  },
+  {
+    "unk_0": 2,
+    "key": "CH_Sauron_01_gear_D"
+  },
+  {
+    "unk_0": 2,
+    "key": "CH_Sauron_01_gear_D"
+  },
+  {
+    "unk_0": 2,
+    "key": "CH_Sauron_01_D"
+  },
+  {
+    "unk_0": 1,
+    "key": "CH_EnvMapMask_02_N"
+  },
+  {
+    "unk_0": 2,
+    "key": "CH_Sauron_01_S"
+  },
+  {
+    "unk_0": 1,
+    "key": "CH_Sauron_01_N"
+  },
+  {
+    "unk_0": 2,
+    "key": "CH_Sauron_01_LB_D"
+  },
+  {
+    "unk_0": 1,
+    "key": "CH_EnvMapMask_02_N"
+  },
+  {
+    "unk_0": 2,
+    "key": "CH_Sauron_01_LB_S"
+  },
+  {
+    "unk_0": 1,
+    "key": "CH_Sauron_01_LB_N"
+  },
+  {
+    "unk_0": 2,
+    "key": "CH_Sauron_01_UB_D"
+  },
+  {
+    "unk_0": 1,
+    "key": "CH_EnvMapMask_02_N"
+  },
+  {
+    "unk_0": 2,
+    "key": "CH_Sauron_01_UB_S"
+  },
+  {
+    "unk_0": 1,
+    "key": "CH_Sauron_01_UB_N"
+  },
+  {
+    "unk_0": 2,
+    "key": "IGD_TR_water_01_D"
+  },
+  {
+    "unk_0": 2,
+    "key": "TR_water_temp"
+  },
+  {
+    "unk_0": 1,
+    "key": "TR_water_temp_N"
+  },
+  {
+    "unk_0": 1,
+    "key": "IGD_GB_Water_01_N"
+  },
+  {
+    "unk_0": 2,
+    "key": "RVD_BR_Gazebo_01_stone_D"
+  },
+  {
+    "unk_0": 1,
+    "key": "RVD_BR_Gazebo_01_stone_GN_01"
+  },
+  {
+    "unk_0": 2,
+    "key": "RVD_BR_Gazebo_01_stone_D"
+  },
+  {
+    "unk_0": 1,
+    "key": "RVD_BR_Gazebo_01_stone_GN_01"
+  },
+  {
+    "unk_0": 2,
+    "key": "RVD_GB_Dirt_01_D"
+  },
+  {
+    "unk_0": 1,
+    "key": "RVD_GB_Dirt_01_N"
+  },
+  {
+    "unk_0": 2,
+    "key": "RVD_GB_BellTowerDoor_01_D"
+  },
+  {
+    "unk_0": 1,
+    "key": "RVD_GB_BellTowerDoor_01_N"
+  },
+  {
+    "unk_0": 2,
+    "key": "RVD_GB_GreenWood_01_D"
+  },
+  {
+    "unk_0": 1,
+    "key": "RVD_GB_GreenWood_01_N"
+  },
+  {
+    "unk_0": 2,
+    "key": "RVD_GB_StoneBrick_02_D"
+  },
+  {
+    "unk_0": 2,
+    "key": "RVD_GB_StainsPAGE_01_G"
+  },
+  {
+    "unk_0": 1,
+    "key": "RVD_GB_StoneBrick_02_N"
+  },
+  {
+    "unk_0": 2,
+    "key": "RVD_GB_StoneBrick_02_D"
+  },
+  {
+    "unk_0": 2,
+    "key": "RVD_GB_StainsPAGE_01_G"
+  },
+  {
+    "unk_0": 1,
+    "key": "RVD_GB_StoneBrick_02_N"
+  },
+  {
+    "unk_0": 2,
+    "key": "RVD_GB_StoneGround_02_D"
+  },
+  {
+    "unk_0": 2,
+    "key": "RVD_GB_StainsPAGE_01_G"
+  },
+  {
+    "unk_0": 1,
+    "key": "RVD_GB_StoneGround_02_N"
+  },
+  {
+    "unk_0": 2,
+    "key": "RVD_GB_RoofTile_01_D"
+  },
+  {
+    "unk_0": 2,
+    "key": "RVD_GB_RoofTile_01_G"
+  },
+  {
+    "unk_0": 1,
+    "key": "RVD_GB_RoofTile_01_N"
+  },
+  {
+    "unk_0": 2,
+    "key": "RVD_BL_Trim_02_D"
+  },
+  {
+    "unk_0": 2,
+    "key": "RVD_GB_StainsPAGE_01_G"
+  },
+  {
+    "unk_0": 1,
+    "key": "RVD_BL_Trim_02_N"
+  },
+  {
+    "unk_0": 2,
+    "key": "RVD_BL_Trim_02_D"
+  },
+  {
+    "unk_0": 2,
+    "key": "RVD_GB_StainsPAGE_01_G"
+  },
+  {
+    "unk_0": 1,
+    "key": "RVD_BL_Trim_02_N"
+  },
+  {
+    "unk_0": 2,
+    "key": "RVD_GB_WavyBrick_01_D"
+  },
+  {
+    "unk_0": 2,
+    "key": "RVD_GB_StainsPAGE_01_G"
+  },
+  {
+    "unk_0": 1,
+    "key": "RVD_GB_WavyBrick_01_N"
+  },
+  {
+    "unk_0": 2,
+    "key": "RVD_GB_WavyBrick_01_D"
+  },
+  {
+    "unk_0": 2,
+    "key": "RVD_GB_StainsPAGE_01_G"
+  },
+  {
+    "unk_0": 1,
+    "key": "RVD_GB_WavyBrick_01_N"
+  },
+  {
+    "unk_0": 2,
+    "key": "RVD_GB_WavyBrick_01_D"
+  },
+  {
+    "unk_0": 2,
+    "key": "RVD_GB_StainsPAGE_01_G"
+  },
+  {
+    "unk_0": 1,
+    "key": "RVD_GB_WavyBrick_01_N"
+  },
+  {
+    "unk_0": 2,
+    "key": "RVD_GB_WavyBrick_01_D"
+  },
+  {
+    "unk_0": 2,
+    "key": "RVD_GB_StainsPAGE_01_G"
+  },
+  {
+    "unk_0": 1,
+    "key": "RVD_GB_WavyBrick_01_N"
+  },
+  {
+    "unk_0": 2,
+    "key": "RVD_GB_WoodWall_01_D"
+  },
+  {
+    "unk_0": 1,
+    "key": "RVD_GB_WoodWall_01_N"
+  },
+  {
+    "unk_0": 2,
+    "key": "PR_ProjectileSatchelCharge_01_D"
+  },
+  {
+    "unk_0": 2,
+    "key": "PR_ProjectileFirePot_01_D"
+  },
+  {
+    "unk_0": 2,
+    "key": "CH_ith_bow_01_gear_D"
+  },
+  {
+    "unk_0": 1,
+    "key": "CH_ith_bow_01_gear_N"
+  },
+  {
+    "unk_0": 2,
+    "key": "CH_ith_bow_01_gear_S"
+  },
+  {
+    "unk_0": 2,
+    "key": "CH_ith_swd_01_LB_D"
+  },
+  {
+    "unk_0": 1,
+    "key": "CH_ith_bow_01_LB_N"
+  },
+  {
+    "unk_0": 2,
+    "key": "CH_ith_swd_01_LB_S"
+  },
+  {
+    "unk_0": 2,
+    "key": "CH_ith_swd_01_UB_D"
+  },
+  {
+    "unk_0": 1,
+    "key": "CH_ith_swd_01_UB_N"
+  },
+  {
+    "unk_0": 2,
+    "key": "CH_ith_swd_01_UB_S"
+  },
+  {
+    "unk_0": 2,
+    "key": "CH_gdr_bow_01_Hair_D"
+  },
+  {
+    "unk_0": 1,
+    "key": "CH_gdr_bow_01_Hair_N"
+  },
+  {
+    "unk_0": 2,
+    "key": "CH_gdr_bow_01_Hair_S"
+  },
+  {
+    "unk_0": 2,
+    "key": "CH_gdr_bow_01_Hair_D"
+  },
+  {
+    "unk_0": 2,
+    "key": "CH_gdr_bow_01_Head_D"
+  },
+  {
+    "unk_0": 1,
+    "key": "CH_gdr_bow_01_Head_N"
+  },
+  {
+    "unk_0": 2,
+    "key": "CH_gdr_bow_01_Head_S"
+  },
+  {
+    "unk_0": 2,
+    "key": "RVD_GB_PaperAndPatterns_01_D"
+  },
+  {
+    "unk_0": 2,
+    "key": "RVD_PR_Books_01_D"
+  },
+  {
+    "unk_0": 1,
+    "key": "RVD_PR_Books_01_N"
+  },
+  {
+    "unk_0": 2,
+    "key": "RVD_BL_pattern_04_D"
+  },
+  {
+    "unk_0": 1,
+    "key": "RVD_BL_pattern_N"
+  },
+  {
+    "unk_0": 2,
+    "key": "RVD_GB_RoofTile_01_D"
+  },
+  {
+    "unk_0": 2,
+    "key": "RVD_GB_RoofTile_01_G"
+  },
+  {
+    "unk_0": 1,
+    "key": "RVD_GB_RoofTile_01_N"
+  },
+  {
+    "unk_0": 2,
+    "key": "RVD_GB_WoodTrim_01_D"
+  },
+  {
+    "unk_0": 1,
+    "key": "RVD_GB_WoodTrim_01_N"
+  },
+  {
+    "unk_0": 2,
+    "key": "RVD_GB_WoodWall_01_D"
+  },
+  {
+    "unk_0": 1,
+    "key": "RVD_GB_WoodWall_01_N"
+  },
+  {
+    "unk_0": 2,
+    "key": "FX_CloudyNoise_tiled"
+  },
+  {
+    "unk_0": 2,
+    "key": "RVD_GB_PaperAndPatterns_01_D"
+  },
+  {
+    "unk_0": 2,
+    "key": "RVD_PR_Books_01_D"
+  },
+  {
+    "unk_0": 1,
+    "key": "RVD_PR_Books_01_N"
+  },
+  {
+    "unk_0": 2,
+    "key": "WP_orc_BallistaEmplaced_01_Metal_D"
+  },
+  {
+    "unk_0": 1,
+    "key": "WP_gdr_BallistaEmplaced_01_Metal_N"
+  },
+  {
+    "unk_0": 2,
+    "key": "WP_gdr_BallistaEmplaced_01_Metal_S"
+  },
+  {
+    "unk_0": 2,
+    "key": "PR_orc_BatRam_01a_D"
+  },
+  {
+    "unk_0": 2,
+    "key": "WP_gdr_BallistaEmplaced_01_Wood_G"
+  },
+  {
+    "unk_0": 1,
+    "key": "WP_gdr_BallistaEmplaced_01_Wood_N"
+  },
+  {
+    "unk_0": 1,
+    "key": "WP_gdr_BallistaEmplaced_01_Wood2_N"
+  },
+  {
+    "unk_0": 2,
+    "key": "VH_orc_SeigeTower_01_Metal_D"
+  },
+  {
+    "unk_0": 1,
+    "key": "VH_orc_SeigeTower_01_Metal_N"
+  },
+  {
+    "unk_0": 2,
+    "key": "VH_orc_SeigeTower_01_Metal_S"
+  },
+  {
+    "unk_0": 1,
+    "key": "MGL_PR_shinyrusty_01_GN"
+  },
+  {
+    "unk_0": 2,
+    "key": "VH_orc_SeigeTower_01_Metal_D"
+  },
+  {
+    "unk_0": 2,
+    "key": "FX_CloudyNoise_tiled"
+  },
+  {
+    "unk_0": 2,
+    "key": "WP_urk_sword_01_D"
+  },
+  {
+    "unk_0": 1,
+    "key": "WP_urk_sword_01_N"
+  },
+  {
+    "unk_0": 2,
+    "key": "WP_urk_sword_01_D"
+  },
+  {
+    "unk_0": 2,
+    "key": "CH_urk_swd_01_belt_D"
+  },
+  {
+    "unk_0": 1,
+    "key": "CH_urk_swd_01_belt_N"
+  },
+  {
+    "unk_0": 2,
+    "key": "CH_urk_swd_01_belt_S"
+  },
+  {
+    "unk_0": 2,
+    "key": "CH_urk_bow_all_01_Metal_D"
+  },
+  {
+    "unk_0": 1,
+    "key": "CH_EnvMapMask_02_N"
+  },
+  {
+    "unk_0": 2,
+    "key": "CH_urk_bow_all_01_Metal_S"
+  },
+  {
+    "unk_0": 1,
+    "key": "CH_urk_bow_all_01_Metal_N"
+  },
+  {
+    "unk_0": 2,
+    "key": "CH_urk_bow_all_01_Metal_D"
+  },
+  {
+    "unk_0": 2,
+    "key": "CH_urk_bow_all_01_Skin_D"
+  },
+  {
+    "unk_0": 1,
+    "key": "CH_urk_bow_all_01_Skin_N"
+  },
+  {
+    "unk_0": 2,
+    "key": "CH_urk_bow_all_01_Skin_S"
+  },
+  {
+    "unk_0": 2,
+    "key": "CH_urk_bow_all_01_Skin_D"
+  },
+  {
+    "unk_0": 2,
+    "key": "RVD_GB_StoneSmooth_01_D"
+  },
+  {
+    "unk_0": 1,
+    "key": "RVD_GB_StoneSmooth_01_N"
+  },
+  {
+    "unk_0": 2,
+    "key": "RVD_GB_StoneStairs_02_D"
+  },
+  {
+    "unk_0": 1,
+    "key": "RVD_GB_StoneStairs_02_N"
+  },
+  {
+    "unk_0": 2,
+    "key": "RVD_BL_Trim_02_D"
+  },
+  {
+    "unk_0": 1,
+    "key": "RVD_BL_Trim_02_N"
+  },
+  {
+    "unk_0": 2,
+    "key": "WP_gdr_ax_01_D"
+  },
+  {
+    "unk_0": 1,
+    "key": "WP_gdr_ax_01_N"
+  },
+  {
+    "unk_0": 2,
+    "key": "WP_gdr_ax_01_S"
+  },
+  {
+    "unk_0": 2,
+    "key": "RVD_GB_PaperAndPatterns_01_D"
+  },
+  {
+    "unk_0": 2,
+    "key": "RVD_PR_Books_01_D"
+  },
+  {
+    "unk_0": 1,
+    "key": "RVD_PR_Books_01_N"
+  },
+  {
+    "unk_0": 2,
+    "key": "FX_CloudyNoise_tiled"
+  },
+  {
+    "unk_0": 2,
+    "key": "FX_CloudyNoise_tiled"
+  },
+  {
+    "unk_0": 2,
+    "key": "WP_orc_mace_01_D"
+  },
+  {
+    "unk_0": 1,
+    "key": "WP_orc_mace_01_N"
+  },
+  {
+    "unk_0": 2,
+    "key": "WP_orc_mace_01_D"
+  },
+  {
+    "unk_0": 2,
+    "key": "CH_elf_ancn_swd_01_lb_D"
+  },
+  {
+    "unk_0": 2,
+    "key": "CH_elf_ancn_swd_01_lb_G"
+  },
+  {
+    "unk_0": 1,
+    "key": "CH_elf_ancn_swd_01_lb_N"
+  },
+  {
+    "unk_0": 2,
+    "key": "CH_elf_ancn_swd_01_lb_S"
+  },
+  {
+    "unk_0": 2,
+    "key": "CH_elf_ancn_mag_all_01_Cloth_D"
+  },
+  {
+    "unk_0": 2,
+    "key": "CH_elf_ancn_mag_all_01_Cloth_G"
+  },
+  {
+    "unk_0": 1,
+    "key": "CH_elf_ancn_mag_all_01_Cloth_N"
+  },
+  {
+    "unk_0": 2,
+    "key": "CH_elf_ancn_mag_all_01_Cloth_S"
+  },
+  {
+    "unk_0": 2,
+    "key": "CH_elf_ancn_mag_all_01_Cloth_D"
+  },
+  {
+    "unk_0": 2,
+    "key": "CH_elf_ancn_mag_all_01_Head_D"
+  },
+  {
+    "unk_0": 1,
+    "key": "CH_elf_ancn_mag_all_01_Head_N"
+  },
+  {
+    "unk_0": 2,
+    "key": "CH_elf_ancn_mag_all_01_Head_S"
+  },
+  {
+    "unk_0": 2,
+    "key": "CH_elf_ancn_mag_all_01_MetalCloth_D"
+  },
+  {
+    "unk_0": 2,
+    "key": "CH_elf_ancn_mag_all_01_MetalCloth_G"
+  },
+  {
+    "unk_0": 1,
+    "key": "CH_elf_ancn_mag_all_01_MetalCloth_N"
+  },
+  {
+    "unk_0": 2,
+    "key": "CH_elf_ancn_mag_all_01_MetalCloth_S"
+  },
+  {
+    "unk_0": 2,
+    "key": "CH_elf_ancn_mag_all_01_Cloth_D"
+  },
+  {
+    "unk_0": 2,
+    "key": "CH_elf_ancn_mag_all_01_Cloth_G"
+  },
+  {
+    "unk_0": 2,
+    "key": "CH_elf_ancn_mag_all_01_Cloth_S"
+  },
+  {
+    "unk_0": 2,
+    "key": "CH_elf_ancn_mag_all_01_Cloth_D"
+  },
+  {
+    "unk_0": 2,
+    "key": "CH_elf_ancn_mag_all_01_Cloth_G"
+  },
+  {
+    "unk_0": 2,
+    "key": "CH_elf_ancn_mag_all_01_Cloth_S"
+  },
+  {
+    "unk_0": 2,
+    "key": "RVD_PR_Desk_01_D"
+  },
+  {
+    "unk_0": 1,
+    "key": "RVD_PR_Desk_01_N"
+  },
+  {
+    "unk_0": 2,
+    "key": "IGD_TR_water_01_D"
+  },
+  {
+    "unk_0": 2,
+    "key": "TR_water_temp"
+  },
+  {
+    "unk_0": 1,
+    "key": "TR_water_temp_N"
+  },
+  {
+    "unk_0": 1,
+    "key": "IGD_GB_Water_01_N"
+  },
+  {
+    "unk_0": 2,
+    "key": "PR_SpawnBanner_Stand_01_D"
+  },
+  {
+    "unk_0": 1,
+    "key": "PR_SpawnBanner_Stand_01_N"
+  },
+  {
+    "unk_0": 2,
+    "key": "PR_SpawnBanner_Stand_01_S"
+  },
+  {
+    "unk_0": 2,
+    "key": "CP_gdr_Banner_01_D"
+  },
+  {
+    "unk_0": 1,
+    "key": "CP_gdr_Banner_01_N"
+  },
+  {
+    "unk_0": 2,
+    "key": "CP_gdr_Banner_01_S"
+  },
+  {
+    "unk_0": 2,
+    "key": "RVD_GB_GreenWood_01_D"
+  },
+  {
+    "unk_0": 1,
+    "key": "RVD_GB_GreenWood_01_N"
+  },
+  {
+    "unk_0": 2,
+    "key": "RVD_BL_pattern_02_D"
+  },
+  {
+    "unk_0": 1,
+    "key": "RVD_GB_Pattern_01_N"
+  },
+  {
+    "unk_0": 2,
+    "key": "RVD_BL_pattern_02_D"
+  },
+  {
+    "unk_0": 2,
+    "key": "RVD_GB_Ivy_01_D"
+  },
+  {
+    "unk_0": 1,
+    "key": "RVD_GB_Ivy_01_N"
+  },
+  {
+    "unk_0": 2,
+    "key": "RVD_GB_Ivy_01_D"
+  },
+  {
+    "unk_0": 2,
+    "key": "RVD_BL_pattern_03_D"
+  },
+  {
+    "unk_0": 1,
+    "key": "RVD_BL_pattern_N"
+  },
+  {
+    "unk_0": 2,
+    "key": "RVD_BL_pattern_03_D"
+  },
+  {
+    "unk_0": 2,
+    "key": "RVD_GB_pattern01_D"
+  },
+  {
+    "unk_0": 1,
+    "key": "RVD_GB_pattern01_N"
+  },
+  {
+    "unk_0": 2,
+    "key": "RVD_GB_RoofTile_01_D"
+  },
+  {
+    "unk_0": 2,
+    "key": "RVD_GB_RoofTile_01_G"
+  },
+  {
+    "unk_0": 1,
+    "key": "RVD_GB_RoofTile_01_N"
+  },
+  {
+    "unk_0": 2,
+    "key": "RVD_GB_StoneStairs_02_D"
+  },
+  {
+    "unk_0": 1,
+    "key": "RVD_GB_StoneStairs_02_N"
+  },
+  {
+    "unk_0": 2,
+    "key": "RVD_GB_StoneBrick_02_D"
+  },
+  {
+    "unk_0": 1,
+    "key": "RVD_GB_StoneBrick_02_N"
+  },
+  {
+    "unk_0": 2,
+    "key": "RVD_GB_StoneGround_02_D"
+  },
+  {
+    "unk_0": 1,
+    "key": "RVD_GB_StoneGround_02_N"
+  },
+  {
+    "unk_0": 2,
+    "key": "RVD_GB_StoneSmooth_01_D"
+  },
+  {
+    "unk_0": 1,
+    "key": "RVD_GB_StoneSmooth_01_N"
+  },
+  {
+    "unk_0": 2,
+    "key": "RVD_BL_Trim_02_D"
+  },
+  {
+    "unk_0": 1,
+    "key": "RVD_BL_Trim_02_N"
+  },
+  {
+    "unk_0": 2,
+    "key": "RVD_GB_SupportColumn_01_D"
+  },
+  {
+    "unk_0": 1,
+    "key": "RVD_GB_SupportColumn_01_N"
+  },
+  {
+    "unk_0": 2,
+    "key": "RVD_GB_WavyBrick_01_D"
+  },
+  {
+    "unk_0": 2,
+    "key": "RVD_GB_StainsPAGE_01_G"
+  },
+  {
+    "unk_0": 1,
+    "key": "RVD_GB_WavyBrick_01_N"
+  },
+  {
+    "unk_0": 2,
+    "key": "RVD_GB_WhitePaintWood_01_D"
+  },
+  {
+    "unk_0": 1,
+    "key": "RVD_GB_WhitePaintWood_01_N"
+  },
+  {
+    "unk_0": 2,
+    "key": "RVD_GB_Wood_03_D"
+  },
+  {
+    "unk_0": 1,
+    "key": "RVD_GB_Wood_03_N"
+  },
+  {
+    "unk_0": 2,
+    "key": "RVD_Wood_Details2_D"
+  },
+  {
+    "unk_0": 1,
+    "key": "RVD_Wood_Details2_N"
+  },
+  {
+    "unk_0": 2,
+    "key": "RVD_GB_WoodTrim_01_D"
+  },
+  {
+    "unk_0": 1,
+    "key": "RVD_GB_WoodTrim_01_N"
+  },
+  {
+    "unk_0": 2,
+    "key": "RVD_GB_WoodTrim_04_D"
+  },
+  {
+    "unk_0": 1,
+    "key": "RVD_GB_YellowWall_01_N"
+  },
+  {
+    "unk_0": 2,
+    "key": "RVD_GB_WoodWall_01_D"
+  },
+  {
+    "unk_0": 1,
+    "key": "RVD_GB_WoodWall_01_N"
+  },
+  {
+    "unk_0": 2,
+    "key": "RVD_GB_WoodWall_01"
+  },
+  {
+    "unk_0": 1,
+    "key": "RVD_GB_YellowWall_01_N"
+  },
+  {
+    "unk_0": 2,
+    "key": "RVD_GB_YellowWall_01_D"
+  },
+  {
+    "unk_0": 1,
+    "key": "RVD_GB_YellowWall_01_N"
+  },
+  {
+    "unk_0": 2,
+    "key": "IGD_sky_overhead"
+  },
+  {
+    "unk_0": 2,
+    "key": "RVD_GB_BrokenStone_01_D"
+  },
+  {
+    "unk_0": 1,
+    "key": "RVD_GB_BrokenStone_01_N"
+  },
+  {
+    "unk_0": 2,
+    "key": "RVD_GB_StoneSmooth_01_D"
+  },
+  {
+    "unk_0": 1,
+    "key": "RVD_GB_StoneSmooth_01_N"
+  },
+  {
+    "unk_0": 2,
+    "key": "RVD_BL_Trim_02_D"
+  },
+  {
+    "unk_0": 1,
+    "key": "RVD_BL_Trim_02_N"
+  },
+  {
+    "unk_0": 2,
+    "key": "CH_hum_Mouthofsauron_ 01_Outer Layer Robe_D"
+  },
+  {
+    "unk_0": 2,
+    "key": "CH_hum_Mouthofsauron_ 01_Outer Layer Robe_D"
+  },
+  {
+    "unk_0": 2,
+    "key": "CH_hum_Mouthofsauron_ 01_Everything Else_D"
+  },
+  {
+    "unk_0": 1,
+    "key": "CH_EnvMapMask_01_N"
+  },
+  {
+    "unk_0": 2,
+    "key": "CH_hum_Mouthofsauron_ 01_Everything Else_S"
+  },
+  {
+    "unk_0": 1,
+    "key": "CH_hum_Mouthofsauron_ 01_Everything Else_N"
+  },
+  {
+    "unk_0": 2,
+    "key": "CH_hum_Mouthofsauron_ 01_Everything Else_D"
+  },
+  {
+    "unk_0": 2,
+    "key": "CH_hum_Mouthofsauron_ 01_Outer Layer Robe_D"
+  },
+  {
+    "unk_0": 1,
+    "key": "CH_hum_Mouthofsauron_ 01_Outer Layer Robe_N"
+  },
+  {
+    "unk_0": 2,
+    "key": "CH_hum_Mouthofsauron_ 01_Outer Layer Robe_D"
+  },
+  {
+    "unk_0": 2,
+    "key": "RVD_GB_BrokenStone_01_D"
+  },
+  {
+    "unk_0": 1,
+    "key": "RVD_GB_BrokenStone_01_N"
+  },
+  {
+    "unk_0": 2,
+    "key": "RVD_GB_Ivy_01_D"
+  },
+  {
+    "unk_0": 1,
+    "key": "RVD_GB_Ivy_01_N"
+  },
+  {
+    "unk_0": 2,
+    "key": "RVD_GB_Ivy_01_D"
+  },
+  {
+    "unk_0": 2,
+    "key": "RVD_GB_StoneBrick_02_D"
+  },
+  {
+    "unk_0": 1,
+    "key": "RVD_GB_StoneBrick_02_N"
+  },
+  {
+    "unk_0": 2,
+    "key": "RVD_BL_Trim_02_D"
+  },
+  {
+    "unk_0": 1,
+    "key": "RVD_BL_Trim_02_N"
+  },
+  {
+    "unk_0": 2,
+    "key": "RVD_GB_StoneSmooth_01_D"
+  },
+  {
+    "unk_0": 1,
+    "key": "RVD_GB_StoneSmooth_01_N"
+  },
+  {
+    "unk_0": 2,
+    "key": "PR_ProjectileSatchelCharge_01_D"
+  },
+  {
+    "unk_0": 2,
+    "key": "PR_ProjectileFirePot_01_D"
+  },
+  {
+    "unk_0": 2,
+    "key": "WP_urk_dagger_01_D"
+  },
+  {
+    "unk_0": 2,
+    "key": "WP_urk_dagger_01_S"
+  },
+  {
+    "unk_0": 2,
+    "key": "RVD_GB_Stone_03_D"
+  },
+  {
+    "unk_0": 1,
+    "key": "RVD_GB_Stone_03_N"
+  },
+  {
+    "unk_0": 2,
+    "key": "RVD_GB_GreenWood_01_D"
+  },
+  {
+    "unk_0": 1,
+    "key": "RVD_GB_GreenWood_01_N"
+  },
+  {
+    "unk_0": 2,
+    "key": "RVD_GB_Ivy_01_D"
+  },
+  {
+    "unk_0": 1,
+    "key": "RVD_GB_Ivy_01_N"
+  },
+  {
+    "unk_0": 2,
+    "key": "RVD_GB_Ivy_01_D"
+  },
+  {
+    "unk_0": 2,
+    "key": "RVD_BL_pattern_01_D"
+  },
+  {
+    "unk_0": 1,
+    "key": "RVD_BL_pattern_N"
+  },
+  {
+    "unk_0": 2,
+    "key": "RVD_BL_pattern_01_D"
+  },
+  {
+    "unk_0": 2,
+    "key": "RVD_GB_RoofTile_01_D"
+  },
+  {
+    "unk_0": 2,
+    "key": "RVD_GB_RoofTile_01_G"
+  },
+  {
+    "unk_0": 1,
+    "key": "RVD_GB_RoofTile_01_N"
+  },
+  {
+    "unk_0": 2,
+    "key": "RVD_GB_StoneBrick_02_D"
+  },
+  {
+    "unk_0": 1,
+    "key": "RVD_GB_StoneBrick_02_N"
+  },
+  {
+    "unk_0": 2,
+    "key": "RVD_GB_StoneGround_01_D"
+  },
+  {
+    "unk_0": 2,
+    "key": "RVD_GB_StainsPAGE_01_G"
+  },
+  {
+    "unk_0": 1,
+    "key": "RVD_GB_StoneGround_01_N"
+  },
+  {
+    "unk_0": 2,
+    "key": "RVD_GB_StoneGround_02_D"
+  },
+  {
+    "unk_0": 1,
+    "key": "RVD_GB_StoneGround_02_N"
+  },
+  {
+    "unk_0": 2,
+    "key": "RVD_GB_StoneSmooth_01_D"
+  },
+  {
+    "unk_0": 1,
+    "key": "RVD_GB_StoneSmooth_01_N"
+  },
+  {
+    "unk_0": 2,
+    "key": "RVD_GB_SupportColumn_01_D"
+  },
+  {
+    "unk_0": 1,
+    "key": "RVD_GB_SupportColumn_01_N"
+  },
+  {
+    "unk_0": 2,
+    "key": "RVD_BL_Trim_02_D"
+  },
+  {
+    "unk_0": 1,
+    "key": "RVD_BL_Trim_02_N"
+  },
+  {
+    "unk_0": 2,
+    "key": "RVD_GB_Wood_03_D"
+  },
+  {
+    "unk_0": 1,
+    "key": "RVD_GB_Wood_03_N"
+  },
+  {
+    "unk_0": 2,
+    "key": "RVD_Wood_Details2_D"
+  },
+  {
+    "unk_0": 1,
+    "key": "RVD_Wood_Details2_N"
+  },
+  {
+    "unk_0": 2,
+    "key": "RVD_GB_WoodTrim_01_D"
+  },
+  {
+    "unk_0": 1,
+    "key": "RVD_GB_WoodTrim_01_N"
+  },
+  {
+    "unk_0": 2,
+    "key": "RVD_GB_WoodTrim_04_D"
+  },
+  {
+    "unk_0": 1,
+    "key": "RVD_GB_YellowWall_01_N"
+  },
+  {
+    "unk_0": 2,
+    "key": "RVD_GB_WoodWall_01_D"
+  },
+  {
+    "unk_0": 1,
+    "key": "RVD_GB_WoodWall_01_N"
+  },
+  {
+    "unk_0": 2,
+    "key": "RVD_GB_WoodWall_01"
+  },
+  {
+    "unk_0": 1,
+    "key": "RVD_GB_YellowWall_01_N"
+  },
+  {
+    "unk_0": 2,
+    "key": "RVD_GB_YellowWall_01_D"
+  },
+  {
+    "unk_0": 1,
+    "key": "RVD_GB_YellowWall_01_N"
+  },
+  {
+    "unk_0": 2,
+    "key": "WP_elf_ancn_staff_01_D"
+  },
+  {
+    "unk_0": 1,
+    "key": "WP_elf_ancn_staff_01_N"
+  },
+  {
+    "unk_0": 2,
+    "key": "WP_elf_ancn_staff_01_S"
+  },
+  {
+    "unk_0": 2,
+    "key": "waterfall_test"
+  },
+  {
+    "unk_0": 2,
+    "key": "water_detail_tst"
+  },
+  {
+    "unk_0": 1,
+    "key": "waterfall_normal_test_N"
+  },
+  {
+    "unk_0": 2,
+    "key": "water_detail_tst"
+  },
+  {
+    "unk_0": 1,
+    "key": "waterfall_normal_02_test_N"
+  },
+  {
+    "unk_0": 2,
+    "key": "WP_bow_string_01_D"
+  },
+  {
+    "unk_0": 2,
+    "key": "CP_RingSmoke_01"
+  },
+  {
+    "unk_0": 2,
+    "key": "CP_RingScript_01"
+  },
+  {
+    "unk_0": 2,
+    "key": "CP_RingSmoke_01"
+  },
+  {
+    "unk_0": 2,
+    "key": "CP_RingSmoke_01"
+  },
+  {
+    "unk_0": 2,
+    "key": "CP_RingScript_01"
+  },
+  {
+    "unk_0": 2,
+    "key": "CP_RingSmoke_01"
+  },
+  {
+    "unk_0": 2,
+    "key": "CP_RingSmoke_01"
+  },
+  {
+    "unk_0": 2,
+    "key": "CP_RingScript_01"
+  },
+  {
+    "unk_0": 2,
+    "key": "CP_RingSmoke_01"
+  },
+  {
+    "unk_0": 2,
+    "key": "CP_RingSmoke_01"
+  },
+  {
+    "unk_0": 2,
+    "key": "CP_RingScript_01"
+  },
+  {
+    "unk_0": 2,
+    "key": "CP_RingSmoke_01"
+  },
+  {
+    "unk_0": 2,
+    "key": "CP_RingSmoke_01"
+  },
+  {
+    "unk_0": 2,
+    "key": "CP_RingScript_01"
+  },
+  {
+    "unk_0": 2,
+    "key": "CP_RingSmoke_01"
+  },
+  {
+    "unk_0": 2,
+    "key": "CP_RingSmoke_01"
+  },
+  {
+    "unk_0": 2,
+    "key": "CP_RingScript_01"
+  },
+  {
+    "unk_0": 2,
+    "key": "CP_RingSmoke_01"
+  },
+  {
+    "unk_0": 2,
+    "key": "CP_RingSmoke_01"
+  },
+  {
+    "unk_0": 2,
+    "key": "CP_RingScript_01"
+  },
+  {
+    "unk_0": 2,
+    "key": "CP_RingSmoke_01"
+  },
+  {
+    "unk_0": 2,
+    "key": "CP_RingSmoke_01"
+  },
+  {
+    "unk_0": 2,
+    "key": "CP_RingScript_01"
+  },
+  {
+    "unk_0": 2,
+    "key": "CP_RingSmoke_01"
+  },
+  {
+    "unk_0": 2,
+    "key": "CP_RingSmoke_01"
+  },
+  {
+    "unk_0": 2,
+    "key": "CP_RingScript_01"
+  },
+  {
+    "unk_0": 2,
+    "key": "CP_RingSmoke_01"
+  },
+  {
+    "unk_0": 2,
+    "key": "CP_RingSmoke_01"
+  },
+  {
+    "unk_0": 2,
+    "key": "CP_RingScript_01"
+  },
+  {
+    "unk_0": 2,
+    "key": "CP_RingSmoke_01"
+  },
+  {
+    "unk_0": 2,
+    "key": "RVD_GB_Grass_02_D"
+  },
+  {
+    "unk_0": 2,
+    "key": "RVD_GB_Grass_02_N"
+  },
+  {
+    "unk_0": 2,
+    "key": "Rivendell_Chunk-01-01_3"
+  },
+  {
+    "unk_0": 2,
+    "key": "RVD_GB_Grass_02_D"
+  },
+  {
+    "unk_0": 2,
+    "key": "RVD_GB_Grass_02_N"
+  },
+  {
+    "unk_0": 2,
+    "key": "Rivendell_Chunk-01-01_20"
+  },
+  {
+    "unk_0": 2,
+    "key": "RVD_GB_Stone_03_D"
+  },
+  {
+    "unk_0": 2,
+    "key": "RVD_GB_Stone_04_N"
+  },
+  {
+    "unk_0": 2,
+    "key": "Rivendell_Chunk-01-01_21"
+  },
+  {
+    "unk_0": 2,
+    "key": "Rivendell_1100002275"
+  },
+  {
+    "unk_0": 2,
+    "key": "RVD_GB_Grass_02_D"
+  },
+  {
+    "unk_0": 2,
+    "key": "RVD_GB_Grass_02_N"
+  },
+  {
+    "unk_0": 2,
+    "key": "Rivendell_Chunk-01-01_20"
+  },
+  {
+    "unk_0": 2,
+    "key": "RVD_GB_Dirt_02_D"
+  },
+  {
+    "unk_0": 2,
+    "key": "RVD_GB_Dirt_02_N"
+  },
+  {
+    "unk_0": 2,
+    "key": "Rivendell_Chunk-01-01_18"
+  },
+  {
+    "unk_0": 2,
+    "key": "RVD_GB_Stone_03_D"
+  },
+  {
+    "unk_0": 2,
+    "key": "RVD_GB_Stone_04_N"
+  },
+  {
+    "unk_0": 2,
+    "key": "Rivendell_Chunk-01-01_21"
+  },
+  {
+    "unk_0": 2,
+    "key": "Rivendell_1100002275"
+  },
+  {
+    "unk_0": 2,
+    "key": "RVD_GB_Grass_02_D"
+  },
+  {
+    "unk_0": 2,
+    "key": "RVD_GB_Grass_02_N"
+  },
+  {
+    "unk_0": 2,
+    "key": "Rivendell_Chunk-01-01_3"
+  },
+  {
+    "unk_0": 2,
+    "key": "Rivendell_1100002275"
+  },
+  {
+    "unk_0": 2,
+    "key": "RVD_GB_Grass_02_D"
+  },
+  {
+    "unk_0": 2,
+    "key": "RVD_GB_Grass_02_N"
+  },
+  {
+    "unk_0": 2,
+    "key": "Rivendell_Chunk000-01_3"
+  },
+  {
+    "unk_0": 2,
+    "key": "RVD_GB_Grass_02_D"
+  },
+  {
+    "unk_0": 2,
+    "key": "RVD_GB_Grass_02_N"
+  },
+  {
+    "unk_0": 2,
+    "key": "Rivendell_Chunk000-01_20"
+  },
+  {
+    "unk_0": 2,
+    "key": "RVD_GB_Stone_03_D"
+  },
+  {
+    "unk_0": 2,
+    "key": "RVD_GB_Stone_04_N"
+  },
+  {
+    "unk_0": 2,
+    "key": "Rivendell_Chunk000-01_21"
+  },
+  {
+    "unk_0": 2,
+    "key": "Rivendell_1100002277"
+  },
+  {
+    "unk_0": 2,
+    "key": "RVD_GB_Grass_02_D"
+  },
+  {
+    "unk_0": 2,
+    "key": "RVD_GB_Grass_02_N"
+  },
+  {
+    "unk_0": 2,
+    "key": "Rivendell_Chunk000-01_20"
+  },
+  {
+    "unk_0": 2,
+    "key": "RVD_GB_Dirt_02_D"
+  },
+  {
+    "unk_0": 2,
+    "key": "RVD_GB_Dirt_02_N"
+  },
+  {
+    "unk_0": 2,
+    "key": "Rivendell_Chunk000-01_18"
+  },
+  {
+    "unk_0": 2,
+    "key": "RVD_GB_Stone_03_D"
+  },
+  {
+    "unk_0": 2,
+    "key": "RVD_GB_Stone_04_N"
+  },
+  {
+    "unk_0": 2,
+    "key": "Rivendell_Chunk000-01_21"
+  },
+  {
+    "unk_0": 2,
+    "key": "Rivendell_1100002277"
+  },
+  {
+    "unk_0": 2,
+    "key": "RVD_GB_Grass_02_D"
+  },
+  {
+    "unk_0": 2,
+    "key": "RVD_GB_Grass_02_N"
+  },
+  {
+    "unk_0": 2,
+    "key": "Rivendell_Chunk000-01_3"
+  },
+  {
+    "unk_0": 2,
+    "key": "RVD_GB_Grass_02_D"
+  },
+  {
+    "unk_0": 2,
+    "key": "RVD_GB_Grass_02_N"
+  },
+  {
+    "unk_0": 2,
+    "key": "Rivendell_Chunk000-01_20"
+  },
+  {
+    "unk_0": 2,
+    "key": "RVD_GB_Dirt_02_D"
+  },
+  {
+    "unk_0": 2,
+    "key": "RVD_GB_Dirt_02_N"
+  },
+  {
+    "unk_0": 2,
+    "key": "Rivendell_Chunk000-01_18"
+  },
+  {
+    "unk_0": 2,
+    "key": "Rivendell_1100002277"
+  },
+  {
+    "unk_0": 2,
+    "key": "RVD_GB_Grass_02_D"
+  },
+  {
+    "unk_0": 2,
+    "key": "RVD_GB_Grass_02_N"
+  },
+  {
+    "unk_0": 2,
+    "key": "Rivendell_Chunk000-01_3"
+  },
+  {
+    "unk_0": 2,
+    "key": "RVD_GB_Grass_02_D"
+  },
+  {
+    "unk_0": 2,
+    "key": "RVD_GB_Grass_02_N"
+  },
+  {
+    "unk_0": 2,
+    "key": "Rivendell_Chunk000-01_20"
+  },
+  {
+    "unk_0": 2,
+    "key": "RVD_GB_Stone_03_D"
+  },
+  {
+    "unk_0": 2,
+    "key": "RVD_GB_Stone_04_N"
+  },
+  {
+    "unk_0": 2,
+    "key": "Rivendell_Chunk000-01_21"
+  },
+  {
+    "unk_0": 2,
+    "key": "Rivendell_1100002277"
+  },
+  {
+    "unk_0": 2,
+    "key": "RVD_GB_Grass_02_D"
+  },
+  {
+    "unk_0": 2,
+    "key": "RVD_GB_Grass_02_N"
+  },
+  {
+    "unk_0": 2,
+    "key": "Rivendell_Chunk-01000_3"
+  },
+  {
+    "unk_0": 2,
+    "key": "RVD_GB_Grass_02_D"
+  },
+  {
+    "unk_0": 2,
+    "key": "RVD_GB_Grass_02_N"
+  },
+  {
+    "unk_0": 2,
+    "key": "Rivendell_Chunk-01000_20"
+  },
+  {
+    "unk_0": 2,
+    "key": "RVD_GB_Stone_03_D"
+  },
+  {
+    "unk_0": 2,
+    "key": "RVD_GB_Stone_04_N"
+  },
+  {
+    "unk_0": 2,
+    "key": "Rivendell_Chunk-01000_21"
+  },
+  {
+    "unk_0": 2,
+    "key": "Rivendell_1100002278"
+  },
+  {
+    "unk_0": 2,
+    "key": "RVD_GB_Grass_02_D"
+  },
+  {
+    "unk_0": 2,
+    "key": "RVD_GB_Grass_02_N"
+  },
+  {
+    "unk_0": 2,
+    "key": "Rivendell_Chunk-01000_20"
+  },
+  {
+    "unk_0": 2,
+    "key": "RVD_GB_Dirt_02_D"
+  },
+  {
+    "unk_0": 2,
+    "key": "RVD_GB_Dirt_02_N"
+  },
+  {
+    "unk_0": 2,
+    "key": "Rivendell_Chunk-01000_18"
+  },
+  {
+    "unk_0": 2,
+    "key": "RVD_GB_Stone_03_D"
+  },
+  {
+    "unk_0": 2,
+    "key": "RVD_GB_Stone_04_N"
+  },
+  {
+    "unk_0": 2,
+    "key": "Rivendell_Chunk-01000_21"
+  },
+  {
+    "unk_0": 2,
+    "key": "Rivendell_1100002278"
+  },
+  {
+    "unk_0": 2,
+    "key": "RVD_GB_Grass_02_D"
+  },
+  {
+    "unk_0": 2,
+    "key": "RVD_GB_Grass_02_N"
+  },
+  {
+    "unk_0": 2,
+    "key": "Rivendell_Chunk-01000_3"
+  },
+  {
+    "unk_0": 2,
+    "key": "RVD_GB_Grass_02_D"
+  },
+  {
+    "unk_0": 2,
+    "key": "RVD_GB_Grass_02_N"
+  },
+  {
+    "unk_0": 2,
+    "key": "Rivendell_Chunk-01000_20"
+  },
+  {
+    "unk_0": 2,
+    "key": "RVD_GB_Dirt_02_D"
+  },
+  {
+    "unk_0": 2,
+    "key": "RVD_GB_Dirt_02_N"
+  },
+  {
+    "unk_0": 2,
+    "key": "Rivendell_Chunk-01000_18"
+  },
+  {
+    "unk_0": 2,
+    "key": "Rivendell_1100002278"
+  },
+  {
+    "unk_0": 2,
+    "key": "RVD_GB_Grass_02_D"
+  },
+  {
+    "unk_0": 2,
+    "key": "RVD_GB_Grass_02_N"
+  },
+  {
+    "unk_0": 2,
+    "key": "Rivendell_Chunk-01000_3"
+  },
+  {
+    "unk_0": 2,
+    "key": "RVD_GB_Grass_02_D"
+  },
+  {
+    "unk_0": 2,
+    "key": "RVD_GB_Grass_02_N"
+  },
+  {
+    "unk_0": 2,
+    "key": "Rivendell_Chunk-01000_20"
+  },
+  {
+    "unk_0": 2,
+    "key": "RVD_GB_Stone_03_D"
+  },
+  {
+    "unk_0": 2,
+    "key": "RVD_GB_Stone_04_N"
+  },
+  {
+    "unk_0": 2,
+    "key": "Rivendell_Chunk-01000_21"
+  },
+  {
+    "unk_0": 2,
+    "key": "Rivendell_1100002278"
+  },
+  {
+    "unk_0": 2,
+    "key": "RVD_GB_Grass_02_D"
+  },
+  {
+    "unk_0": 2,
+    "key": "RVD_GB_Grass_02_N"
+  },
+  {
+    "unk_0": 2,
+    "key": "Rivendell_Chunk000000_20"
+  },
+  {
+    "unk_0": 2,
+    "key": "RVD_GB_Dirt_02_D"
+  },
+  {
+    "unk_0": 2,
+    "key": "RVD_GB_Dirt_02_N"
+  },
+  {
+    "unk_0": 2,
+    "key": "Rivendell_Chunk000000_18"
+  },
+  {
+    "unk_0": 2,
+    "key": "RVD_GB_Stone_03_D"
+  },
+  {
+    "unk_0": 2,
+    "key": "RVD_GB_Stone_04_N"
+  },
+  {
+    "unk_0": 2,
+    "key": "Rivendell_Chunk000000_21"
+  },
+  {
+    "unk_0": 2,
+    "key": "Rivendell_1100002279"
+  },
+  {
+    "unk_0": 2,
+    "key": "RVD_GB_Grass_02_D"
+  },
+  {
+    "unk_0": 2,
+    "key": "RVD_GB_Grass_02_N"
+  },
+  {
+    "unk_0": 2,
+    "key": "Rivendell_Chunk000000_3"
+  },
+  {
+    "unk_0": 2,
+    "key": "RVD_GB_Grass_02_D"
+  },
+  {
+    "unk_0": 2,
+    "key": "RVD_GB_Grass_02_N"
+  },
+  {
+    "unk_0": 2,
+    "key": "Rivendell_Chunk000000_20"
+  },
+  {
+    "unk_0": 2,
+    "key": "RVD_GB_Stone_03_D"
+  },
+  {
+    "unk_0": 2,
+    "key": "RVD_GB_Stone_04_N"
+  },
+  {
+    "unk_0": 2,
+    "key": "Rivendell_Chunk000000_21"
+  },
+  {
+    "unk_0": 2,
+    "key": "Rivendell_1100002279"
+  },
+  {
+    "unk_0": 2,
+    "key": "RVD_GB_Grass_02_D"
+  },
+  {
+    "unk_0": 2,
+    "key": "RVD_GB_Grass_02_N"
+  },
+  {
+    "unk_0": 2,
+    "key": "Rivendell_Chunk000000_3"
+  },
+  {
+    "unk_0": 2,
+    "key": "RVD_GB_Grass_02_D"
+  },
+  {
+    "unk_0": 2,
+    "key": "RVD_GB_Grass_02_N"
+  },
+  {
+    "unk_0": 2,
+    "key": "Rivendell_Chunk000000_20"
+  },
+  {
+    "unk_0": 2,
+    "key": "RVD_GB_Dirt_02_D"
+  },
+  {
+    "unk_0": 2,
+    "key": "RVD_GB_Dirt_02_N"
+  },
+  {
+    "unk_0": 2,
+    "key": "Rivendell_Chunk000000_18"
+  },
+  {
+    "unk_0": 2,
+    "key": "Rivendell_1100002279"
+  },
+  {
+    "unk_0": 2,
+    "key": "RVD_GB_Grass_02_D"
+  },
+  {
+    "unk_0": 2,
+    "key": "RVD_GB_Grass_02_N"
+  },
+  {
+    "unk_0": 2,
+    "key": "Rivendell_Chunk000000_3"
+  },
+  {
+    "unk_0": 2,
+    "key": "RVD_GB_Dirt_02_D"
+  },
+  {
+    "unk_0": 2,
+    "key": "RVD_GB_Dirt_02_N"
+  },
+  {
+    "unk_0": 2,
+    "key": "Rivendell_Chunk000000_18"
+  },
+  {
+    "unk_0": 2,
+    "key": "RVD_GB_Stone_03_D"
+  },
+  {
+    "unk_0": 2,
+    "key": "RVD_GB_Stone_04_N"
+  },
+  {
+    "unk_0": 2,
+    "key": "Rivendell_Chunk000000_21"
+  },
+  {
+    "unk_0": 2,
+    "key": "Rivendell_1100002279"
+  },
+  {
+    "unk_0": 2,
+    "key": "RVD_GB_Grass_02_D"
+  },
+  {
+    "unk_0": 2,
+    "key": "RVD_GB_Grass_02_N"
+  },
+  {
+    "unk_0": 2,
+    "key": "Rivendell_Chunk000000_3"
+  },
+  {
+    "unk_0": 2,
+    "key": "RVD_GB_Grass_02_D"
+  },
+  {
+    "unk_0": 2,
+    "key": "RVD_GB_Grass_02_N"
+  },
+  {
+    "unk_0": 2,
+    "key": "Rivendell_Chunk000000_20"
+  },
+  {
+    "unk_0": 2,
+    "key": "RVD_GB_Stone_03_D"
+  },
+  {
+    "unk_0": 2,
+    "key": "RVD_GB_Stone_04_N"
+  },
+  {
+    "unk_0": 2,
+    "key": "Rivendell_Chunk000000_21"
+  },
+  {
+    "unk_0": 2,
+    "key": "Rivendell_1100002279"
+  },
+  {
+    "unk_0": 2,
+    "key": "RVD_GB_Grass_02_D"
+  },
+  {
+    "unk_0": 2,
+    "key": "RVD_GB_Grass_02_N"
+  },
+  {
+    "unk_0": 2,
+    "key": "Rivendell_Chunk000000_3"
+  },
+  {
+    "unk_0": 2,
+    "key": "RVD_GB_Grass_02_D"
+  },
+  {
+    "unk_0": 2,
+    "key": "RVD_GB_Grass_02_N"
+  },
+  {
+    "unk_0": 2,
+    "key": "Rivendell_Chunk000000_20"
+  },
+  {
+    "unk_0": 2,
+    "key": "RVD_GB_Dirt_02_D"
+  },
+  {
+    "unk_0": 2,
+    "key": "RVD_GB_Dirt_02_N"
+  },
+  {
+    "unk_0": 2,
+    "key": "Rivendell_Chunk000000_18"
+  },
+  {
+    "unk_0": 2,
+    "key": "Rivendell_1100002279"
+  },
+  {
+    "unk_0": 2,
+    "key": "default"
+  },
+  {
+    "unk_0": 1,
+    "key": "UI_lock_icon"
+  },
+  {
+    "unk_0": 1,
+    "key": "warrior_frame"
+  },
+  {
+    "unk_0": 1,
+    "key": "UI_spawn_icons"
+  },
+  {
+    "unk_0": 1,
+    "key": "UI_button_Y"
+  },
+  {
+    "unk_0": 1,
+    "key": "UI_button_X"
+  },
+  {
+    "unk_0": 1,
+    "key": "UI_button_Start"
+  },
+  {
+    "unk_0": 1,
+    "key": "UI_button_RT"
+  },
+  {
+    "unk_0": 1,
+    "key": "UI_button_RSD"
+  },
+  {
+    "unk_0": 1,
+    "key": "UI_button_RS"
+  },
+  {
+    "unk_0": 1,
+    "key": "UI_button_RB"
+  },
+  {
+    "unk_0": 1,
+    "key": "UI_button_LT"
+  },
+  {
+    "unk_0": 1,
+    "key": "UI_button_LSD"
+  },
+  {
+    "unk_0": 1,
+    "key": "UI_button_LS"
+  },
+  {
+    "unk_0": 1,
+    "key": "UI_button_LB"
+  },
+  {
+    "unk_0": 1,
+    "key": "UI_button_DPad_lrg"
+  },
+  {
+    "unk_0": 1,
+    "key": "UI_button_DPad"
+  },
+  {
+    "unk_0": 1,
+    "key": "UI_button_Back"
+  },
+  {
+    "unk_0": 1,
+    "key": "UI_button_B"
+  },
+  {
+    "unk_0": 1,
+    "key": "UI_button_A"
+  },
+  {
+    "unk_0": 1,
+    "key": "timer_frame"
+  },
+  {
+    "unk_0": 1,
+    "key": "skills"
+  },
+  {
+    "unk_0": 1,
+    "key": "mouse_RB"
+  },
+  {
+    "unk_0": 1,
+    "key": "mouse_MMB"
+  },
+  {
+    "unk_0": 1,
+    "key": "mouse_LB"
+  },
+  {
+    "unk_0": 1,
+    "key": "minimap_frame"
+  },
+  {
+    "unk_0": 1,
+    "key": "map"
+  },
+  {
+    "unk_0": 1,
+    "key": "mage_frame"
+  },
+  {
+    "unk_0": 1,
+    "key": "game_crosshairs"
+  },
+  {
+    "unk_0": 1,
+    "key": "full_health_icon"
+  },
+  {
+    "unk_0": 1,
+    "key": "circle_scrolling_128x128"
+  },
+  {
+    "unk_0": 1,
+    "key": "circle_scrolling"
+  },
+  {
+    "unk_0": 1,
+    "key": "UI_ps3button_R2_shell"
+  },
+  {
+    "unk_0": 1,
+    "key": "UI_ps3button_R1_shell"
+  },
+  {
+    "unk_0": 1,
+    "key": "UI_ps3button_L2_shell"
+  },
+  {
+    "unk_0": 1,
+    "key": "UI_ps3button_L1_shell"
+  },
+  {
+    "unk_0": 1,
+    "key": "UI_button_Y"
+  },
+  {
+    "unk_0": 1,
+    "key": "UI_button_X"
+  },
+  {
+    "unk_0": 1,
+    "key": "UI_button_Start"
+  },
+  {
+    "unk_0": 1,
+    "key": "UI_button_RT_Shell"
+  },
+  {
+    "unk_0": 1,
+    "key": "UI_button_RT"
+  },
+  {
+    "unk_0": 1,
+    "key": "UI_button_RSD"
+  },
+  {
+    "unk_0": 1,
+    "key": "UI_button_RS"
+  },
+  {
+    "unk_0": 1,
+    "key": "UI_button_RB_Shell"
+  },
+  {
+    "unk_0": 1,
+    "key": "UI_button_RB"
+  },
+  {
+    "unk_0": 1,
+    "key": "UI_button_LT_Shell"
+  },
+  {
+    "unk_0": 1,
+    "key": "UI_button_LT"
+  },
+  {
+    "unk_0": 1,
+    "key": "UI_button_LSD"
+  },
+  {
+    "unk_0": 1,
+    "key": "UI_button_LS"
+  },
+  {
+    "unk_0": 1,
+    "key": "UI_button_LB_Shell"
+  },
+  {
+    "unk_0": 1,
+    "key": "UI_button_LB"
+  },
+  {
+    "unk_0": 1,
+    "key": "UI_button_DU"
+  },
+  {
+    "unk_0": 1,
+    "key": "UI_button_DR"
+  },
+  {
+    "unk_0": 1,
+    "key": "UI_button_DPad_lrg"
+  },
+  {
+    "unk_0": 1,
+    "key": "UI_button_DPad"
+  },
+  {
+    "unk_0": 1,
+    "key": "UI_button_DL"
+  },
+  {
+    "unk_0": 1,
+    "key": "UI_button_DD"
+  },
+  {
+    "unk_0": 1,
+    "key": "UI_button_Back"
+  },
+  {
+    "unk_0": 1,
+    "key": "UI_button_B"
+  },
+  {
+    "unk_0": 1,
+    "key": "UI_button_A"
+  },
+  {
+    "unk_0": 1,
+    "key": "skills"
+  },
+  {
+    "unk_0": 1,
+    "key": "ps3button_R2_shell"
+  },
+  {
+    "unk_0": 1,
+    "key": "ps3button_L2_shell"
+  },
+  {
+    "unk_0": 1,
+    "key": "mouse_RB"
+  },
+  {
+    "unk_0": 1,
+    "key": "mouse_MMB"
+  },
+  {
+    "unk_0": 1,
+    "key": "mouse_LB"
+  },
+  {
+    "unk_0": 1,
+    "key": "circle_scrolling_128x128"
+  },
+  {
+    "unk_0": 1,
+    "key": "warrior_frame"
+  },
+  {
+    "unk_0": 1,
+    "key": "UI_spawn_icons"
+  },
+  {
+    "unk_0": 1,
+    "key": "UI_button_Y"
+  },
+  {
+    "unk_0": 1,
+    "key": "UI_button_X"
+  },
+  {
+    "unk_0": 1,
+    "key": "UI_button_Start"
+  },
+  {
+    "unk_0": 1,
+    "key": "UI_button_RT"
+  },
+  {
+    "unk_0": 1,
+    "key": "UI_button_RSD"
+  },
+  {
+    "unk_0": 1,
+    "key": "UI_button_RS"
+  },
+  {
+    "unk_0": 1,
+    "key": "UI_button_RB"
+  },
+  {
+    "unk_0": 1,
+    "key": "UI_button_LT"
+  },
+  {
+    "unk_0": 1,
+    "key": "UI_button_LSD"
+  },
+  {
+    "unk_0": 1,
+    "key": "UI_button_LS"
+  },
+  {
+    "unk_0": 1,
+    "key": "UI_button_LB"
+  },
+  {
+    "unk_0": 1,
+    "key": "UI_button_DPad_lrg"
+  },
+  {
+    "unk_0": 1,
+    "key": "UI_button_DPad"
+  },
+  {
+    "unk_0": 1,
+    "key": "UI_button_Back"
+  },
+  {
+    "unk_0": 1,
+    "key": "UI_button_B"
+  },
+  {
+    "unk_0": 1,
+    "key": "UI_button_A"
+  },
+  {
+    "unk_0": 1,
+    "key": "timer_frame"
+  },
+  {
+    "unk_0": 1,
+    "key": "skills"
+  },
+  {
+    "unk_0": 1,
+    "key": "mouse_RB"
+  },
+  {
+    "unk_0": 1,
+    "key": "mouse_MMB"
+  },
+  {
+    "unk_0": 1,
+    "key": "mouse_LB"
+  },
+  {
+    "unk_0": 1,
+    "key": "minimap_frame"
+  },
+  {
+    "unk_0": 1,
+    "key": "map"
+  },
+  {
+    "unk_0": 1,
+    "key": "mage_frame"
+  },
+  {
+    "unk_0": 1,
+    "key": "low_health_icon"
+  },
+  {
+    "unk_0": 1,
+    "key": "game_crosshairs"
+  },
+  {
+    "unk_0": 1,
+    "key": "connection_error_icon"
+  },
+  {
+    "unk_0": 1,
+    "key": "circle_scrolling_128x128"
+  },
+  {
+    "unk_0": 1,
+    "key": "circle_scrolling"
+  },
+  {
+    "unk_0": 1,
+    "key": "circle_depth"
+  }
+]

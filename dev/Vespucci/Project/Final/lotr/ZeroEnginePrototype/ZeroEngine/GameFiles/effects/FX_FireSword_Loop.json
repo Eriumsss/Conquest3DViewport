@@ -1,0 +1,1554 @@
+{
+  "gamemodemask": -1,
+  "objs": [
+    {
+      "type": "templateEffect",
+      "layer": 0,
+      "fields": {
+        "GUID": 13000858,
+        "ParentGUID": 0,
+        "GameModeMask": -1,
+        "Name": "FX_FireSword_Loop",
+        "Duration": 10,
+        "Looping": true,
+        "0x6FC132F2": true,
+        "FarLod": false,
+        "MinLOD": 0.10000000149011612,
+        "DensityLOD": 0.004999999888241291,
+        "FarDensityLOD": 0.009999999776482582,
+        "SizeLOD": 3.0,
+        "MaxLOD": 1.0,
+        "0x55609F53": 20.0,
+        "WorldSpace": false,
+        "UseDistanceBasedRejection": true,
+        "RejectionDistance": 50.0,
+        "RejectIfNotVisible": true,
+        "FreezeSimulationWhenOffscreen": false,
+        "IgnoreTranslation": false,
+        "IgnoreRotationX": false,
+        "IgnoreRotationY": false,
+        "IgnoreRotationZ": false,
+        "IgnoreSurfaceRotationX": false,
+        "IgnoreSurfaceRotationY": false,
+        "IgnoreSurfaceRotationZ": false,
+        "CastShadow": false,
+        "ReceiveShadow": true,
+        "SoftClip": false,
+        "InvSoftClip": false,
+        "SortParticles": false,
+        "HalfSizeBuffer": false,
+        "HalfSizeDistance": 50.0,
+        "QuarterSizeBuffer": false,
+        "QuarterSizeDistance": 25.0
+      }
+    },
+    {
+      "type": "tracksFolder",
+      "layer": 13000858,
+      "fields": {
+        "GUID": 13000859,
+        "ParentGUID": 0,
+        "GameModeMask": -1,
+        "Name": "Tracks",
+        "Tracks": [
+          13000860
+        ]
+      }
+    },
+    {
+      "type": "effectTrack",
+      "layer": 13000858,
+      "fields": {
+        "GUID": 13000860,
+        "ParentGUID": 0,
+        "GameModeMask": -1,
+        "Name": "track"
+      }
+    },
+    {
+      "type": "Emitter",
+      "layer": 13000858,
+      "fields": {
+        "GUID": 200000041,
+        "ParentGUID": 0,
+        "GameModeMask": -1,
+        "Name": "Core",
+        "WorldTransform": [
+          0.028999999165534973,
+          0.0,
+          0.0,
+          0.0,
+          -0.0,
+          0.028999999165534973,
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.028999999165534973,
+          0.0,
+          0.0,
+          0.5899999737739563,
+          0.0,
+          1.0
+        ],
+        "Controllers": [],
+        "EmittersMin": 1,
+        "EmittersMax": 1,
+        "TrajectoryOrientation": [
+          0.0,
+          0.0,
+          0.0
+        ],
+        "TrajectoryRange": 0.0,
+        "TrajectorySpeedMin": 0.0,
+        "TrajectorySpeedMax": 0.0,
+        "Transform": [
+          0.028999999165534973,
+          0.0,
+          0.0,
+          0.0,
+          -0.0,
+          0.028999999165534973,
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.028999999165534973,
+          0.0,
+          0.0,
+          0.5899999737739563,
+          0.0,
+          1.0
+        ],
+        "Type": "Cylinder",
+        "Volume": false,
+        "Height": 33.0,
+        "Angle": 60.0,
+        "Mesh": "",
+        "EnableMeshMorphing": false,
+        "LoopMeshMorphing": false,
+        "Texture": "FX_Dust_02",
+        "NormalTexture": "",
+        "RefractionTexture": "",
+        "TextureUsage": "atlas",
+        "Refract": false,
+        "RefractionScale": 1.0,
+        "LoopTextureAnim": false,
+        "RandomizeTextureAnimStartFrame": true,
+        "frames": 8,
+        "MinFrame": 0,
+        "MaxFrame": 7,
+        "PlaybackTime": 64,
+        "ParticleType": "billboard",
+        "BlendMode": "additive",
+        "BindControllerStatesToLifespanOfParticle": false,
+        "InitialOrientationMin": [
+          0.0,
+          0.0,
+          0.0
+        ],
+        "InitialOrientationMax": [
+          0.0,
+          360.0,
+          0.0
+        ],
+        "OrientMode": "NONE",
+        "StartRotationVelocityMin": [
+          0.0,
+          0.0,
+          0.0
+        ],
+        "StartRotationVelocityMax": [
+          0.0,
+          5.0,
+          0.0
+        ],
+        "EndRotationVelocityMin": [
+          0.0,
+          0.0,
+          0.0
+        ],
+        "EndRotationVelocityMax": [
+          0.0,
+          0.0,
+          0.0
+        ],
+        "PivotPointXMin": 0.5,
+        "PivotPointXMax": 0.5,
+        "PivotPointYMin": 0.5,
+        "PivotPointYMax": 0.5,
+        "StartColorMin": "0xC8F7D6A4",
+        "StartColorMax": "0xC8F7D6A4",
+        "EndColorMin": "0x00F15B30",
+        "EndColorMax": "0x00F3724B",
+        "StartColorMultiplier": 1.149999976158142,
+        "EndColorMultiplier": 1.0,
+        "StartAlphaTestMin": 0,
+        "StartAlphaTestMax": 0,
+        "EndAlphaTestMin": 0,
+        "EndAlphaTestMax": 0,
+        "AtmosphereDistanceRange": 0.0,
+        "BloomThresholdRamp": 0.0,
+        "WhitePointRamp": 0.0,
+        "Emissive": true,
+        "SunScale": 0.05000000074505806,
+        "ApplyDynamicLights": false,
+        "StartWidthMin": 75.0,
+        "StartWidthMax": 75.0,
+        "StartHeightMin": 75.0,
+        "StartHeightMax": 75.0,
+        "EndWidthMin": 115.0,
+        "EndWidthMax": 115.0,
+        "EndHeightMin": 115.0,
+        "EndHeightMax": 115.0,
+        "LifeSpanMin": 12,
+        "LifeSpanMax": 12,
+        "FadeInTime": 5,
+        "RateMin": 3.5,
+        "RateMax": 3.5,
+        "VelocityBasedRateMultiplier": 1.0,
+        "SpeedMin": 0.05000000074505806,
+        "SpeedMax": 0.10000000149011612,
+        "InitialVelocityContribution": 0.0,
+        "Acceleration": 0.0,
+        "Effectors": [
+          200000040,
+          200000042
+        ],
+        "EmitterEffectors": [],
+        "BBox": []
+      }
+    },
+    {
+      "type": "Effector",
+      "layer": 13000858,
+      "fields": {
+        "GUID": 200000042,
+        "ParentGUID": 0,
+        "GameModeMask": -1,
+        "Name": "0xEC8AAEDC",
+        "WorldTransform": [
+          0.03500000014901161,
+          0.0,
+          0.0,
+          0.0,
+          -0.0,
+          0.03500000014901161,
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.03500000014901161,
+          0.0,
+          0.0,
+          0.5870000123977661,
+          0.0,
+          1.0
+        ],
+        "Controllers": [],
+        "Transform": [
+          0.03500000014901161,
+          0.0,
+          0.0,
+          0.0,
+          -0.0,
+          0.03500000014901161,
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.03500000014901161,
+          0.0,
+          0.0,
+          0.5870000123977661,
+          0.0,
+          1.0
+        ],
+        "Type": "0x796690EA",
+        "Containing": false,
+        "force": 0.75,
+        "Damping": 0.0,
+        "Bounce": 1.0,
+        "Height": 32.0,
+        "Constrict": 6.0
+      }
+    },
+    {
+      "type": "Emitter",
+      "layer": 13000858,
+      "fields": {
+        "GUID": 117001091,
+        "ParentGUID": 0,
+        "GameModeMask": -1,
+        "Name": "0xF5175392",
+        "WorldTransform": [
+          0.03099999949336052,
+          0.0,
+          0.0,
+          0.0,
+          -0.0,
+          0.03099999949336052,
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.03099999949336052,
+          0.0,
+          0.0,
+          0.5870000123977661,
+          0.0,
+          1.0
+        ],
+        "Controllers": [],
+        "EmittersMin": 1,
+        "EmittersMax": 1,
+        "TrajectoryOrientation": [
+          0.0,
+          0.0,
+          0.0
+        ],
+        "TrajectoryRange": 0.0,
+        "TrajectorySpeedMin": 0.0,
+        "TrajectorySpeedMax": 0.0,
+        "Transform": [
+          0.03099999949336052,
+          0.0,
+          0.0,
+          0.0,
+          -0.0,
+          0.03099999949336052,
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.03099999949336052,
+          0.0,
+          0.0,
+          0.5870000123977661,
+          0.0,
+          1.0
+        ],
+        "Type": "Cylinder",
+        "Volume": false,
+        "Height": 32.0,
+        "Angle": 60.0,
+        "Mesh": "",
+        "EnableMeshMorphing": false,
+        "LoopMeshMorphing": false,
+        "Texture": "FX_FlameLicks",
+        "NormalTexture": "",
+        "RefractionTexture": "",
+        "TextureUsage": "atlas",
+        "Refract": false,
+        "RefractionScale": 1.0,
+        "LoopTextureAnim": false,
+        "RandomizeTextureAnimStartFrame": true,
+        "frames": 8,
+        "MinFrame": 0,
+        "MaxFrame": 7,
+        "PlaybackTime": 64,
+        "ParticleType": "billboard",
+        "BlendMode": "additive",
+        "BindControllerStatesToLifespanOfParticle": false,
+        "InitialOrientationMin": [
+          0.0,
+          0.0,
+          0.0
+        ],
+        "InitialOrientationMax": [
+          0.0,
+          360.0,
+          0.0
+        ],
+        "OrientMode": "NONE",
+        "StartRotationVelocityMin": [
+          0.0,
+          0.0,
+          0.0
+        ],
+        "StartRotationVelocityMax": [
+          0.0,
+          5.0,
+          0.0
+        ],
+        "EndRotationVelocityMin": [
+          0.0,
+          0.0,
+          0.0
+        ],
+        "EndRotationVelocityMax": [
+          0.0,
+          0.0,
+          0.0
+        ],
+        "PivotPointXMin": 0.5,
+        "PivotPointXMax": 0.5,
+        "PivotPointYMin": 0.5,
+        "PivotPointYMax": 0.5,
+        "StartColorMin": "0xFFE2BB5F",
+        "StartColorMax": "0xFFF0932B",
+        "EndColorMin": "0x00953106",
+        "EndColorMax": "0x00A40000",
+        "StartColorMultiplier": 1.149999976158142,
+        "EndColorMultiplier": 1.0,
+        "StartAlphaTestMin": 0,
+        "StartAlphaTestMax": 0,
+        "EndAlphaTestMin": 0,
+        "EndAlphaTestMax": 0,
+        "AtmosphereDistanceRange": 0.0,
+        "BloomThresholdRamp": 0.0,
+        "WhitePointRamp": 0.0,
+        "Emissive": false,
+        "SunScale": 0.20000000298023224,
+        "ApplyDynamicLights": false,
+        "StartWidthMin": 25.0,
+        "StartWidthMax": 50.0,
+        "StartHeightMin": 25.0,
+        "StartHeightMax": 50.0,
+        "EndWidthMin": 275.0,
+        "EndWidthMax": 350.0,
+        "EndHeightMin": 275.0,
+        "EndHeightMax": 350.0,
+        "LifeSpanMin": 10,
+        "LifeSpanMax": 10,
+        "FadeInTime": 5,
+        "RateMin": 4.0,
+        "RateMax": 4.0,
+        "VelocityBasedRateMultiplier": 1.0,
+        "SpeedMin": 0.05000000074505806,
+        "SpeedMax": 0.10000000149011612,
+        "InitialVelocityContribution": 0.0,
+        "Acceleration": 1.0,
+        "Effectors": [
+          200000039,
+          200000040
+        ],
+        "EmitterEffectors": [],
+        "BBox": []
+      }
+    },
+    {
+      "type": "Emitter",
+      "layer": 13000858,
+      "fields": {
+        "GUID": 200000467,
+        "ParentGUID": 0,
+        "GameModeMask": -1,
+        "Name": "0xF123331C",
+        "WorldTransform": [
+          0.03099999949336052,
+          0.0,
+          0.0,
+          0.0,
+          -0.0,
+          0.03099999949336052,
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.03099999949336052,
+          0.0,
+          0.0,
+          0.5870000123977661,
+          0.0,
+          1.0
+        ],
+        "Controllers": [],
+        "EmittersMin": 1,
+        "EmittersMax": 1,
+        "TrajectoryOrientation": [
+          0.0,
+          0.0,
+          0.0
+        ],
+        "TrajectoryRange": 0.0,
+        "TrajectorySpeedMin": 0.0,
+        "TrajectorySpeedMax": 0.0,
+        "Transform": [
+          0.03099999949336052,
+          0.0,
+          0.0,
+          0.0,
+          -0.0,
+          0.03099999949336052,
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.03099999949336052,
+          0.0,
+          0.0,
+          0.5870000123977661,
+          0.0,
+          1.0
+        ],
+        "Type": "Cylinder",
+        "Volume": false,
+        "Height": 32.0,
+        "Angle": 60.0,
+        "Mesh": "",
+        "EnableMeshMorphing": false,
+        "LoopMeshMorphing": false,
+        "Texture": "",
+        "NormalTexture": "",
+        "RefractionTexture": "FX_Fire_HeatPattern_03_N",
+        "TextureUsage": "atlas",
+        "Refract": true,
+        "RefractionScale": 0.10000000149011612,
+        "LoopTextureAnim": false,
+        "RandomizeTextureAnimStartFrame": true,
+        "frames": 4,
+        "MinFrame": 0,
+        "MaxFrame": 3,
+        "PlaybackTime": 64,
+        "ParticleType": "billboard",
+        "BlendMode": "Normal",
+        "BindControllerStatesToLifespanOfParticle": false,
+        "InitialOrientationMin": [
+          0.0,
+          0.0,
+          0.0
+        ],
+        "InitialOrientationMax": [
+          0.0,
+          360.0,
+          0.0
+        ],
+        "OrientMode": "0x5C2DF50F",
+        "StartRotationVelocityMin": [
+          0.0,
+          0.0,
+          -2.0
+        ],
+        "StartRotationVelocityMax": [
+          0.0,
+          2.0,
+          0.0
+        ],
+        "EndRotationVelocityMin": [
+          0.0,
+          0.0,
+          0.0
+        ],
+        "EndRotationVelocityMax": [
+          0.0,
+          0.0,
+          0.0
+        ],
+        "PivotPointXMin": 0.5,
+        "PivotPointXMax": 0.5,
+        "PivotPointYMin": 0.5,
+        "PivotPointYMax": 0.5,
+        "StartColorMin": "0xFFFFFFFF",
+        "StartColorMax": "0xFFFFFFFF",
+        "EndColorMin": "0x00FFFFFF",
+        "EndColorMax": "0x00FFFFFF",
+        "StartColorMultiplier": 1.0,
+        "EndColorMultiplier": 1.0,
+        "StartAlphaTestMin": 0,
+        "StartAlphaTestMax": 0,
+        "EndAlphaTestMin": 0,
+        "EndAlphaTestMax": 0,
+        "AtmosphereDistanceRange": 0.0,
+        "BloomThresholdRamp": 0.0,
+        "WhitePointRamp": 0.0,
+        "Emissive": false,
+        "SunScale": 1.0,
+        "ApplyDynamicLights": false,
+        "StartWidthMin": 150.0,
+        "StartWidthMax": 150.0,
+        "StartHeightMin": 150.0,
+        "StartHeightMax": 150.0,
+        "EndWidthMin": 400.0,
+        "EndWidthMax": 400.0,
+        "EndHeightMin": 400.0,
+        "EndHeightMax": 400.0,
+        "LifeSpanMin": 15,
+        "LifeSpanMax": 15,
+        "FadeInTime": 0,
+        "RateMin": 1.0,
+        "RateMax": 1.0,
+        "VelocityBasedRateMultiplier": 1.0,
+        "SpeedMin": 0.05000000074505806,
+        "SpeedMax": 0.10000000149011612,
+        "InitialVelocityContribution": 0.0,
+        "Acceleration": 1.0,
+        "Effectors": [
+          200000039,
+          200000040
+        ],
+        "EmitterEffectors": [],
+        "BBox": []
+      }
+    },
+    {
+      "type": "Effector",
+      "layer": 13000858,
+      "fields": {
+        "GUID": 200000039,
+        "ParentGUID": 0,
+        "GameModeMask": -1,
+        "Name": "0xCE73F7B7",
+        "WorldTransform": [
+          0.03500000014901161,
+          0.0,
+          0.0,
+          0.0,
+          -0.0,
+          0.03500000014901161,
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.03500000014901161,
+          0.0,
+          0.0,
+          0.5870000123977661,
+          0.0,
+          1.0
+        ],
+        "Controllers": [],
+        "Transform": [
+          0.03500000014901161,
+          0.0,
+          0.0,
+          0.0,
+          -0.0,
+          0.03500000014901161,
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.03500000014901161,
+          0.0,
+          0.0,
+          0.5870000123977661,
+          0.0,
+          1.0
+        ],
+        "Type": "0x796690EA",
+        "Containing": false,
+        "force": 1.0,
+        "Damping": 0.0,
+        "Bounce": 1.0,
+        "Height": 32.0,
+        "Constrict": 6.5
+      }
+    },
+    {
+      "type": "Effector",
+      "layer": 13000858,
+      "fields": {
+        "GUID": 200000040,
+        "ParentGUID": 0,
+        "GameModeMask": -1,
+        "Name": "0xCB6638D6",
+        "WorldTransform": [
+          3.0,
+          0.0,
+          0.0,
+          0.0,
+          -0.0,
+          3.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          3.0,
+          0.0,
+          0.0,
+          0.05000000074505806,
+          0.0,
+          1.0
+        ],
+        "Controllers": [],
+        "Transform": [
+          3.0,
+          0.0,
+          0.0,
+          0.0,
+          -0.0,
+          3.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          3.0,
+          0.0,
+          0.0,
+          0.05000000074505806,
+          0.0,
+          1.0
+        ],
+        "Type": "0x237A04BB",
+        "Containing": false,
+        "force": 0.75,
+        "Damping": 0.3499999940395355,
+        "Bounce": 1.0,
+        "Height": 1.0,
+        "Constrict": 1.0
+      }
+    },
+    {
+      "type": "effectSound",
+      "layer": 13000858,
+      "fields": {
+        "GUID": 176000417,
+        "ParentGUID": 0,
+        "GameModeMask": -1,
+        "Name": "effectSound",
+        "WorldTransform": [
+          1.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          1.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          1.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          1.0
+        ],
+        "Controllers": [],
+        "Transform": [
+          1.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          1.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          1.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          1.0
+        ],
+        "Color": "0xFF404040",
+        "Type": "Sphere",
+        "Outer": 0.0,
+        "Texture": "",
+        "cue": "fire_sword",
+        "StopSound": "",
+        "event": ""
+      }
+    }
+  ],
+  "types": [
+    {
+      "name": "templateEffect",
+      "fields": [
+        {
+          "name": "FarDensityLOD",
+          "type": "float",
+          "offset": 40
+        },
+        {
+          "name": "IgnoreRotationX",
+          "type": "bool",
+          "offset": 80
+        },
+        {
+          "name": "IgnoreRotationY",
+          "type": "bool",
+          "offset": 84
+        },
+        {
+          "name": "IgnoreRotationZ",
+          "type": "bool",
+          "offset": 88
+        },
+        {
+          "name": "Duration",
+          "type": "int",
+          "offset": 16
+        },
+        {
+          "name": "QuarterSizeBuffer",
+          "type": "bool",
+          "offset": 132
+        },
+        {
+          "name": "FarLod",
+          "type": "bool",
+          "offset": 28
+        },
+        {
+          "name": "FreezeSimulationWhenOffscreen",
+          "type": "bool",
+          "offset": 72
+        },
+        {
+          "name": "0x55609F53",
+          "type": "float",
+          "offset": 52
+        },
+        {
+          "name": "Name",
+          "type": "crc",
+          "offset": 12
+        },
+        {
+          "name": "ReceiveShadow",
+          "type": "bool",
+          "offset": 108
+        },
+        {
+          "name": "GameModeMask",
+          "type": "int",
+          "offset": 8
+        },
+        {
+          "name": "CastShadow",
+          "type": "bool",
+          "offset": 104
+        },
+        {
+          "name": "WorldSpace",
+          "type": "bool",
+          "offset": 56
+        },
+        {
+          "name": "0x6FC132F2",
+          "type": "bool",
+          "offset": 24
+        },
+        {
+          "name": "DensityLOD",
+          "type": "float",
+          "offset": 36
+        },
+        {
+          "name": "SoftClip",
+          "type": "bool",
+          "offset": 112
+        },
+        {
+          "name": "QuarterSizeDistance",
+          "type": "float",
+          "offset": 136
+        },
+        {
+          "name": "SizeLOD",
+          "type": "float",
+          "offset": 44
+        },
+        {
+          "name": "ParentGUID",
+          "type": "GUID",
+          "offset": 4
+        },
+        {
+          "name": "MaxLOD",
+          "type": "float",
+          "offset": 48
+        },
+        {
+          "name": "IgnoreSurfaceRotationX",
+          "type": "bool",
+          "offset": 92
+        },
+        {
+          "name": "IgnoreSurfaceRotationY",
+          "type": "bool",
+          "offset": 96
+        },
+        {
+          "name": "IgnoreSurfaceRotationZ",
+          "type": "bool",
+          "offset": 100
+        },
+        {
+          "name": "HalfSizeDistance",
+          "type": "float",
+          "offset": 128
+        },
+        {
+          "name": "GUID",
+          "type": "GUID",
+          "offset": 0
+        },
+        {
+          "name": "InvSoftClip",
+          "type": "bool",
+          "offset": 116
+        },
+        {
+          "name": "RejectIfNotVisible",
+          "type": "bool",
+          "offset": 68
+        },
+        {
+          "name": "SortParticles",
+          "type": "bool",
+          "offset": 120
+        },
+        {
+          "name": "HalfSizeBuffer",
+          "type": "bool",
+          "offset": 124
+        },
+        {
+          "name": "Looping",
+          "type": "bool",
+          "offset": 20
+        },
+        {
+          "name": "RejectionDistance",
+          "type": "float",
+          "offset": 64
+        },
+        {
+          "name": "UseDistanceBasedRejection",
+          "type": "bool",
+          "offset": 60
+        },
+        {
+          "name": "IgnoreTranslation",
+          "type": "bool",
+          "offset": 76
+        },
+        {
+          "name": "MinLOD",
+          "type": "float",
+          "offset": 32
+        }
+      ]
+    },
+    {
+      "name": "tracksFolder",
+      "fields": [
+        {
+          "name": "Tracks",
+          "type": "objectlist",
+          "offset": 16
+        },
+        {
+          "name": "Name",
+          "type": "crc",
+          "offset": 12
+        },
+        {
+          "name": "GameModeMask",
+          "type": "int",
+          "offset": 8
+        },
+        {
+          "name": "ParentGUID",
+          "type": "GUID",
+          "offset": 4
+        },
+        {
+          "name": "GUID",
+          "type": "GUID",
+          "offset": 0
+        }
+      ]
+    },
+    {
+      "name": "effectTrack",
+      "fields": [
+        {
+          "name": "Name",
+          "type": "crc",
+          "offset": 12
+        },
+        {
+          "name": "GameModeMask",
+          "type": "int",
+          "offset": 8
+        },
+        {
+          "name": "ParentGUID",
+          "type": "GUID",
+          "offset": 4
+        },
+        {
+          "name": "GUID",
+          "type": "GUID",
+          "offset": 0
+        }
+      ]
+    },
+    {
+      "name": "Emitter",
+      "fields": [
+        {
+          "name": "Volume",
+          "type": "bool",
+          "offset": 196
+        },
+        {
+          "name": "StartRotationVelocityMax",
+          "type": "vector3",
+          "offset": 336
+        },
+        {
+          "name": "EndColorMin",
+          "type": "Color",
+          "offset": 404
+        },
+        {
+          "name": "Effectors",
+          "type": "objectlist",
+          "offset": 532
+        },
+        {
+          "name": "TrajectorySpeedMax",
+          "type": "float",
+          "offset": 116
+        },
+        {
+          "name": "BloomThresholdRamp",
+          "type": "float",
+          "offset": 440
+        },
+        {
+          "name": "RateMin",
+          "type": "float",
+          "offset": 504
+        },
+        {
+          "name": "ApplyDynamicLights",
+          "type": "bool",
+          "offset": 456
+        },
+        {
+          "name": "EndAlphaTestMax",
+          "type": "int",
+          "offset": 432
+        },
+        {
+          "name": "MaxFrame",
+          "type": "int",
+          "offset": 260
+        },
+        {
+          "name": "EndWidthMin",
+          "type": "float",
+          "offset": 476
+        },
+        {
+          "name": "Type",
+          "type": "crc",
+          "offset": 192
+        },
+        {
+          "name": "StartWidthMax",
+          "type": "float",
+          "offset": 464
+        },
+        {
+          "name": "StartAlphaTestMin",
+          "type": "int",
+          "offset": 420
+        },
+        {
+          "name": "NormalTexture",
+          "type": "crc",
+          "offset": 224
+        },
+        {
+          "name": "OrientMode",
+          "type": "crc",
+          "offset": 316
+        },
+        {
+          "name": "StartColorMax",
+          "type": "Color",
+          "offset": 400
+        },
+        {
+          "name": "BBox",
+          "type": "objectlist",
+          "offset": 540
+        },
+        {
+          "name": "LifeSpanMax",
+          "type": "int",
+          "offset": 496
+        },
+        {
+          "name": "WorldTransform",
+          "type": "matrix4x4",
+          "offset": 16
+        },
+        {
+          "name": "StartColorMultiplier",
+          "type": "float",
+          "offset": 412
+        },
+        {
+          "name": "PivotPointYMin",
+          "type": "float",
+          "offset": 388
+        },
+        {
+          "name": "PivotPointXMax",
+          "type": "float",
+          "offset": 384
+        },
+        {
+          "name": "EndHeightMax",
+          "type": "float",
+          "offset": 488
+        },
+        {
+          "name": "VelocityBasedRateMultiplier",
+          "type": "float",
+          "offset": 512
+        },
+        {
+          "name": "Name",
+          "type": "crc",
+          "offset": 12
+        },
+        {
+          "name": "StartHeightMin",
+          "type": "float",
+          "offset": 468
+        },
+        {
+          "name": "GameModeMask",
+          "type": "int",
+          "offset": 8
+        },
+        {
+          "name": "InitialVelocityContribution",
+          "type": "float",
+          "offset": 524
+        },
+        {
+          "name": "TextureUsage",
+          "type": "crc",
+          "offset": 232
+        },
+        {
+          "name": "SpeedMax",
+          "type": "float",
+          "offset": 520
+        },
+        {
+          "name": "EndRotationVelocityMax",
+          "type": "vector3",
+          "offset": 368
+        },
+        {
+          "name": "TrajectoryOrientation",
+          "type": "vector3",
+          "offset": 96
+        },
+        {
+          "name": "InitialOrientationMax",
+          "type": "vector3",
+          "offset": 304
+        },
+        {
+          "name": "EmittersMax",
+          "type": "int",
+          "offset": 88
+        },
+        {
+          "name": "RefractionScale",
+          "type": "float",
+          "offset": 240
+        },
+        {
+          "name": "WhitePointRamp",
+          "type": "float",
+          "offset": 444
+        },
+        {
+          "name": "Texture",
+          "type": "crc",
+          "offset": 220
+        },
+        {
+          "name": "RandomizeTextureAnimStartFrame",
+          "type": "bool",
+          "offset": 248
+        },
+        {
+          "name": "StartHeightMax",
+          "type": "float",
+          "offset": 472
+        },
+        {
+          "name": "EnableMeshMorphing",
+          "type": "bool",
+          "offset": 212
+        },
+        {
+          "name": "Acceleration",
+          "type": "float",
+          "offset": 528
+        },
+        {
+          "name": "Height",
+          "type": "float",
+          "offset": 200
+        },
+        {
+          "name": "MinFrame",
+          "type": "int",
+          "offset": 256
+        },
+        {
+          "name": "Transform",
+          "type": "matrix4x4",
+          "offset": 128
+        },
+        {
+          "name": "EndHeightMin",
+          "type": "float",
+          "offset": 484
+        },
+        {
+          "name": "frames",
+          "type": "int",
+          "offset": 252
+        },
+        {
+          "name": "ParentGUID",
+          "type": "GUID",
+          "offset": 4
+        },
+        {
+          "name": "EmitterEffectors",
+          "type": "objectlist",
+          "offset": 536
+        },
+        {
+          "name": "PivotPointXMin",
+          "type": "float",
+          "offset": 380
+        },
+        {
+          "name": "PivotPointYMax",
+          "type": "float",
+          "offset": 392
+        },
+        {
+          "name": "LoopTextureAnim",
+          "type": "bool",
+          "offset": 244
+        },
+        {
+          "name": "Mesh",
+          "type": "crc",
+          "offset": 208
+        },
+        {
+          "name": "SunScale",
+          "type": "float",
+          "offset": 452
+        },
+        {
+          "name": "GUID",
+          "type": "GUID",
+          "offset": 0
+        },
+        {
+          "name": "Angle",
+          "type": "float",
+          "offset": 204
+        },
+        {
+          "name": "EmittersMin",
+          "type": "int",
+          "offset": 84
+        },
+        {
+          "name": "PlaybackTime",
+          "type": "int",
+          "offset": 264
+        },
+        {
+          "name": "Controllers",
+          "type": "objectlist",
+          "offset": 80
+        },
+        {
+          "name": "InitialOrientationMin",
+          "type": "vector3",
+          "offset": 288
+        },
+        {
+          "name": "EndRotationVelocityMin",
+          "type": "vector3",
+          "offset": 352
+        },
+        {
+          "name": "FadeInTime",
+          "type": "int",
+          "offset": 500
+        },
+        {
+          "name": "ParticleType",
+          "type": "crc",
+          "offset": 268
+        },
+        {
+          "name": "SpeedMin",
+          "type": "float",
+          "offset": 516
+        },
+        {
+          "name": "EndAlphaTestMin",
+          "type": "int",
+          "offset": 428
+        },
+        {
+          "name": "RefractionTexture",
+          "type": "crc",
+          "offset": 228
+        },
+        {
+          "name": "EndWidthMax",
+          "type": "float",
+          "offset": 480
+        },
+        {
+          "name": "BindControllerStatesToLifespanOfParticle",
+          "type": "bool",
+          "offset": 276
+        },
+        {
+          "name": "TrajectorySpeedMin",
+          "type": "float",
+          "offset": 112
+        },
+        {
+          "name": "RateMax",
+          "type": "float",
+          "offset": 508
+        },
+        {
+          "name": "EndColorMultiplier",
+          "type": "float",
+          "offset": 416
+        },
+        {
+          "name": "EndColorMax",
+          "type": "Color",
+          "offset": 408
+        },
+        {
+          "name": "AtmosphereDistanceRange",
+          "type": "float",
+          "offset": 436
+        },
+        {
+          "name": "StartRotationVelocityMin",
+          "type": "vector3",
+          "offset": 320
+        },
+        {
+          "name": "LifeSpanMin",
+          "type": "int",
+          "offset": 492
+        },
+        {
+          "name": "TrajectoryRange",
+          "type": "float",
+          "offset": 108
+        },
+        {
+          "name": "StartColorMin",
+          "type": "Color",
+          "offset": 396
+        },
+        {
+          "name": "LoopMeshMorphing",
+          "type": "bool",
+          "offset": 216
+        },
+        {
+          "name": "StartAlphaTestMax",
+          "type": "int",
+          "offset": 424
+        },
+        {
+          "name": "Emissive",
+          "type": "bool",
+          "offset": 448
+        },
+        {
+          "name": "StartWidthMin",
+          "type": "float",
+          "offset": 460
+        },
+        {
+          "name": "Refract",
+          "type": "bool",
+          "offset": 236
+        },
+        {
+          "name": "BlendMode",
+          "type": "crc",
+          "offset": 272
+        }
+      ]
+    },
+    {
+      "name": "Effector",
+      "fields": [
+        {
+          "name": "Type",
+          "type": "crc",
+          "offset": 160
+        },
+        {
+          "name": "force",
+          "type": "float",
+          "offset": 168
+        },
+        {
+          "name": "Containing",
+          "type": "bool",
+          "offset": 164
+        },
+        {
+          "name": "WorldTransform",
+          "type": "matrix4x4",
+          "offset": 16
+        },
+        {
+          "name": "Constrict",
+          "type": "float",
+          "offset": 184
+        },
+        {
+          "name": "Name",
+          "type": "crc",
+          "offset": 12
+        },
+        {
+          "name": "GameModeMask",
+          "type": "int",
+          "offset": 8
+        },
+        {
+          "name": "Bounce",
+          "type": "float",
+          "offset": 176
+        },
+        {
+          "name": "Height",
+          "type": "float",
+          "offset": 180
+        },
+        {
+          "name": "Transform",
+          "type": "matrix4x4",
+          "offset": 96
+        },
+        {
+          "name": "ParentGUID",
+          "type": "GUID",
+          "offset": 4
+        },
+        {
+          "name": "GUID",
+          "type": "GUID",
+          "offset": 0
+        },
+        {
+          "name": "Damping",
+          "type": "float",
+          "offset": 172
+        },
+        {
+          "name": "Controllers",
+          "type": "objectlist",
+          "offset": 80
+        }
+      ]
+    },
+    {
+      "name": "effectSound",
+      "fields": [
+        {
+          "name": "Type",
+          "type": "string",
+          "offset": 164
+        },
+        {
+          "name": "Outer",
+          "type": "float",
+          "offset": 168
+        },
+        {
+          "name": "WorldTransform",
+          "type": "matrix4x4",
+          "offset": 16
+        },
+        {
+          "name": "cue",
+          "type": "crc",
+          "offset": 176
+        },
+        {
+          "name": "Name",
+          "type": "crc",
+          "offset": 12
+        },
+        {
+          "name": "GameModeMask",
+          "type": "int",
+          "offset": 8
+        },
+        {
+          "name": "event",
+          "type": "crc",
+          "offset": 184
+        },
+        {
+          "name": "Texture",
+          "type": "string",
+          "offset": 172
+        },
+        {
+          "name": "Transform",
+          "type": "matrix4x4",
+          "offset": 96
+        },
+        {
+          "name": "ParentGUID",
+          "type": "GUID",
+          "offset": 4
+        },
+        {
+          "name": "StopSound",
+          "type": "crc",
+          "offset": 180
+        },
+        {
+          "name": "GUID",
+          "type": "GUID",
+          "offset": 0
+        },
+        {
+          "name": "Controllers",
+          "type": "objectlist",
+          "offset": 80
+        },
+        {
+          "name": "Color",
+          "type": "Color",
+          "offset": 160
+        }
+      ]
+    }
+  ]
+}

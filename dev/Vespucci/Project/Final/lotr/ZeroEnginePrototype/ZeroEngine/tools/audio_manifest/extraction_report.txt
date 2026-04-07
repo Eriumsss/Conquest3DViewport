@@ -1,0 +1,581 @@
+========================================================================
+LOTR Conquest — Audio Asset Manifest Extraction Report
+========================================================================
+
+SUMMARY
+----------------------------------------
+Total unique cue strings extracted: 818
+Resolved to Event ID:              324
+With source WEM IDs:               322
+Unresolved:                        494
+Resolution rate:                   39.6%
+
+EXTRACTION STATS
+----------------------------------------
+Animation files scanned:  14670
+Animation cue refs:       51948
+Effect files scanned:     5572
+Effect cue refs:          0
+Lua files scanned:        7451
+  PlaySound/StopSound:    6
+  sound= assignments:     88
+  Act_PlaySound:          6
+  SoundOverride:          0
+  Play_/Stop_ prefixed:   22
+CSV files scanned:        96
+CSV event entries:        272
+Other JSON files:         17561
+Generic sound refs:       9080
+Errors:                   0
+
+TXTP PARSING STATS
+----------------------------------------
+TXTP files parsed:        2900
+Unique events found:      2695
+Total source refs:        7385
+Parse errors:             0
+
+RESOLUTION METHOD BREAKDOWN
+----------------------------------------
+Readable name match:      11
+FNV-1 hash match:         0
+Override name match:      0
+Hash dictionary match:    313
+Unresolved:               494
+
+UNRESOLVED CUE STRINGS
+----------------------------------------
+   Créditos de la música de El Señor de los Anillos: La Conquista  FNV1=0xDFF15856
+   Lord of Rings Conquest Music Credits     FNV1=0x19B2EE21
+   Muzyka do gry Władca Pierścieni®: Podbój™  FNV1=0x172FE132
+   Riconoscimenti musicali de Il Signore degli Anelli: La Conquista  FNV1=0xED8FDAC1
+  0x0F8E543B                                FNV1=0x1F7EAACA
+  ARROW                                     FNV1=0x475CB7F4
+  Additional Sound Design                   FNV1=0xD58BFD6B
+  Amb_Mtn_Wind_Mono                         FNV1=0x3B2CC4F8
+  ArcherLocalShoot                          FNV1=0x22ACD60A
+  AttachBackMiddle                          FNV1=0x713FF55C
+  AttachEffectBoneLBicep                    FNV1=0xE8FEB2A6
+  AttachEffectBoneLFootBone3                FNV1=0xAA17F75A
+  AttachEffectBoneLForearm                  FNV1=0xB7F04CA3
+  AttachEffectBoneLRealThigh                FNV1=0xE38642EB
+  AttachEffectBoneLThigh                    FNV1=0xF16BC39F
+  AttachEffectBoneNeck1                     FNV1=0x5543A01B
+  AttachEffectBoneRBicep                    FNV1=0xDCBDF738
+  AttachEffectBoneRFootBone3                FNV1=0x4F4433B0
+  AttachEffectBoneRForearm                  FNV1=0xC78E96DD
+  AttachEffectBoneRRealThigh                FNV1=0xAECB2FD5
+  AttachEffectBoneRThigh                    FNV1=0x76A4017D
+  AttachEffectBoneTongue                    FNV1=0x0E403197
+  Attach_LShin                              FNV1=0x84C5EE3F
+  Attach_RShin                              FNV1=0x7942A4E1
+  BKG_BL_GateDust                           FNV1=0x6EBE9FAA
+  Backstab                                  FNV1=0x0F9E1D38
+  Balins_Tomb_Door_Break                    FNV1=0x8EE077E6
+  Ballista                                  FNV1=0x22692E37
+  Balrog                                    FNV1=0xE4EB3A92
+  Balrog_Hit                                FNV1=0x03F7B8C4
+  Balrog_Stone                              FNV1=0xD9291D98
+  Battering_ram                             FNV1=0xFDFDC94C
+  Battle_Ambience_Weathertop                FNV1=0xDE6DC678
+  Battle_Intensity                          FNV1=0x32B985BD
+  BigLongRumbleConstant                     FNV1=0x4A752C7C
+  BigLongRumbleFalloff                      FNV1=0x2F5C233A
+  BigLongRumbleSine                         FNV1=0xCF6A42CF
+  BigShortRumbleConstant                    FNV1=0x39E2EA12
+  BigShortRumbleFalloff                     FNV1=0x3C3AFDA8
+  BigShorterRumbleConstant                  FNV1=0x9FEADD7B
+  BigShorterRumbleFalloff                   FNV1=0x77A1DDDB
+  Bite                                      FNV1=0x620D5EDF
+  BiteCam                                   FNV1=0xD98B4E7C
+  Bone_Statue                               FNV1=0xFBEB7FC6
+  Both                                      FNV1=0x5DFE4D8C
+  Bow                                       FNV1=0x2099B90F
+  CHFX_Ent_LocShin                          FNV1=0x522E7EEF
+  CHFX_Ent_Spawn                            FNV1=0xE0FB7A8C
+  CHFX_Ent_Spawn_03                         FNV1=0x9BBF1730
+  CHFX_FellBeastImpact                      FNV1=0x320BB87D
+  CHFX_OliphantDeathDustKickup              FNV1=0xDECB852B
+  CHFX_TrollHeavyImpact                     FNV1=0xB305B6B1
+  CHFX_TrollSpawn_01                        FNV1=0xBDCB6867
+  CHFX_TrollSpawn_02                        FNV1=0xBDCB6864
+  CHFX_WargDustKickUp                       FNV1=0x8D220C61
+  CH_ent_A                                  FNV1=0x1AE067DA
+  CH_ent_B                                  FNV1=0x1AE067D9
+  CH_ent_C                                  FNV1=0x1AE067D8
+  Capo progettazione audio                  FNV1=0xBC13AD5F
+  CastTuskBubble                            FNV1=0x5C98D869
+  Catapult                                  FNV1=0x76A7AFDD
+  Catapult_Explo_Windmill                   FNV1=0x73383FD5
+  Catapult_Explode                          FNV1=0x15B8ABCF
+  ChargeLightning                           FNV1=0x2DDCE1E9
+  Concepteur sonore                         FNV1=0xC5E9386B
+  Concepteurs sonores                       FNV1=0xE927E967
+  Conception sonore complémentaire          FNV1=0xC3F55C06
+  Conception sonore du film par             FNV1=0x2DCEDFA9
+  Conception sonore en chef                 FNV1=0x8316BD8E
+  Crédits musicaux Le Seigneur des Anneaux® : L'Age des Conquêtes™  FNV1=0x0F6B0AE1
+  DRFX_Fast_Medium                          FNV1=0x4FE23354
+  DRFX_Slow_Heavy                           FNV1=0x4969F827
+  DRFX_Slow_Light                           FNV1=0x75098AC6
+  DRFX_Slow_Medium                          FNV1=0x6EA91587
+  Dagger_Draw                               FNV1=0x26FECFBC
+  Daggers                                   FNV1=0x3C0EFC22
+  DamageLB                                  FNV1=0x4D15CEC4
+  DamageLF                                  FNV1=0x4D15CEC0
+  DamageRB                                  FNV1=0x6715F7F6
+  DamageRF                                  FNV1=0x6715F7F2
+  Death                                     FNV1=0x2E72D6B1
+  DeathCam                                  FNV1=0xD810559E
+  Director de licencias musicales           FNV1=0xC076E4A9
+  Disconnected                              FNV1=0x7F0EC4A4
+  Diseñador jefe de sonido                  FNV1=0x7FA96CD2
+  Diseñadores de sonido                     FNV1=0x0F4CD998
+  Diseño de sonido                          FNV1=0x72642D75
+  Diseño de sonido adicional                FNV1=0x010EDD71
+  Diseño del sonido de la película por      FNV1=0xDC55FC49
+  Dodatkowa obróbka dźwięku                 FNV1=0x027AB5B4
+  Door_Open_Moria_Prision                   FNV1=0x42B067D4
+  Eagle                                     FNV1=0xC97D2783
+  Editeur musique                           FNV1=0x2653E8BE
+  Editor de música                          FNV1=0x5F939670
+  EndTuskBubble                             FNV1=0x8E5621E5
+  Enregistrement des voix par Soundelux     FNV1=0x5AEE02C1
+  Ent                                       FNV1=0x1F92FC54
+  EnterAimCam                               FNV1=0xC24D783D
+  ExitAimCam                                FNV1=0x03178919
+  ExitGrabCam                               FNV1=0x21B46B9C
+  ExpRadius                                 FNV1=0x707AC73C
+  FALSE                                     FNV1=0x9229B22A
+  FOV_06                                    FNV1=0x1413FB8F
+  FOV_Reset                                 FNV1=0x39BA9186
+  FX_AB_Aragorn_SpecialH                    FNV1=0x20D9A8AA
+  FX_AB_Aragorn_SpecialH_charge             FNV1=0x3D293BD1
+  FX_AB_Aragorn_SpecialL                    FNV1=0x20D9A8AE
+  FX_AB_Aragorn_SpecialL_charge             FNV1=0xBD017775
+  FX_AB_Balrog_FireBreath                   FNV1=0xA9B7BB66
+  FX_AB_Balrog_FistSlam                     FNV1=0xDEE71149
+  FX_AB_Balrog_FistSlam_Heavy               FNV1=0xCF928B71
+  FX_AB_Balrog_PowerUp                      FNV1=0xEF8C3350
+  FX_AB_Balrog_PowerUp_Bicep                FNV1=0xA81B8358
+  FX_AB_Balrog_PowerUp_Forearm              FNV1=0xDDF4B4FD
+  FX_AB_Balrog_PowerUp_Thigh                FNV1=0x3F87239D
+  FX_AB_CrowdBreaker                        FNV1=0x68EBCF17
+  FX_AB_Gandalf_YSNP                        FNV1=0x57A86DB0
+  FX_AB_GimliChargeFootDebris               FNV1=0x6A658FD3
+  FX_AB_GimliChargeFootDust                 FNV1=0x59F0155A
+  FX_AB_Gimli_AxeExplosion                  FNV1=0x8097B4D0
+  FX_AB_Nazgul_FlipSlash                    FNV1=0x2B4D4CE2
+  FX_AB_Nazgul_JumpAttack                   FNV1=0x61D04052
+  FX_AB_Nazgul_Scream                       FNV1=0xD8918B75
+  FX_AB_Saruman_YSNP                        FNV1=0x463285EC
+  FX_AB_Sauron_HeavyImpact                  FNV1=0xBC98A6D2
+  FX_AB_Sauron_MaceSlam                     FNV1=0x1FA84D92
+  FX_AB_Sauron_SoulBlast                    FNV1=0xC6EF27F0
+  FX_AB_Sauron_SpecialL                     FNV1=0x075DFE88
+  FX_AB_Sauron_Summon                       FNV1=0xEC13409A
+  FX_AB_SpawnFrodo_Ambient                  FNV1=0x216D8E04
+  FX_AB_SpecialSwing                        FNV1=0xBF7CDD47
+  FX_AB_SprintTackleFootDebris              FNV1=0x0B94ED35
+  FX_AB_SprintTackleFootDust                FNV1=0xD7F923DC
+  FX_AB_WitchKing_Summon                    FNV1=0xEB7E30C0
+  FX_AB_WitchKing_SummonSlam                FNV1=0xA7505B97
+  FX_AT_BalrogAttack_dust                   FNV1=0xD868E36E
+  FX_AT_JumpAttackLandSwd_dust              FNV1=0xA10D83EE
+  FX_AT_JumpAttackLand_dust                 FNV1=0xBCD46B32
+  FX_BKG_BL_GateDust                        FNV1=0x26989A5F
+  FX_BalrogEmbers_LocFoot                   FNV1=0x7C04ABBA
+  FX_BalrogEmbers_LocShin                   FNV1=0x6C68FE32
+  FX_BalrogFireFlareupTest                  FNV1=0xC88CFF64
+  FX_MGL_Door_destruction                   FNV1=0x6A7AB148
+  FX_MGL_Door_destruction_HEB_A             FNV1=0x5C6524F8
+  FX_MGL_Door_destruction_HEB_B             FNV1=0x5C6524FB
+  FX_MGL_Door_destruction_HET_A             FNV1=0x5C39979A
+  FX_MGL_Door_destruction_HET_B             FNV1=0x5C399799
+  FX_MGL_Door_destruction_VE_A              FNV1=0x2BAEF720
+  FX_MGL_Door_destruction_VE_B              FNV1=0x2BAEF723
+  FX_MGL_StatueSwords                       FNV1=0x3D42BB4B
+  FX_MOR_Door_destruction                   FNV1=0x2D5AE906
+  FX_MOR_Door_destruction_Col               FNV1=0xFFE4A325
+  FX_MOR_Door_destruction_HEB_01            FNV1=0x4F0ED538
+  FX_MOR_Door_destruction_HEB_02            FNV1=0x4F0ED53B
+  FX_MOR_Door_destruction_HE_01             FNV1=0x578FA8DE
+  FX_MOR_Door_destruction_HE_02             FNV1=0x578FA8DD
+  FX_MOR_Door_destruction_HE_03             FNV1=0x578FA8DC
+  FX_MOR_Door_destruction_VE_01             FNV1=0xFFE67864
+  FX_MOR_Door_destruction_VE_02             FNV1=0xFFE67867
+  FX_MSTT_Door_destruction                  FNV1=0xB71138EC
+  FX_MSTT_HEdgeBaseA                        FNV1=0x677C4CF8
+  FX_MSTT_HEdgeTopA                         FNV1=0x4D980D4E
+  FX_MSTT_VEdgeA                            FNV1=0x66873F97
+  FX_MST_PR_Fire_Grond                      FNV1=0xA9779CB3
+  FX_MST_PR_MainGateDoor_01                 FNV1=0xC4B2552E
+  FX_MST_PR_MainGateDoor_02                 FNV1=0xC4B2552D
+  FX_MST_PR_MainGateDoor_03                 FNV1=0xC4B2552C
+  FX_MST_PR_MainGateDoor_04                 FNV1=0xC4B2552B
+  FX_MST_PR_MainGateDoor_05                 FNV1=0xC4B2552A
+  FX_MST_PR_MainGateDoor_06                 FNV1=0xC4B25529
+  FX_MST_PR_MainGateDoor_07                 FNV1=0xC4B25528
+  FX_OSG_Door_destruction                   FNV1=0x80CAA4FB
+  FX_OSG_HEdgeBaseA                         FNV1=0xDCC9F913
+  FX_OSG_HEdgeBaseB                         FNV1=0xDCC9F910
+  FX_OSG_VEdgeA                             FNV1=0x26EA4B28
+  FX_OSG_VEdgeB                             FNV1=0x26EA4B2B
+  FastHeavy                                 FNV1=0xB7495184
+  FastLight                                 FNV1=0x054BB401
+  FastMedium                                FNV1=0x0A359646
+  Feature Film Sound Design by              FNV1=0xEAED5C55
+  FellBeast                                 FNV1=0xB447BE67
+  Fellbeast_wind                            FNV1=0xCBBF164C
+  Flesh                                     FNV1=0x44C33051
+  FootLeftBack                              FNV1=0xD010D77F
+  FootLeftFront                             FNV1=0x62875923
+  FootRightBack                             FNV1=0xCB5CEC64
+  FootRightFront                            FNV1=0xBCF0C8C6
+  ForceExit_GiantActivate                   FNV1=0xFBE6653F
+  GiantGroundHit                            FNV1=0x1B436B48
+  GiantHitShake                             FNV1=0x8AB1EC63
+  GiantLocalStepShake                       FNV1=0x673FAF5F
+  GiantStepShake                            FNV1=0xDD911A80
+  Gimli_BullCharge_Stop                     FNV1=0xB0E5F970
+  Global_SRT                                FNV1=0x1CBBFA38
+  Grabaciones por Soundelux                 FNV1=0x8F0CB201
+  GrandViper_Slide                          FNV1=0xFA9303A9
+  GrandViper_Start                          FNV1=0xA20FBAD2
+  GrondFire                                 FNV1=0x4314A87F
+  Głośność muzyki:                          FNV1=0xA750344E
+  Główny dźwiękowiec                        FNV1=0xA56E054A
+  Hand_Grab                                 FNV1=0xA501529B
+  HitTarget_Heavy                           FNV1=0xBAE8CA1B
+  HitTarget_Light                           FNV1=0x3FBA16C2
+  HitTarget_Medium                          FNV1=0x0826CC8B
+  Hobbit_Vocal_Panic                        FNV1=0x43B22B93
+  Horse                                     FNV1=0xE5C44E60
+  Isen_Dark_Int_a02                         FNV1=0x5EB7C847
+  Isen_Fire_Machine_Prop                    FNV1=0x20CE2183
+  Isengard                                  FNV1=0x03402A5A
+  Jump                                      FNV1=0xE480E089
+  LB                                        FNV1=0x65771C6B
+  LF                                        FNV1=0x65771C6F
+  Lead Sound Design                         FNV1=0xCA2CFB88
+  LeftFoot                                  FNV1=0x3CBF7C72
+  LeftHand                                  FNV1=0x323B8959
+  Local                                     FNV1=0xF44F784A
+  MageAttack_hard                           FNV1=0x6282E551
+  MageJumpAttack_hard                       FNV1=0xDA43E0F9
+  MageSpecial_Fidget_NotOk                  FNV1=0x17D4C490
+  MageSpecial_Fidget_Ok                     FNV1=0x15E15831
+  MainGateDust                              FNV1=0x0D4074A3
+  MainGateFire                              FNV1=0xD51641E7
+  MainGateHinge                             FNV1=0xF3C062C8
+  MainGateSplinters                         FNV1=0xF1C00993
+  MediumShake                               FNV1=0x6B86EC12
+  Menedżer ds. licencji muzycznych          FNV1=0x999FE0DB
+  MglBlFrntGteDrsExp                        FNV1=0xC2A1D1F9
+  MglBlFrntGteDrsHEdgeBaseA                 FNV1=0x97F6CC9D
+  MglBlFrntGteDrsHEdgeBaseB                 FNV1=0x97F6CC9E
+  MglBlFrntGteDrsHEdgeTopA                  FNV1=0x9F4F22C1
+  MglBlFrntGteDrsHEdgeTopB                  FNV1=0x9F4F22C2
+  MglBlFrntGteDrsVEdgeA                     FNV1=0x7626B546
+  MglBlFrntGteDrsVEdgeB                     FNV1=0x7626B545
+  Minas_Door_Break                          FNV1=0x23ED7D4A
+  Minas_Morgul                              FNV1=0x54107818
+  Montaggio musiche                         FNV1=0x7C45A0BE
+  Montaż muzyki                             FNV1=0x3673C571
+  MorPrMnGteColC                            FNV1=0x1D2FCB29
+  MorPrMnGteDustC                           FNV1=0x60516EE7
+  MorPrMnGteHEdge01A                        FNV1=0xEC540D83
+  MorPrMnGteHEdge01B                        FNV1=0xEC540D80
+  MorPrMnGteHEdge02A                        FNV1=0xEB540C2E
+  MorPrMnGteHEdge02B                        FNV1=0xEB540C2D
+  MorPrMnGteHingeC                          FNV1=0x5B22D2EC
+  MorPrMnGteSplintC                         FNV1=0x12F3C48D
+  MorPrMnGteVEdgeA                          FNV1=0xE06F84FA
+  MorPrMnGteVEdgeB                          FNV1=0xE06F84F9
+  Moria_Balrog_Good_Intro                   FNV1=0xFADB56E0
+  Mount                                     FNV1=0x2229FB38
+  MouthOfSauron                             FNV1=0x10737617
+  MouthSummon_HandFX                        FNV1=0x43FA0E07
+  MstPrCpdDesuction                         FNV1=0xA3A05AA6
+  MstPrCpdHEdgeBaseA                        FNV1=0xF85777BD
+  MstPrCpdHEdgeTopA                         FNV1=0x27BA1861
+  MstPrCpdVEdgeA                            FNV1=0x5FF41166
+  Music Editor                              FNV1=0xE9FCB29D
+  Music Licensing Manager                   FNV1=0xB3AB181F
+  Music Volume:                             FNV1=0x01A3CF02
+  Musik-Lautstärke:                         FNV1=0xFBFDB968
+  Musikkvolum:                              FNV1=0x31BCD630
+  Musikvolym:                               FNV1=0x56297B2F
+  NONE                                      FNV1=0x2CA33BDB
+  Nagranie list dialogowych - Soundelux     FNV1=0x64D22F44
+  NoRumble                                  FNV1=0xB61A2E93
+  ORC                                       FNV1=0x23796AE5
+  OliClimbJumpLF                            FNV1=0x590951F6
+  OliClimbJumpRF                            FNV1=0x57094E0C
+  Oliphaunt                                 FNV1=0xCF1D70C5
+  Orc                                       FNV1=0x23796AE5
+  OsgBlSdgDesuction                         FNV1=0xB75A110E
+  OsgBlSdgHEdgeBaseA                        FNV1=0x273D6195
+  OsgBlSdgHEdgeBaseB                        FNV1=0x273D6196
+  OsgBlSdgVEdgeA                            FNV1=0xE1627E8E
+  OsgBlSdgVEdgeB                            FNV1=0xE1627E8D
+  PF_Lobbers_Scene                          FNV1=0x87DD56B2
+  Play_Ent_Foley                            FNV1=0x98D7B449
+  Play_Legolas_ShieldGrind_Loop             FNV1=0x10C4D67A
+  Play_Troll_Creature_Finisher              FNV1=0xCEE177E8
+  Play_amb_pl_loop                          FNV1=0x19059D9A
+  Play_oli_fall                             FNV1=0xD14E151C
+  Play_training_base_amb_2                  FNV1=0x522E28B2
+  PlayerDamagedLeft                         FNV1=0xCCEB1588
+  PlayerDamagedRight                        FNV1=0xE979FB7F
+  Pot                                       FNV1=0x407759E2
+  Progettazione audio                       FNV1=0xCC0BCF72
+  Progettazione audio aggiuntiva            FNV1=0x232C77C5
+  Progettazione audio filmati               FNV1=0x56B51FB0
+  Progettisti audio                         FNV1=0x1EAF8141
+  Prop_Stone                                FNV1=0xB4C0DA34
+  Prop_Wood                                 FNV1=0xE6C77A52
+  ProxyCrouch                               FNV1=0x1486C615
+  ProxyDefault                              FNV1=0x247E48DE
+  RB                                        FNV1=0x5F7712F5
+  RF                                        FNV1=0x5F7712F1
+  Ram_Door_Break_Evil                       FNV1=0xAA8B26E7
+  RapidShake                                FNV1=0x91302BAD
+  ReadyToFire                               FNV1=0xAF9F3D85
+  Registrazione doppiaggio di Soundelux     FNV1=0x24F74124
+  RegularHeavy                              FNV1=0x3060BDF4
+  RegularLight                              FNV1=0x77AFA2D1
+  RegularMedium                             FNV1=0xED2C5C36
+  Release_Bow_Human                         FNV1=0x4BF68CF3
+  Responsabile licenze musicali             FNV1=0xD3B7F08B
+  Responsable des licences musicales        FNV1=0x85E20463
+  RightFoot                                 FNV1=0xD6927511
+  RightHand                                 FNV1=0x95C87C76
+  Rivendell                                 FNV1=0xD2101A04
+  SWORD                                     FNV1=0x924E78C4
+  Saruman_Fireball_Launch                   FNV1=0xF9B45024
+  Satchel                                   FNV1=0x94CE8A21
+  Satchel_Grenade                           FNV1=0x5450E086
+  ScoutBreaker_Bomb                         FNV1=0x8153E456
+  Set_State_Boss                            FNV1=0x4E5CE56F
+  Shield                                    FNV1=0x4542380A
+  Shire                                     FNV1=0xA21D4E1A
+  ShootLightning                            FNV1=0xB848CFD8
+  SiegeFire                                 FNV1=0x9854C8C2
+  SiegeReadyToFire                          FNV1=0x47399BD4
+  SiegeStartZoom                            FNV1=0xF281C1CB
+  SlowMedium                                FNV1=0x9322287F
+  Smack_Off                                 FNV1=0xFF4C6EC2
+  SmallLongRumbleConstant                   FNV1=0xE683FD2F
+  SmallLongRumbleFalloffAmbient             FNV1=0x85192361
+  SmallLongRumbleSine                       FNV1=0xDD7970A0
+  SmallShortRumbleConstant                  FNV1=0x5AFA026F
+  SmallShortRumbleFalloff                   FNV1=0xAC07DCDF
+  Sound Design                              FNV1=0xF66DA9AC
+  Sound Designers                           FNV1=0x53F489E0
+  SpecialHeavy                              FNV1=0xEB6BE8A7
+  SpecialMedium                             FNV1=0xF7B6AF07
+  Staff                                     FNV1=0x4066CEF9
+  Staff_Impact                              FNV1=0x887825CA
+  StickBombHit                              FNV1=0x26BBB7EE
+  Stop_Arrows_Fire_Incoming                 FNV1=0x51F29154
+  Stop_Arrows_Impact_Multi                  FNV1=0xA4A8E159
+  Stop_Frodo_Spawn                          FNV1=0xC6E23B04
+  Stop_Isen_Fires                           FNV1=0x0CC6960B
+  Stop_Legolas_ShieldGrind_Loop             FNV1=0xAE2DCDEC
+  Stop_Move_Ballista                        FNV1=0xD6454E24
+  Stop_Ram_Head_Fire_Loop                   FNV1=0xD2CA1AE1
+  Stop_ranged_attack_charge                 FNV1=0x1EF65DBB
+  Sword                                     FNV1=0x924E78C4
+  TRUE                                      FNV1=0xB602B441
+  Throw                                     FNV1=0x2C6A8A9B
+  Throwing_Axe                              FNV1=0x2D2EDDF4
+  Throwing_Dagger                           FNV1=0xD5DFB6C2
+  TinyRoll                                  FNV1=0xB7A43CA6
+  TinyShake                                 FNV1=0xCCCBF58B
+  Training_Amb_Battle                       FNV1=0x0DDD4C07
+  Trng_Amb_Giant_Battle_a2                  FNV1=0x3C96766C
+  Trng_Amb_Giant_Battle_a3                  FNV1=0x3C96766D
+  Trng_Orc_Charge_Attack                    FNV1=0x15DB3A9F
+  Troll                                     FNV1=0xD259D8E6
+  TrollRise1                                FNV1=0x9A4214E6
+  TrollRise2                                FNV1=0x9A4214E5
+  Udźwiękowienie                            FNV1=0xF16DF964
+  Udźwiękowienie fragmentów filmowych       FNV1=0x609D7716
+  UniqueHeavy                               FNV1=0x9B2A36B1
+  UniqueLight                               FNV1=0x65328700
+  UniqueMedium                              FNV1=0x60155001
+  Uruk_Hai                                  FNV1=0xE9179FAB
+  VO_BKG_good_obj02_remind_v2               FNV1=0x6CB02074
+  Voice Over Recording by Soundelux         FNV1=0x54D0B216
+  Volume musica:                            FNV1=0x577884BF
+  Volume musique :                          FNV1=0xA7E01290
+  Volumen de la música:                     FNV1=0x80D83370
+  Warg                                      FNV1=0x6FB157AC
+  Warg_Death                                FNV1=0x8BBFACA3
+  Weathertop                                FNV1=0x36400E18
+  Wood                                      FNV1=0x7AAB588A
+  YSNP                                      FNV1=0xA255B717
+  amb_loop                                  FNV1=0x4CDBC00C
+  aragorn                                   FNV1=0xFA2E8567
+  battering_ram_move_stop                   FNV1=0x4E7E6AEF
+  black_gates                               FNV1=0xAFCF54DF
+  bomb                                      FNV1=0x66FE5C6D
+  catapult_ammo_stop                        FNV1=0x4C480561
+  catapult_move_stop                        FNV1=0x8FF24892
+  catapult_reload_start                     FNV1=0x4B0340D2
+  catpult_reload_stop                       FNV1=0x2626BA51
+  chain_lightning                           FNV1=0xB67DCB13
+  chant                                     FNV1=0xFDE23D67
+  charge                                    FNV1=0xFF6BAFA5
+  cloak                                     FNV1=0x44808DE7
+  cloth_armor                               FNV1=0xF294DCFB
+  daggers                                   FNV1=0x3C0EFC22
+  damage_blocked                            FNV1=0xEB3025DF
+  damage_received                           FNV1=0xF8F75274
+  dead_sword                                FNV1=0x8C64C485
+  downstroke                                FNV1=0x950CC261
+  elrond                                    FNV1=0x46D44F81
+  eowyn                                     FNV1=0xE5C222C1
+  exhale                                    FNV1=0x443691F6
+  faramir                                   FNV1=0xD96DC1EF
+  footstep_run                              FNV1=0x7860BDED
+  footstep_trot                             FNV1=0x90F25B25
+  footstep_walk                             FNV1=0x453674FD
+  frodo                                     FNV1=0x5121A9D7
+  gandalf                                   FNV1=0x0DAD9A22
+  gimli                                     FNV1=0x61A98B6B
+  globalsrt                                 FNV1=0x9FE1EF51
+  goto_GrabCam                              FNV1=0xFDE5DD3E
+  goto_GrabCamZoom                          FNV1=0xD6E72F5B
+  goto_GrabEntCam_Back                      FNV1=0xBAD6D619
+  goto_GrabEntCam_Climb01                   FNV1=0xAB8EDE86
+  goto_GrabEntCam_Climb02                   FNV1=0xAB8EDE85
+  goto_GrabTrollCam_Back                    FNV1=0x11C0A197
+  goto_GrabTrollCam_Climb01                 FNV1=0xA70BB1FC
+  goto_GrabTrollCam_Climb02                 FNV1=0xA70BB1FF
+  heal_aoe                                  FNV1=0xF9172BBB
+  heavy armor                               FNV1=0xC04CF657
+  helms_deep                                FNV1=0xAF0FD055
+  hobbit_female_old                         FNV1=0x2F48868A
+  hobbit_male_old                           FNV1=0xE6A89011
+  inhale                                    FNV1=0x3295FD4C
+  isildur                                   FNV1=0xB856D30B
+  kick                                      FNV1=0x820C394F
+  kinetic_bubble                            FNV1=0xA97A3A13
+  land                                      FNV1=0x28346586
+  lava_flow_a02                             FNV1=0x60297EE8
+  leather_armor                             FNV1=0x5767BE5C
+  legolas                                   FNV1=0xB5FD56E2
+  legolas_shieldgrind_loop                  FNV1=0x73A666C9
+  lurtz                                     FNV1=0x6264C748
+  magic                                     FNV1=0x70153C8E
+  metal_armor                               FNV1=0x92242E32
+  minas_tirith_evil                         FNV1=0xD5DEE4B9
+  minas_tirith_good                         FNV1=0xAB316A0C
+  moria_balins_wall_smash                   FNV1=0x3E7B90AD
+  moria_evil                                FNV1=0x330952A8
+  moria_good                                FNV1=0x57E177DD
+  mt_doom                                   FNV1=0x76436D26
+  music_change_defeat                       FNV1=0x7613E3A5
+  music_change_obj_02                       FNV1=0xA5D62C24
+  music_change_obj_03                       FNV1=0xA5D62C25
+  music_change_obj_04                       FNV1=0xA5D62C22
+  music_change_obj_05                       FNV1=0xA5D62C23
+  music_change_obj_06                       FNV1=0xA5D62C20
+  music_change_obj_07                       FNV1=0xA5D62C21
+  music_change_obj_08                       FNV1=0xA5D62C2E
+  music_change_obj_09                       FNV1=0xA5D62C2F
+  music_change_obj_10                       FNV1=0xA6D62D99
+  nazgul                                    FNV1=0x11A09418
+  obj_complete_good                         FNV1=0xE0BC68E6
+  osg_evil                                  FNV1=0xCE875DBF
+  osg_good                                  FNV1=0xFB3CFD7A
+  pelennor_fields                           FNV1=0xA8860C2A
+  pickup                                    FNV1=0xED1F36D5
+  poison_trap                               FNV1=0x02915095
+  projectile_blocked                        FNV1=0xD28DCF9D
+  projectile_hit                            FNV1=0x90699362
+  punch                                     FNV1=0x267A8D5B
+  release                                   FNV1=0x8F63473C
+  saruman                                   FNV1=0x5BA082BE
+  sauron                                    FNV1=0x9C3F00FF
+  siege_tower                               FNV1=0x8F3276AC
+  siege_tower_move_stop                     FNV1=0x5876AD4F
+  skid                                      FNV1=0x310330D8
+  skid_turn                                 FNV1=0x02CE7FCE
+  sonic_boom                                FNV1=0xF8433EEF
+  sound                                     FNV1=0x25238AE2
+  soundCue                                  FNV1=0x633FFF9B
+  staff                                     FNV1=0x4066CEF9
+  theoden                                   FNV1=0xB8740572
+  training_base_amb                         FNV1=0xC3872910
+  training_garrison_camera                  FNV1=0x2C219EA1
+  training_sauron_intro                     FNV1=0x5116528F
+  treebeard                                 FNV1=0x59FF1155
+  troll_idle_stop                           FNV1=0x94720482
+  turn_180                                  FNV1=0x5DB2A510
+  ui_ready_YSNP                             FNV1=0xC57597CC
+  ui_ready_firearrow                        FNV1=0x309BBF1D
+  ui_ready_firewall                         FNV1=0x5B8E5506
+  ui_ready_gasarrow                         FNV1=0x5B704694
+  ui_ready_heal                             FNV1=0x9642CA18
+  ui_ready_multishot                        FNV1=0x60543815
+  upstroke                                  FNV1=0xBCEDB342
+  warg_rider_attack_left                    FNV1=0xE4578520
+  warg_rider_attack_right                   FNV1=0xBB96D3B7
+  warg_turn_180                             FNV1=0x6309C37A
+  wing_flap                                 FNV1=0xF6A76392
+  witchking                                 FNV1=0xE0B48EF3
+  wood                                      FNV1=0x7AAB588A
+  wormtongue                                FNV1=0x42611F74
+  Ведущий специалист по созданию звука      FNV1=0xACCD508E
+  Громкость музыки:                         FNV1=0xD8DB0E06
+  Дополнительное создание звука             FNV1=0x8D861548
+  Звук полнометражного фильма:              FNV1=0xD5E6C2F8
+  Звукозапись произведена на студии Soundelux  FNV1=0x77E432AD
+  Менеджер лицензирования музыки            FNV1=0x4F8A02FC
+  Музыка в игре "Властелин колец™: Противостояние™"  FNV1=0xB2195B3E
+  Редактор музыки                           FNV1=0xFEB5E855
+  Создание звука                            FNV1=0xE1304D65
+  Специалисты по звуку                      FNV1=0xD6936D8D
+
+TOP 30 RESOLVED CUES (by source file count)
+----------------------------------------
+  swing                               EID=2386519981   bank=BaseCombat           sources=12
+  GetUp_Generic                       EID=4191675394   bank=Creatures            sources=5
+  footstep_land                       EID=456342789    bank=Effects              sources=5
+  attack_vocal                        EID=2603361507   bank=Creatures            sources=68
+  Bodyfall_Roll                       EID=3256880572   bank=Creatures            sources=2
+  Foley_Jump                          EID=138639841    bank=BaseCombat           sources=3
+  Bodyfall_Generic                    EID=148690956    bank=Creatures            sources=10
+  Foley_Kick                          EID=3047573527   bank=BaseCombat           sources=2
+  Troll_Attack                        EID=4199064005   bank=SFXTroll             sources=4
+  Heavy_Attack                        EID=3847305365   bank=BaseCombat           sources=3
+  Scout_MidAir                        EID=3148959498   bank=BaseCombat           sources=1
+  Troll_Bodyfall                      EID=2392322490   bank=SFXTroll             sources=4
+  Sword_Stab                          EID=2231068223   bank=BaseCombat           sources=9
+  mount_dismount                      EID=1423044288   bank=Effects              sources=2
+  Troll_Groan                         EID=2635902416   bank=SFXTroll             sources=17
+  Sword_Stab_Creature_Finisher        EID=3940018972   bank=BaseCombat           sources=1
+  Crowdbreaker                        EID=546880776    bank=BaseCombat           sources=1
+  Troll_Swing                         EID=4282174949   bank=SFXTroll             sources=4
+  Play_oli_climb                      EID=3192940922   bank=SFXOliphant          sources=3
+  taunt                               EID=2046698775   bank=Creatures            sources=3
+  Sound_Fire_Sword_Whoosh             EID=798626000    bank=Effects              sources=6
+  Troll_Hit                           EID=40828056     bank=SFXTroll             sources=5
+  Troll_Taunt                         EID=2871249087   bank=SFXTroll             sources=2
+  Generic_Stomp                       EID=1379494502   bank=Effects              sources=2
+  Foley_Mount                         EID=2349075248   bank=Effects              sources=3
+  mount_mount                         EID=3962092078   bank=Effects              sources=2
+  Sword_Draw                          EID=486167725    bank=BaseCombat           sources=4
+  Sword_Stow                          EID=1996181540   bank=BaseCombat           sources=3
+  KnockBack_Fly                       EID=3535085624   bank=Effects              sources=2
+  Human_Death_Vox                     EID=3304350657   bank=Creatures            sources=8
+
+REFERENCE DATA COVERAGE
+----------------------------------------
+WWiseIDTable entries:     4705
+Override entries:         1323
+Event mapping entries:    2695
+TXTP unique events:       2695

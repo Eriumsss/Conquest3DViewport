@@ -1,0 +1,254 @@
+[
+  {
+    "unk_0": 2,
+    "gamemodemask": -1,
+    "key": "Conquest_Logo_RUSSIAN",
+    "unk_3": 6029427,
+    "unk_4": 7667788,
+    "unk_5": 720536285,
+    "unk_6": 29972320
+  },
+  {
+    "unk_0": 2,
+    "gamemodemask": -1,
+    "key": "Conquest_Logo_SPANISH",
+    "unk_3": 6029427,
+    "unk_4": 7667788,
+    "unk_5": 712098785,
+    "unk_6": 29972320
+  },
+  {
+    "unk_0": 2,
+    "gamemodemask": -1,
+    "key": "Conquest_Logo_NORWEGIAN",
+    "unk_3": 6029427,
+    "unk_4": 7667788,
+    "unk_5": 658505035,
+    "unk_6": 29972320
+  },
+  {
+    "unk_0": 2,
+    "gamemodemask": -1,
+    "key": "Conquest_Logo_ITALIAN",
+    "unk_3": 6029427,
+    "unk_4": 7667788,
+    "unk_5": 710692535,
+    "unk_6": 29972320
+  },
+  {
+    "unk_0": 2,
+    "gamemodemask": -1,
+    "key": "skills",
+    "unk_3": 6029427,
+    "unk_4": 7667788,
+    "unk_5": 724755035,
+    "unk_6": 29972320
+  },
+  {
+    "unk_0": 2,
+    "gamemodemask": -1,
+    "key": "Conquest_Logo_GERMAN",
+    "unk_3": 6029427,
+    "unk_4": 7667788,
+    "unk_5": 715223785,
+    "unk_6": 29972320
+  },
+  {
+    "unk_0": 2,
+    "gamemodemask": -1,
+    "key": "UI_loadscr_Default_01",
+    "unk_3": 6029427,
+    "unk_4": 7667788,
+    "unk_5": 792567535,
+    "unk_6": 29972320
+  },
+  {
+    "unk_0": 2,
+    "gamemodemask": -1,
+    "key": "Conquest_Logo_FRENCH",
+    "unk_3": 6029427,
+    "unk_4": 7667788,
+    "unk_5": 698973785,
+    "unk_6": 29972320
+  },
+  {
+    "unk_0": 2,
+    "gamemodemask": -1,
+    "key": "Conquest_Logo_Horizontal",
+    "unk_3": 6029427,
+    "unk_4": 7667788,
+    "unk_5": 697880035,
+    "unk_6": 29972320
+  },
+  {
+    "unk_0": 2,
+    "gamemodemask": -1,
+    "key": "Conquest_Logo_POLISH",
+    "unk_3": 6029427,
+    "unk_4": 7667788,
+    "unk_5": 723348785,
+    "unk_6": 29972320
+  },
+  {
+    "unk_0": 2,
+    "gamemodemask": -1,
+    "key": "Conquest_Logo_SWEDEN",
+    "unk_3": 6029427,
+    "unk_4": 7667788,
+    "unk_5": 656630035,
+    "unk_6": 29972320
+  },
+  {
+    "unk_0": 3,
+    "gamemodemask": -1,
+    "key": "LanguageSelect",
+    "unk_3": 2088935676,
+    "unk_4": 697100812,
+    "unk_5": 789598785,
+    "unk_6": 29972320
+  },
+  {
+    "unk_0": 3,
+    "gamemodemask": -1,
+    "key": "legal",
+    "unk_3": 2088935676,
+    "unk_4": 697100812,
+    "unk_5": 788817535,
+    "unk_6": 29972320
+  },
+  {
+    "unk_0": 3,
+    "gamemodemask": -1,
+    "key": "Mouse",
+    "unk_3": 2088935676,
+    "unk_4": 697100812,
+    "unk_5": 555536285,
+    "unk_6": 29972320
+  },
+  {
+    "unk_0": 7,
+    "gamemodemask": 0,
+    "key": "english.txt",
+    "unk_3": 0,
+    "unk_4": 0,
+    "unk_5": 4151374967,
+    "unk_6": 29970285
+  },
+  {
+    "unk_0": 7,
+    "gamemodemask": 0,
+    "key": "German.txt",
+    "unk_3": 0,
+    "unk_4": 0,
+    "unk_5": 4151531217,
+    "unk_6": 29970285
+  },
+  {
+    "unk_0": 7,
+    "gamemodemask": 0,
+    "key": "Italian.txt",
+    "unk_3": 0,
+    "unk_4": 0,
+    "unk_5": 4151843717,
+    "unk_6": 29970285
+  },
+  {
+    "unk_0": 7,
+    "gamemodemask": 0,
+    "key": "French.txt",
+    "unk_3": 0,
+    "unk_4": 0,
+    "unk_5": 4151374967,
+    "unk_6": 29970285
+  },
+  {
+    "unk_0": 7,
+    "gamemodemask": 0,
+    "key": "Norwegian.txt",
+    "unk_3": 0,
+    "unk_4": 0,
+    "unk_5": 4151843717,
+    "unk_6": 29970285
+  },
+  {
+    "unk_0": 7,
+    "gamemodemask": 0,
+    "key": "Spanish.txt",
+    "unk_3": 0,
+    "unk_4": 0,
+    "unk_5": 4152937467,
+    "unk_6": 29970285
+  },
+  {
+    "unk_0": 7,
+    "gamemodemask": 0,
+    "key": "Swedish.txt",
+    "unk_3": 0,
+    "unk_4": 0,
+    "unk_5": 4152937467,
+    "unk_6": 29970285
+  },
+  {
+    "unk_0": 7,
+    "gamemodemask": 0,
+    "key": "Russian.txt",
+    "unk_3": 0,
+    "unk_4": 0,
+    "unk_5": 4152781217,
+    "unk_6": 29970285
+  },
+  {
+    "unk_0": 7,
+    "gamemodemask": 0,
+    "key": "Polish.txt",
+    "unk_3": 0,
+    "unk_4": 0,
+    "unk_5": 4152781217,
+    "unk_6": 29970285
+  },
+  {
+    "unk_0": 7,
+    "gamemodemask": 0,
+    "key": "input-pc.txt",
+    "unk_3": 0,
+    "unk_4": 0,
+    "unk_5": 4150437467,
+    "unk_6": 29970285
+  },
+  {
+    "unk_0": 7,
+    "gamemodemask": 0,
+    "key": "MgBase.lua",
+    "unk_3": 0,
+    "unk_4": 0,
+    "unk_5": 83751421,
+    "unk_6": 29970286
+  },
+  {
+    "unk_0": 7,
+    "gamemodemask": 0,
+    "key": "UILegal.lua",
+    "unk_3": 0,
+    "unk_4": 0,
+    "unk_5": 125938921,
+    "unk_6": 29970286
+  },
+  {
+    "unk_0": 7,
+    "gamemodemask": 0,
+    "key": "GL_UIStateMachineBase.lua",
+    "unk_3": 0,
+    "unk_4": 0,
+    "unk_5": 125938921,
+    "unk_6": 29970286
+  },
+  {
+    "unk_0": 7,
+    "gamemodemask": 0,
+    "key": "GL_StateMachineBase.lua",
+    "unk_3": 0,
+    "unk_4": 0,
+    "unk_5": 92501421,
+    "unk_6": 29970286
+  }
+]

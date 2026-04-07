@@ -1,0 +1,124 @@
+Lua-related ASM dumps — deferred for later implementation.
+Source folder: analyzed/Lua/  (56 files total: 54 original + 2 lparser.c moved from FX/)
+
+All functions depend on Lua internal state structures (lua_State*, CallInfo*,
+TString*, Proto*, etc.) and reference 0x0067e6d8 (Mg::String::CopyConstruct)
+and 0x008a406c (Lua runtime error handler).
+
+===========================================================================
+SECTION A — Originally deferred (EC_math/, 3 files)
+===========================================================================
+
+  FUN_00554d20  — Lua constant table overflow handler
+                  Refs: "constant table overflow", lapi.c
+                  Handles the case where Lua's constant table is full
+                  during compilation.
+
+  FUN_0068690a  — XML attribute parser used by Lua data loader
+                  Refs: <?xml, version, encoding, standalone
+                  Parses XML header attributes and populates a parse context.
+
+  FUN_006df49a  — Lua math library registration
+                  Refs: LOG2E, LOG10E, SQRT1_2, SQRT2, floor, random, round, atan2
+                  Registers the engine's math library into the Lua state.
+                  Size: 1715 addr-count — largest function in EC_math.
+
+===========================================================================
+SECTION B — Originally deferred (from Render/, 2 files)
+===========================================================================
+
+  FUN_00544bc0  — Lua stack move operation
+                  Refs: lapi.c assert strings (from/to stack assertions)
+                  Implements lua_xmove equivalent.
+
+  FUN_005449b0  — Lua constant table management
+                  Refs: lapi.c, "constant table overflow"
+                  Manages Lua constant registration in compiled chunks.
+
+===========================================================================
+SECTION C — Additional Lua VM functions (from Render/, 49 files)
+         All in the 0x0054xxxx–0x0055xxxx address range.
+         Source file: lapi.c, ldo.c, lgc.c, lvm.c, lstring.c, etc.
+===========================================================================
+
+  FUN_00544cb0  — (lapi.c area) — Lua API helper
+  FUN_00545180  — (lapi.c)      — lua_settop / stack adjust
+  FUN_005457e0  — (lapi.c)      — lua_rawget / table access
+  FUN_005458d0  — (lapi.c)      — Stack assertions: "(n) <= (L->top - L->base)",
+                                  "L->top < L->ci->top"; closure push + lua_xmove
+  FUN_00545ab0  — (lapi.c)      — lua_pushvalue / stack copy
+  FUN_00545c60  — (lapi.c)      — lua_remove
+  FUN_00545d10  — (lapi.c)      — lua_insert
+  FUN_00545de0  — (lapi.c)      — lua_replace
+  FUN_00545e60  — (lapi.c)      — lua_checkstack
+  FUN_005461c0  — (lapi.c)      — lua_xmove (confirmed)
+  FUN_00546300  — (lapi.c)      — lua_isnumber / type check
+  FUN_00546c30  — (lapi.c)      — lua_type / lua_typename
+  FUN_00546d10  — (lapi.c)      — lua_toboolean
+  FUN_00546f90  — (lapi.c)      — lua_tolstring / lua_tostring
+  FUN_00547930  — (lapi.c)      — lua_rawequal
+  FUN_00547bb0  — (lapi.c)      — lua_equal / comparison
+  FUN_00547ef0  — (lapi.c)      — lua_lessthan
+  FUN_005480b0  — (lapi.c)      — lua_tonumber
+  FUN_0054ade0  — (lapi.c)      — lua_pushnil
+  FUN_0054afa0  — (lapi.c)      — lua_pushnumber
+  FUN_0054b020  — (lapi.c)      — lua_pushstring / lua_pushlstring
+  FUN_0054b470  — (ldo.c)       — Error dispatch: "not enough memory",
+                                  "error in error handling"
+                                  Switch on type-2 (cases 2,3,4,5)
+  FUN_0054b910  — (ldo.c)       — VARARG function call dispatch
+                                  Refs: "p->is_vararg & VARARG_HASARG"
+  FUN_0054bb20  — (ldo.c)       — lua_pcall / protected call
+  FUN_0054bcb0  — (ldo.c)       — lua_cpcall
+  FUN_0054bd70  — (ldo.c)       — lua_load / chunk loading
+  FUN_0054be60  — (ldo.c)       — lua_dump / chunk dump
+  FUN_0054c640  — (ldo.c)       — luaD_throw / error throw
+  FUN_0054cc90  — (ldo.c)       — luaD_rawrunprotected
+  FUN_0054cd90  — (ldo.c)       — luaD_growstack
+  FUN_0054ceb0  — (lgc.c)       — Incremental GC step
+                                  Refs: "ci->top <= l->stack_last", l->l_gt
+  FUN_0054d630  — (lgc.c)       — luaC_step / GC trigger
+  FUN_0054d830  — (lgc.c)       — luaC_fullgc
+  FUN_0054d900  — (lgc.c)       — luaC_barrierback
+  FUN_0054e0b0  — (lgc.c)       — GC mark phase helper
+  FUN_0054e230  — (lgc.c)       — GC sweep phase helper
+  FUN_0054e390  — (lgc.c)       — GC string mark
+  FUN_0054e4f0  — (lgc.c)       — GC table mark
+  FUN_0054e610  — (lgc.c)       — GC finalization
+  FUN_0054ed90  — (lvm.c)       — VM execute (luaV_execute)
+  FUN_00551520  — (lvm.c)       — VM arith operations
+  FUN_00551d80  — (lvm.c)       — VM comparison
+  FUN_005522b0  — (lvm.c)       — VM table set
+  FUN_00552960  — (lvm.c)       — VM closure creation
+  FUN_00554e30  — (lvm.c)       — VM concat
+  FUN_00557a40  — (lstring.c)   — luaS_newlstr / string interning
+  FUN_00557fe0  — (lstring.c)   — luaS_new (short string)
+  FUN_00558910  — (lstring.c)   — luaS_newudata / userdata
+  FUN_005589a0  — (lstring.c)   — luaS_resize (string hash table resize)
+
+===========================================================================
+SECTION D — lparser.c functions (from FX/, 2 files)
+===========================================================================
+
+  FUN_00554920  — (lparser.c)   — upvalue limit handler
+                  Refs: "upvalues", "main function has more than %d %s"
+                  Size: 413 addr — handles upvalue overflow during compilation.
+
+  FUN_005555c0  — (lparser.c)   — name/vararg parser error
+                  Refs: "<name> or '...' expected", "local variables"
+                  Size: 441 addr — parser error for missing name or vararg in arg list.
+
+===========================================================================
+Implementation notes
+===========================================================================
+
+Priority order for implementation:
+  HIGH:   ldo.c error handling (B + FUN_0054b470 / FUN_0054c640 / FUN_0054cc90)
+          lapi.c core stack ops (FUN_00545180, FUN_005461c0, FUN_005458d0)
+  MEDIUM: lstring.c interning (FUN_00557a40, FUN_00557fe0)
+          lgc.c GC step (FUN_0054ceb0, FUN_0054d630)
+  LOW:    lvm.c execute loop (FUN_0054ed90) — 1000+ addr, very large
+          FUN_006df49a math lib — 1715 addr
+
+Required Lua internal struct definitions (from standard Lua 5.1 source):
+  lua_State, CallInfo, TString, TValue, Proto, Table, Closure, UpVal, GCObject

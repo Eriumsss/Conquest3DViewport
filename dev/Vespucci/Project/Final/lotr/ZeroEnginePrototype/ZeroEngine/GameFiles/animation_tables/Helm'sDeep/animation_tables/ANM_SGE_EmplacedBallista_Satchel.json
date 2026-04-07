@@ -1,0 +1,8 @@
+{
+  "AimHeading": "WP_gdr_ballistaEmplaced_ClockwiseTurn",
+  "Idle": "WP_gdr_ballistaEmplaced_6_idle",
+  "ReloadRH3": "WP_gdr_ballistaEmplaced_3_reload",
+  "Fire": "WP_gdr_ballistaEmplaced_6_fire",
+  "AimPitch": "WP_gdr_ballistaEmplaced_Aim",
+  "Reload": "WP_gdr_ballistaEmplaced_6_reload"
+}

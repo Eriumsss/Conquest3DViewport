@@ -1,0 +1,87 @@
+GNU GENERAL PUBLIC LICENSE
+Version 3, 29 June 2007
+
+Copyright (C) 2026 Eriumsss
+
+Everyone is permitted to copy and distribute verbatim copies
+of this license document, but changing it is not allowed.
+
+---
+
+## Project Licensing Notice
+
+This repository is licensed under the GNU General Public License v3.0 (GPLv3),
+with the following scope and clarifications.
+
+### Covered by GPLv3
+
+The following components are licensed under GPLv3:
+
+- Scene3D/ (69 source files)
+- RE/ (35 reverse-engineered headers)
+- Engine/DLL/
+  - ConquestDebugger
+  - D3D9Proxy
+  - ConquestConsole
+- All Python scripts (.py)
+  - collision_repack
+  - analysis tools
+  - any auxiliary scripts
+- Build scripts (.bat, .ps1)
+- imgui_glue.h / imgui_glue.cpp (integration layer)
+
+These components are original work and are distributed under GPLv3.
+
+---
+
+### Third-Party Components (Not GPLv3)
+
+The following components are included but retain their original licenses:
+
+- imgui/ — MIT License (Dear ImGui)
+- json.hpp — MIT License (nlohmann/json)
+- lotrc-rust/ — MIT License (haighcam)
+- miniz.h — Public Domain
+- miniaudio.h — Public Domain
+
+These are NOT relicensed under GPLv3.
+
+---
+
+### Not Included / Proprietary Dependencies
+
+The following components are NOT included in this repository
+and are NOT covered by this license:
+
+- Havok 5.5 SDK
+- DirectX SDK
+- Wwise SDK
+- GameFiles/ (all game assets)
+- Original game executables
+
+Users must obtain these separately and legally.
+
+---
+
+### Additional Clarifications
+
+- This project is a reverse-engineering and research toolset.
+- No original game code, assets, or proprietary middleware are redistributed.
+- This project does NOT grant rights to any third-party intellectual property.
+- Any use of this software with proprietary game data is the responsibility of the user.
+
+---
+
+### GPLv3 Terms
+
+This program is free software: you can redistribute it and/or modify
+it under the terms of the GNU General Public License as published by
+the Free Software Foundation, either version 3 of the License, or
+(at your option) any later version.
+
+This program is distributed in the hope that it will be useful,
+but WITHOUT ANY WARRANTY; without even the implied warranty of
+MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.
+
+See the GNU General Public License for more details:
+https://www.gnu.org/licenses/gpl-3.0.html

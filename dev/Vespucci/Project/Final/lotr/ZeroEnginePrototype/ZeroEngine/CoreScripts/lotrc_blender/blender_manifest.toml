@@ -1,0 +1,11 @@
+schema_version = "1.0.0"
+id = "lotrc_blender"
+version = "0.3.0"
+name = "Lord of the Rings Conquest"
+tagline = "Adds support for importing Lord of the Rings Conquest files"
+maintainer = "Developer name <email@address.com>"
+type = "add-on"
+blender_version_min = "4.0.0"
+license = [
+  "SPDX:GPL-3.0-or-later",
+]
