@@ -58,6 +58,7 @@ Pandemic Studios called their engine **"Magellan"** internally. We call ours **V
 4. **Disable Windows Defender** — it flags the injector and proxy DLLs as false positives (they are not malware)
 5. Launch `Conquest3DViewport.exe` from the `Scene3D` folder
 6. It auto-scans `../GameFiles/` for models, animations, textures, and effects
+7. **Do NOT resize the window after the program finishes initializing** — resizing causes a crash. Force fullscreen while the program is still loading.
 
 ### Required DLLs (must be next to the EXE)
 
