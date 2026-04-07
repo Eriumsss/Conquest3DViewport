@@ -84,7 +84,7 @@ GameFiles/models/*.glb
 GameFiles/Shaders_PC_nvidia.bin
 
 # lotrc Rust parser — haighcam's repo, not ours. Users get it from Discord/GitHub.
-CoreScripts/lotrc-rust/
+**/lotrc-rust/
 
 # OS junk
 Thumbs.db
