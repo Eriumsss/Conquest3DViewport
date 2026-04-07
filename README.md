@@ -10,6 +10,46 @@ Pandemic Studios called their engine **"Magellan"** internally. We call ours **V
 
 ---
 
+## Screenshots
+
+### Level Viewer
+![Level Viewer](screenshots/Level%20Viewer.png)
+
+### Model Viewer
+![Model Viewer](screenshots/Model%20Viewer.png)
+
+### Animation
+![Animation](screenshots/Animation.png)
+
+### Event Graph
+![Event Graph](screenshots/Event%20Graph.png)
+
+### Galaxy View
+![Galaxy View](screenshots/Galaxy%20View.png)
+
+### Neural View
+![Neural View](screenshots/Neural%20View.png)
+
+### Cosmic Graph
+![Cosmic Graph](screenshots/Cosmic%20BULLSHIT%20graph.png)
+
+### Flow Graph
+![Flow Graph](screenshots/Flow%20Graph.png)
+
+### Explorer Graph
+![Explorer Graph](screenshots/Explorer%20graph.png)
+
+### Lua Scripts Graph
+![Lua Scripts Graph](screenshots/LUA%20Scripts%20Graph.png)
+
+### Events on Map
+![Events on Map](screenshots/See%20the%20events%20on%20the%20map.png)
+
+### Collision Wireframes
+![Collision Wireframes](screenshots/Collision%20Wireframes%20(Still%20broken).png)
+
+---
+
 ## Quick Start
 
 1. You need a retail copy of **The Lord of the Rings: Conquest**
