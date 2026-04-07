@@ -4,7 +4,7 @@
 //
 //   fxc /nologo /T ps_2_0 /E main /Fh .\Scene3D\RefractionPSBytecode.h
 //    .\Scene3D\refraction_ps.hlsl
-//     This array is 27 years old. Respect your elders or the driver will bluescreen you.
+//     This array is 24 years old. Respect your elders or the driver will bluescreen you.
 //
 // Parameters:
 //

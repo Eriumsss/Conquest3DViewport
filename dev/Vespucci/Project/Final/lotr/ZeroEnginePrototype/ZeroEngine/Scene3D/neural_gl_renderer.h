@@ -167,7 +167,7 @@
 // WHY?
 //
 // Because the infrastructure was already here. Because I could. Because
-// after 7 years of reverse-engineering death, I wanted to build
+// after 4 years of reverse-engineering death, I wanted to build
 // something ALIVE. Neurons are alive. They fire. They learn. They
 // grow. They die. They're the most complex computational system in
 // the known universe, and rendering them with scientific accuracy

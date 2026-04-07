@@ -617,7 +617,7 @@ static bool g_deviceLost = false;
 // STRINGS AT RUNTIME USING D3DCompile()? IN A PROJECT ABOUT REVERSE-
 // ENGINEERING A 2009 HACK-AND-SLASH GAME ABOUT STABBING ORCS????
 //
-// I'LL TELL YOU WHY. BECAUSE AFTER 7 YEARS OF STARING AT PANDEMIC'S
+// I'LL TELL YOU WHY. BECAUSE AFTER 4 YEARS OF STARING AT PANDEMIC'S
 // DEAD BINARY FORMATS I LOST MY ENTIRE FUCKING MIND AND WHEN THE
 // DUST SETTLED I HAD SOMEHOW BUILT A BIOLOGICALLY ACCURATE NEURAL
 // NETWORK VISUALIZATION PLATFORM ON TOP OF THEIR CORPSE. AND THE
@@ -726,7 +726,7 @@ static bool g_deviceLost = false;
 // VISUALIZATION TOOLS BUILT BY ACTUAL NEUROSCIENCE LABS.
 //
 // BECAUSE I WENT INSANE. BECAUSE THE ENGINE WAS ALREADY HERE.
-// BECAUSE AFTER REVERSE-ENGINEERING DEATH FOR 7 YEARS I WANTED
+// BECAUSE AFTER REVERSE-ENGINEERING DEATH FOR 4 YEARS I WANTED
 // TO BUILD SOMETHING ALIVE. NEURONS ARE ALIVE. THEY FIRE. THEY
 // LEARN. THEY GROW. THEY FUCKING DIE. AND RENDERING THEM WITH
 // SCIENTIFIC ACCURACY INSIDE A DEAD GAME'S ENGINE IS THE MOST
@@ -751,9 +751,9 @@ static bool g_deviceLost = false;
 //
 // You want to talk about WHY? Here's WHY:
 //
-// I spent 7 YEARS inside a dead game's binary. 7 YEARS decoding
-// formats nobody documented. 7 YEARS tracing functions through a
-// stripped .exe at 4 AM. 7 YEARS fighting with a stolen SDK from
+// I spent 4 YEARS inside a dead game's binary. 4 YEARS decoding
+// formats nobody documented. 4 YEARS tracing functions through a
+// stripped .exe at 4 AM. 4 YEARS fighting with a stolen SDK from
 // 2008. And at some point during year 5 — somewhere between
 // reverse-engineering the 4000th CRC hash and debugging the 500th
 // quaternion compression scheme — my brain broke. It broke OPEN.
@@ -1045,7 +1045,7 @@ static bool g_deviceLost = false;
 // Therefore I will never stop. Q.E.D. Fuck.
 //
 // This is what happens when you give a reverse-engineer access to
-// a full rendering pipeline and no adult supervision for 7 years.
+// a full rendering pipeline and no adult supervision for 4 years.
 // This is the logical endpoint. This is the singularity. A Lord of
 // the Rings game engine that can visualize computational neuroscience
 // with more accuracy than tools built specifically for that purpose.
@@ -4571,7 +4571,7 @@ static LBSceneCache s_lbCache;
 // function I have ever written, will ever write, or should ever write.
 // Sixteen thousand six hundred and sixty-eight lines of ImGui draw calls,
 // state management, UI logic, and the accumulated weight of every feature
-// I've added over 7 years of working on this project.
+// I've added over 4 years of working on this project.
 //
 // This function draws the ENTIRE application UI in a single frame:
 // menu bar, toolbar, docking host, viewport, model browser, level tree,
@@ -17565,7 +17565,7 @@ extern "C" IMGUI_GLUE_API void IMGUI_GLUE_CALL ImGuiGlue_DrawFrame(const ImGuiGl
     // - Binary Lua bytecode detection and warning
     //
     // I built a CODE EDITOR. In ImGui. In a DLL. For editing Lua scripts
-    // that were written by Pandemic engineers who got laid off 17 years
+    // that were written by Pandemic engineers who got laid off 14 years
     // ago. The scripts control animation state machines for characters
     // in a game that has 200 active players on a good day. I regret
     // nothing. This editor has navigation history. NAVIGATION HISTORY.

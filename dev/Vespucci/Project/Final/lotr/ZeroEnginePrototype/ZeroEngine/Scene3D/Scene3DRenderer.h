@@ -538,7 +538,7 @@ public:
     // collision geometry, spawn points, the whole goddamn thing.
     // Pandemic packed these levels with a custom tool they called
     // "lotrcparser" (we found the string in the .exe). The level data
-    // has been dead for 17 years and we brought it back to life.
+    // has been dead for 14 years and we brought it back to life.
     // Every time I load Minas Tirith I swear I can hear Pandemic's
     // level designers whispering from beyond the grave: "OH GOD WHICH WAY
     // WAS UP???" the transforms are wrong.
@@ -569,7 +569,7 @@ public:
     // Pandemic used the same'ish character controller in Conquest for all
     // playable heroes (Aragorn, Gandalf, etc). We're using it to walk
     // a camera through their dead levels. It's like visiting a crime scene
-    // 17 years later. Everything is where they left it. Nothing has moved.
+    // 14 years later. Everything is where they left it. Nothing has moved.
     // The collision meshes still work. The MOPP trees still accelerate.
     // Havok doesn't care that the company that licensed it is gone.
     bool initPhysicsPlaytest();

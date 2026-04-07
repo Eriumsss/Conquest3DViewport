@@ -7,7 +7,7 @@
 // anything goes wrong internally it just silently returns NULL and you
 // get to spend 6 hours figuring out which mesh had an unsupported vertex
 // format. Pandemic used this exact converter. We use the same stolen code.
-// Same bugs. Same silent failures. Same suffering, 17 years later.
+// Same bugs. Same silent failures. Same suffering, 14 years later.
 // -----------------------------------------------------------------------
 
 #include "HavokToDisplayConverter.h"

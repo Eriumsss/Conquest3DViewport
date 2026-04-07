@@ -1,6 +1,6 @@
 # Vespucci Engine — LOTR: Conquest Reverse Engineering Toolkit
 
-A reverse-engineered, engine-level tooling suite for **The Lord of the Rings: Conquest** (Pandemic Studios, 2009). Built over 7 years of binary analysis, Ghidra sessions, and mass amounts of caffeine.
+A reverse-engineered, engine-level tooling suite for **The Lord of the Rings: Conquest** (Pandemic Studios, 2009). Built over 4 years of binary analysis, Ghidra sessions, and mass amounts of caffeine.
 
 This toolkit enables structured inspection, editing, and debugging of every game system — 3D scene rendering, full level loading, animation pipelines, skeletal editing, collision building, particle effects, audio debugging, crash diagnostics, and a biologically accurate neural network visualization platform that has absolutely no business being here but exists anyway.
 
@@ -376,7 +376,7 @@ For setup assistance, the patched `ConquestLLC.exe`, game files, and development
 
 - **Eriumsss** — Engine reverse engineering, 3D viewer, animation system, level editor, neural renderer.
 - **haighcam** — lotrc Rust parser (PAK/BIN format reference implementation)
-- **Pandemic Studios** (RIP 2009) — Built the Magellan engine. Their code lives on in our reverse-engineered headers. They didn't know we'd be here 17 years later reading their binary formats at 4 AM. We didn't either.
+- **Pandemic Studios** (RIP 2009) — Built the Magellan engine. Their code lives on in our reverse-engineered headers. They didn't know we'd be here 14 years later reading their binary formats at 4 AM. We didn't either.
 
 ---
 

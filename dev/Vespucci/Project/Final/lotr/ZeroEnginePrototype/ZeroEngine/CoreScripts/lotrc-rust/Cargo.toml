@@ -1,0 +1,11 @@
+[workspace]
+resolver = "2"
+members = [
+    "lotrc_proc",
+    "lotrc",
+    "lotrc_rs",
+]
+
+[profile.release]
+#strip = true
+lto = true

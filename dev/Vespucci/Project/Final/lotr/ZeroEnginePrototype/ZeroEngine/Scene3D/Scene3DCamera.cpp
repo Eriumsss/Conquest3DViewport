@@ -13,7 +13,7 @@
 // So the camera file also contains hkpWorld creation, hkpCharacterProxy
 // setup, MOPP BVTree building from level collision meshes, fixed-step
 // physics simulation, and gravity. THE CAMERA FILE HAS GRAVITY. This
-// is what 7 years of organic code growth looks like. This is what
+// is what 4 years of organic code growth looks like. This is what
 // happens when you never refactor because refactoring means recompiling
 // the stolen Havok SDK from scratch and that takes 45 fucking minutes.
 //

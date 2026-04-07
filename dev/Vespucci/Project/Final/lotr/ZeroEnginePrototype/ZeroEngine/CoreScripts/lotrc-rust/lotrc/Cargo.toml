@@ -1,0 +1,31 @@
+[package]
+name = "lotrc"
+version = "0.3.0"
+edition = "2021"
+
+[lib]
+name = "lotrc"
+crate-type = ["cdylib", "rlib"]
+
+[dependencies]
+lotrc_proc = { path = "../lotrc_proc" }
+
+pyo3 = { version = "0.23.1", features = ["extension-module", "anyhow", "indexmap", "abi3-py39", "generate-import-lib"] }
+zerocopy = { version = "0.8.10", features = ["derive"] }
+mlua = { version = "0.10.1", features = ["lua51", "vendored", "send"] }
+flate2 = { version = "1.0.35", features = ["zlib-ng"], default-features = false }
+zip = { version = "2.2.2", features = ["deflate-zlib-ng"], default-features = false }
+log = "0.4.21"
+indicatif = "0.17.8"
+anyhow = "1.0.86"
+serde = { version = "1", features = ["derive"] }
+serde_json = { version = "1", features = ["preserve_order"] }
+serde_with = { version = "3.11", features = ["hex", "json"] }
+lazy_static = "1.5.0"
+tempfile = "3.14.0"
+bcndecode = "0.2.0"
+ddsfile = "0.5.2"
+indexmap = { version = "2.6.0", features = ["serde"] }
+itertools = "0.13.0"
+gltf = { version = "1.4.1", features = ["extras"] }
+lunify = "1.1.0"

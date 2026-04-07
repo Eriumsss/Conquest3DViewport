@@ -15,7 +15,7 @@
 // every CRC hash to a model name, extract vertex/index buffers from
 // Block2, create D3D9 geometry, and render it all at 60fps. Their
 // levels are ALIVE again. Every goddamn cobblestone, exactly where
-// they left it 17 years ago.
+// they left it 14 years ago.
 // -----------------------------------------------------------------------
 #pragma once
 
