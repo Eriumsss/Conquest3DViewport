@@ -4,7 +4,7 @@ A reverse-engineered, engine-level tooling suite for **The Lord of the Rings: Co
 
 This toolkit enables structured inspection, editing, and debugging of every game system — 3D scene rendering, full level loading, animation pipelines, skeletal editing, collision building, particle effects, audio debugging, crash diagnostics, and a biologically accurate neural network visualization platform that has absolutely no business being here but exists anyway.
 
-Pandemic Studios called their engine **"Magellan"** internally. We call ours **Vespucci** — because Vespucci mapped what Magellan discovered.
+Pandemic Studios called their PROJECT **"Magellan"** internally. We call ours **Vespucci** — because Vespucci mapped what Magellan discovered.
 
 > **See [Important.md](Important.md) for setup instructions, known issues, and the `ConquestLLC.exe` requirement.**
 
