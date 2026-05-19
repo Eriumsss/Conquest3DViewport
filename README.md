@@ -41,7 +41,7 @@ v2 was a viewer with an Event Graph bolted on. v3 is an authoring shell.
 ### What's reorganized
 
 - All Scene3D source moved out of root into domain folders under `Vespucci/`: `Engine/`, `Animation/`, `Effects/`, `Level/`, `Mocap/`, `Collab/`, `Tools/`, `Neural/`, `Glue/`, `Vendor/`. Python tools moved to `Vespucci/Tools/Python/`. `build_imgui_dll.bat` and `rebuild_all.bat` updated.
-- The Electron migration attempted between phases is **reverted**. Scene3D is ImGui again. The web stack (`vespucci-ui`, 36 panels + partial CEF host) is archived at `Scene3DElectron/` for reference. Don't boot it expecting it to work.
+- The Electron migration attempted between phases is **reverted**. Scene3D is ImGui again. The web stack (`vespucci-ui`, 36 panels + partial CEF host) is archived at `Scene3DElectron/` for reference. (Not in the github but if you want to take a look at it and think you can make it work please DM on the Discord. Don't boot it expecting it to work.
 
 ---
 
