@@ -9,7 +9,7 @@ Pandemic Studios called their project **"Magellan"** internally. We call ours **
 > **See [Important.md](Important.md) for setup instructions, known issues, and the `ConquestLLC.exe` requirement.**
 
 ---
-
+## Copy Paste the dev folder to your game's root directory so it should look like this  The Lord of the Rings - Conquest\dev\Vespucci\Project\Final\lotr\ZeroEnginePrototype\ZeroEngine
 ## What's New in v3
 
 v2 was a viewer with an Event Graph bolted on. v3 is an authoring shell.
