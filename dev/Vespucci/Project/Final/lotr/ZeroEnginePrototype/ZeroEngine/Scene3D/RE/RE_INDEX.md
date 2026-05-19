@@ -24,7 +24,14 @@ Sources: `RE/analysis/disassembly_organized_v13c/analyzed/` (17 subsystem folder
 | **MgD3D.h/.cpp** | FUN_006a5620, 006a63e6, 0045008d, 0045013f, 0068a645 | Direct3D 9 | CreateDevice, SelectShaderBinary, CompilePixelShader, InitGfxShaders, RegisterDepthSamplers |
 | **MgTexture.h/.cpp** | FUN_00747153, 00748455, 0045ce80, 004bf690, 00ea4550, 0070f674, 0089f289 | Textures | LoadFromFile, UploadMips, GetTexture/Normal/Refraction/CloudNoise, IsNull |
 | **MgCombat.h/.cpp** | FUN_007626a4, 00848a2c | Combat effects | LookupEffect (13-field filter), LookupImpact (stub) |
-| **MgPblTypes.h/.cpp** | FUN_007e86d1, 007e76d4, 00428789, 004a6b46, 004fa16a | Pbl math types | pbl::Vector3/4/Matrix4x4 registration, GetWorldTransform, RoadMatrices, GetTransform |
+| **MgPblTypes.h/.cpp** | FUN_007e86d1, 007e76d4, 00428789, 004a6b46, 004fa16a | Pbl math types | pbl::Vector3/4/Matrix4x4 registration, GetWorldTransform, RoadMatrices, GetTransform, MgHandle bit-packing (18-bit gen + 14-bit index) |
+| **MgCRC.h/.cpp** | FUN_0067e699 (runtime), FUN_006d23e9 (data) | Dual CRC hash | CRC-32/MPEG-2 (left-shift, table at 0xA35608) + Reflected CRC32 (right-shift, table at 0x9BE378). Runtime CRC for string dispatch, data CRC for integrity |
+| **MgEventSystem.h/.cpp** | FUN_0084ddc3, 00851766, 009057e0, 00905838 | Event dispatch | CreateSlot (0x14-byte), FireOutput (linked-list walk + sticky), Enqueue (0x30-byte copy, max 100), ProcessQueue (per-frame delay decrement). CP output slots (+0x61C–0x640), PM output slots (+0x154–0x188) |
+| **MgEntityFactory.h/.cpp** | FUN_007e76d4, 007e78b7, 007e7636, 008a3bba, 0084c41c, 00851408, 004012ae | Entity creation | 10-step factory pipeline, CreateOnLoad processor (228 bytes), BST type lookup, component init, property table read, field data resolver |
+| **MgCreature.h/.cpp** | FUN_008423bb, 00840848, 008471d7, 0083979d, 0083a14b, 0085960b, 008238b3, 00822ea6, 009446b4 | Creature lifecycle | 7-subsystem init (~4.6KB), HandleAction dispatch (4767 bytes), OnDeath chain, stealth toggle, ragdoll init, SpawnEmitter queue (0x24-byte nodes), GroupObject events |
+| **MgLevelLoader.h/.cpp** | FUN_0091728c, 008a10cc, 00679f0e, 007437a1, 008787e3, 00876c99, 0067a89e, 0067a957, 00917ae6, 007e8ecb, 007e8bf8, 007e78b7, 00916d9f | Level loading | Full loading chain (13 steps), GameObjs binary format (magic 0x4D414704), zlib decompress (64KB double-buffered), PAK reader registry, 3-pass gamemode resolution, state machine addresses |
+| **MgCapturePoint.h/.cpp** | FUN_008ebff6, 008ebcda, 008e88bd, 00855712 | Capture points | State machine (4293 bytes), capture rate formula with modifiers, timing values (25s/35s/5s), team-specific events, Wwise sound posting |
+| **MgPointManager.h/.cpp** | FUN_007f0cc3, 007137cb | Scoring/victory | Score tracking with milestone events, countdown (50/10/5/1 to go), percentage (75/50/25%), victory chain, mode-specific scoring (Conquest trickle 3pts/sec/CP, TDM +1/-1, CTF captures), VictoryMode buffs (32x/0.01x damage) |
 | **MgFX.h/.cpp** | FUN_00406800–0096718a (44 files in FX/) | Particles, Emitters, Effects, Lightning, CameraFX, GameEffects | SortParticles, BindControllerStates, Team1/2PlayerEmitter, Effectors, EmittersMax/Min, HeroEmitters, Effect/VisualEffect CRC, LoadFromTemplate, AmmoEffect_Update, LightningProps/Location/FXTest, 8 CameraFX atexit, 4 GameEffects atexit |
 | Lua/ | 56 ASM files (0x0054xxxx–006df49a + 2 from FX/) | Lua VM | Deferred — see Lua/MgLua_pending.txt |
 | **MgAnimationController.h/.cpp** | FUN_0088a3eb, 00884626, 008a4cda, 00877a00, 00886a3d, 00905838, 007a06a5, 007900b5, 007bdf06, 00955ba7–e3a | Animation controller | MgAnimationController init (7-phase), type registration (Controller/Creature/Prop), SPU sample init, AnimTable loader, event init, config readers |
@@ -73,6 +80,21 @@ Sources: `RE/analysis/disassembly_organized_v13c/analyzed/` (17 subsystem folder
 - **Bink IAT**: 0x00970440–0x00970470 — Bink SDK function pointer table (filled by Windows loader).
 - **D3D device**: 0x00cd808c — global IDirect3DDevice9* set by MgD3D_CreateDevice.
 - **GPU vendor**: 0x00d17b4c — DWORD set by D3D adapter query; read by MgD3D_SelectShaderBinary.
+
+---
+
+## Implemented from disassembly (Phase 1-8)
+
+| Folder | Files | Implemented In |
+|--------|-------|----------------|
+| `implemented/CRC/` | 2 | MgCRC.h/.cpp |
+| `implemented/LevelLoader/` | 12 | MgLevelLoader.h/.cpp |
+| `implemented/EntitySystem/` | 8 | MgEntityFactory.h/.cpp, MgPblTypes.h |
+| `implemented/EventSystem/` | 5 | MgEventSystem.h/.cpp |
+| `implemented/CreatureLifecycle/` | 9 | MgCreature.h/.cpp |
+| `implemented/SpawnSystem/` | 6 | MgCreature.h/.cpp (spawn section) |
+| `implemented/CapturePoint/` | 5 | MgCapturePoint.h/.cpp |
+| `implemented/GameMode/` | 7 | MgPointManager.h/.cpp, MgLevelLoader.h/.cpp |
 
 ---
 
