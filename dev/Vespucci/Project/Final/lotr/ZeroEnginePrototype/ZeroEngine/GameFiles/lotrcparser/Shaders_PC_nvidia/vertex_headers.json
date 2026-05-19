@@ -1,0 +1,3167 @@
+[
+  {
+    "key": "Mg_VP_2D_Vd_Compress",
+    "offset": 0,
+    "flags": 72057594105036803
+  },
+  {
+    "key": "Mg_VP_2D_Compress",
+    "offset": 904,
+    "flags": 72057594105036801
+  },
+  {
+    "key": "Mg_VP_2D_T0_T1_Vd",
+    "offset": 1760,
+    "flags": 72057594037934083
+  },
+  {
+    "key": "Mg_VP_2D_T1_Vd",
+    "offset": 2812,
+    "flags": 72057594037932035
+  },
+  {
+    "key": "Mg_VP_2D_T0_Vd",
+    "offset": 3792,
+    "flags": 72057594037929987
+  },
+  {
+    "key": "Mg_VP_2D_Vd",
+    "offset": 4768,
+    "flags": 72057594037927939
+  },
+  {
+    "key": "Mg_VP_2D_T0_T1",
+    "offset": 5616,
+    "flags": 72057594037934081
+  },
+  {
+    "key": "Mg_VP_2D_T1",
+    "offset": 6620,
+    "flags": 72057594037932033
+  },
+  {
+    "key": "Mg_VP_2D_T0",
+    "offset": 7552,
+    "flags": 72057594037929985
+  },
+  {
+    "key": "Mg_VP_2D",
+    "offset": 8480,
+    "flags": 72057594037927937
+  },
+  {
+    "key": "Mg_VP_Norm_Vd",
+    "offset": 9284,
+    "flags": 72198331526283266
+  },
+  {
+    "key": "Mg_VP_Norm",
+    "offset": 10068,
+    "flags": 72198331526283264
+  },
+  {
+    "key": "Mg_VP_2DNorm_T0",
+    "offset": 10804,
+    "flags": 72127962782107648
+  },
+  {
+    "key": "Mg_VP_2DNorm",
+    "offset": 11764,
+    "flags": 72127962782105600
+  },
+  {
+    "key": "MgVP3D",
+    "offset": 12724,
+    "flags": 67108864
+  },
+  {
+    "key": "MgVP3D_Vd",
+    "offset": 13848,
+    "flags": 72057594105036802
+  },
+  {
+    "key": "MgVP3D_Uncompressed",
+    "offset": 15020,
+    "flags": 72057594037927936
+  },
+  {
+    "key": "MgVP3D_Vd_Uncompressed",
+    "offset": 16084,
+    "flags": 72057594037927938
+  },
+  {
+    "key": "MgVP3D_T0",
+    "offset": 17196,
+    "flags": 72057594037929984
+  },
+  {
+    "key": "MgVP3D_T0_Vd",
+    "offset": 18376,
+    "flags": 72057594037929986
+  },
+  {
+    "key": "MgVP3D_T1",
+    "offset": 19604,
+    "flags": 6144
+  },
+  {
+    "key": "MgVP3D_T1_Vd",
+    "offset": 20856,
+    "flags": 6146
+  },
+  {
+    "key": "MgVP3D_T2",
+    "offset": 22156,
+    "flags": 14336
+  },
+  {
+    "key": "MgVP3D_T2_Vd",
+    "offset": 23408,
+    "flags": 14338
+  },
+  {
+    "key": "Mg_VP_Z_Morphable_A_VtxAtm",
+    "offset": 24708,
+    "flags": 72057731477014544
+  },
+  {
+    "key": "Mg_VP_Z_A_VtxAtm",
+    "offset": 25916,
+    "flags": 72057594038061072
+  },
+  {
+    "key": "Mg_VP_Z_Morphable_VtxAtm",
+    "offset": 26724,
+    "flags": 72057731477012496
+  },
+  {
+    "key": "Mg_VP_Z_VtxAtm",
+    "offset": 27612,
+    "flags": 72057594038059024
+  },
+  {
+    "key": "Mg_VP_Z_Morphable_A",
+    "offset": 28260,
+    "flags": 72057731477014528
+  },
+  {
+    "key": "Mg_VP_Z_A",
+    "offset": 29460,
+    "flags": 72057594038061056
+  },
+  {
+    "key": "Mg_VP_Z_Morphable",
+    "offset": 30260,
+    "flags": 72057731477012480
+  },
+  {
+    "key": "Mg_VP_Z",
+    "offset": 31140,
+    "flags": 72057594038059008
+  },
+  {
+    "key": "Mg_VP_Z_Morphable_A_VtxAtm_TexTransform",
+    "offset": 31780,
+    "flags": 72075323663058960
+  },
+  {
+    "key": "Mg_VP_Z_A_VtxAtm_TexTransform",
+    "offset": 33156,
+    "flags": 72075186224105488
+  },
+  {
+    "key": "Mg_VP_Z_Morphable_VtxAtm_TexTransform",
+    "offset": 34120,
+    "flags": 72075323663056912
+  },
+  {
+    "key": "Mg_VP_Z_VtxAtm_TexTransform",
+    "offset": 35020,
+    "flags": 72075186224103440
+  },
+  {
+    "key": "Mg_VP_Z_Morphable_A_TexTransform",
+    "offset": 35680,
+    "flags": 72075323663058944
+  },
+  {
+    "key": "Mg_VP_Z_A_TexTransform",
+    "offset": 37052,
+    "flags": 72075186224105472
+  },
+  {
+    "key": "Mg_VP_Z_Morphable_TexTransform",
+    "offset": 38008,
+    "flags": 72075323663056896
+  },
+  {
+    "key": "Mg_VP_Z_TexTransform",
+    "offset": 38900,
+    "flags": 72075186224103424
+  },
+  {
+    "key": "Mg_VP_Z_skinned_Morphable_A",
+    "offset": 39556,
+    "flags": 72057731477014560
+  },
+  {
+    "key": "Mg_VP_Z_skinned_A",
+    "offset": 41936,
+    "flags": 72057594038061088
+  },
+  {
+    "key": "Mg_VP_Z_skinned_Morphable",
+    "offset": 43924,
+    "flags": 72057731477012512
+  },
+  {
+    "key": "Mg_VP_Z_skinned",
+    "offset": 46016,
+    "flags": 72057594038059040
+  },
+  {
+    "key": "Mg_VP_Z_skinned_Morphable_A_TexTransform",
+    "offset": 47876,
+    "flags": 72075323663058976
+  },
+  {
+    "key": "Mg_VP_Z_skinned_A_TexTransform",
+    "offset": 50428,
+    "flags": 72075186224105504
+  },
+  {
+    "key": "Mg_VP_Z_skinned_Morphable_TexTransform",
+    "offset": 52572,
+    "flags": 72075323663056928
+  },
+  {
+    "key": "Mg_VP_Z_skinned_TexTransform",
+    "offset": 54676,
+    "flags": 72075186224103456
+  },
+  {
+    "key": "Mg_VP_Z_palettemesh_Ao_A",
+    "offset": 56552,
+    "flags": 360287970189772804
+  },
+  {
+    "key": "Mg_VP_Z_palettemesh_Ao",
+    "offset": 58868,
+    "flags": 360287970189770756
+  },
+  {
+    "key": "Mg_VP_Z_palettemesh_Ao_A_TexTransform",
+    "offset": 61056,
+    "flags": 360305562375817220
+  },
+  {
+    "key": "Mg_VP_Z_palettemesh_Ao_TexTransform",
+    "offset": 63528,
+    "flags": 360305562375815172
+  },
+  {
+    "key": "Mg_VP_Z_Terrain",
+    "offset": 65728,
+    "flags": 72057594038059072
+  },
+  {
+    "key": "Mg_VP_Z_Terrain3",
+    "offset": 66492,
+    "flags": 72057594038059008
+  },
+  {
+    "key": "Mg_VP_Lit_Morphable_Vd_VtxAtm_WPos_VNorm_Compress_CompressNrm",
+    "offset": 67380,
+    "flags": 72057731812425746
+  },
+  {
+    "key": "Mg_VP_Lit_Vd_VtxAtm_WPos_VNorm_Compress_CompressNrm",
+    "offset": 69332,
+    "flags": 72057594373472274
+  },
+  {
+    "key": "Mg_VP_Lit_Morphable_VtxAtm_WPos_VNorm_Compress_CompressNrm",
+    "offset": 70864,
+    "flags": 72057731812425744
+  },
+  {
+    "key": "Mg_VP_Lit_VtxAtm_WPos_VNorm_Compress_CompressNrm",
+    "offset": 72640,
+    "flags": 72057594373472272
+  },
+  {
+    "key": "Mg_VP_Lit_Morphable_Vd_WPos_VNorm_Compress_CompressNrm",
+    "offset": 74128,
+    "flags": 72057731812425730
+  },
+  {
+    "key": "Mg_VP_Lit_Vd_WPos_VNorm_Compress_CompressNrm",
+    "offset": 76072,
+    "flags": 72057594373472258
+  },
+  {
+    "key": "Mg_VP_Lit_Morphable_WPos_VNorm_Compress_CompressNrm",
+    "offset": 77600,
+    "flags": 72057731812425728
+  },
+  {
+    "key": "Mg_VP_Lit_WPos_VNorm_Compress_CompressNrm",
+    "offset": 79368,
+    "flags": 72057594373472256
+  },
+  {
+    "key": "Mg_VP_Lit_Morphable_Vd_VtxAtm_WPos_VNorm",
+    "offset": 80848,
+    "flags": 72057731745316882
+  },
+  {
+    "key": "Mg_VP_Lit_Vd_VtxAtm_WPos_VNorm",
+    "offset": 82756,
+    "flags": 72057594306363410
+  },
+  {
+    "key": "Mg_VP_Lit_Morphable_VtxAtm_WPos_VNorm",
+    "offset": 84196,
+    "flags": 72057731745316880
+  },
+  {
+    "key": "Mg_VP_Lit_VtxAtm_WPos_VNorm",
+    "offset": 85928,
+    "flags": 72057594306363408
+  },
+  {
+    "key": "Mg_VP_Lit_Morphable_Vd_WPos_VNorm",
+    "offset": 87320,
+    "flags": 72057731745316866
+  },
+  {
+    "key": "Mg_VP_Lit_Vd_WPos_VNorm",
+    "offset": 89220,
+    "flags": 72057594306363394
+  },
+  {
+    "key": "Mg_VP_Lit_Morphable_WPos_VNorm",
+    "offset": 90652,
+    "flags": 72057731745316864
+  },
+  {
+    "key": "Mg_VP_Lit_WPos_VNorm",
+    "offset": 92376,
+    "flags": 72057594306363392
+  },
+  {
+    "key": "Mg_VP_Lit_Morphable_ADN_Dn_Vd_Ao_VtxAtm_WPos_VNorm",
+    "offset": 93764,
+    "flags": 17729893480470
+  },
+  {
+    "key": "Mg_VP_Lit_ADN_Dn_Vd_Ao_VtxAtm_WPos_VNorm",
+    "offset": 98680,
+    "flags": 17592454526998
+  },
+  {
+    "key": "Mg_VP_Lit_Morphable_AD_Dn_Vd_Ao_VtxAtm_WPos_VNorm",
+    "offset": 102052,
+    "flags": 17729893472278
+  },
+  {
+    "key": "Mg_VP_Lit_AD_Dn_Vd_Ao_VtxAtm_WPos_VNorm",
+    "offset": 106504,
+    "flags": 17592454518806
+  },
+  {
+    "key": "Mg_VP_Lit_Morphable_ADN_Vd_Ao_VtxAtm_WPos_VNorm",
+    "offset": 109640,
+    "flags": 17729893447702
+  },
+  {
+    "key": "Mg_VP_Lit_ADN_Vd_Ao_VtxAtm_WPos_VNorm",
+    "offset": 114044,
+    "flags": 17592454494230
+  },
+  {
+    "key": "Mg_VP_Lit_Morphable_AD_Vd_Ao_VtxAtm_WPos_VNorm",
+    "offset": 117176,
+    "flags": 17729893439510
+  },
+  {
+    "key": "Mg_VP_Lit_AD_Vd_Ao_VtxAtm_WPos_VNorm",
+    "offset": 120144,
+    "flags": 17592454486038
+  },
+  {
+    "key": "Mg_VP_Lit_Morphable_ADN_Dn_Ao_VtxAtm_WPos_VNorm",
+    "offset": 122068,
+    "flags": 17729893480468
+  },
+  {
+    "key": "Mg_VP_Lit_ADN_Dn_Ao_VtxAtm_WPos_VNorm",
+    "offset": 126808,
+    "flags": 17592454526996
+  },
+  {
+    "key": "Mg_VP_Lit_Morphable_AD_Dn_Ao_VtxAtm_WPos_VNorm",
+    "offset": 130132,
+    "flags": 17729893472276
+  },
+  {
+    "key": "Mg_VP_Lit_AD_Dn_Ao_VtxAtm_WPos_VNorm",
+    "offset": 134408,
+    "flags": 17592454518804
+  },
+  {
+    "key": "Mg_VP_Lit_Morphable_ADN_Ao_VtxAtm_WPos_VNorm",
+    "offset": 137500,
+    "flags": 17729893447700
+  },
+  {
+    "key": "Mg_VP_Lit_ADN_Ao_VtxAtm_WPos_VNorm",
+    "offset": 141732,
+    "flags": 17592454494228
+  },
+  {
+    "key": "Mg_VP_Lit_Morphable_AD_Ao_VtxAtm_WPos_VNorm",
+    "offset": 144816,
+    "flags": 17729893439508
+  },
+  {
+    "key": "Mg_VP_Lit_AD_Ao_VtxAtm_WPos_VNorm",
+    "offset": 147608,
+    "flags": 17592454486036
+  },
+  {
+    "key": "Mg_VP_Lit_Morphable_ADN_Dn_Vd_VtxAtm_WPos_VNorm",
+    "offset": 149484,
+    "flags": 17729893480466
+  },
+  {
+    "key": "Mg_VP_Lit_ADN_Dn_Vd_VtxAtm_WPos_VNorm",
+    "offset": 154328,
+    "flags": 17592454526994
+  },
+  {
+    "key": "Mg_VP_Lit_Morphable_AD_Dn_Vd_VtxAtm_WPos_VNorm",
+    "offset": 157628,
+    "flags": 17729893472274
+  },
+  {
+    "key": "Mg_VP_Lit_AD_Dn_Vd_VtxAtm_WPos_VNorm",
+    "offset": 162012,
+    "flags": 17592454518802
+  },
+  {
+    "key": "Mg_VP_Lit_Morphable_ADN_Vd_VtxAtm_WPos_VNorm",
+    "offset": 165080,
+    "flags": 17729893447698
+  },
+  {
+    "key": "Mg_VP_Lit_ADN_Vd_VtxAtm_WPos_VNorm",
+    "offset": 169420,
+    "flags": 17592454494226
+  },
+  {
+    "key": "Mg_VP_Lit_Morphable_AD_Vd_VtxAtm_WPos_VNorm",
+    "offset": 172480,
+    "flags": 17729893439506
+  },
+  {
+    "key": "Mg_VP_Lit_AD_Vd_VtxAtm_WPos_VNorm",
+    "offset": 175376,
+    "flags": 17592454486034
+  },
+  {
+    "key": "Mg_VP_Lit_Morphable_ADN_Dn_VtxAtm_WPos_VNorm",
+    "offset": 177232,
+    "flags": 17729893480464
+  },
+  {
+    "key": "Mg_VP_Lit_ADN_Dn_VtxAtm_WPos_VNorm",
+    "offset": 181904,
+    "flags": 17592454526992
+  },
+  {
+    "key": "Mg_VP_Lit_Morphable_AD_Dn_VtxAtm_WPos_VNorm",
+    "offset": 185156,
+    "flags": 17729893472272
+  },
+  {
+    "key": "Mg_VP_Lit_AD_Dn_VtxAtm_WPos_VNorm",
+    "offset": 189364,
+    "flags": 17592454518800
+  },
+  {
+    "key": "Mg_VP_Lit_Morphable_ADN_VtxAtm_WPos_VNorm",
+    "offset": 192384,
+    "flags": 17729893447696
+  },
+  {
+    "key": "Mg_VP_Lit_ADN_VtxAtm_WPos_VNorm",
+    "offset": 196548,
+    "flags": 17592454494224
+  },
+  {
+    "key": "Mg_VP_Lit_Morphable_AD_VtxAtm_WPos_VNorm",
+    "offset": 199560,
+    "flags": 17729893439504
+  },
+  {
+    "key": "Mg_VP_Lit_AD_VtxAtm_WPos_VNorm",
+    "offset": 202284,
+    "flags": 17592454486032
+  },
+  {
+    "key": "Mg_VP_Lit_Morphable_ADN_Dn_Vd_Ao_VtxAtm_WPos_VNorm_8DL",
+    "offset": 204092,
+    "flags": 1143629800323094
+  },
+  {
+    "key": "Mg_VP_Lit_ADN_Dn_Vd_Ao_VtxAtm_WPos_VNorm_8DL",
+    "offset": 212192,
+    "flags": 1143492361369622
+  },
+  {
+    "key": "Mg_VP_Lit_Morphable_AD_Dn_Vd_Ao_VtxAtm_WPos_VNorm_8DL",
+    "offset": 218748,
+    "flags": 1143629800314902
+  },
+  {
+    "key": "Mg_VP_Lit_AD_Dn_Vd_Ao_VtxAtm_WPos_VNorm_8DL",
+    "offset": 226384,
+    "flags": 1143492361361430
+  },
+  {
+    "key": "Mg_VP_Lit_Morphable_ADN_Vd_Ao_VtxAtm_WPos_VNorm_8DL",
+    "offset": 232704,
+    "flags": 1143629800290326
+  },
+  {
+    "key": "Mg_VP_Lit_ADN_Vd_Ao_VtxAtm_WPos_VNorm_8DL",
+    "offset": 240292,
+    "flags": 1143492361336854
+  },
+  {
+    "key": "Mg_VP_Lit_Morphable_AD_Vd_Ao_VtxAtm_WPos_VNorm_8DL",
+    "offset": 246608,
+    "flags": 1143629800282134
+  },
+  {
+    "key": "Mg_VP_Lit_AD_Vd_Ao_VtxAtm_WPos_VNorm_8DL",
+    "offset": 252732,
+    "flags": 1143492361328662
+  },
+  {
+    "key": "Mg_VP_Lit_Morphable_ADN_Dn_Ao_VtxAtm_WPos_VNorm_8DL",
+    "offset": 257812,
+    "flags": 1143629800323092
+  },
+  {
+    "key": "Mg_VP_Lit_ADN_Dn_Ao_VtxAtm_WPos_VNorm_8DL",
+    "offset": 265736,
+    "flags": 1143492361369620
+  },
+  {
+    "key": "Mg_VP_Lit_Morphable_AD_Dn_Ao_VtxAtm_WPos_VNorm_8DL",
+    "offset": 272244,
+    "flags": 1143629800314900
+  },
+  {
+    "key": "Mg_VP_Lit_AD_Dn_Ao_VtxAtm_WPos_VNorm_8DL",
+    "offset": 279704,
+    "flags": 1143492361361428
+  },
+  {
+    "key": "Mg_VP_Lit_Morphable_ADN_Ao_VtxAtm_WPos_VNorm_8DL",
+    "offset": 285980,
+    "flags": 1143629800290324
+  },
+  {
+    "key": "Mg_VP_Lit_ADN_Ao_VtxAtm_WPos_VNorm_8DL",
+    "offset": 293396,
+    "flags": 1143492361336852
+  },
+  {
+    "key": "Mg_VP_Lit_Morphable_AD_Ao_VtxAtm_WPos_VNorm_8DL",
+    "offset": 299664,
+    "flags": 1143629800282132
+  },
+  {
+    "key": "Mg_VP_Lit_AD_Ao_VtxAtm_WPos_VNorm_8DL",
+    "offset": 305612,
+    "flags": 1143492361328660
+  },
+  {
+    "key": "Mg_VP_Lit_Morphable_ADN_Dn_Vd_VtxAtm_WPos_VNorm_8DL",
+    "offset": 310644,
+    "flags": 1143629800323090
+  },
+  {
+    "key": "Mg_VP_Lit_ADN_Dn_Vd_VtxAtm_WPos_VNorm_8DL",
+    "offset": 318672,
+    "flags": 1143492361369618
+  },
+  {
+    "key": "Mg_VP_Lit_Morphable_AD_Dn_Vd_VtxAtm_WPos_VNorm_8DL",
+    "offset": 325156,
+    "flags": 1143629800314898
+  },
+  {
+    "key": "Mg_VP_Lit_AD_Dn_Vd_VtxAtm_WPos_VNorm_8DL",
+    "offset": 332724,
+    "flags": 1143492361361426
+  },
+  {
+    "key": "Mg_VP_Lit_Morphable_ADN_Vd_VtxAtm_WPos_VNorm_8DL",
+    "offset": 338976,
+    "flags": 1143629800290322
+  },
+  {
+    "key": "Mg_VP_Lit_ADN_Vd_VtxAtm_WPos_VNorm_8DL",
+    "offset": 346500,
+    "flags": 1143492361336850
+  },
+  {
+    "key": "Mg_VP_Lit_Morphable_AD_Vd_VtxAtm_WPos_VNorm_8DL",
+    "offset": 352744,
+    "flags": 1143629800282130
+  },
+  {
+    "key": "Mg_VP_Lit_AD_Vd_VtxAtm_WPos_VNorm_8DL",
+    "offset": 358796,
+    "flags": 1143492361328658
+  },
+  {
+    "key": "Mg_VP_Lit_Morphable_ADN_Dn_VtxAtm_WPos_VNorm_8DL",
+    "offset": 363808,
+    "flags": 1143629800323088
+  },
+  {
+    "key": "Mg_VP_Lit_ADN_Dn_VtxAtm_WPos_VNorm_8DL",
+    "offset": 371664,
+    "flags": 1143492361369616
+  },
+  {
+    "key": "Mg_VP_Lit_Morphable_AD_Dn_VtxAtm_WPos_VNorm_8DL",
+    "offset": 378100,
+    "flags": 1143629800314896
+  },
+  {
+    "key": "Mg_VP_Lit_AD_Dn_VtxAtm_WPos_VNorm_8DL",
+    "offset": 385492,
+    "flags": 1143492361361424
+  },
+  {
+    "key": "Mg_VP_Lit_Morphable_ADN_VtxAtm_WPos_VNorm_8DL",
+    "offset": 391696,
+    "flags": 1143629800290320
+  },
+  {
+    "key": "Mg_VP_Lit_ADN_VtxAtm_WPos_VNorm_8DL",
+    "offset": 399044,
+    "flags": 1143492361336848
+  },
+  {
+    "key": "Mg_VP_Lit_Morphable_AD_VtxAtm_WPos_VNorm_8DL",
+    "offset": 405240,
+    "flags": 1143629800282128
+  },
+  {
+    "key": "Mg_VP_Lit_AD_VtxAtm_WPos_VNorm_8DL",
+    "offset": 411120,
+    "flags": 1143492361328656
+  },
+  {
+    "key": "Mg_VP_Lit_SL_ADN_Dn_Vd_Ao_VtxAtm_WPos_VNorm",
+    "offset": 416084,
+    "flags": 17626814265366
+  },
+  {
+    "key": "Mg_VP_Lit_SL_AD_Dn_Vd_Ao_VtxAtm_WPos_VNorm",
+    "offset": 419724,
+    "flags": 17626814257174
+  },
+  {
+    "key": "Mg_VP_Lit_SL_ADN_Vd_Ao_VtxAtm_WPos_VNorm",
+    "offset": 423136,
+    "flags": 17626814232598
+  },
+  {
+    "key": "Mg_VP_Lit_SL_AD_Vd_Ao_VtxAtm_WPos_VNorm",
+    "offset": 426544,
+    "flags": 17626814224406
+  },
+  {
+    "key": "Mg_VP_Lit_SL_ADN_Dn_Ao_VtxAtm_WPos_VNorm",
+    "offset": 428616,
+    "flags": 17626814265364
+  },
+  {
+    "key": "Mg_VP_Lit_SL_AD_Dn_Ao_VtxAtm_WPos_VNorm",
+    "offset": 432212,
+    "flags": 17626814257172
+  },
+  {
+    "key": "Mg_VP_Lit_SL_ADN_Ao_VtxAtm_WPos_VNorm",
+    "offset": 435576,
+    "flags": 17626814232596
+  },
+  {
+    "key": "Mg_VP_Lit_SL_AD_Ao_VtxAtm_WPos_VNorm",
+    "offset": 438936,
+    "flags": 17626814224404
+  },
+  {
+    "key": "Mg_VP_Lit_SL_ADN_Dn_Vd_VtxAtm_WPos_VNorm",
+    "offset": 440964,
+    "flags": 17626814265362
+  },
+  {
+    "key": "Mg_VP_Lit_SL_AD_Dn_Vd_VtxAtm_WPos_VNorm",
+    "offset": 444536,
+    "flags": 17626814257170
+  },
+  {
+    "key": "Mg_VP_Lit_SL_ADN_Vd_VtxAtm_WPos_VNorm",
+    "offset": 447876,
+    "flags": 17626814232594
+  },
+  {
+    "key": "Mg_VP_Lit_SL_AD_Vd_VtxAtm_WPos_VNorm",
+    "offset": 451212,
+    "flags": 17626814224402
+  },
+  {
+    "key": "Mg_VP_Lit_SL_ADN_Dn_VtxAtm_WPos_VNorm",
+    "offset": 453220,
+    "flags": 17626814265360
+  },
+  {
+    "key": "Mg_VP_Lit_SL_AD_Dn_VtxAtm_WPos_VNorm",
+    "offset": 456744,
+    "flags": 17626814257168
+  },
+  {
+    "key": "Mg_VP_Lit_SL_ADN_VtxAtm_WPos_VNorm",
+    "offset": 460040,
+    "flags": 17626814232592
+  },
+  {
+    "key": "Mg_VP_Lit_SL_AD_VtxAtm_WPos_VNorm",
+    "offset": 463328,
+    "flags": 17626814224400
+  },
+  {
+    "key": "Mg_VP_Lit_SL_ADN_Dn_Vd_Ao_VtxAtm_WPos_VNorm_8DL",
+    "offset": 465288,
+    "flags": 1143526721107990
+  },
+  {
+    "key": "Mg_VP_Lit_SL_AD_Dn_Vd_Ao_VtxAtm_WPos_VNorm_8DL",
+    "offset": 471948,
+    "flags": 1143526721099798
+  },
+  {
+    "key": "Mg_VP_Lit_SL_ADN_Vd_Ao_VtxAtm_WPos_VNorm_8DL",
+    "offset": 478380,
+    "flags": 1143526721075222
+  },
+  {
+    "key": "Mg_VP_Lit_SL_AD_Vd_Ao_VtxAtm_WPos_VNorm_8DL",
+    "offset": 484808,
+    "flags": 1143526721067030
+  },
+  {
+    "key": "Mg_VP_Lit_SL_ADN_Dn_Ao_VtxAtm_WPos_VNorm_8DL",
+    "offset": 489988,
+    "flags": 1143526721107988
+  },
+  {
+    "key": "Mg_VP_Lit_SL_AD_Dn_Ao_VtxAtm_WPos_VNorm_8DL",
+    "offset": 496604,
+    "flags": 1143526721099796
+  },
+  {
+    "key": "Mg_VP_Lit_SL_ADN_Ao_VtxAtm_WPos_VNorm_8DL",
+    "offset": 502988,
+    "flags": 1143526721075220
+  },
+  {
+    "key": "Mg_VP_Lit_SL_AD_Ao_VtxAtm_WPos_VNorm_8DL",
+    "offset": 509368,
+    "flags": 1143526721067028
+  },
+  {
+    "key": "Mg_VP_Lit_SL_ADN_Dn_Vd_VtxAtm_WPos_VNorm_8DL",
+    "offset": 514504,
+    "flags": 1143526721107986
+  },
+  {
+    "key": "Mg_VP_Lit_SL_AD_Dn_Vd_VtxAtm_WPos_VNorm_8DL",
+    "offset": 521096,
+    "flags": 1143526721099794
+  },
+  {
+    "key": "Mg_VP_Lit_SL_ADN_Vd_VtxAtm_WPos_VNorm_8DL",
+    "offset": 527456,
+    "flags": 1143526721075218
+  },
+  {
+    "key": "Mg_VP_Lit_SL_AD_Vd_VtxAtm_WPos_VNorm_8DL",
+    "offset": 533812,
+    "flags": 1143526721067026
+  },
+  {
+    "key": "Mg_VP_Lit_SL_ADN_Dn_VtxAtm_WPos_VNorm_8DL",
+    "offset": 538928,
+    "flags": 1143526721107984
+  },
+  {
+    "key": "Mg_VP_Lit_SL_AD_Dn_VtxAtm_WPos_VNorm_8DL",
+    "offset": 545472,
+    "flags": 1143526721099792
+  },
+  {
+    "key": "Mg_VP_Lit_SL_ADN_VtxAtm_WPos_VNorm_8DL",
+    "offset": 551788,
+    "flags": 1143526721075216
+  },
+  {
+    "key": "Mg_VP_Lit_SL_AD_VtxAtm_WPos_VNorm_8DL",
+    "offset": 558096,
+    "flags": 1143526721067024
+  },
+  {
+    "key": "Mg_VP_Lit_palettemesh_SL_ADN_Dn_Vd_Ao_VtxAtm_WPos_VNorm",
+    "offset": 563164,
+    "flags": 288248002965977110
+  },
+  {
+    "key": "Mg_VP_Lit_palettemesh_ADN_Dn_Vd_Ao_VtxAtm_WPos_VNorm",
+    "offset": 567628,
+    "flags": 288247968606238742
+  },
+  {
+    "key": "Mg_VP_Lit_palettemesh_SL_AD_Dn_Vd_Ao_VtxAtm_WPos_VNorm",
+    "offset": 571856,
+    "flags": 288248002965968918
+  },
+  {
+    "key": "Mg_VP_Lit_palettemesh_AD_Dn_Vd_Ao_VtxAtm_WPos_VNorm",
+    "offset": 576092,
+    "flags": 288247968606230550
+  },
+  {
+    "key": "Mg_VP_Lit_palettemesh_SL_ADN_Vd_Ao_VtxAtm_WPos_VNorm",
+    "offset": 580084,
+    "flags": 288248002965944342
+  },
+  {
+    "key": "Mg_VP_Lit_palettemesh_ADN_Vd_Ao_VtxAtm_WPos_VNorm",
+    "offset": 584316,
+    "flags": 288247968606205974
+  },
+  {
+    "key": "Mg_VP_Lit_palettemesh_SL_AD_Vd_Ao_VtxAtm_WPos_VNorm",
+    "offset": 588304,
+    "flags": 288248002965936150
+  },
+  {
+    "key": "Mg_VP_Lit_palettemesh_AD_Vd_Ao_VtxAtm_WPos_VNorm",
+    "offset": 591480,
+    "flags": 288247968606197782
+  },
+  {
+    "key": "Mg_VP_Lit_palettemesh_SL_ADN_Dn_Ao_VtxAtm_WPos_VNorm",
+    "offset": 594540,
+    "flags": 288248002965977108
+  },
+  {
+    "key": "Mg_VP_Lit_palettemesh_ADN_Dn_Ao_VtxAtm_WPos_VNorm",
+    "offset": 598960,
+    "flags": 288247968606238740
+  },
+  {
+    "key": "Mg_VP_Lit_palettemesh_SL_AD_Dn_Ao_VtxAtm_WPos_VNorm",
+    "offset": 603140,
+    "flags": 288248002965968916
+  },
+  {
+    "key": "Mg_VP_Lit_palettemesh_AD_Dn_Ao_VtxAtm_WPos_VNorm",
+    "offset": 607328,
+    "flags": 288247968606230548
+  },
+  {
+    "key": "Mg_VP_Lit_palettemesh_SL_ADN_Ao_VtxAtm_WPos_VNorm",
+    "offset": 611276,
+    "flags": 288248002965944340
+  },
+  {
+    "key": "Mg_VP_Lit_palettemesh_ADN_Ao_VtxAtm_WPos_VNorm",
+    "offset": 615460,
+    "flags": 288247968606205972
+  },
+  {
+    "key": "Mg_VP_Lit_palettemesh_SL_AD_Ao_VtxAtm_WPos_VNorm",
+    "offset": 619400,
+    "flags": 288248002965936148
+  },
+  {
+    "key": "Mg_VP_Lit_palettemesh_AD_Ao_VtxAtm_WPos_VNorm",
+    "offset": 622532,
+    "flags": 288247968606197780
+  },
+  {
+    "key": "Mg_VP_Lit_palettemesh_SL_ADN_Dn_Vd_Ao_VtxAtm_WPos_VNorm_8DL",
+    "offset": 625544,
+    "flags": 289373902872819734
+  },
+  {
+    "key": "Mg_VP_Lit_palettemesh_ADN_Dn_Vd_Ao_VtxAtm_WPos_VNorm_8DL",
+    "offset": 633060,
+    "flags": 289373868513081366
+  },
+  {
+    "key": "Mg_VP_Lit_palettemesh_SL_AD_Dn_Vd_Ao_VtxAtm_WPos_VNorm_8DL",
+    "offset": 640584,
+    "flags": 289373902872811542
+  },
+  {
+    "key": "Mg_VP_Lit_palettemesh_AD_Dn_Vd_Ao_VtxAtm_WPos_VNorm_8DL",
+    "offset": 647872,
+    "flags": 289373868513073174
+  },
+  {
+    "key": "Mg_VP_Lit_palettemesh_SL_ADN_Vd_Ao_VtxAtm_WPos_VNorm_8DL",
+    "offset": 655160,
+    "flags": 289373902872786966
+  },
+  {
+    "key": "Mg_VP_Lit_palettemesh_ADN_Vd_Ao_VtxAtm_WPos_VNorm_8DL",
+    "offset": 662444,
+    "flags": 289373868513048598
+  },
+  {
+    "key": "Mg_VP_Lit_palettemesh_SL_AD_Vd_Ao_VtxAtm_WPos_VNorm_8DL",
+    "offset": 669728,
+    "flags": 289373902872778774
+  },
+  {
+    "key": "Mg_VP_Lit_palettemesh_AD_Vd_Ao_VtxAtm_WPos_VNorm_8DL",
+    "offset": 676044,
+    "flags": 289373868513040406
+  },
+  {
+    "key": "Mg_VP_Lit_palettemesh_SL_ADN_Dn_Ao_VtxAtm_WPos_VNorm_8DL",
+    "offset": 682228,
+    "flags": 289373902872819732
+  },
+  {
+    "key": "Mg_VP_Lit_palettemesh_ADN_Dn_Ao_VtxAtm_WPos_VNorm_8DL",
+    "offset": 689700,
+    "flags": 289373868513081364
+  },
+  {
+    "key": "Mg_VP_Lit_palettemesh_SL_AD_Dn_Ao_VtxAtm_WPos_VNorm_8DL",
+    "offset": 697176,
+    "flags": 289373902872811540
+  },
+  {
+    "key": "Mg_VP_Lit_palettemesh_AD_Dn_Ao_VtxAtm_WPos_VNorm_8DL",
+    "offset": 704416,
+    "flags": 289373868513073172
+  },
+  {
+    "key": "Mg_VP_Lit_palettemesh_SL_ADN_Ao_VtxAtm_WPos_VNorm_8DL",
+    "offset": 711660,
+    "flags": 289373902872786964
+  },
+  {
+    "key": "Mg_VP_Lit_palettemesh_ADN_Ao_VtxAtm_WPos_VNorm_8DL",
+    "offset": 718896,
+    "flags": 289373868513048596
+  },
+  {
+    "key": "Mg_VP_Lit_palettemesh_SL_AD_Ao_VtxAtm_WPos_VNorm_8DL",
+    "offset": 726132,
+    "flags": 289373902872778772
+  },
+  {
+    "key": "Mg_VP_Lit_palettemesh_AD_Ao_VtxAtm_WPos_VNorm_8DL",
+    "offset": 732404,
+    "flags": 289373868513040404
+  },
+  {
+    "key": "Mg_VP_Lit_skinned_Morphable_ADN_Dn_Vd_Ao_VtxAtm_WPos_VNorm",
+    "offset": 738540,
+    "flags": 17729893480502
+  },
+  {
+    "key": "Mg_VP_Lit_skinned_ADN_Dn_Vd_Ao_VtxAtm_WPos_VNorm",
+    "offset": 744944,
+    "flags": 17592454527030
+  },
+  {
+    "key": "Mg_VP_Lit_skinned_Morphable_AD_Dn_Vd_Ao_VtxAtm_WPos_VNorm",
+    "offset": 749812,
+    "flags": 17729893472310
+  },
+  {
+    "key": "Mg_VP_Lit_skinned_AD_Dn_Vd_Ao_VtxAtm_WPos_VNorm",
+    "offset": 755752,
+    "flags": 17592454518838
+  },
+  {
+    "key": "Mg_VP_Lit_skinned_Morphable_ADN_Vd_Ao_VtxAtm_WPos_VNorm",
+    "offset": 760384,
+    "flags": 17729893447734
+  },
+  {
+    "key": "Mg_VP_Lit_skinned_ADN_Vd_Ao_VtxAtm_WPos_VNorm",
+    "offset": 766276,
+    "flags": 17592454494262
+  },
+  {
+    "key": "Mg_VP_Lit_skinned_Morphable_AD_Vd_Ao_VtxAtm_WPos_VNorm",
+    "offset": 770904,
+    "flags": 17729893439542
+  },
+  {
+    "key": "Mg_VP_Lit_skinned_AD_Vd_Ao_VtxAtm_WPos_VNorm",
+    "offset": 775228,
+    "flags": 17592454486070
+  },
+  {
+    "key": "Mg_VP_Lit_skinned_Morphable_ADN_Dn_Ao_VtxAtm_WPos_VNorm",
+    "offset": 778516,
+    "flags": 17729893480500
+  },
+  {
+    "key": "Mg_VP_Lit_skinned_ADN_Dn_Ao_VtxAtm_WPos_VNorm",
+    "offset": 784744,
+    "flags": 17592454527028
+  },
+  {
+    "key": "Mg_VP_Lit_skinned_Morphable_AD_Dn_Ao_VtxAtm_WPos_VNorm",
+    "offset": 789564,
+    "flags": 17729893472308
+  },
+  {
+    "key": "Mg_VP_Lit_skinned_AD_Dn_Ao_VtxAtm_WPos_VNorm",
+    "offset": 795328,
+    "flags": 17592454518836
+  },
+  {
+    "key": "Mg_VP_Lit_skinned_Morphable_ADN_Ao_VtxAtm_WPos_VNorm",
+    "offset": 799916,
+    "flags": 17729893447732
+  },
+  {
+    "key": "Mg_VP_Lit_skinned_ADN_Ao_VtxAtm_WPos_VNorm",
+    "offset": 805636,
+    "flags": 17592454494260
+  },
+  {
+    "key": "Mg_VP_Lit_skinned_Morphable_AD_Ao_VtxAtm_WPos_VNorm",
+    "offset": 810216,
+    "flags": 17729893439540
+  },
+  {
+    "key": "Mg_VP_Lit_skinned_AD_Ao_VtxAtm_WPos_VNorm",
+    "offset": 814364,
+    "flags": 17592454486068
+  },
+  {
+    "key": "Mg_VP_Lit_skinned_Morphable_ADN_Dn_Vd_VtxAtm_WPos_VNorm",
+    "offset": 817604,
+    "flags": 17729893480498
+  },
+  {
+    "key": "Mg_VP_Lit_skinned_ADN_Dn_Vd_VtxAtm_WPos_VNorm",
+    "offset": 823936,
+    "flags": 17592454527026
+  },
+  {
+    "key": "Mg_VP_Lit_skinned_Morphable_AD_Dn_Vd_VtxAtm_WPos_VNorm",
+    "offset": 828732,
+    "flags": 17729893472306
+  },
+  {
+    "key": "Mg_VP_Lit_skinned_AD_Dn_Vd_VtxAtm_WPos_VNorm",
+    "offset": 834604,
+    "flags": 17592454518834
+  },
+  {
+    "key": "Mg_VP_Lit_skinned_Morphable_ADN_Vd_VtxAtm_WPos_VNorm",
+    "offset": 839168,
+    "flags": 17729893447730
+  },
+  {
+    "key": "Mg_VP_Lit_skinned_ADN_Vd_VtxAtm_WPos_VNorm",
+    "offset": 844996,
+    "flags": 17592454494258
+  },
+  {
+    "key": "Mg_VP_Lit_skinned_Morphable_AD_Vd_VtxAtm_WPos_VNorm",
+    "offset": 849552,
+    "flags": 17729893439538
+  },
+  {
+    "key": "Mg_VP_Lit_skinned_AD_Vd_VtxAtm_WPos_VNorm",
+    "offset": 853804,
+    "flags": 17592454486066
+  },
+  {
+    "key": "Mg_VP_Lit_skinned_Morphable_ADN_Dn_VtxAtm_WPos_VNorm",
+    "offset": 857024,
+    "flags": 17729893480496
+  },
+  {
+    "key": "Mg_VP_Lit_skinned_ADN_Dn_VtxAtm_WPos_VNorm",
+    "offset": 863184,
+    "flags": 17592454527024
+  },
+  {
+    "key": "Mg_VP_Lit_skinned_Morphable_AD_Dn_VtxAtm_WPos_VNorm",
+    "offset": 867932,
+    "flags": 17729893472304
+  },
+  {
+    "key": "Mg_VP_Lit_skinned_AD_Dn_VtxAtm_WPos_VNorm",
+    "offset": 873628,
+    "flags": 17592454518832
+  },
+  {
+    "key": "Mg_VP_Lit_skinned_Morphable_ADN_VtxAtm_WPos_VNorm",
+    "offset": 878144,
+    "flags": 17729893447728
+  },
+  {
+    "key": "Mg_VP_Lit_skinned_ADN_VtxAtm_WPos_VNorm",
+    "offset": 883796,
+    "flags": 17592454494256
+  },
+  {
+    "key": "Mg_VP_Lit_skinned_Morphable_AD_VtxAtm_WPos_VNorm",
+    "offset": 888304,
+    "flags": 17729893439536
+  },
+  {
+    "key": "Mg_VP_Lit_skinned_AD_VtxAtm_WPos_VNorm",
+    "offset": 892384,
+    "flags": 17592454486064
+  },
+  {
+    "key": "Mg_VP_Lit_skinned_Morphable_ADN_Dn_Vd_Ao_VtxAtm_WPos_VNorm_8DL",
+    "offset": 895556,
+    "flags": 1143629800323126
+  },
+  {
+    "key": "Mg_VP_Lit_skinned_ADN_Dn_Vd_Ao_VtxAtm_WPos_VNorm_8DL",
+    "offset": 904228,
+    "flags": 1143492361369654
+  },
+  {
+    "key": "Mg_VP_Lit_skinned_Morphable_AD_Dn_Vd_Ao_VtxAtm_WPos_VNorm_8DL",
+    "offset": 911364,
+    "flags": 1143629800314934
+  },
+  {
+    "key": "Mg_VP_Lit_skinned_AD_Dn_Vd_Ao_VtxAtm_WPos_VNorm_8DL",
+    "offset": 919572,
+    "flags": 1143492361361462
+  },
+  {
+    "key": "Mg_VP_Lit_skinned_Morphable_ADN_Vd_Ao_VtxAtm_WPos_VNorm_8DL",
+    "offset": 926472,
+    "flags": 1143629800290358
+  },
+  {
+    "key": "Mg_VP_Lit_skinned_ADN_Vd_Ao_VtxAtm_WPos_VNorm_8DL",
+    "offset": 934632,
+    "flags": 1143492361336886
+  },
+  {
+    "key": "Mg_VP_Lit_skinned_Morphable_AD_Vd_Ao_VtxAtm_WPos_VNorm_8DL",
+    "offset": 941528,
+    "flags": 1143629800282166
+  },
+  {
+    "key": "Mg_VP_Lit_skinned_AD_Vd_Ao_VtxAtm_WPos_VNorm_8DL",
+    "offset": 948056,
+    "flags": 1143492361328694
+  },
+  {
+    "key": "Mg_VP_Lit_skinned_Morphable_ADN_Dn_Ao_VtxAtm_WPos_VNorm_8DL",
+    "offset": 953548,
+    "flags": 1143629800323124
+  },
+  {
+    "key": "Mg_VP_Lit_skinned_ADN_Dn_Ao_VtxAtm_WPos_VNorm_8DL",
+    "offset": 962044,
+    "flags": 1143492361369652
+  },
+  {
+    "key": "Mg_VP_Lit_skinned_Morphable_AD_Dn_Ao_VtxAtm_WPos_VNorm_8DL",
+    "offset": 969132,
+    "flags": 1143629800314932
+  },
+  {
+    "key": "Mg_VP_Lit_skinned_AD_Dn_Ao_VtxAtm_WPos_VNorm_8DL",
+    "offset": 977164,
+    "flags": 1143492361361460
+  },
+  {
+    "key": "Mg_VP_Lit_skinned_Morphable_ADN_Ao_VtxAtm_WPos_VNorm_8DL",
+    "offset": 984020,
+    "flags": 1143629800290356
+  },
+  {
+    "key": "Mg_VP_Lit_skinned_ADN_Ao_VtxAtm_WPos_VNorm_8DL",
+    "offset": 992008,
+    "flags": 1143492361336884
+  },
+  {
+    "key": "Mg_VP_Lit_skinned_Morphable_AD_Ao_VtxAtm_WPos_VNorm_8DL",
+    "offset": 998856,
+    "flags": 1143629800282164
+  },
+  {
+    "key": "Mg_VP_Lit_skinned_AD_Ao_VtxAtm_WPos_VNorm_8DL",
+    "offset": 1005208,
+    "flags": 1143492361328692
+  },
+  {
+    "key": "Mg_VP_Lit_skinned_Morphable_ADN_Dn_Vd_VtxAtm_WPos_VNorm_8DL",
+    "offset": 1010652,
+    "flags": 1143629800323122
+  },
+  {
+    "key": "Mg_VP_Lit_skinned_ADN_Dn_Vd_VtxAtm_WPos_VNorm_8DL",
+    "offset": 1019252,
+    "flags": 1143492361369650
+  },
+  {
+    "key": "Mg_VP_Lit_skinned_Morphable_AD_Dn_Vd_VtxAtm_WPos_VNorm_8DL",
+    "offset": 1026316,
+    "flags": 1143629800314930
+  },
+  {
+    "key": "Mg_VP_Lit_skinned_AD_Dn_Vd_VtxAtm_WPos_VNorm_8DL",
+    "offset": 1034456,
+    "flags": 1143492361361458
+  },
+  {
+    "key": "Mg_VP_Lit_skinned_Morphable_ADN_Vd_VtxAtm_WPos_VNorm_8DL",
+    "offset": 1041288,
+    "flags": 1143629800290354
+  },
+  {
+    "key": "Mg_VP_Lit_skinned_ADN_Vd_VtxAtm_WPos_VNorm_8DL",
+    "offset": 1049384,
+    "flags": 1143492361336882
+  },
+  {
+    "key": "Mg_VP_Lit_skinned_Morphable_AD_Vd_VtxAtm_WPos_VNorm_8DL",
+    "offset": 1056208,
+    "flags": 1143629800282162
+  },
+  {
+    "key": "Mg_VP_Lit_skinned_AD_Vd_VtxAtm_WPos_VNorm_8DL",
+    "offset": 1062664,
+    "flags": 1143492361328690
+  },
+  {
+    "key": "Mg_VP_Lit_skinned_Morphable_ADN_Dn_VtxAtm_WPos_VNorm_8DL",
+    "offset": 1068088,
+    "flags": 1143629800323120
+  },
+  {
+    "key": "Mg_VP_Lit_skinned_ADN_Dn_VtxAtm_WPos_VNorm_8DL",
+    "offset": 1076516,
+    "flags": 1143492361369648
+  },
+  {
+    "key": "Mg_VP_Lit_skinned_Morphable_AD_Dn_VtxAtm_WPos_VNorm_8DL",
+    "offset": 1083532,
+    "flags": 1143629800314928
+  },
+  {
+    "key": "Mg_VP_Lit_skinned_AD_Dn_VtxAtm_WPos_VNorm_8DL",
+    "offset": 1091496,
+    "flags": 1143492361361456
+  },
+  {
+    "key": "Mg_VP_Lit_skinned_Morphable_ADN_VtxAtm_WPos_VNorm_8DL",
+    "offset": 1098280,
+    "flags": 1143629800290352
+  },
+  {
+    "key": "Mg_VP_Lit_skinned_ADN_VtxAtm_WPos_VNorm_8DL",
+    "offset": 1106200,
+    "flags": 1143492361336880
+  },
+  {
+    "key": "Mg_VP_Lit_skinned_Morphable_AD_VtxAtm_WPos_VNorm_8DL",
+    "offset": 1112976,
+    "flags": 1143629800282160
+  },
+  {
+    "key": "Mg_VP_Lit_skinned_AD_VtxAtm_WPos_VNorm_8DL",
+    "offset": 1119260,
+    "flags": 1143492361328688
+  },
+  {
+    "key": "Mg_VP_Lit_ADN_Dn_Vd_Ao_VtxAtm_WPos_VNorm_inst",
+    "offset": 1124636,
+    "flags": 17592455575574
+  },
+  {
+    "key": "Mg_VP_Lit_AD_Dn_Vd_Ao_VtxAtm_WPos_VNorm_inst",
+    "offset": 1128128,
+    "flags": 17592455567382
+  },
+  {
+    "key": "Mg_VP_Lit_ADN_Vd_Ao_VtxAtm_WPos_VNorm_inst",
+    "offset": 1131388,
+    "flags": 17592455542806
+  },
+  {
+    "key": "Mg_VP_Lit_AD_Vd_Ao_VtxAtm_WPos_VNorm_inst",
+    "offset": 1134640,
+    "flags": 17592455534614
+  },
+  {
+    "key": "Mg_VP_Lit_ADN_Dn_Ao_VtxAtm_WPos_VNorm_inst",
+    "offset": 1136964,
+    "flags": 17592455575572
+  },
+  {
+    "key": "Mg_VP_Lit_AD_Dn_Ao_VtxAtm_WPos_VNorm_inst",
+    "offset": 1140408,
+    "flags": 17592455567380
+  },
+  {
+    "key": "Mg_VP_Lit_ADN_Ao_VtxAtm_WPos_VNorm_inst",
+    "offset": 1143620,
+    "flags": 17592455542804
+  },
+  {
+    "key": "Mg_VP_Lit_AD_Ao_VtxAtm_WPos_VNorm_inst",
+    "offset": 1146824,
+    "flags": 17592455534612
+  },
+  {
+    "key": "Mg_VP_Lit_ADN_Dn_Vd_VtxAtm_WPos_VNorm_inst",
+    "offset": 1149100,
+    "flags": 17592455575570
+  },
+  {
+    "key": "Mg_VP_Lit_AD_Dn_Vd_VtxAtm_WPos_VNorm_inst",
+    "offset": 1152520,
+    "flags": 17592455567378
+  },
+  {
+    "key": "Mg_VP_Lit_ADN_Vd_VtxAtm_WPos_VNorm_inst",
+    "offset": 1155708,
+    "flags": 17592455542802
+  },
+  {
+    "key": "Mg_VP_Lit_AD_Vd_VtxAtm_WPos_VNorm_inst",
+    "offset": 1158888,
+    "flags": 17592455534610
+  },
+  {
+    "key": "Mg_VP_Lit_ADN_Dn_VtxAtm_WPos_VNorm_inst",
+    "offset": 1161144,
+    "flags": 17592455575568
+  },
+  {
+    "key": "Mg_VP_Lit_AD_Dn_VtxAtm_WPos_VNorm_inst",
+    "offset": 1164516,
+    "flags": 17592455567376
+  },
+  {
+    "key": "Mg_VP_Lit_ADN_VtxAtm_WPos_VNorm_inst",
+    "offset": 1167656,
+    "flags": 17592455542800
+  },
+  {
+    "key": "Mg_VP_Lit_AD_VtxAtm_WPos_VNorm_inst",
+    "offset": 1170792,
+    "flags": 17592455534608
+  },
+  {
+    "key": "Mg_VP_Lit_skinned_ADN_Dn_Vd_Ao_VtxAtm_WPos_VNorm_inst",
+    "offset": 1173000,
+    "flags": 17592455575606
+  },
+  {
+    "key": "Mg_VP_Lit_skinned_AD_Dn_Vd_Ao_VtxAtm_WPos_VNorm_inst",
+    "offset": 1177720,
+    "flags": 17592455567414
+  },
+  {
+    "key": "Mg_VP_Lit_skinned_ADN_Vd_Ao_VtxAtm_WPos_VNorm_inst",
+    "offset": 1182208,
+    "flags": 17592455542838
+  },
+  {
+    "key": "Mg_VP_Lit_skinned_AD_Vd_Ao_VtxAtm_WPos_VNorm_inst",
+    "offset": 1186688,
+    "flags": 17592455534646
+  },
+  {
+    "key": "Mg_VP_Lit_skinned_ADN_Dn_Ao_VtxAtm_WPos_VNorm_inst",
+    "offset": 1189988,
+    "flags": 17592455575604
+  },
+  {
+    "key": "Mg_VP_Lit_skinned_AD_Dn_Ao_VtxAtm_WPos_VNorm_inst",
+    "offset": 1194660,
+    "flags": 17592455567412
+  },
+  {
+    "key": "Mg_VP_Lit_skinned_ADN_Ao_VtxAtm_WPos_VNorm_inst",
+    "offset": 1199100,
+    "flags": 17592455542836
+  },
+  {
+    "key": "Mg_VP_Lit_skinned_AD_Ao_VtxAtm_WPos_VNorm_inst",
+    "offset": 1203532,
+    "flags": 17592455534644
+  },
+  {
+    "key": "Mg_VP_Lit_skinned_ADN_Dn_Vd_VtxAtm_WPos_VNorm_inst",
+    "offset": 1206784,
+    "flags": 17592455575602
+  },
+  {
+    "key": "Mg_VP_Lit_skinned_AD_Dn_Vd_VtxAtm_WPos_VNorm_inst",
+    "offset": 1211432,
+    "flags": 17592455567410
+  },
+  {
+    "key": "Mg_VP_Lit_skinned_ADN_Vd_VtxAtm_WPos_VNorm_inst",
+    "offset": 1215848,
+    "flags": 17592455542834
+  },
+  {
+    "key": "Mg_VP_Lit_skinned_AD_Vd_VtxAtm_WPos_VNorm_inst",
+    "offset": 1220256,
+    "flags": 17592455534642
+  },
+  {
+    "key": "Mg_VP_Lit_skinned_ADN_Dn_VtxAtm_WPos_VNorm_inst",
+    "offset": 1223488,
+    "flags": 17592455575600
+  },
+  {
+    "key": "Mg_VP_Lit_skinned_AD_Dn_VtxAtm_WPos_VNorm_inst",
+    "offset": 1228088,
+    "flags": 17592455567408
+  },
+  {
+    "key": "Mg_VP_Lit_skinned_ADN_VtxAtm_WPos_VNorm_inst",
+    "offset": 1232456,
+    "flags": 17592455542832
+  },
+  {
+    "key": "Mg_VP_Lit_skinned_AD_VtxAtm_WPos_VNorm_inst",
+    "offset": 1236820,
+    "flags": 17592455534640
+  },
+  {
+    "key": "Mg_VP_Lit_skinned_A_VNorm_WPos",
+    "offset": 1240004,
+    "flags": 268437536
+  },
+  {
+    "key": "Mg_VP_Lit_skinned_A_VNorm_WPos_VtxAtm",
+    "offset": 1242880,
+    "flags": 17592454481968
+  },
+  {
+    "key": "Mg_VP_Lit_A_Vd_VNorm_WPos_PxlAtm",
+    "offset": 1245908,
+    "flags": 268437506
+  },
+  {
+    "key": "Mg_VP_Lit_A_VNorm_WPos_PxlAtm",
+    "offset": 1247476,
+    "flags": 268437504
+  },
+  {
+    "key": "Mg_VP_Lit_A_Vd_VNorm_WPos_VtxAtm",
+    "offset": 1248996,
+    "flags": 268437522
+  },
+  {
+    "key": "Mg_VP_Lit_A_VNorm_WPos_VtxAtm",
+    "offset": 1250564,
+    "flags": 268437520
+  },
+  {
+    "key": "Mg_VP_Lit_A_VNorm_WPos",
+    "offset": 1252084,
+    "flags": 268437504
+  },
+  {
+    "key": "MgVPTerrain",
+    "offset": 1253596,
+    "flags": 96336
+  },
+  {
+    "key": "Mg_VP_Terrain3_VtxAtm",
+    "offset": 1258160,
+    "flags": 16
+  },
+  {
+    "key": "MgVPTerrain_Base",
+    "offset": 1259052,
+    "flags": 2128
+  },
+  {
+    "key": "MgVP_Skinned",
+    "offset": 1262924,
+    "flags": 32
+  },
+  {
+    "key": "Mg_VP_strauss_Morphable_ADNS_Dn_Vd_Ao_VtxAtm_WPos_VNorm",
+    "offset": 1265164,
+    "flags": 17730698803222
+  },
+  {
+    "key": "Mg_VP_strauss_ADNS_Dn_Vd_Ao_VtxAtm_WPos_VNorm",
+    "offset": 1270332,
+    "flags": 17593259849750
+  },
+  {
+    "key": "Mg_VP_strauss_Morphable_ADS_Dn_Vd_Ao_VtxAtm_WPos_VNorm",
+    "offset": 1273848,
+    "flags": 17730698795030
+  },
+  {
+    "key": "Mg_VP_strauss_ADS_Dn_Vd_Ao_VtxAtm_WPos_VNorm",
+    "offset": 1278764,
+    "flags": 17593259841558
+  },
+  {
+    "key": "Mg_VP_strauss_Morphable_ADNS_Vd_Ao_VtxAtm_WPos_VNorm",
+    "offset": 1282144,
+    "flags": 17730698770454
+  },
+  {
+    "key": "Mg_VP_strauss_ADNS_Vd_Ao_VtxAtm_WPos_VNorm",
+    "offset": 1286804,
+    "flags": 17593259816982
+  },
+  {
+    "key": "Mg_VP_strauss_Morphable_ADS_Vd_Ao_VtxAtm_WPos_VNorm",
+    "offset": 1290084,
+    "flags": 17730698762262
+  },
+  {
+    "key": "Mg_VP_strauss_ADS_Vd_Ao_VtxAtm_WPos_VNorm",
+    "offset": 1293516,
+    "flags": 17593259808790
+  },
+  {
+    "key": "Mg_VP_strauss_Morphable_ADNS_Dn_Ao_VtxAtm_WPos_VNorm",
+    "offset": 1295676,
+    "flags": 17730698803220
+  },
+  {
+    "key": "Mg_VP_strauss_ADNS_Dn_Ao_VtxAtm_WPos_VNorm",
+    "offset": 1300672,
+    "flags": 17593259849748
+  },
+  {
+    "key": "Mg_VP_strauss_Morphable_ADS_Dn_Ao_VtxAtm_WPos_VNorm",
+    "offset": 1304140,
+    "flags": 17730698795028
+  },
+  {
+    "key": "Mg_VP_strauss_ADS_Dn_Ao_VtxAtm_WPos_VNorm",
+    "offset": 1308880,
+    "flags": 17593259841556
+  },
+  {
+    "key": "Mg_VP_strauss_Morphable_ADNS_Ao_VtxAtm_WPos_VNorm",
+    "offset": 1312212,
+    "flags": 17730698770452
+  },
+  {
+    "key": "Mg_VP_strauss_ADNS_Ao_VtxAtm_WPos_VNorm",
+    "offset": 1316696,
+    "flags": 17593259816980
+  },
+  {
+    "key": "Mg_VP_strauss_Morphable_ADS_Ao_VtxAtm_WPos_VNorm",
+    "offset": 1319928,
+    "flags": 17730698762260
+  },
+  {
+    "key": "Mg_VP_strauss_ADS_Ao_VtxAtm_WPos_VNorm",
+    "offset": 1323188,
+    "flags": 17593259808788
+  },
+  {
+    "key": "Mg_VP_strauss_Morphable_ADNS_Dn_Vd_VtxAtm_WPos_VNorm",
+    "offset": 1325300,
+    "flags": 17730698803218
+  },
+  {
+    "key": "Mg_VP_strauss_ADNS_Dn_Vd_VtxAtm_WPos_VNorm",
+    "offset": 1330400,
+    "flags": 17593259849746
+  },
+  {
+    "key": "Mg_VP_strauss_Morphable_ADS_Dn_Vd_VtxAtm_WPos_VNorm",
+    "offset": 1333844,
+    "flags": 17730698795026
+  },
+  {
+    "key": "Mg_VP_strauss_ADS_Dn_Vd_VtxAtm_WPos_VNorm",
+    "offset": 1338688,
+    "flags": 17593259841554
+  },
+  {
+    "key": "Mg_VP_strauss_Morphable_ADNS_Vd_VtxAtm_WPos_VNorm",
+    "offset": 1341996,
+    "flags": 17730698770450
+  },
+  {
+    "key": "Mg_VP_strauss_ADNS_Vd_VtxAtm_WPos_VNorm",
+    "offset": 1346588,
+    "flags": 17593259816978
+  },
+  {
+    "key": "Mg_VP_strauss_Morphable_ADS_Vd_VtxAtm_WPos_VNorm",
+    "offset": 1349796,
+    "flags": 17730698762258
+  },
+  {
+    "key": "Mg_VP_strauss_ADS_Vd_VtxAtm_WPos_VNorm",
+    "offset": 1353160,
+    "flags": 17593259808786
+  },
+  {
+    "key": "Mg_VP_strauss_Morphable_ADNS_Dn_VtxAtm_WPos_VNorm",
+    "offset": 1355252,
+    "flags": 17730698803216
+  },
+  {
+    "key": "Mg_VP_strauss_ADNS_Dn_VtxAtm_WPos_VNorm",
+    "offset": 1360176,
+    "flags": 17593259849744
+  },
+  {
+    "key": "Mg_VP_strauss_Morphable_ADS_Dn_VtxAtm_WPos_VNorm",
+    "offset": 1363572,
+    "flags": 17730698795024
+  },
+  {
+    "key": "Mg_VP_strauss_ADS_Dn_VtxAtm_WPos_VNorm",
+    "offset": 1368244,
+    "flags": 17593259841552
+  },
+  {
+    "key": "Mg_VP_strauss_Morphable_ADNS_VtxAtm_WPos_VNorm",
+    "offset": 1371504,
+    "flags": 17730698770448
+  },
+  {
+    "key": "Mg_VP_strauss_ADNS_VtxAtm_WPos_VNorm",
+    "offset": 1375920,
+    "flags": 17593259816976
+  },
+  {
+    "key": "Mg_VP_strauss_Morphable_ADS_VtxAtm_WPos_VNorm",
+    "offset": 1379084,
+    "flags": 17730698762256
+  },
+  {
+    "key": "Mg_VP_strauss_ADS_VtxAtm_WPos_VNorm",
+    "offset": 1382272,
+    "flags": 17593259808784
+  },
+  {
+    "key": "Mg_VP_strauss_Morphable_ADNS_Dn_Vd_Ao_VtxAtm_WPos_VNorm_8DL",
+    "offset": 1384316,
+    "flags": 1143630605645846
+  },
+  {
+    "key": "Mg_VP_strauss_ADNS_Dn_Vd_Ao_VtxAtm_WPos_VNorm_8DL",
+    "offset": 1392668,
+    "flags": 1143493166692374
+  },
+  {
+    "key": "Mg_VP_strauss_Morphable_ADS_Dn_Vd_Ao_VtxAtm_WPos_VNorm_8DL",
+    "offset": 1399368,
+    "flags": 1143630605637654
+  },
+  {
+    "key": "Mg_VP_strauss_ADS_Dn_Vd_Ao_VtxAtm_WPos_VNorm_8DL",
+    "offset": 1407468,
+    "flags": 1143493166684182
+  },
+  {
+    "key": "Mg_VP_strauss_Morphable_ADNS_Vd_Ao_VtxAtm_WPos_VNorm_8DL",
+    "offset": 1414032,
+    "flags": 1143630605613078
+  },
+  {
+    "key": "Mg_VP_strauss_ADNS_Vd_Ao_VtxAtm_WPos_VNorm_8DL",
+    "offset": 1421876,
+    "flags": 1143493166659606
+  },
+  {
+    "key": "Mg_VP_strauss_Morphable_ADS_Vd_Ao_VtxAtm_WPos_VNorm_8DL",
+    "offset": 1428340,
+    "flags": 1143630605604886
+  },
+  {
+    "key": "Mg_VP_strauss_ADS_Vd_Ao_VtxAtm_WPos_VNorm_8DL",
+    "offset": 1434928,
+    "flags": 1143493166651414
+  },
+  {
+    "key": "Mg_VP_strauss_Morphable_ADNS_Dn_Ao_VtxAtm_WPos_VNorm_8DL",
+    "offset": 1440244,
+    "flags": 1143630605645844
+  },
+  {
+    "key": "Mg_VP_strauss_ADNS_Dn_Ao_VtxAtm_WPos_VNorm_8DL",
+    "offset": 1448424,
+    "flags": 1143493166692372
+  },
+  {
+    "key": "Mg_VP_strauss_Morphable_ADS_Dn_Ao_VtxAtm_WPos_VNorm_8DL",
+    "offset": 1455076,
+    "flags": 1143630605637652
+  },
+  {
+    "key": "Mg_VP_strauss_ADS_Dn_Ao_VtxAtm_WPos_VNorm_8DL",
+    "offset": 1463000,
+    "flags": 1143493166684180
+  },
+  {
+    "key": "Mg_VP_strauss_Morphable_ADNS_Ao_VtxAtm_WPos_VNorm_8DL",
+    "offset": 1469516,
+    "flags": 1143630605613076
+  },
+  {
+    "key": "Mg_VP_strauss_ADNS_Ao_VtxAtm_WPos_VNorm_8DL",
+    "offset": 1477184,
+    "flags": 1143493166659604
+  },
+  {
+    "key": "Mg_VP_strauss_Morphable_ADS_Ao_VtxAtm_WPos_VNorm_8DL",
+    "offset": 1483600,
+    "flags": 1143630605604884
+  },
+  {
+    "key": "Mg_VP_strauss_ADS_Ao_VtxAtm_WPos_VNorm_8DL",
+    "offset": 1490016,
+    "flags": 1143493166651412
+  },
+  {
+    "key": "Mg_VP_strauss_Morphable_ADNS_Dn_Vd_VtxAtm_WPos_VNorm_8DL",
+    "offset": 1495284,
+    "flags": 1143630605645842
+  },
+  {
+    "key": "Mg_VP_strauss_ADNS_Dn_Vd_VtxAtm_WPos_VNorm_8DL",
+    "offset": 1503568,
+    "flags": 1143493166692370
+  },
+  {
+    "key": "Mg_VP_strauss_Morphable_ADS_Dn_Vd_VtxAtm_WPos_VNorm_8DL",
+    "offset": 1510196,
+    "flags": 1143630605637650
+  },
+  {
+    "key": "Mg_VP_strauss_ADS_Dn_Vd_VtxAtm_WPos_VNorm_8DL",
+    "offset": 1518224,
+    "flags": 1143493166684178
+  },
+  {
+    "key": "Mg_VP_strauss_Morphable_ADNS_Vd_VtxAtm_WPos_VNorm_8DL",
+    "offset": 1524716,
+    "flags": 1143630605613074
+  },
+  {
+    "key": "Mg_VP_strauss_ADNS_Vd_VtxAtm_WPos_VNorm_8DL",
+    "offset": 1532492,
+    "flags": 1143493166659602
+  },
+  {
+    "key": "Mg_VP_strauss_Morphable_ADS_Vd_VtxAtm_WPos_VNorm_8DL",
+    "offset": 1538884,
+    "flags": 1143630605604882
+  },
+  {
+    "key": "Mg_VP_strauss_ADS_Vd_VtxAtm_WPos_VNorm_8DL",
+    "offset": 1545404,
+    "flags": 1143493166651410
+  },
+  {
+    "key": "Mg_VP_strauss_Morphable_ADNS_Dn_VtxAtm_WPos_VNorm_8DL",
+    "offset": 1550652,
+    "flags": 1143630605645840
+  },
+  {
+    "key": "Mg_VP_strauss_ADNS_Dn_VtxAtm_WPos_VNorm_8DL",
+    "offset": 1558760,
+    "flags": 1143493166692368
+  },
+  {
+    "key": "Mg_VP_strauss_Morphable_ADS_Dn_VtxAtm_WPos_VNorm_8DL",
+    "offset": 1565340,
+    "flags": 1143630605637648
+  },
+  {
+    "key": "Mg_VP_strauss_ADS_Dn_VtxAtm_WPos_VNorm_8DL",
+    "offset": 1573196,
+    "flags": 1143493166684176
+  },
+  {
+    "key": "Mg_VP_strauss_Morphable_ADNS_VtxAtm_WPos_VNorm_8DL",
+    "offset": 1579640,
+    "flags": 1143630605613072
+  },
+  {
+    "key": "Mg_VP_strauss_ADNS_VtxAtm_WPos_VNorm_8DL",
+    "offset": 1587240,
+    "flags": 1143493166659600
+  },
+  {
+    "key": "Mg_VP_strauss_Morphable_ADS_VtxAtm_WPos_VNorm_8DL",
+    "offset": 1593588,
+    "flags": 1143630605604880
+  },
+  {
+    "key": "Mg_VP_strauss_ADS_VtxAtm_WPos_VNorm_8DL",
+    "offset": 1599932,
+    "flags": 1143493166651408
+  },
+  {
+    "key": "Mg_VP_strauss_SL_ADNS_Dn_Vd_Ao_VtxAtm_WPos_VNorm",
+    "offset": 1605132,
+    "flags": 17627619588118
+  },
+  {
+    "key": "Mg_VP_strauss_SL_ADS_Dn_Vd_Ao_VtxAtm_WPos_VNorm",
+    "offset": 1608924,
+    "flags": 17627619579926
+  },
+  {
+    "key": "Mg_VP_strauss_SL_ADNS_Vd_Ao_VtxAtm_WPos_VNorm",
+    "offset": 1612572,
+    "flags": 17627619555350
+  },
+  {
+    "key": "Mg_VP_strauss_SL_ADS_Vd_Ao_VtxAtm_WPos_VNorm",
+    "offset": 1616124,
+    "flags": 17627619547158
+  },
+  {
+    "key": "Mg_VP_strauss_SL_ADNS_Dn_Ao_VtxAtm_WPos_VNorm",
+    "offset": 1618436,
+    "flags": 17627619588116
+  },
+  {
+    "key": "Mg_VP_strauss_SL_ADS_Dn_Ao_VtxAtm_WPos_VNorm",
+    "offset": 1622180,
+    "flags": 17627619579924
+  },
+  {
+    "key": "Mg_VP_strauss_SL_ADNS_Ao_VtxAtm_WPos_VNorm",
+    "offset": 1625784,
+    "flags": 17627619555348
+  },
+  {
+    "key": "Mg_VP_strauss_SL_ADS_Ao_VtxAtm_WPos_VNorm",
+    "offset": 1629288,
+    "flags": 17627619547156
+  },
+  {
+    "key": "Mg_VP_strauss_SL_ADNS_Dn_Vd_VtxAtm_WPos_VNorm",
+    "offset": 1631552,
+    "flags": 17627619588114
+  },
+  {
+    "key": "Mg_VP_strauss_SL_ADS_Dn_Vd_VtxAtm_WPos_VNorm",
+    "offset": 1635272,
+    "flags": 17627619579922
+  },
+  {
+    "key": "Mg_VP_strauss_SL_ADNS_Vd_VtxAtm_WPos_VNorm",
+    "offset": 1638852,
+    "flags": 17627619555346
+  },
+  {
+    "key": "Mg_VP_strauss_SL_ADS_Vd_VtxAtm_WPos_VNorm",
+    "offset": 1642332,
+    "flags": 17627619547154
+  },
+  {
+    "key": "Mg_VP_strauss_SL_ADNS_Dn_VtxAtm_WPos_VNorm",
+    "offset": 1644576,
+    "flags": 17627619588112
+  },
+  {
+    "key": "Mg_VP_strauss_SL_ADS_Dn_VtxAtm_WPos_VNorm",
+    "offset": 1648248,
+    "flags": 17627619579920
+  },
+  {
+    "key": "Mg_VP_strauss_SL_ADNS_VtxAtm_WPos_VNorm",
+    "offset": 1651780,
+    "flags": 17627619555344
+  },
+  {
+    "key": "Mg_VP_strauss_SL_ADS_VtxAtm_WPos_VNorm",
+    "offset": 1655212,
+    "flags": 17627619547152
+  },
+  {
+    "key": "Mg_VP_strauss_SL_ADNS_Dn_Vd_Ao_VtxAtm_WPos_VNorm_8DL",
+    "offset": 1657408,
+    "flags": 1143527526430742
+  },
+  {
+    "key": "Mg_VP_strauss_SL_ADS_Dn_Vd_Ao_VtxAtm_WPos_VNorm_8DL",
+    "offset": 1664220,
+    "flags": 1143527526422550
+  },
+  {
+    "key": "Mg_VP_strauss_SL_ADNS_Vd_Ao_VtxAtm_WPos_VNorm_8DL",
+    "offset": 1670888,
+    "flags": 1143527526397974
+  },
+  {
+    "key": "Mg_VP_strauss_SL_ADS_Vd_Ao_VtxAtm_WPos_VNorm_8DL",
+    "offset": 1677460,
+    "flags": 1143527526389782
+  },
+  {
+    "key": "Mg_VP_strauss_SL_ADNS_Dn_Ao_VtxAtm_WPos_VNorm_8DL",
+    "offset": 1682880,
+    "flags": 1143527526430740
+  },
+  {
+    "key": "Mg_VP_strauss_SL_ADS_Dn_Ao_VtxAtm_WPos_VNorm_8DL",
+    "offset": 1689644,
+    "flags": 1143527526422548
+  },
+  {
+    "key": "Mg_VP_strauss_SL_ADNS_Ao_VtxAtm_WPos_VNorm_8DL",
+    "offset": 1696268,
+    "flags": 1143527526397972
+  },
+  {
+    "key": "Mg_VP_strauss_SL_ADS_Ao_VtxAtm_WPos_VNorm_8DL",
+    "offset": 1702792,
+    "flags": 1143527526389780
+  },
+  {
+    "key": "Mg_VP_strauss_SL_ADNS_Dn_Vd_VtxAtm_WPos_VNorm_8DL",
+    "offset": 1708164,
+    "flags": 1143527526430738
+  },
+  {
+    "key": "Mg_VP_strauss_SL_ADS_Dn_Vd_VtxAtm_WPos_VNorm_8DL",
+    "offset": 1714904,
+    "flags": 1143527526422546
+  },
+  {
+    "key": "Mg_VP_strauss_SL_ADNS_Vd_VtxAtm_WPos_VNorm_8DL",
+    "offset": 1721504,
+    "flags": 1143527526397970
+  },
+  {
+    "key": "Mg_VP_strauss_SL_ADS_Vd_VtxAtm_WPos_VNorm_8DL",
+    "offset": 1728004,
+    "flags": 1143527526389778
+  },
+  {
+    "key": "Mg_VP_strauss_SL_ADNS_Dn_VtxAtm_WPos_VNorm_8DL",
+    "offset": 1733356,
+    "flags": 1143527526430736
+  },
+  {
+    "key": "Mg_VP_strauss_SL_ADS_Dn_VtxAtm_WPos_VNorm_8DL",
+    "offset": 1740048,
+    "flags": 1143527526422544
+  },
+  {
+    "key": "Mg_VP_strauss_SL_ADNS_VtxAtm_WPos_VNorm_8DL",
+    "offset": 1746600,
+    "flags": 1143527526397968
+  },
+  {
+    "key": "Mg_VP_strauss_SL_ADS_VtxAtm_WPos_VNorm_8DL",
+    "offset": 1753052,
+    "flags": 1143527526389776
+  },
+  {
+    "key": "Mg_VP_strauss_palettemesh_SL_ADNS_Dn_Vd_Ao_VtxAtm_WPos_VNorm",
+    "offset": 1758356,
+    "flags": 288248003771299862
+  },
+  {
+    "key": "Mg_VP_strauss_palettemesh_ADNS_Dn_Vd_Ao_VtxAtm_WPos_VNorm",
+    "offset": 1762972,
+    "flags": 288247969411561494
+  },
+  {
+    "key": "Mg_VP_strauss_palettemesh_SL_ADS_Dn_Vd_Ao_VtxAtm_WPos_VNorm",
+    "offset": 1767344,
+    "flags": 288248003771291670
+  },
+  {
+    "key": "Mg_VP_strauss_palettemesh_ADS_Dn_Vd_Ao_VtxAtm_WPos_VNorm",
+    "offset": 1771816,
+    "flags": 288247969411553302
+  },
+  {
+    "key": "Mg_VP_strauss_palettemesh_SL_ADNS_Vd_Ao_VtxAtm_WPos_VNorm",
+    "offset": 1776052,
+    "flags": 288248003771267094
+  },
+  {
+    "key": "Mg_VP_strauss_palettemesh_ADNS_Vd_Ao_VtxAtm_WPos_VNorm",
+    "offset": 1780428,
+    "flags": 288247969411528726
+  },
+  {
+    "key": "Mg_VP_strauss_palettemesh_SL_ADS_Vd_Ao_VtxAtm_WPos_VNorm",
+    "offset": 1784564,
+    "flags": 288248003771258902
+  },
+  {
+    "key": "Mg_VP_strauss_palettemesh_ADS_Vd_Ao_VtxAtm_WPos_VNorm",
+    "offset": 1787980,
+    "flags": 288247969411520534
+  },
+  {
+    "key": "Mg_VP_strauss_palettemesh_SL_ADNS_Dn_Ao_VtxAtm_WPos_VNorm",
+    "offset": 1791276,
+    "flags": 288248003771299860
+  },
+  {
+    "key": "Mg_VP_strauss_palettemesh_ADNS_Dn_Ao_VtxAtm_WPos_VNorm",
+    "offset": 1795844,
+    "flags": 288247969411561492
+  },
+  {
+    "key": "Mg_VP_strauss_palettemesh_SL_ADS_Dn_Ao_VtxAtm_WPos_VNorm",
+    "offset": 1800168,
+    "flags": 288248003771291668
+  },
+  {
+    "key": "Mg_VP_strauss_palettemesh_ADS_Dn_Ao_VtxAtm_WPos_VNorm",
+    "offset": 1804596,
+    "flags": 288247969411553300
+  },
+  {
+    "key": "Mg_VP_strauss_palettemesh_SL_ADNS_Ao_VtxAtm_WPos_VNorm",
+    "offset": 1808784,
+    "flags": 288248003771267092
+  },
+  {
+    "key": "Mg_VP_strauss_palettemesh_ADNS_Ao_VtxAtm_WPos_VNorm",
+    "offset": 1813112,
+    "flags": 288247969411528724
+  },
+  {
+    "key": "Mg_VP_strauss_palettemesh_SL_ADS_Ao_VtxAtm_WPos_VNorm",
+    "offset": 1817200,
+    "flags": 288248003771258900
+  },
+  {
+    "key": "Mg_VP_strauss_palettemesh_ADS_Ao_VtxAtm_WPos_VNorm",
+    "offset": 1820568,
+    "flags": 288247969411520532
+  },
+  {
+    "key": "Mg_VP_strauss_palettemesh_SL_ADNS_Dn_Vd_Ao_VtxAtm_WPos_VNorm_8DL",
+    "offset": 1823816,
+    "flags": 289373903678142486
+  },
+  {
+    "key": "Mg_VP_strauss_palettemesh_ADNS_Dn_Vd_Ao_VtxAtm_WPos_VNorm_8DL",
+    "offset": 1831484,
+    "flags": 289373869318404118
+  },
+  {
+    "key": "Mg_VP_strauss_palettemesh_SL_ADS_Dn_Vd_Ao_VtxAtm_WPos_VNorm_8DL",
+    "offset": 1839152,
+    "flags": 289373903678134294
+  },
+  {
+    "key": "Mg_VP_strauss_palettemesh_ADS_Dn_Vd_Ao_VtxAtm_WPos_VNorm_8DL",
+    "offset": 1846676,
+    "flags": 289373869318395926
+  },
+  {
+    "key": "Mg_VP_strauss_palettemesh_SL_ADNS_Vd_Ao_VtxAtm_WPos_VNorm_8DL",
+    "offset": 1854208,
+    "flags": 289373903678109718
+  },
+  {
+    "key": "Mg_VP_strauss_palettemesh_ADNS_Vd_Ao_VtxAtm_WPos_VNorm_8DL",
+    "offset": 1861636,
+    "flags": 289373869318371350
+  },
+  {
+    "key": "Mg_VP_strauss_palettemesh_SL_ADS_Vd_Ao_VtxAtm_WPos_VNorm_8DL",
+    "offset": 1869068,
+    "flags": 289373903678101526
+  },
+  {
+    "key": "Mg_VP_strauss_palettemesh_ADS_Vd_Ao_VtxAtm_WPos_VNorm_8DL",
+    "offset": 1875624,
+    "flags": 289373869318363158
+  },
+  {
+    "key": "Mg_VP_strauss_palettemesh_SL_ADNS_Dn_Ao_VtxAtm_WPos_VNorm_8DL",
+    "offset": 1882044,
+    "flags": 289373903678142484
+  },
+  {
+    "key": "Mg_VP_strauss_palettemesh_ADNS_Dn_Ao_VtxAtm_WPos_VNorm_8DL",
+    "offset": 1889664,
+    "flags": 289373869318404116
+  },
+  {
+    "key": "Mg_VP_strauss_palettemesh_SL_ADS_Dn_Ao_VtxAtm_WPos_VNorm_8DL",
+    "offset": 1897284,
+    "flags": 289373903678134292
+  },
+  {
+    "key": "Mg_VP_strauss_palettemesh_ADS_Dn_Ao_VtxAtm_WPos_VNorm_8DL",
+    "offset": 1904764,
+    "flags": 289373869318395924
+  },
+  {
+    "key": "Mg_VP_strauss_palettemesh_SL_ADNS_Ao_VtxAtm_WPos_VNorm_8DL",
+    "offset": 1912248,
+    "flags": 289373903678109716
+  },
+  {
+    "key": "Mg_VP_strauss_palettemesh_ADNS_Ao_VtxAtm_WPos_VNorm_8DL",
+    "offset": 1919628,
+    "flags": 289373869318371348
+  },
+  {
+    "key": "Mg_VP_strauss_palettemesh_SL_ADS_Ao_VtxAtm_WPos_VNorm_8DL",
+    "offset": 1927012,
+    "flags": 289373903678101524
+  },
+  {
+    "key": "Mg_VP_strauss_palettemesh_ADS_Ao_VtxAtm_WPos_VNorm_8DL",
+    "offset": 1933520,
+    "flags": 289373869318363156
+  },
+  {
+    "key": "Mg_VP_strauss_ADNS_Dn_Vd_Ao_VtxAtm_WPos_VNorm_inst",
+    "offset": 1939892,
+    "flags": 17593260898326
+  },
+  {
+    "key": "Mg_VP_strauss_ADS_Dn_Vd_Ao_VtxAtm_WPos_VNorm_inst",
+    "offset": 1943532,
+    "flags": 17593260890134
+  },
+  {
+    "key": "Mg_VP_strauss_ADNS_Vd_Ao_VtxAtm_WPos_VNorm_inst",
+    "offset": 1947032,
+    "flags": 17593260865558
+  },
+  {
+    "key": "Mg_VP_strauss_ADS_Vd_Ao_VtxAtm_WPos_VNorm_inst",
+    "offset": 1950432,
+    "flags": 17593260857366
+  },
+  {
+    "key": "Mg_VP_strauss_ADNS_Dn_Ao_VtxAtm_WPos_VNorm_inst",
+    "offset": 1952992,
+    "flags": 17593260898324
+  },
+  {
+    "key": "Mg_VP_strauss_ADS_Dn_Ao_VtxAtm_WPos_VNorm_inst",
+    "offset": 1956584,
+    "flags": 17593260890132
+  },
+  {
+    "key": "Mg_VP_strauss_ADNS_Ao_VtxAtm_WPos_VNorm_inst",
+    "offset": 1960036,
+    "flags": 17593260865556
+  },
+  {
+    "key": "Mg_VP_strauss_ADS_Ao_VtxAtm_WPos_VNorm_inst",
+    "offset": 1963392,
+    "flags": 17593260857364
+  },
+  {
+    "key": "Mg_VP_strauss_ADNS_Dn_Vd_VtxAtm_WPos_VNorm_inst",
+    "offset": 1965904,
+    "flags": 17593260898322
+  },
+  {
+    "key": "Mg_VP_strauss_ADS_Dn_Vd_VtxAtm_WPos_VNorm_inst",
+    "offset": 1969472,
+    "flags": 17593260890130
+  },
+  {
+    "key": "Mg_VP_strauss_ADNS_Vd_VtxAtm_WPos_VNorm_inst",
+    "offset": 1972900,
+    "flags": 17593260865554
+  },
+  {
+    "key": "Mg_VP_strauss_ADS_Vd_VtxAtm_WPos_VNorm_inst",
+    "offset": 1976232,
+    "flags": 17593260857362
+  },
+  {
+    "key": "Mg_VP_strauss_ADNS_Dn_VtxAtm_WPos_VNorm_inst",
+    "offset": 1978724,
+    "flags": 17593260898320
+  },
+  {
+    "key": "Mg_VP_strauss_ADS_Dn_VtxAtm_WPos_VNorm_inst",
+    "offset": 1982248,
+    "flags": 17593260890128
+  },
+  {
+    "key": "Mg_VP_strauss_ADNS_VtxAtm_WPos_VNorm_inst",
+    "offset": 1985628,
+    "flags": 17593260865552
+  },
+  {
+    "key": "Mg_VP_strauss_ADS_VtxAtm_WPos_VNorm_inst",
+    "offset": 1988912,
+    "flags": 17593260857360
+  },
+  {
+    "key": "Mg_VP_strauss_skinned_Morphable_ADNS_Dn_Vd_Ao_VtxAtm_WPos_VNorm",
+    "offset": 1991360,
+    "flags": 17730698803254
+  },
+  {
+    "key": "Mg_VP_strauss_skinned_ADNS_Dn_Vd_Ao_VtxAtm_WPos_VNorm",
+    "offset": 1998016,
+    "flags": 17593259849782
+  },
+  {
+    "key": "Mg_VP_strauss_skinned_Morphable_ADS_Dn_Vd_Ao_VtxAtm_WPos_VNorm",
+    "offset": 2003028,
+    "flags": 17730698795062
+  },
+  {
+    "key": "Mg_VP_strauss_skinned_ADS_Dn_Vd_Ao_VtxAtm_WPos_VNorm",
+    "offset": 2009432,
+    "flags": 17593259841590
+  },
+  {
+    "key": "Mg_VP_strauss_skinned_Morphable_ADNS_Vd_Ao_VtxAtm_WPos_VNorm",
+    "offset": 2014308,
+    "flags": 17730698770486
+  },
+  {
+    "key": "Mg_VP_strauss_skinned_ADNS_Vd_Ao_VtxAtm_WPos_VNorm",
+    "offset": 2020456,
+    "flags": 17593259817014
+  },
+  {
+    "key": "Mg_VP_strauss_skinned_Morphable_ADS_Vd_Ao_VtxAtm_WPos_VNorm",
+    "offset": 2025232,
+    "flags": 17730698762294
+  },
+  {
+    "key": "Mg_VP_strauss_skinned_ADS_Vd_Ao_VtxAtm_WPos_VNorm",
+    "offset": 2030020,
+    "flags": 17593259808822
+  },
+  {
+    "key": "Mg_VP_strauss_skinned_Morphable_ADNS_Dn_Ao_VtxAtm_WPos_VNorm",
+    "offset": 2033544,
+    "flags": 17730698803252
+  },
+  {
+    "key": "Mg_VP_strauss_skinned_ADNS_Dn_Ao_VtxAtm_WPos_VNorm",
+    "offset": 2040028,
+    "flags": 17593259849780
+  },
+  {
+    "key": "Mg_VP_strauss_skinned_Morphable_ADS_Dn_Ao_VtxAtm_WPos_VNorm",
+    "offset": 2044992,
+    "flags": 17730698795060
+  },
+  {
+    "key": "Mg_VP_strauss_skinned_ADS_Dn_Ao_VtxAtm_WPos_VNorm",
+    "offset": 2051220,
+    "flags": 17593259841588
+  },
+  {
+    "key": "Mg_VP_strauss_skinned_Morphable_ADNS_Ao_VtxAtm_WPos_VNorm",
+    "offset": 2056048,
+    "flags": 17730698770484
+  },
+  {
+    "key": "Mg_VP_strauss_skinned_ADNS_Ao_VtxAtm_WPos_VNorm",
+    "offset": 2062020,
+    "flags": 17593259817012
+  },
+  {
+    "key": "Mg_VP_strauss_skinned_Morphable_ADS_Ao_VtxAtm_WPos_VNorm",
+    "offset": 2066748,
+    "flags": 17730698762292
+  },
+  {
+    "key": "Mg_VP_strauss_skinned_ADS_Ao_VtxAtm_WPos_VNorm",
+    "offset": 2071364,
+    "flags": 17593259808820
+  },
+  {
+    "key": "Mg_VP_strauss_skinned_Morphable_ADNS_Dn_Vd_VtxAtm_WPos_VNorm",
+    "offset": 2074840,
+    "flags": 17730698803250
+  },
+  {
+    "key": "Mg_VP_strauss_skinned_ADNS_Dn_Vd_VtxAtm_WPos_VNorm",
+    "offset": 2081428,
+    "flags": 17593259849778
+  },
+  {
+    "key": "Mg_VP_strauss_skinned_Morphable_ADS_Dn_Vd_VtxAtm_WPos_VNorm",
+    "offset": 2086368,
+    "flags": 17730698795058
+  },
+  {
+    "key": "Mg_VP_strauss_skinned_ADS_Dn_Vd_VtxAtm_WPos_VNorm",
+    "offset": 2092700,
+    "flags": 17593259841586
+  },
+  {
+    "key": "Mg_VP_strauss_skinned_Morphable_ADNS_Vd_VtxAtm_WPos_VNorm",
+    "offset": 2097504,
+    "flags": 17730698770482
+  },
+  {
+    "key": "Mg_VP_strauss_skinned_ADNS_Vd_VtxAtm_WPos_VNorm",
+    "offset": 2103584,
+    "flags": 17593259817010
+  },
+  {
+    "key": "Mg_VP_strauss_skinned_Morphable_ADS_Vd_VtxAtm_WPos_VNorm",
+    "offset": 2108288,
+    "flags": 17730698762290
+  },
+  {
+    "key": "Mg_VP_strauss_skinned_ADS_Vd_VtxAtm_WPos_VNorm",
+    "offset": 2113008,
+    "flags": 17593259808818
+  },
+  {
+    "key": "Mg_VP_strauss_skinned_Morphable_ADNS_Dn_VtxAtm_WPos_VNorm",
+    "offset": 2116464,
+    "flags": 17730698803248
+  },
+  {
+    "key": "Mg_VP_strauss_skinned_ADNS_Dn_VtxAtm_WPos_VNorm",
+    "offset": 2122876,
+    "flags": 17593259849776
+  },
+  {
+    "key": "Mg_VP_strauss_skinned_Morphable_ADS_Dn_VtxAtm_WPos_VNorm",
+    "offset": 2127768,
+    "flags": 17730698795056
+  },
+  {
+    "key": "Mg_VP_strauss_skinned_ADS_Dn_VtxAtm_WPos_VNorm",
+    "offset": 2133928,
+    "flags": 17593259841584
+  },
+  {
+    "key": "Mg_VP_strauss_skinned_Morphable_ADNS_VtxAtm_WPos_VNorm",
+    "offset": 2138684,
+    "flags": 17730698770480
+  },
+  {
+    "key": "Mg_VP_strauss_skinned_ADNS_VtxAtm_WPos_VNorm",
+    "offset": 2144588,
+    "flags": 17593259817008
+  },
+  {
+    "key": "Mg_VP_strauss_skinned_Morphable_ADS_VtxAtm_WPos_VNorm",
+    "offset": 2149248,
+    "flags": 17730698762288
+  },
+  {
+    "key": "Mg_VP_strauss_skinned_ADS_VtxAtm_WPos_VNorm",
+    "offset": 2153792,
+    "flags": 17593259808816
+  },
+  {
+    "key": "Mg_VP_strauss_skinned_Morphable_ADNS_Dn_Vd_Ao_VtxAtm_WPos_VNorm_8DL",
+    "offset": 2157200,
+    "flags": 1143630605645878
+  },
+  {
+    "key": "Mg_VP_strauss_skinned_ADNS_Dn_Vd_Ao_VtxAtm_WPos_VNorm_8DL",
+    "offset": 2166124,
+    "flags": 1143493166692406
+  },
+  {
+    "key": "Mg_VP_strauss_skinned_Morphable_ADS_Dn_Vd_Ao_VtxAtm_WPos_VNorm_8DL",
+    "offset": 2173404,
+    "flags": 1143630605637686
+  },
+  {
+    "key": "Mg_VP_strauss_skinned_ADS_Dn_Vd_Ao_VtxAtm_WPos_VNorm_8DL",
+    "offset": 2182076,
+    "flags": 1143493166684214
+  },
+  {
+    "key": "Mg_VP_strauss_skinned_Morphable_ADNS_Vd_Ao_VtxAtm_WPos_VNorm_8DL",
+    "offset": 2189220,
+    "flags": 1143630605613110
+  },
+  {
+    "key": "Mg_VP_strauss_skinned_ADNS_Vd_Ao_VtxAtm_WPos_VNorm_8DL",
+    "offset": 2197636,
+    "flags": 1143493166659638
+  },
+  {
+    "key": "Mg_VP_strauss_skinned_Morphable_ADS_Vd_Ao_VtxAtm_WPos_VNorm_8DL",
+    "offset": 2204680,
+    "flags": 1143630605604918
+  },
+  {
+    "key": "Mg_VP_strauss_skinned_ADS_Vd_Ao_VtxAtm_WPos_VNorm_8DL",
+    "offset": 2211672,
+    "flags": 1143493166651446
+  },
+  {
+    "key": "Mg_VP_strauss_skinned_Morphable_ADNS_Dn_Ao_VtxAtm_WPos_VNorm_8DL",
+    "offset": 2217400,
+    "flags": 1143630605645876
+  },
+  {
+    "key": "Mg_VP_strauss_skinned_ADNS_Dn_Ao_VtxAtm_WPos_VNorm_8DL",
+    "offset": 2226152,
+    "flags": 1143493166692404
+  },
+  {
+    "key": "Mg_VP_strauss_skinned_Morphable_ADS_Dn_Ao_VtxAtm_WPos_VNorm_8DL",
+    "offset": 2233384,
+    "flags": 1143630605637684
+  },
+  {
+    "key": "Mg_VP_strauss_skinned_ADS_Dn_Ao_VtxAtm_WPos_VNorm_8DL",
+    "offset": 2241880,
+    "flags": 1143493166684212
+  },
+  {
+    "key": "Mg_VP_strauss_skinned_Morphable_ADNS_Ao_VtxAtm_WPos_VNorm_8DL",
+    "offset": 2248976,
+    "flags": 1143630605613108
+  },
+  {
+    "key": "Mg_VP_strauss_skinned_ADNS_Ao_VtxAtm_WPos_VNorm_8DL",
+    "offset": 2257216,
+    "flags": 1143493166659636
+  },
+  {
+    "key": "Mg_VP_strauss_skinned_Morphable_ADS_Ao_VtxAtm_WPos_VNorm_8DL",
+    "offset": 2264212,
+    "flags": 1143630605604916
+  },
+  {
+    "key": "Mg_VP_strauss_skinned_ADS_Ao_VtxAtm_WPos_VNorm_8DL",
+    "offset": 2271032,
+    "flags": 1143493166651444
+  },
+  {
+    "key": "Mg_VP_strauss_skinned_Morphable_ADNS_Dn_Vd_VtxAtm_WPos_VNorm_8DL",
+    "offset": 2276712,
+    "flags": 1143630605645874
+  },
+  {
+    "key": "Mg_VP_strauss_skinned_ADNS_Dn_Vd_VtxAtm_WPos_VNorm_8DL",
+    "offset": 2285568,
+    "flags": 1143493166692402
+  },
+  {
+    "key": "Mg_VP_strauss_skinned_Morphable_ADS_Dn_Vd_VtxAtm_WPos_VNorm_8DL",
+    "offset": 2292776,
+    "flags": 1143630605637682
+  },
+  {
+    "key": "Mg_VP_strauss_skinned_ADS_Dn_Vd_VtxAtm_WPos_VNorm_8DL",
+    "offset": 2301376,
+    "flags": 1143493166684210
+  },
+  {
+    "key": "Mg_VP_strauss_skinned_Morphable_ADNS_Vd_VtxAtm_WPos_VNorm_8DL",
+    "offset": 2308448,
+    "flags": 1143630605613106
+  },
+  {
+    "key": "Mg_VP_strauss_skinned_ADNS_Vd_VtxAtm_WPos_VNorm_8DL",
+    "offset": 2316796,
+    "flags": 1143493166659634
+  },
+  {
+    "key": "Mg_VP_strauss_skinned_Morphable_ADS_Vd_VtxAtm_WPos_VNorm_8DL",
+    "offset": 2323768,
+    "flags": 1143630605604914
+  },
+  {
+    "key": "Mg_VP_strauss_skinned_ADS_Vd_VtxAtm_WPos_VNorm_8DL",
+    "offset": 2330692,
+    "flags": 1143493166651442
+  },
+  {
+    "key": "Mg_VP_strauss_skinned_Morphable_ADNS_Dn_VtxAtm_WPos_VNorm_8DL",
+    "offset": 2336352,
+    "flags": 1143630605645872
+  },
+  {
+    "key": "Mg_VP_strauss_skinned_ADNS_Dn_VtxAtm_WPos_VNorm_8DL",
+    "offset": 2345032,
+    "flags": 1143493166692400
+  },
+  {
+    "key": "Mg_VP_strauss_skinned_Morphable_ADS_Dn_VtxAtm_WPos_VNorm_8DL",
+    "offset": 2352192,
+    "flags": 1143630605637680
+  },
+  {
+    "key": "Mg_VP_strauss_skinned_ADS_Dn_VtxAtm_WPos_VNorm_8DL",
+    "offset": 2360620,
+    "flags": 1143493166684208
+  },
+  {
+    "key": "Mg_VP_strauss_skinned_Morphable_ADNS_VtxAtm_WPos_VNorm_8DL",
+    "offset": 2367644,
+    "flags": 1143630605613104
+  },
+  {
+    "key": "Mg_VP_strauss_skinned_ADNS_VtxAtm_WPos_VNorm_8DL",
+    "offset": 2375816,
+    "flags": 1143493166659632
+  },
+  {
+    "key": "Mg_VP_strauss_skinned_Morphable_ADS_VtxAtm_WPos_VNorm_8DL",
+    "offset": 2382744,
+    "flags": 1143630605604912
+  },
+  {
+    "key": "Mg_VP_strauss_skinned_ADS_VtxAtm_WPos_VNorm_8DL",
+    "offset": 2389492,
+    "flags": 1143493166651440
+  },
+  {
+    "key": "Mg_VP_strauss_skinned_ADNS_Dn_Vd_Ao_VtxAtm_WPos_VNorm_inst",
+    "offset": 2395104,
+    "flags": 17593260898358
+  },
+  {
+    "key": "Mg_VP_strauss_skinned_ADS_Dn_Vd_Ao_VtxAtm_WPos_VNorm_inst",
+    "offset": 2399972,
+    "flags": 17593260890166
+  },
+  {
+    "key": "Mg_VP_strauss_skinned_ADNS_Vd_Ao_VtxAtm_WPos_VNorm_inst",
+    "offset": 2404700,
+    "flags": 17593260865590
+  },
+  {
+    "key": "Mg_VP_strauss_skinned_ADS_Vd_Ao_VtxAtm_WPos_VNorm_inst",
+    "offset": 2409328,
+    "flags": 17593260857398
+  },
+  {
+    "key": "Mg_VP_strauss_skinned_ADNS_Dn_Ao_VtxAtm_WPos_VNorm_inst",
+    "offset": 2412864,
+    "flags": 17593260898356
+  },
+  {
+    "key": "Mg_VP_strauss_skinned_ADS_Dn_Ao_VtxAtm_WPos_VNorm_inst",
+    "offset": 2417684,
+    "flags": 17593260890164
+  },
+  {
+    "key": "Mg_VP_strauss_skinned_ADNS_Ao_VtxAtm_WPos_VNorm_inst",
+    "offset": 2422364,
+    "flags": 17593260865588
+  },
+  {
+    "key": "Mg_VP_strauss_skinned_ADS_Ao_VtxAtm_WPos_VNorm_inst",
+    "offset": 2426948,
+    "flags": 17593260857396
+  },
+  {
+    "key": "Mg_VP_strauss_skinned_ADNS_Dn_Vd_VtxAtm_WPos_VNorm_inst",
+    "offset": 2430436,
+    "flags": 17593260898354
+  },
+  {
+    "key": "Mg_VP_strauss_skinned_ADS_Dn_Vd_VtxAtm_WPos_VNorm_inst",
+    "offset": 2435232,
+    "flags": 17593260890162
+  },
+  {
+    "key": "Mg_VP_strauss_skinned_ADNS_Vd_VtxAtm_WPos_VNorm_inst",
+    "offset": 2439888,
+    "flags": 17593260865586
+  },
+  {
+    "key": "Mg_VP_strauss_skinned_ADS_Vd_VtxAtm_WPos_VNorm_inst",
+    "offset": 2444448,
+    "flags": 17593260857394
+  },
+  {
+    "key": "Mg_VP_strauss_skinned_ADNS_Dn_VtxAtm_WPos_VNorm_inst",
+    "offset": 2447916,
+    "flags": 17593260898352
+  },
+  {
+    "key": "Mg_VP_strauss_skinned_ADS_Dn_VtxAtm_WPos_VNorm_inst",
+    "offset": 2452668,
+    "flags": 17593260890160
+  },
+  {
+    "key": "Mg_VP_strauss_skinned_ADNS_VtxAtm_WPos_VNorm_inst",
+    "offset": 2457276,
+    "flags": 17593260865584
+  },
+  {
+    "key": "Mg_VP_strauss_skinned_ADS_VtxAtm_WPos_VNorm_inst",
+    "offset": 2461788,
+    "flags": 17593260857392
+  },
+  {
+    "key": "Mg_VP_Clouds",
+    "offset": 2465212,
+    "flags": 72092778410016768
+  },
+  {
+    "key": "MgVP_2D_HalfPixelOffset",
+    "offset": 2466616,
+    "flags": 72339069014638592
+  },
+  {
+    "key": "Mg_VP_SpeedTree_Branch_Lit_ADNS_Shdw_WPos_Vd_VNorm_VtxAtm",
+    "offset": 2467604,
+    "flags": 270563346
+  },
+  {
+    "key": "Mg_VP_SpeedTree_Branch_Lit_ANS_Shdw_WPos_Vd_VNorm_VtxAtm",
+    "offset": 2471228,
+    "flags": 270559250
+  },
+  {
+    "key": "Mg_VP_SpeedTree_Branch_Lit_ADS_Shdw_WPos_Vd_VNorm_VtxAtm",
+    "offset": 2474780,
+    "flags": 270555154
+  },
+  {
+    "key": "Mg_VP_SpeedTree_Branch_Lit_AS_Shdw_WPos_Vd_VNorm_VtxAtm",
+    "offset": 2477432,
+    "flags": 270551058
+  },
+  {
+    "key": "Mg_VP_SpeedTree_Branch_Lit_ADN_Shdw_WPos_Vd_VNorm_VtxAtm",
+    "offset": 2480004,
+    "flags": 270546962
+  },
+  {
+    "key": "Mg_VP_SpeedTree_Branch_Lit_AN_Shdw_WPos_Vd_VNorm_VtxAtm",
+    "offset": 2483628,
+    "flags": 270542866
+  },
+  {
+    "key": "Mg_VP_SpeedTree_Branch_Lit_AD_Shdw_WPos_Vd_VNorm_VtxAtm",
+    "offset": 2487176,
+    "flags": 270538770
+  },
+  {
+    "key": "Mg_VP_SpeedTree_Branch_Lit_A_Shdw_WPos_Vd_VNorm_VtxAtm",
+    "offset": 2489764,
+    "flags": 270534674
+  },
+  {
+    "key": "Mg_VP_SpeedTree_Branch_Lit_ADNS_Shdw_WPos_Vd_VNorm_VtxAtm_8DL",
+    "offset": 2492276,
+    "flags": 1125900177405970
+  },
+  {
+    "key": "Mg_VP_SpeedTree_Branch_Lit_ANS_Shdw_WPos_Vd_VNorm_VtxAtm_8DL",
+    "offset": 2499096,
+    "flags": 1125900177401874
+  },
+  {
+    "key": "Mg_VP_SpeedTree_Branch_Lit_ADS_Shdw_WPos_Vd_VNorm_VtxAtm_8DL",
+    "offset": 2505844,
+    "flags": 1125900177397778
+  },
+  {
+    "key": "Mg_VP_SpeedTree_Branch_Lit_AS_Shdw_WPos_Vd_VNorm_VtxAtm_8DL",
+    "offset": 2511652,
+    "flags": 1125900177393682
+  },
+  {
+    "key": "Mg_VP_SpeedTree_Branch_Lit_ADN_Shdw_WPos_Vd_VNorm_VtxAtm_8DL",
+    "offset": 2517380,
+    "flags": 1125900177389586
+  },
+  {
+    "key": "Mg_VP_SpeedTree_Branch_Lit_AN_Shdw_WPos_Vd_VNorm_VtxAtm_8DL",
+    "offset": 2524200,
+    "flags": 1125900177385490
+  },
+  {
+    "key": "Mg_VP_SpeedTree_Branch_Lit_AD_Shdw_WPos_Vd_VNorm_VtxAtm_8DL",
+    "offset": 2530944,
+    "flags": 1125900177381394
+  },
+  {
+    "key": "Mg_VP_SpeedTree_Branch_Lit_A_Shdw_WPos_Vd_VNorm_VtxAtm_8DL",
+    "offset": 2536688,
+    "flags": 1125900177377298
+  },
+  {
+    "key": "Mg_VP_SpeedTree_Frond_Lit_ADNS_Shdw_WPos_Vd_VNorm_VtxAtm",
+    "offset": 2542356,
+    "flags": 272660498
+  },
+  {
+    "key": "Mg_VP_SpeedTree_Frond_Lit_ANS_Shdw_WPos_Vd_VNorm_VtxAtm",
+    "offset": 2545908,
+    "flags": 272656402
+  },
+  {
+    "key": "Mg_VP_SpeedTree_Frond_Lit_ADS_Shdw_WPos_Vd_VNorm_VtxAtm",
+    "offset": 2549456,
+    "flags": 272652306
+  },
+  {
+    "key": "Mg_VP_SpeedTree_Frond_Lit_AS_Shdw_WPos_Vd_VNorm_VtxAtm",
+    "offset": 2552028,
+    "flags": 272648210
+  },
+  {
+    "key": "Mg_VP_SpeedTree_Frond_Lit_ADN_Shdw_WPos_Vd_VNorm_VtxAtm",
+    "offset": 2554600,
+    "flags": 272644114
+  },
+  {
+    "key": "Mg_VP_SpeedTree_Frond_Lit_AN_Shdw_WPos_Vd_VNorm_VtxAtm",
+    "offset": 2558148,
+    "flags": 272640018
+  },
+  {
+    "key": "Mg_VP_SpeedTree_Frond_Lit_AD_Shdw_WPos_Vd_VNorm_VtxAtm",
+    "offset": 2561696,
+    "flags": 272635922
+  },
+  {
+    "key": "Mg_VP_SpeedTree_Frond_Lit_A_Shdw_WPos_Vd_VNorm_VtxAtm",
+    "offset": 2564208,
+    "flags": 272631826
+  },
+  {
+    "key": "Mg_VP_SpeedTree_Frond_Lit_ADNS_Shdw_WPos_Vd_VNorm_VtxAtm_8DL",
+    "offset": 2566720,
+    "flags": 1125900179503122
+  },
+  {
+    "key": "Mg_VP_SpeedTree_Frond_Lit_ANS_Shdw_WPos_Vd_VNorm_VtxAtm_8DL",
+    "offset": 2573468,
+    "flags": 1125900179499026
+  },
+  {
+    "key": "Mg_VP_SpeedTree_Frond_Lit_ADS_Shdw_WPos_Vd_VNorm_VtxAtm_8DL",
+    "offset": 2580212,
+    "flags": 1125900179494930
+  },
+  {
+    "key": "Mg_VP_SpeedTree_Frond_Lit_AS_Shdw_WPos_Vd_VNorm_VtxAtm_8DL",
+    "offset": 2585940,
+    "flags": 1125900179490834
+  },
+  {
+    "key": "Mg_VP_SpeedTree_Frond_Lit_ADN_Shdw_WPos_Vd_VNorm_VtxAtm_8DL",
+    "offset": 2591668,
+    "flags": 1125900179486738
+  },
+  {
+    "key": "Mg_VP_SpeedTree_Frond_Lit_AN_Shdw_WPos_Vd_VNorm_VtxAtm_8DL",
+    "offset": 2598412,
+    "flags": 1125900179482642
+  },
+  {
+    "key": "Mg_VP_SpeedTree_Frond_Lit_AD_Shdw_WPos_Vd_VNorm_VtxAtm_8DL",
+    "offset": 2605156,
+    "flags": 1125900179478546
+  },
+  {
+    "key": "Mg_VP_SpeedTree_Frond_Lit_A_Shdw_WPos_Vd_VNorm_VtxAtm_8DL",
+    "offset": 2610824,
+    "flags": 1125900179474450
+  },
+  {
+    "key": "Mg_VP_SpeedTree_LeafCard_Lit_A_Shdw_WPos_Vd_VNorm_VtxAtm",
+    "offset": 2616492,
+    "flags": 285214738
+  },
+  {
+    "key": "Mg_VP_SpeedTree_LeafCard_Lit_A_Shdw_WPos_Vd_VNorm_VtxAtm_8DL",
+    "offset": 2620684,
+    "flags": 1125900192057362
+  },
+  {
+    "key": "Mg_VP_SpeedTree_LeafMesh_Lit_A_Shdw_WPos_Vd_VNorm_VtxAtm",
+    "offset": 2627948,
+    "flags": 276826130
+  },
+  {
+    "key": "Mg_VP_SpeedTree_LeafMesh_Lit_A_Shdw_WPos_Vd_VNorm_VtxAtm_8DL",
+    "offset": 2631840,
+    "flags": 1125900183668754
+  },
+  {
+    "key": "Mg_VP_SpeedTree_Billboard_Lit_AN_Shdw_WPos_Vd_VNorm_VtxAtm",
+    "offset": 2638804,
+    "flags": 302000146
+  },
+  {
+    "key": "Mg_VP_SpeedTree_Billboard_Lit_A_Shdw_WPos_Vd_VNorm_VtxAtm",
+    "offset": 2643144,
+    "flags": 301991954
+  },
+  {
+    "key": "Mg_VP_SpeedTree_Billboard_Lit_AN_Shdw_WPos_Vd_VNorm_VtxAtm_8DL",
+    "offset": 2646884,
+    "flags": 1125900208842770
+  },
+  {
+    "key": "Mg_VP_SpeedTree_Billboard_Lit_A_Shdw_WPos_Vd_VNorm_VtxAtm_8DL",
+    "offset": 2651228,
+    "flags": 1125900208834578
+  },
+  {
+    "key": "Mg_VP_Z_SpeedTree_Branch_A",
+    "offset": 2654972,
+    "flags": 2230272
+  },
+  {
+    "key": "Mg_VP_Z_SpeedTree_Frond_A",
+    "offset": 2656908,
+    "flags": 4327424
+  },
+  {
+    "key": "Mg_VP_Z_SpeedTree_LeafCard_A",
+    "offset": 2658844,
+    "flags": 16910336
+  },
+  {
+    "key": "Mg_VP_Z_SpeedTree_LeafMesh_A",
+    "offset": 2662424,
+    "flags": 8521728
+  },
+  {
+    "key": "Mg_VP_Z_SpeedTree_Billboard_A",
+    "offset": 2665600,
+    "flags": 33687552
+  },
+  {
+    "key": "Mg_VP_Particles_Z_A",
+    "offset": 2668772,
+    "flags": 2147616768
+  },
+  {
+    "key": "Mg_VP_Particles_Billboard_Z_A",
+    "offset": 2670276,
+    "flags": 18014400657098752
+  },
+  {
+    "key": "Mg_VP_Particles_AN_Vd_VtxAtm",
+    "offset": 2673828,
+    "flags": 2147493906
+  },
+  {
+    "key": "Mg_VP_Particles_A_Vd_VtxAtm",
+    "offset": 2678428,
+    "flags": 2147485714
+  },
+  {
+    "key": "Mg_VP_Particles_Billboard_AN_Vd_VtxAtm",
+    "offset": 2682580,
+    "flags": 18014400656975890
+  },
+  {
+    "key": "Mg_VP_Particles_Billboard_A_Vd_VtxAtm",
+    "offset": 2689140,
+    "flags": 18014400656967698
+  },
+  {
+    "key": "Mg_VP_Particles_Z_Refraction",
+    "offset": 2695336,
+    "flags": 36028799166578688
+  },
+  {
+    "key": "Mg_VP_Particles_Billboard_Z_Refraction",
+    "offset": 2696852,
+    "flags": 54043197676060672
+  },
+  {
+    "key": "Mg_VP_Particles_Refraction_Vd_ProjPos",
+    "offset": 2700380,
+    "flags": 36028799166447618
+  },
+  {
+    "key": "Mg_VP_Particles_Billboard_Refraction_Vd_ProjPos",
+    "offset": 2702228,
+    "flags": 54043197675929602
+  },
+  {
+    "key": "Mg_VP_Particles_AN_Vd_VtxAtm_Soft_ProjPos",
+    "offset": 2706088,
+    "flags": 551903307794
+  },
+  {
+    "key": "Mg_VP_Particles_A_Vd_VtxAtm_Soft_ProjPos",
+    "offset": 2710824,
+    "flags": 551903299602
+  },
+  {
+    "key": "Mg_VP_Particles_Billboard_AN_Vd_VtxAtm_Soft_ProjPos",
+    "offset": 2715116,
+    "flags": 18014950412789778
+  },
+  {
+    "key": "Mg_VP_Particles_Billboard_A_Vd_VtxAtm_Soft_ProjPos",
+    "offset": 2721832,
+    "flags": 18014950412781586
+  },
+  {
+    "key": "Mg_VP_Particles_A_Vd_Soft_ProjPos",
+    "offset": 2728164,
+    "flags": 551903299586
+  },
+  {
+    "key": "Mg_VP_Particles_Vd_A",
+    "offset": 2730068,
+    "flags": 2147485698
+  },
+  {
+    "key": "Mg_VP_Particles_Billboard_Vd_A",
+    "offset": 2731836,
+    "flags": 18014400656967682
+  },
+  {
+    "key": "Mg_VP_Crowd_HA_Billboard_AN_Vd_VtxAtm",
+    "offset": 2735648,
+    "flags": 18015498021120018
+  },
+  {
+    "key": "Mg_VP_Crowd_HVA_Billboard_AN_Vd_VtxAtm",
+    "offset": 2740372,
+    "flags": 18016597532747794
+  },
+  {
+    "key": "Mg_VP_Crowd_HA_Billboard_A_Vd_VtxAtm",
+    "offset": 2746148,
+    "flags": 18015498021111826
+  },
+  {
+    "key": "Mg_VP_Crowd_HVA_Billboard_A_Vd_VtxAtm",
+    "offset": 2750872,
+    "flags": 18016597532739602
+  },
+  {
+    "key": "Mg_VP_VolumetricDepth_Morphable_ProjPos_skinned_Vd",
+    "offset": 2756648,
+    "flags": 74309531290566690
+  },
+  {
+    "key": "Mg_VP_VolumetricDepth_ProjPos_skinned_Vd",
+    "offset": 2759572,
+    "flags": 74309393851613218
+  },
+  {
+    "key": "Mg_VP_VolumetricDepth_Morphable_ProjPos_skinned",
+    "offset": 2762140,
+    "flags": 74309531290566688
+  },
+  {
+    "key": "Mg_VP_VolumetricDepth_ProjPos_skinned",
+    "offset": 2764892,
+    "flags": 74309393851613216
+  },
+  {
+    "key": "Mg_VP_VolumetricDepth_Morphable_ProjPos_Vd",
+    "offset": 2767416,
+    "flags": 74309531290566658
+  },
+  {
+    "key": "Mg_VP_VolumetricDepth_ProjPos_Vd",
+    "offset": 2769260,
+    "flags": 74309393851613186
+  },
+  {
+    "key": "Mg_VP_VolumetricDepth_Morphable_ProjPos",
+    "offset": 2770740,
+    "flags": 74309531290566656
+  },
+  {
+    "key": "Mg_VP_VolumetricDepth_ProjPos",
+    "offset": 2772412,
+    "flags": 74309393851613184
+  },
+  {
+    "key": "Mg_VP_VolumetricUVs_AD_Morphable",
+    "offset": 2773848,
+    "flags": 76578923290302464
+  },
+  {
+    "key": "Mg_VP_VolumetricUVsD_Morphable",
+    "offset": 2775992,
+    "flags": 76578923290300416
+  },
+  {
+    "key": "Mg_VP_VolumetricUVs_A_Morphable",
+    "offset": 2777520,
+    "flags": 76578923290298368
+  },
+  {
+    "key": "Mg_VP_VolumetricUVs_Morphable",
+    "offset": 2779048,
+    "flags": 76578923290296320
+  },
+  {
+    "key": "Mg_VP_VolumetricUVs_AD",
+    "offset": 2780132,
+    "flags": 76578785851348992
+  },
+  {
+    "key": "Mg_VP_VolumetricUVsD",
+    "offset": 2781452,
+    "flags": 76578785851346944
+  },
+  {
+    "key": "Mg_VP_VolumetricUVs_A",
+    "offset": 2782580,
+    "flags": 76578785851344896
+  },
+  {
+    "key": "Mg_VP_VolumetricUVs",
+    "offset": 2783708,
+    "flags": 76578785851342848
+  },
+  {
+    "key": "Mg_VP_VolumetricFinal_AD",
+    "offset": 2784592,
+    "flags": 81064793292675072
+  },
+  {
+    "key": "Mg_VP_VolumetricFinalD",
+    "offset": 2785408,
+    "flags": 81064793292673024
+  },
+  {
+    "key": "Mg_VP_VolumetricFinal_A",
+    "offset": 2786220,
+    "flags": 81064793292670976
+  },
+  {
+    "key": "Mg_VP_VolumetricFinal",
+    "offset": 2787032,
+    "flags": 81064793292668928
+  },
+  {
+    "key": "Mg_VP_Trail",
+    "offset": 2787844,
+    "flags": 72061992084439040
+  },
+  {
+    "key": "Mg_VP_Water_A_T1_T2_T3_T4_WPos_ProjPos_VNorm_VtxAtm",
+    "offset": 2789088,
+    "flags": 72057868915898384
+  },
+  {
+    "key": "Mg_VP_Water_A_T1_T2_T3_T4_WPos_ProjPos_VNorm_VtxAtm_8DL",
+    "offset": 2794708,
+    "flags": 73183768822741008
+  },
+  {
+    "key": "Mg_VP_Foliage_Vd_WPos_VtxAtm_inst",
+    "offset": 2803424,
+    "flags": 68720525330
+  },
+  {
+    "key": "Mg_VP_Foliage_WPos_VtxAtm_inst",
+    "offset": 2806308,
+    "flags": 68720525328
+  },
+  {
+    "key": "Mg_VP_Foliage_Mesh_Vd_WPos_VtxAtm_inst",
+    "offset": 2809072,
+    "flags": 68720525330
+  },
+  {
+    "key": "MgVP_Bink3D_T0",
+    "offset": 2812176,
+    "flags": 72057611217797120
+  },
+  {
+    "key": "MgVP_Scaleform_StripVShaderText",
+    "offset": 2812800,
+    "flags": 216172782113783808
+  },
+  {
+    "key": "MgVP_Scaleform_GlyphVShaderText",
+    "offset": 2813560,
+    "flags": 216172782113783808
+  },
+  {
+    "key": "MgVP_Scaleform_StripVShaderXY16iC32Text",
+    "offset": 2814432,
+    "flags": 216172782113783808
+  },
+  {
+    "key": "MgVP_Scaleform_StripVShaderXY16iCF32Text",
+    "offset": 2815340,
+    "flags": 216172782113783808
+  },
+  {
+    "key": "MgVP_Scaleform_StripVShaderXY16iCF32_T2Text",
+    "offset": 2816392,
+    "flags": 216172782113783808
+  },
+  {
+    "key": "MgVP_Scaleform_GlyphVShaderSzcText",
+    "offset": 2817548,
+    "flags": 216172782113783808
+  },
+  {
+    "key": "MgVP_Scaleform_StripVShaderXY16iC32SzcText",
+    "offset": 2818424,
+    "flags": 216172782113783808
+  },
+  {
+    "key": "MgVP_Scaleform_StripVShaderXY16iCF32SzcText",
+    "offset": 2819336,
+    "flags": 216172782113783808
+  },
+  {
+    "key": "MgVP_Scaleform_StripVShaderXY16iCF32Szc_T2Text",
+    "offset": 2820096,
+    "flags": 216172782113783808
+  }
+]

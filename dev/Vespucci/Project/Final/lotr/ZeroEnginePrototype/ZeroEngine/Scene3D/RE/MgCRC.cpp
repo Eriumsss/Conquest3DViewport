@@ -1,0 +1,134 @@
+// ================================================================
+// MgCRC.cpp - Dual CRC Hash Functions (from ConquestLLC.exe disassembly)
+// See MgCRC.h for documentation
+// ================================================================
+
+#include "MgCRC.h"
+#include <string.h>
+
+namespace MgCRC {
+
+// ------------------------------------------------------------------
+// Case folding table (INDEX_ARRAY at 0x00A35A08)
+// Identity mapping except A-Z (65-90) -> a-z (97-122)
+// ------------------------------------------------------------------
+static const uint8_t s_indexArray[256] = {
+    0x00,0x01,0x02,0x03,0x04,0x05,0x06,0x07,0x08,0x09,0x0A,0x0B,0x0C,0x0D,0x0E,0x0F,
+    0x10,0x11,0x12,0x13,0x14,0x15,0x16,0x17,0x18,0x19,0x1A,0x1B,0x1C,0x1D,0x1E,0x1F,
+    0x20,0x21,0x22,0x23,0x24,0x25,0x26,0x27,0x28,0x29,0x2A,0x2B,0x2C,0x2D,0x2E,0x2F,
+    0x30,0x31,0x32,0x33,0x34,0x35,0x36,0x37,0x38,0x39,0x3A,0x3B,0x3C,0x3D,0x3E,0x3F,
+    0x40,0x61,0x62,0x63,0x64,0x65,0x66,0x67,0x68,0x69,0x6A,0x6B,0x6C,0x6D,0x6E,0x6F, // A-O -> a-o
+    0x70,0x71,0x72,0x73,0x74,0x75,0x76,0x77,0x78,0x79,0x7A,0x5B,0x5C,0x5D,0x5E,0x5F, // P-Z -> p-z
+    0x60,0x61,0x62,0x63,0x64,0x65,0x66,0x67,0x68,0x69,0x6A,0x6B,0x6C,0x6D,0x6E,0x6F,
+    0x70,0x71,0x72,0x73,0x74,0x75,0x76,0x77,0x78,0x79,0x7A,0x7B,0x7C,0x7D,0x7E,0x7F,
+    0x80,0x81,0x82,0x83,0x84,0x85,0x86,0x87,0x88,0x89,0x8A,0x8B,0x8C,0x8D,0x8E,0x8F,
+    0x90,0x91,0x92,0x93,0x94,0x95,0x96,0x97,0x98,0x99,0x9A,0x9B,0x9C,0x9D,0x9E,0x9F,
+    0xA0,0xA1,0xA2,0xA3,0xA4,0xA5,0xA6,0xA7,0xA8,0xA9,0xAA,0xAB,0xAC,0xAD,0xAE,0xAF,
+    0xB0,0xB1,0xB2,0xB3,0xB4,0xB5,0xB6,0xB7,0xB8,0xB9,0xBA,0xBB,0xBC,0xBD,0xBE,0xBF,
+    0xC0,0xC1,0xC2,0xC3,0xC4,0xC5,0xC6,0xC7,0xC8,0xC9,0xCA,0xCB,0xCC,0xCD,0xCE,0xCF,
+    0xD0,0xD1,0xD2,0xD3,0xD4,0xD5,0xD6,0xD7,0xD8,0xD9,0xDA,0xDB,0xDC,0xDD,0xDE,0xDF,
+    0xE0,0xE1,0xE2,0xE3,0xE4,0xE5,0xE6,0xE7,0xE8,0xE9,0xEA,0xEB,0xEC,0xED,0xEE,0xEF,
+    0xF0,0xF1,0xF2,0xF3,0xF4,0xF5,0xF6,0xF7,0xF8,0xF9,0xFA,0xFB,0xFC,0xFD,0xFE,0xFF
+};
+
+// ------------------------------------------------------------------
+// CRC-32/MPEG-2 lookup table (HASHING_ARRAY at 0x00A35608)
+// Polynomial: 0x04C11DB7 (non-reflected, left-shift)
+// Generated: for i in 0..255: crc = i << 24; for j in 0..7: if msb: crc = (crc<<1) ^ 0x04C11DB7
+// ------------------------------------------------------------------
+static uint32_t s_hashingArray[256];
+static bool     s_hashingArrayInit = false;
+
+static void InitHashingArray() {
+    if (s_hashingArrayInit) return;
+    for (int i = 0; i < 256; i++) {
+        uint32_t crc = (uint32_t)i << 24;
+        for (int j = 0; j < 8; j++) {
+            if (crc & 0x80000000)
+                crc = (crc << 1) ^ 0x04C11DB7;
+            else
+                crc = crc << 1;
+        }
+        s_hashingArray[i] = crc;
+    }
+    s_hashingArrayInit = true;
+}
+
+// ------------------------------------------------------------------
+// Runtime string hash (CRC-32/MPEG-2)
+// Exact match to disassembly at 0x0067e699:
+//   NOT EAX           ; h = ~seed
+//   loop:
+//     MOVZX ECX, byte  ; load char
+//     MOVZX ECX, [ECX + INDEX_ARRAY]  ; case fold
+//     SHR ESI, 0x18    ; top = h >> 24
+//     XOR ECX, ESI     ; index = folded_byte ^ top
+//     SHL EAX, 0x8     ; h = h << 8
+//     XOR EAX, [ECX*4 + HASHING_ARRAY]  ; h ^= table[index]
+//   NOT EAX           ; return ~h
+// ------------------------------------------------------------------
+uint32_t HashString_Runtime(const char* str, uint32_t seed) {
+    InitHashingArray();
+    if (!str) return seed;
+
+    uint32_t h = ~seed;
+    while (*str) {
+        uint8_t byte = s_indexArray[(uint8_t)*str];
+        uint8_t index = byte ^ (uint8_t)(h >> 24);
+        h = (h << 8) ^ s_hashingArray[index];
+        str++;
+    }
+    return ~h;
+}
+
+uint32_t HashString_Runtime(const char* str) {
+    return HashString_Runtime(str, 0);
+}
+
+// ------------------------------------------------------------------
+// Reflected CRC32 lookup table (at 0x009BE378)
+// Polynomial: 0xEDB88320 (reflected, right-shift)
+// ------------------------------------------------------------------
+static uint32_t s_dataCrcTable[256];
+static bool     s_dataCrcTableInit = false;
+
+static void InitDataCrcTable() {
+    if (s_dataCrcTableInit) return;
+    for (int i = 0; i < 256; i++) {
+        uint32_t crc = (uint32_t)i;
+        for (int j = 0; j < 8; j++) {
+            if (crc & 1)
+                crc = (crc >> 1) ^ 0xEDB88320;
+            else
+                crc = crc >> 1;
+        }
+        s_dataCrcTable[i] = crc;
+    }
+    s_dataCrcTableInit = true;
+}
+
+// ------------------------------------------------------------------
+// Data integrity CRC32 (reflected)
+// Exact match to disassembly at 0x006d23e9:
+//   loop:
+//     MOVZX EAX, byte [ECX]  ; load byte
+//     XOR EAX, ESI           ; XOR with CRC low byte
+//     AND EAX, 0xFF          ; mask
+//     SHR ESI, 0x8           ; CRC >> 8
+//     XOR ESI, [EAX*4 + TABLE]  ; CRC ^= table[index]
+// ------------------------------------------------------------------
+uint32_t CRC32_Data(const void* data, size_t length, uint32_t initialCRC) {
+    InitDataCrcTable();
+
+    const uint8_t* bytes = (const uint8_t*)data;
+    uint32_t crc = initialCRC;
+
+    for (size_t i = 0; i < length; i++) {
+        uint8_t index = (uint8_t)(crc ^ bytes[i]);
+        crc = (crc >> 8) ^ s_dataCrcTable[index];
+    }
+
+    return crc;
+}
+
+} // namespace MgCRC
