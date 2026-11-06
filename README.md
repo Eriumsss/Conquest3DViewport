@@ -1,3 +1,5 @@
+# OUTDATED - HIGHLY UNSTABLE. DOES NOT WORK - WILL UPDATE LATER
+
 # Vespucci Engine v3  LOTR: Conquest Reverse Engineering Toolkit
 
 A reverse-engineered, engine-level tooling suite for **The Lord of the Rings: Conquest** (Pandemic Studios, 2009). Built over years of binary analysis, Ghidra sessions, hex-stares, and enough caffeine to legally constitute a controlled substance.
